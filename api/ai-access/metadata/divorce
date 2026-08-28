@@ -1,0 +1,76 @@
+{
+      "id": "divorce",
+      "book_number": 69,
+      "titles": {
+        "ar": "لطلاق في اللسان القرآني: من حلِّ عقدة النكاح إلى قانون إعادة التموضع الوجودي",
+        "en": " Divorce in the Quranic Tongue: From the Dissolution of Marriage to the Law of Existential Repositioning "
+      },
+      "description": {
+        "ar": " دراسة تأسيسية في فقه اللسان القرآني والتحليل البنيوي للمفاهيم",
+        "en": " A Foundation Study in the Jurisprudence of the Qur'anic Language and the Structural Analysis of Concepts "
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/divorce/ar/cover-ar.png",
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1Ed5KtAD1MByc2Tkm7On_JrkE0sBKWzAI",
+        "pdf_direct": "books/divorce/ar/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=10SgBgN922GJs3TqhECuWCGIpQIILVSa1",
+        "html": "https://drive.google.com/uc?export=download&id=1k1kRqlB1G1ef_NQPHki7H0PkvHsy_AcD",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1teuD0oY0LXXMMQgs8RZHQAZRcSzpalOb",
+        "txt_direct": "books/divorce/ar/content.txt",
+        "cover": "books/divorce/ar/cover-ar.png"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1P7XwiehxoUapkPToXVH-_jibi9BAjXnS",
+        "pdf_direct": "books/divorce/en/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1V00t4abRtf0yAC0oov8uXk_lMoXnDSsN",
+        "html": "https://drive.google.com/uc?export=download&id=1t9q8p9HrLDRCC5qTa6UgLFombWuzHlNw",
+        "txt_external": "https://drive.google.com/uc?export=download&id=12TBPXSqEbAHwSh_MnE5UCjyYg1pg6CVm",
+        "txt_direct": "books/divorce/en/content.txt",
+        "cover": "books/divorce/en/cover-en.png"
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "faith_studies",
+        "pages_ar": 150,
+        "pages_en": 21,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": [
+          "اللسان القرآني",
+          "فقه اللسان",
+          "الطلاق في القرآن",
+          "إعادة التموضع الوجودي",
+          "عقدة النكاح",
+          "التحليل البنيوي",
+          "الميثاق الغليظ",
+          "ناصر ابن داوود",
+          "العدة",
+          "القروء",
+          "فك الارتباط",
+          "التدبر",
+          "النكاح",
+          "التسريح",
+          "الفراق",
+          "المنظومة الوجودية"
+        ],
+        "topics_en": [
+          "Quranic Linguistics",
+          "Linguistic Jurisprudence",
+          "Quranic Divorce",
+          "Existential Repositioning",
+          "Marriage Contract",
+          "Structural Analysis",
+          "Al-Mithaq al-Ghaliz",
+          "Nasser Ibn Dawood",
+          "Iddah",
+          "Functional Analysis",
+          "Islamic Reform",
+          "Systems Theory",
+          "Disengagement Protocol",
+          "Quranic Semantics"
+        ]
+      }
+    }
+

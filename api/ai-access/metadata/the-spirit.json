@@ -1,0 +1,87 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 42,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "the-spirit",
+    "titles": {
+      "ar": "الروح: من عالم الأمر إلى إشراق الإدراك",
+      "en": "The Spirit: From the Realm of Command to the Illumination of Perception"
+    },
+    "description": {
+      "ar": "دراسة معمقة للروح في القرآن الكريم ودورها في الإدراك والوعي",
+      "en": "An in-depth study of the spirit in the Holy Quran and its role in perception and consciousness"
+    },
+    "links": {
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1vffDhNH8ueEDgKF1iJhBQH5uRKm7RoD6",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1AKUAeYHs_cB-U58WAPUSmmqMdarIgiRj",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1AKUAeYHs_cB-U58WAPUSmmqMdarIgiRj",
+        "html": "https://drive.google.com/uc?export=download&id=1mUxhenE3u-BcT_c6ycV_ociM81jtJ6IX",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1FfVz4QpMGkknbdUkUFjQZsTa3gIQ-erj",
+        "txt_direct": "books/the-spirit/ar/content.txt",
+        "cover": "books/the-spirit/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20251111_20251111_2041"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1MbKQNs4yvRQoY3bH3NoNBM2fKM57gwcn",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1RaYvaZFNLwWnWZV99eYtkh984kpHZOBU",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1RaYvaZFNLwWnWZV99eYtkh984kpHZOBU",
+        "html": "https://drive.google.com/uc?export=download&id=1tElavrfT-FMNWHFXHlIUXn84bXpamr_a",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1qGGETH0dyGOHvPWJhlygXQw9Lcs-poeU",
+        "txt_direct": "books/the-spirit/en/content.txt",
+        "cover": "books/the-spirit/en/cover-en.png",
+        "archive": "https://archive.org/stream/content_20251016_1955"
+      },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 215,
+      "pages_en": 280,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+      "topics_ar": ["الروح", "عالم الأمر", "الإدراك", "الوعي", "القرآن الكريم", "التدبر", "الفطرة", "النفس", "القلب", "العقل", "البصيرة", "الإشراق", "المعرفة", "الفهم", "التأمل", "البحث الروحي", "الوجود", "الخلق", "التكوين", "الفيض الإلهي"],
+      "topics_en": ["Spirit", "Soul", "Consciousness", "Quran", "Contemplation", "Purification", "Heart", "Core-Heart", "Insight", "Cosmos", "Divine Commands", "The Command World", "The Creation World", "Revelation", "Inspiration", "Divine Law", "Divine Decree and Destiny", "Night of Decree", "Gnosis", "Ibn Arabi", "Knowledge", "Certainty", "Serenity", "Silence", "Secrecy", "Remembrance", "Memory", "Symbolic Anatomy", "Quranic Linguistic Jurisprudence", "Jinn", "Humans", "Human Duality", "Reality Creation", "The Symbolic Tree", "Inner Struggle", "Story of Adam", "Quranic Geometry", "Reprogramming", "Mind and Heart", "Spiritual Energy", "Thought and Feeling", "Nation", "Community", "Inner Change", "Return to the Self", "Inner Journey", "Existence", "Oneness", "Meaning", "From Letter to Consciousness", "From Soul to Cosmos", "From Thought to Consciousness", "The Soul's Journey in the Mirrors of Quranic Perception", "The Architecture of Quranic Consciousness", "Complete Consciousness", "The Return of the Letter to Purified Being", "Completing the Circle", "From the Soul to God"],
+      "edition": "الأولى - 2025",
+      "key_features": [
+        "دراسة معمقة وشاملة للروح في القرآن الكريم",
+        "تحليل العلاقة بين عالم الأمر وعالم الخلق",
+        "منهجية متكاملة لفهم دور الروح في الإدراك والوعي",
+        "ربط بين المفاهيم القرآنية والنظريات الحديثة في الوعي",
+        "تطبيقات عملية لتعزيز الإشراق الإدراكي من خلال القرآن"
+      ],
+      "controversial_issues": [
+        "طبيعة الروح والعلاقة بين عالم الأمر وعالم الخلق",
+        "دور الروح في عملية الإدراك والوعي",
+        "العلاقة بين الروح والنفس والجسد",
+        "الإشراق الإدراكي بين التوفيق الإلهي والجهد البشري"
+      ],
+      "digital_archive": "https://archive.org/details/20251111_20251111_2041"
+    },
+    "content_overview": {
+      "methodology": "منهجية متكاملة تجمع بين التحليل القرآني والدراسة الفلسفية والبحث النفسي والمنهج الروحي",
+      "sources": [
+        "القرآن الكريم",
+        "التراث الإسلامي في علم الروح",
+        "الدراسات النفسية والروحية الحديثة",
+        "الفطرة الإنسانية والتجارب الذاتية"
+      ],
+      "applications": "تطبيقات عملية لفهم الروح ودورها في تعزيز الوعي والإدراك من خلال المنهج القرآني المتكامل"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books":82,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 82 كتابًا (41 كتابًا باللغة العربية و41 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    
+      "id": "conscious-contemplation",
+      "titles": {
+        "ar": "نحو تدبر واعٍ",
+        "en": "Towards Conscious Contemplation"
+      },
+      "description": {
+        "ar": "كتاب يشرح منهجية التدبر العميق للقرآن الكريم وتطبيقاته العصرية",
+        "en": "A practical guide to deep understanding and applying the Noble Quran in the modern era"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/conscious-contemplation/ar/cover-ar.png",
+      "links": {
+        "ar": {
+                 "docx": "https://drive.google.com/uc?export=download&id=17AkqVDGa9GOoGEpCHmk1yfQ9t9uIgUV2",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1rMSGwIltsrPSjT4RLoX8ds21MyB633i7",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1rMSGwIltsrPSjT4RLoX8ds21MyB633i7",
+        "html": "https://drive.google.com/uc?export=download&id=1rRZCswBazvlWS_AqhkuLjskmJ248qm7U",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1ZjCEi5V3dye2T0fwpAExfnM9haDKhnQF",
+        "txt_direct": "books/conscious-contemplation/ar/content.txt",
+        "cover": "books/conscious-contemplation/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20250529_20250529_2132"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=18FP0NmPM1CHSCZs0UDLnLBGSrqfEJWlX",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1yKPdEMoAMHXLmKlhaSVhy61tjWoVEVbv",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1yKPdEMoAMHXLmKlhaSVhy61tjWoVEVbv",
+        "html": "https://drive.google.com/uc?export=download&id=11gaZUgs7DkUBe_8OABu1remHgaEfZmnn",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1sWN_QZ-Ovmam3g2Y-I_a1OXkV4wFiqYb",
+        "txt_direct": "books/conscious-contemplation/en/content.txt",
+        "cover": "books/conscious-contemplation/en/cover-en.png",
+        "archive": "https://archive.org/details/towards-conscious-contemplation-a-practical-guide-to-understanding-and-applying-"
+      }
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "pages_ar": 91,
+        "pages_en": 126,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+       "topics_ar": ["تدبر القرآن", "فهم القرآن", "تطبيق القرآن", "منهجية التدبر", "القرآن في العصر الحديث", "نور العقل", "رقمنة المخطوطات القرآنية", "الرسم العثماني", "المخطوطات القرآنية الأصلية", "منهج حياة", "الفهم الواعي للقرآن", "آيات القرآن", "القرآن الكريم", "تدبر عملي", "ناصر ابن داوود"],
+        "topics_en":   ["Contemplating the Qur'an", "Understanding the Qur'an", "Applying the Qur'an", "Methodology of Contemplation", "The Qur'an in the Modern Age", "Light of Reason", "Digitization of Qur'anic Manuscripts", "Ottoman Script", "Original Qur'anic Manuscripts", "A Way of Life", "Conscious Understanding of the Qur'an", "Verses of the Qur'an", "The Holy Qur'an", "Practical Contemplation", "Nasser Ibn Dawood"],
+      "edition": "الأولى - 2025",
+      "key_features": [
+        "منهجية متكاملة للتدبر القرآني",
+        "أمثلة تطبيقية من القرآن الكريم",
+        "تمارين وأنشطة عملية للقارئ",
+        "دمج بين الأصالة والمعاصرة",
+        "استخدام أدوات تحليلية حديثة"
+      ],
+      "practical_additions": [
+        "ورش عمل تفاعلية مع القارئ",
+        "جداول ورسوم بيانية توضيحية",
+        "استشهادات بأقوال المفسرين",
+        "حلول لتحديات العصر الحديث"
+      ],
+      "digital_archive": "https://archive.org/details/20250529_20250529_2132"
+    },
+    "content_overview": {
+      "methodology": "منهجية 'فقه اللسان القرآني' المبنية على الانتقال من التلاوة السطحية إلى الفهم العميق والتطبيق العملي",
+      "main_chapters": [
+        {
+          "title": "اللسان العربي القرآني",
+          "topics": [
+            "الفرق بين اللغة العربية واللسان القرآني",
+            "خصائص اللسان القرآني الفريدة",
+            "أهمية فهم النظام المفاهيمي القرآني"
+          ]
+        },
+        {
+          "title": "الرسم العثماني ودلالاته",
+          "topics": [
+            "المخطوطات القرآنية كمصادر للفهم",
+            "دلالات الرسم العثماني في التدبر",
+            "دراسة حالات تطبيقية"
+          ]
+        },
+        {
+          "title": "منهجية التدبر العملي",
+          "topics": [
+            "خطوات عملية للتدبر الفعال",
+            "أدوات تحليل النص القرآني",
+            "كيفية الربط بين الآيات"
+          ]
+        },
+        {
+          "title": "تصحيح المفاهيم",
+          "topics": [
+            "نماذج لمفاهيم تحتاج تصحيحًا",
+            "منهجية التعامل مع القضايا الخلافية",
+            "التركيز على القواسم المشتركة"
+          ]
+        }
+      ],
+      "goal": "جعل تدبر القرآن مشروع حياة من خلال منهجية واضحة تساعد على فهم كلام الله في سياقه الشامل وتطبيق تعاليمه في الواقع المعاصر"
+    }
+  }
+}

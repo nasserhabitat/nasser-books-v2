@@ -1,0 +1,91 @@
+  {
+    "id": "malakoot1",
+    "book_number": 30,
+    "titles": {
+      "ar": "وَلِيَكُونَ مِنَ الْمُوقِنِينَ: رحلة برهانية في ملكوت السماوات والأرض وما بينهما - المجلد الأول",
+      "en": "So That He May Be Among the Certain - A Demonstrative Journey in the Kingdom of the Heavens and the Earth and What is Between Them"
+    },
+    "description": {
+      "ar": "المجلد الأول: الآيات الكونية – المفهوم الرمزي والباطني",
+      "en": "Volume I: Cosmic Signs – The Symbolic and Inner Meaning"
+    },
+    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/malakoot1/ar/cover-ar.png",
+    "ar": {
+      "docx": "https://drive.google.com/uc?export=download&id=1wU-8RsWrsgzIJ4U_hJNFTGT2YEkHuLVc",
+      "pdf_direct": "books/malakoot1/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1TUTOEHZPs0Guq02ZN7jhUasl9S6sM5nS",
+      "html": "https://drive.google.com/uc?export=download&id=1KzdiL-8i545cSLl4ypUuBqQmodv1Bi_C",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1MyLosyOpF4RzWGFK2PHlLrKCxEt8cwJc",
+      "txt_direct": "books/malakoot1/ar/content.txt",
+      "cover": "books/malakoot1/ar/cover-ar.png",
+      "archive": "https://archive.org/details/content_202602"
+    },
+    "en": {
+      "docx": "https://drive.google.com/uc?export=download&id=1OCL0q_Izc5E3c5RTVnWqP9yCKnwca9SR",
+      "pdf_direct": "books/malakoot1/en/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1s9F5WVVBjjRYsI0zdfCBawa1EhU2FqSA",
+      "html": "https://drive.google.com/uc?export=download&id=1U0qsfnSg-AVEVFrGkNCtY7TqC-EuFDkh",
+      "txt_external": "https://drive.google.com/uc?export=download&id=10woJi7fjOZKTuG1Mt-E2n4NElhfMM8sg",
+      "txt_direct": "books/malakoot1/en/content.txt",
+      "cover": "books/malakoot1/en/cover-en.png",
+      "archive": "https://archive.org/details/content_20260203"
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 456,
+      "pages_en": 792,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+      "topics_ar": [
+        "اليقين",
+        "ملكوت السماوات والأرض",
+        "برهان",
+        "رؤية الحقيقة",
+        "القرآن",
+        "الحقائق العلمية",
+        "الوحي",
+        "الفطرة",
+        "الكون",
+        "الخلق",
+        "الخالق",
+        "الأرض المسطحة",
+        "الأرض الثابتة",
+        "التفكر",
+        "التدبر",
+        "نظريات إسلامية",
+        "شكل الكون",
+        "الشمس",
+        "القمر",
+        "الكواكب",
+        "علم الفلك"
+      ],
+      "topics_en": [
+        "Certainty",
+        "Kingdom of Heaven and Earth",
+        "Evidence",
+        "Seeing the Truth",
+        "Quran",
+        "Scientific Facts",
+        "Revelation",
+        "Nature",
+        "Universe",
+        "Creation",
+        "Creator",
+        "Flat Earth",
+        "Fixed Earth",
+        "Contemplation",
+        "Reflection",
+        "Islamic Theories",
+        "Shape of the Universe",
+        "Sun",
+        "Moon",
+        "Planets",
+        "Astronomy",
+        "Nasser Ibn Dawood",
+        "Reflection in the Mirror of Drawings"
+      ]
+    }
+  }

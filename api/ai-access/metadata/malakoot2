@@ -1,0 +1,91 @@
+  {
+    "id": "malakoot2",
+    "book_number": 31,
+    "titles": {
+      "ar": "وَلِيَكُونَ مِنَ الْمُوقِنِينَ: رحلة برهانية في ملكوت السماوات والأرض وما بينهما - المجلد الثاني",
+      "en": "And So That He May Be of the Certain Ones: A Demonstrative Journey in the Kingdom of the Heavens and the Earth and What is Between Them"
+    },
+    "description": {
+      "ar": "المجلد الثاني: ملكوت الله المادي في القرآن: السماء – الأرض – الأجرام – نقد النموذج السائد",
+      "en": "Volume II: The Material Kingdom of God in the Quran: Heavens - Earth - Celestial Bodies - Critique of the Dominant Model"
+    },
+    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/malakoot2/ar/cover-ar.png",
+    "ar": {
+      "docx": "https://drive.google.com/uc?export=download&id=1mUghRTiW6Bn1htMJ8M4_oafBmPHHsOuO",
+      "pdf_direct": "books/malakoot2/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=194QzNFBQuMmLhpphVkzzcEsxiJz62gpR",
+      "html": "https://drive.google.com/uc?export=download&id=1rnfchMfiufWxS-NaBLT2pRDA5utq4yZG",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1NFenl00FriZH6MgMEz31Hgewb-rwQUgC",
+      "txt_direct": "books/malakoot2/ar/content.txt",
+      "cover": "books/malakoot2/ar/cover-ar.png",
+      "archive": "https://archive.org/details/content_20260202"
+    },
+    "en": {
+      "docx": "https://drive.google.com/uc?export=download&id=1mYFKGoTKERG-MrmrOZUkNZVJlVt7sQOg",
+      "pdf_direct": "books/malakoot2/en/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=16FSLEaHnPyk2XYKWfqFeK5gvqaVKmT2e",
+      "html": "https://drive.google.com/uc?export=download&id=17rYC89Oh4IFflSRKxynmbB-RIudKQso3",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1EV4yW6ydfyZRDOxpL2hx1v9nF3NYlj5M",
+      "txt_direct": "books/malakoot2/en/content.txt",
+      "cover": "books/malakoot2/en/cover-en.png",
+      "archive": "https://archive.org/details/meaningful-english-summary-so-that-he-may-be-among-the-certain-volume-ii"
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 486,
+      "pages_en": 778,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+      "topics_ar": [
+        "اليقين",
+        "ملكوت السماوات والأرض",
+        "برهان",
+        "رؤية الحقيقة",
+        "القرآن",
+        "الحقائق العلمية",
+        "الوحي",
+        "الفطرة",
+        "الكون",
+        "الخلق",
+        "الخالق",
+        "الأرض المسطحة",
+        "الأرض الثابتة",
+        "التفكر",
+        "التدبر",
+        "نظريات إسلامية",
+        "شكل الكون",
+        "الشمس",
+        "القمر",
+        "الكواكب",
+        "علم الفلك"
+      ],
+      "topics_en": [
+        "Certainty",
+        "Kingdom of Heaven and Earth",
+        "Evidence",
+        "Seeing the Truth",
+        "Quran",
+        "Scientific Facts",
+        "Revelation",
+        "Nature",
+        "Universe",
+        "Creation",
+        "Creator",
+        "Flat Earth",
+        "Fixed Earth",
+        "Contemplation",
+        "Reflection",
+        "Islamic Theories",
+        "Shape of the Universe",
+        "Sun",
+        "Moon",
+        "Planets",
+        "Astronomy",
+        "Nasser Ibn Dawood",
+        "Reflection in the Mirror of Drawings"
+      ]
+    }
+  }

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موسوعة الصيام القرآني | من النُسك الجسدي إلى المنهج الوجودي</title>
+    <meta name="description" content="موسوعة الصيام القرآني - قراءة بنيوية مقاصدية في هندسة التقوى. رحلة وجودية تعيد بناء مفهوم الصيام من جذوره القرآنية.">
+    
+    <!-- Open Graph / Social Media Meta Tags (اختياري) -->
+    <meta property="og:title" content="موسوعة الصيام القرآني">
+    <meta property="og:description" content="من النُسك الجسدي إلى المنهج الوجودي: قراءة بنيوية مقاصدية في هندسة التقوى">
+    <meta property="og:type" content="book">
+    <meta property="og:image" content="books/fasting/ar/cover-ar.png">
+    
+    <!-- Schema.org markup -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "موسوعة الصيام القرآني: من النُسك الجسدي إلى المنهج الوجودي - قراءة بنيوية مقاصدية في هندسة التقوى",
+        "author": {
+            "@type": "Person",
+            "name": "ناصر ابن داوود"
+        },
+        "publisher": "مكتبة ناصر ابن داوود",
+        "datePublished": "2026",
+        "bookEdition": "الطبعة الأولى",
+        "inLanguage": "ar",
+        "description": "مشروع معرفي جذري لإعادة بناء مفهوم الصيام من جذوره القرآنية، يتجاوز الفقه التقليدي إلى منهج وجودي يبني التقوى كمنظومة وقاية ذكية.",
+        "genre": ["الدراسات القرآنية", "الصيام", "الكونيات", "المقاصد"],
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "numberOfPages": 600
+    }
+    </script>
+
+    <style>
+        :root {
+            --primary: #1a5f7a;
+            --secondary: #159895;
+            --accent: #57C5B6;
+            --light: #f8f9fa;
+            --dark: #212529;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Tajawal', sans-serif;
+            line-height: 1.8;
+            color: var(--dark);
+            background: #f9f9f9;
+            direction: rtl;
+        }
+        
+        .hero {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 4rem 1rem;
+            text-align: center;
+        }
+        
+        .hero-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            font-size: 1.3rem;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .section {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .section h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .book-cover {
+            text-align: center;
+        }
+        
+        .book-cover img {
+            width: 100%;
+            max-width: 350px;
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .summary {
+            background: #f0f7ff;
+            border-right: 5px solid var(--primary);
+        }
+        
+        .summary p {
+            margin-bottom: 1rem;
+            text-align: justify;
+        }
+        
+        .toc-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .toc-item {
+            background: var(--light);
+            padding: 1rem;
+            border-radius: 5px;
+            border-right: 3px solid var(--secondary);
+            transition: transform 0.3s ease;
+        }
+        
+        .toc-item:hover {
+            transform: translateX(-5px);
+            background: #e9f7f6;
+        }
+        
+        .toc-item h3 {
+            color: var(--secondary);
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+        }
+        
+        .btn {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 5px;
+            text-decoration: none;
+            margin: 0.5rem;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-weight: 500;
+        }
+        
+        .btn-secondary {
+            background: var(--secondary);
+        }
+        
+        .btn-accent {
+            background: var(--accent);
+        }
+        
+        .btn:hover {
+            background: var(--secondary);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .download-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin: 1rem 0;
+        }
+        
+        .download-link {
+            background: var(--light);
+            color: var(--primary);
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            text-decoration: none;
+            border: 1px solid #ddd;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+        
+        .download-link:hover {
+            background: var(--primary);
+            color: white;
+        }
+        
+        .meta-info {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1rem 0;
+        }
+        
+        .meta-item {
+            margin: 0.5rem 0;
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 0.5rem;
+        }
+        
+        .meta-item:last-child {
+            border-bottom: none;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 2rem;
+            background: var(--dark);
+            color: white;
+            margin-top: 3rem;
+        }
+        
+        .highlight {
+            color: var(--primary);
+            font-weight: bold;
+        }
+
+        .btn-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            justify-content: center;
+        }
+    </style>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-content">
+            <h1>موسوعة الصيام القرآني</h1>
+            <p class="subtitle">من النُسك الجسدي إلى المنهج الوجودي</p>
+            <p>قراءة بنيوية مقاصدية في هندسة التقوى</p>
+        </div>
+    </header>
+    
+    <main class="container">
+        <!-- العمود الأيمن (في الترتيب البصري: يظهر على اليمين في RTL) -->
+        <div class="right-column">
+            <section class="section book-cover">
+                <img src="cover-ar.png" alt="غلاف موسوعة الصيام القرآني" loading="lazy">
+                
+                <div class="meta-info">
+                    <div class="meta-item">
+                        <span>المؤلف:</span>
+                        <span class="highlight">ناصر ابن داوود</span>
+                    </div>
+                    <div class="meta-item">
+                        <span>الطبعة:</span>
+                        <span>الأولى - 2026</span>
+                    </div>
+                    <div class="meta-item">
+                        <span>عدد الصفحات:</span>
+                        <span>600 صفحة</span>
+                    </div>
+                    <div class="meta-item">
+                        <span>التصنيف:</span>
+                        <span>الدراسات القرآنية، المقاصد، الكونيات</span>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <a href="https://archive.org/details/20260310_20260310_2232" class="btn" target="_blank" rel="noopener noreferrer">📖 قراءة على الأرشيف</a>
+                    <a href="../en/" class="btn btn-secondary">🇬🇧 English Version</a>
+                    <a href="https://nasserhabitat.github.io/nasser-books/" class="btn btn-accent">🔙 العودة إلى الكتب</a>
+                </div>
+
+                <!-- روابط التحميل المباشر -->
+                <div class="download-links">
+                    <h4>📥 تحميل مباشر</h4>
+                    <a href="https://drive.google.com/uc?export=download&id=1l8Zy_hbpWiKRKbbOeP0XuqXlWxSLOz9K" class="download-link" target="_blank">📄 DOCX</a>
+                    <a href="https://drive.google.com/uc?export=download&id=14tjE8BpbvViu7oymIwFwEde7MkGOo4sE" class="download-link" target="_blank">📖 PDF (داخلي)</a>
+                    <a href="https://drive.google.com/uc?export=download&id=14tjE8BpbvViu7oymIwFwEde7MkGOo4sE" class="download-link" target="_blank">📚 PDF (خارجي)</a>
+                    <a href="https://drive.google.com/uc?export=download&id=15KlDUaOTiWHxztKVsIV7ZzAaUlicftEk" class="download-link" target="_blank">🌐 HTML</a>
+                    <a href="https://nasserhabitat.github.io/nasser-books/books/fasting/ar/content.txt" class="download-link" target="_blank">📝 نص (داخلي)</a>
+                    <a href="https://drive.google.com/uc?export=download&id=1xjAgK_t_2NfyU4V_YYzGPUHNkud_0IDe" class="download-link" target="_blank">📃 نص (خارجي)</a>
+                </div>
+            </section>
+            
+            <section class="section">
+                <h2>لمن هذه الموسوعة؟</h2>
+                <ul style="padding-right: 1.5rem;">
+                    <li style="margin-bottom: 0.8rem;">الباحثون في الدراسات القرآنية والمقاصدية</li>
+                    <li style="margin-bottom: 0.8rem;">المهتمون بتجديد الفكر الإسلامي</li>
+                    <li style="margin-bottom: 0.8rem;">طلاب العلم والدعاة الملهوفون لمعنى أعمق للصيام</li>
+                    <li style="margin-bottom: 0.8rem;">المفكرون الثائرون على قيد الطقس</li>
+                    <li>كل من يبحث عن تحويل العبادة إلى منهج وجودي</li>
+                </ul>
+            </section>
+        </div>
+        
+        <!-- العمود الأيسر -->
+        <div class="left-column">
+            <section class="section summary">
+                <h2>تصدير الموسوعة: نحو قيامة الوعي بالصيام</h2>
+                <p>الحمد لله الذي جعل الصيام جُنّة، والقرآن بيّنة، والفرقان سبيلاً لتقويم الفطرة المستكنّة. وبعد: إن هذه الموسوعة لا تأتي لتضيف ركاماً جديداً فوق أرفف المكتبة الإسلامية التقليدية، ولا لتعيد تدوير الشروح الفقهية التي أشبعها الأقدمون بحثاً. بل هي "صرخة معرفية" و"وثيقة تصحيحية" تنبعث من قلب السؤال الجوهري: لماذا نصوم كثيراً ونرتقي قليلاً؟</p>
+                <p>نحن نعيش في زمن اختُزل فيه الصيام ليصبح "حدثاً زمنياً" يُنتظر، و"حرماناً جسدياً" يُحتمل، بينما أراده الوحي أن يكون "محركاً وجودياً" يُحدث ثورة في بنية الإنسان. تنطلق الموسوعة لتعيد بناء مفهوم الصيام من جذوره القرآنية البكر، محررة العبادة من "غيبوبة العادة" إلى "يقظة العبادة".</p>
+            </section>
+            
+            <section class="section">
+                <h2>هندسة الموسوعة: ستة مسارات لصناعة الإنسان</h2>
+                <div class="toc-grid">
+                    <div class="toc-item">
+                        <h3>١. التأسيس المنهجي وبناء الرؤية الكلية</h3>
+                        <p>من فقه الأوراق إلى فقه الآفاق: الصيام كمنظومة متكاملة</p>
+                    </div>
+                    <div class="toc-item">
+                        <h3>٢. التفكيك اللغوي والدلالي</h3>
+                        <p>أركيولوجيا الكلمة: الفرق بين الصوم والصيام، ورمضن كترميم فكري</p>
+                    </div>
+                    <div class="toc-item">
+                        <h3>٣. قراءة بنيوية لآيات رمضان</h3>
+                        <p>الآيات كنظام تشغيل (OS) لتطوير الوعي وإنتاج الفرقان</p>
+                    </div>
+                    <div class="toc-item">
+                        <h3>٤. الهندسة النفسية والتحول الداخلي</h3>
+                        <p>الصيام كصمام أمان داخلي، وتحويل البشرية إلى إنسية مستبصرة</p>
+                    </div>
+                    <div class="toc-item">
+                        <h3>٥. البعد الحضاري والزمني وليلة القدر</h3>
+                        <p>قراءة ثورية في الزمن والنسيء وليلة القدر كفتح معرفي</p>
+                    </div>
+                    <div class="toc-item">
+                        <h3>٦. النقد المعرفي والتطبيق العملي المعاصر</h3>
+                        <p>مواجهة الماتريكس المعرفي وتقديم دليل عملي للصائم المعاصر</p>
+                    </div>
+                </div>
+            </section>
+            
+            <section class="section">
+                <h2>منهجية البحث: البرهان الثلاثي</h2>
+                <p>تعتمد الموسوعة على ثلاثة مناهج متكاملة:</p>
+                <ol style="padding-right: 1.5rem; margin-top: 1rem;">
+                    <li style="margin-bottom: 1rem;"><strong>البرهان النصي:</strong> الاستناد إلى النصوص القرآنية في سياقها البنيوي.</li>
+                    <li style="margin-bottom: 1rem;"><strong>البرهان المقاصدي:</strong> استجلاء علل العبادة وغاياتها الوجودية.</li>
+                    <li><strong>البرهان الحسي والعقلي:</strong> ربط الصيام بسنن الكون والنفس البشرية.</li>
+                </ol>
+                <p style="margin-top: 1rem;"><span class="highlight">الخلاصة المركزية:</span> الصيام هو السيادة. ليس مجرد جوع، بل وعي يبني الذات، وتمرين سيادي على ضبط المدخلات لنيل حرية المخرجات.</p>
+            </section>
+        </div>
+    </main>
+    
+    <footer>
+        <p>© 2026 مكتبة ناصر ابن داوود - جميع الحقوق مفتوحة (رخصة المشاع الإبداعي 4.0)</p>
+        <p>باحث إسلامي ومهندس متخصص في الدراسات القرآنية الرقمية</p>
+    </footer>
+</body>
+</html>

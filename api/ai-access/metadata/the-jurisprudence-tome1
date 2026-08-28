@@ -1,0 +1,48 @@
+{
+  "id": "the-jurisprudence-tome1",
+  "titles": {
+    "ar": "فقه اللسان القرآني -- هندسة الوحي: مشروع إعادة بناء الفهم القرآني: من الحرف الأولي إلى التشغيل الوجودي",
+    "en": "Encyclopedia: Fiqh Al-Lissan Al-Qur'ani -- The Engineering of Revelation"
+  },
+  "description": {
+    "ar": "المجلد الأول: فقه اللسان القرآني -- التأسيس والأدوات",
+    "en": "Volume 1 : Fiqh Al-Lissan Al-Qur'ani - Foundations and Tools"
+  },
+  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-jurisprudence-tome1/ar/cover-ar.png",
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=1uSsmJmFslW2bN_-ZK1-IajS1jdqSDnHE",
+    "pdf_direct": "books/the-jurisprudence-tome1/ar/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1EXl8CBU_FqNWf_q1fQfQym_PT4IqcLy9",
+    "html": "https://drive.google.com/uc?export=download&id=1CNoAovXAGbfO4SELrF45dSNlYmmUi10n",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1fXDbcUAgWdivb3vgbQecpK0TIKAoodrH",
+    "txt_direct": "books/the-jurisprudence-tome1/ar/content.txt",
+    "cover": "books/the-jurisprudence-tome1/ar/cover-ar.png",
+    "archive": "https://archive.org/details/content_20260408"
+  },
+  "en": {
+    "docx": "https://drive.google.com/uc?export=download&id=1zG851oZ5oj8BG4F4sP7nmcXA7XBRETDU",
+    "pdf_direct": "books/the-jurisprudence-tome1/en/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1svHXLTmJScgo6JBMw3ZqFdnNB5sv2DIj",
+    "html": "https://drive.google.com/uc?export=download&id=1Eo_YpeARbacXLFqnyEp6LYrRNxFuR073",
+    "txt_external": "https://drive.google.com/uc?export=download&id=128g58Po_Dyyx9emyBM9LpQMOv_3tqmEZ",
+    "txt_direct": "books/the-jurisprudence-tome1/en/content.txt",
+    "cover": "books/the-jurisprudence-tome1/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20260408_1757"
+  },
+  "metadata": {
+    "author": "ناصر ابن داوود",
+    "category": "faith_studies",
+    "pages_ar": 279,
+    "pages_en": 6,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": [
+      "فقه اللسان القرآني", "اللسانيات القرآنية", "التحليل البنيوي للمعنى", "تحليل الحروف", "المثاني", "الأزواج الحرفية", "الجذور الثنائية", "البنية الدلالية", "منهج تدبر القرآن", "إعادة بناء المفاهيم", "ديناميكيات الجذر", "دلالة السياق", "الحقول الدلالية", "نظرية المعنى القرآني", "المعرفة القرآنية", "أنطولوجيا المعنى", "توليد المعنى", "نفي الترادف", "التدبر البنيوي", "منهج التفسير التحليلي", "الشبكات الدلالية", "إعادة تعريف المفاهيم القرآنية", "الوعي القرآني", "من الحرف إلى المعنى", "بنية الخطاب القرآني", "التفسير المفاهيمي", "النسق الدلالي", "إعادة بناء المعرفة", "البحث القرآني المعزز بالذكاء الاصطناعي"
+    ],
+    "topics_en": [
+      "Quranic linguistics", "Qur'anic language jurisprudence", "structural semantics", "letter-based analysis", "bilateral roots", "Mathani concept", "semantic architecture", "Qur'anic methodology", "conceptual reconstruction", "root dynamics", "letter pairs", "contextual semantics", "semantic field theory", "Qur'anic epistemology", "linguistic ontology", "meaning generation", "non-synonymity principle", "deep reading of the Qur'an", "interpretive methodology", "semantic systems", "Qur'anic consciousness", "from letter to meaning", "linguistic structure of revelation", "analytical tafsir", "conceptual exegesis", "semantic networks", "Quranic concepts redefinition", "ontology of meaning", "knowledge reconstruction", "AI-assisted Qur'anic research"
+    ]
+  }
+}

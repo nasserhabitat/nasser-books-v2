@@ -1,0 +1,61 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 42,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 58 كتابًا (29 كتابًا باللغة العربية و29 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+{
+  "id": "human",
+  "titles": {
+    "ar": "كتاب الإنسان والاستخلاف",
+    "en": "The Book of Human and Stewardship"
+  },
+  "description": {
+    "ar": "رحلة في فقه الوعي والوجود تبحث في سر الأمانة والاستخلاف الإنساني من خلال التدبير القرآني والأسماء الحسنى.",
+    "en": "A journey into the jurisprudence of consciousness and existence, exploring the secret of the Trust and human stewardship through Quranic management and the Divine Names."
+  },
+  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/human/ar/cover-ar.png",
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=1eDNSEwcJ-ZuFQozUd-K5EMET9V5areW4",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=15gTIDov_n2qUtB5q9aGntvbcVCmkePoq",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=15gTIDov_n2qUtB5q9aGntvbcVCmkePoq",
+    "html": "https://drive.google.com/uc?export=download&id=19iCpkIBXfochcOl43mvpGujx_daC8pK9",
+    "txt_external": "https://drive.google.com/uc?export=download&id=10o9YRUDAZbSWQUXo6Fr-0uQKyuJfVrgB",
+    "txt_direct": "books/human/ar/content.txt",
+    "cover": "books/human/ar/cover-ar.png",
+    "archive": "https://archive.org/details/content_20260119"
+  },
+  "en": {
+    "docx": " https://drive.google.com/uc?export=download&id=1_j10D1Xi7Vle5Ufe3lgmWDBcH39ZFvIb ",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1ivTyHcbSxTB01CpweFpXpkKFtqkyEqTA ",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1ivTyHcbSxTB01CpweFpXpkKFtqkyEqTA ",
+    "html": " https://drive.google.com/uc?export=download&id=1ZQuS4johOizx4-asYy5bvKzXw8P1Ys5K ",
+    "txt_external": " https://drive.google.com/uc?export=download&id=1BgK1qFjHRcIifSEpFy8xHeRXmNQBSgeJ ",
+    "txt_direct": "books/human/en/content.txt",
+    "cover": "books/human/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20260119_2230)"
+  },
+  "metadata": {
+    "author": "ناصر ابن داوود",
+    "category": "faith_studies",
+    "pages_ar": 75,
+    "pages_en": 35,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": ["الإنسان", "الاستخلاف", "الوعي", "الأمانة", "القرآن", "التدبير القرآني", "الأسماء الحسنى", "الوجود", "النفس", "الخلافة", "التأويل", "القيامة", "النية", "البرزخ", "الشفرة الإلهية", "البشر", "الروح", "الموت", "الحياة", "الفلسفة الإسلامية", "التدبر", "فقه اللسان", "الهندسة الوجودية", "التسليم", "الرضا", "الملكوت", "السقوط الوجودي", "وحدة الشهود", "الملائكة", "الأمر الإلهي", "النعمة", "الآن الوجودي", "التكليف", "الحرية", "المسؤولية"],
+    "topics_en": ["Man", "Succession", "Consciousness", "Trust", "The Qur'an", "The Qur'anic Approach", "The Most Beautiful Names", "Existence", "The Soul", "Succession", "Interpretation", "Resurrection", "Intention", "The Intermediate Realm", "The Divine Code", "Humans", "The Spirit", "Death", "Life", "Islamic Philosophy", "Contemplation", "The Jurisprudence of Language", "Existential Geometry", "Submission", "Contentment", "The Kingdom", "Existential Fall", "Unity of Witnessing", "Angels", "The Divine Command", "Blessing", "The Existential Now", "Assignment", "Freedom", "Responsibility"]
+                   {
+         }

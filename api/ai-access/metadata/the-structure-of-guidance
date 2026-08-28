@@ -1,0 +1,87 @@
+
+{
+  "id": " the-structure-of-guidance",
+  "titles": {
+    "ar": " بنية الهداية - من الفوضى الإدراكية إلى الفرقان العمراني",
+    "en": " The Structure of Guidance: From Cognitive Chaos to Civilizational Criterion"
+  },
+  "description": {
+    "ar": " نحو إعادة تعريف الوعي: قراءة في سورة العلق في عصر الخوارزميات",
+    "en": " An Engineering Perspective on Quranic Linguistics and Consciousness Reprogramming "
+  },
+  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-structure-of-guidance/ar/cover-ar.png",
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=1mwym9lPb_ShkO-yhSLo-nT0pLz8DRyLA",
+    "pdf_direct": "books/the-structure-of-guidance/ar/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1g_Jstu4EspM7j3HuAAsjMt6imDsblI-K",
+    "html": "https://drive.google.com/uc?export=download&id=1mM3dCqb8ZJxp3zqTbhXlyXJxdR5qdFvU",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1etQdPBtPKQY1clBERL7AfAlQqvGX_nvP",
+    "txt_direct": "books/the-structure-of-guidance/ar/content.txt",
+    "cover": "books/the-structure-of-guidance/ar/cover-ar.png",
+    "archive": "https://archive.org/details/content_20260413_1945 "
+  },
+  "en": {
+    "docx": "https://drive.google.com/uc?export=download&id=1maam5ux_A8RiB7yLn4TtPpu2RVlD5S9L",
+    "pdf_direct": "books/the-structure-of-guidance/en/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1CCzQV4zpBD2nMiRlYt0JLSZSlzCvtD1H-",
+    "html": "https://drive.google.com/uc?export=download&id=1qwy4WWV_iMXcYTLDPCrtGWB-eSeNB4DW",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1AacaGr6nXdC1Z0oHzEzg7d9uoVEeKteY",
+    "txt_direct": "books/the-structure-of-guidance/en/content.txt",
+    "cover": "books/the-structure-of-guidance/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20260413_1950 "
+  },
+  "metadata": {
+    "author": "Nasser Ibn Dawood",
+    "category": "faith_studies",
+    "pages_ar": 184,
+    "pages_en": 42,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": [
+      "بنية الهداية",
+      "فقه اللسان",
+      "الفرقان العمراني",
+      "الفوضى الإدراكية",
+      "إعادة برمجة الوعي",
+      "هندسة الإدراك",
+      "اللسان القرآني",
+      "النور المعياري",
+      "وحدة المعالجة المركزية",
+      "السكينة الإلهية",
+      "السنن الكونية",
+      "اللعبة الكونية",
+      "التزكية العميقة",
+      "الانزياح الدلالي",
+      "الرؤية الهندسية",
+      "العمران الراشد",
+      "الحضور الصامت",
+      "خوارزمية القرار",
+      "آيات الآفاق والأنفس",
+      "النظام الإدراكي"
+    ],
+    "topics_en": [
+      "Structure of Guidance",
+      "Linguistic Jurisprudence",
+      "Civilizational Criterion",
+      "Cognitive Chaos",
+      "Reprogramming Consciousness",
+      "Cognitive Engineering",
+      "Quranic Tongue",
+      "Normative Light",
+      "Central Processing Unit",
+      "Divine Tranquility",
+      "Universal Laws",
+      "Cosmic Game",
+      "Deep Purification",
+      "Semantic Shift",
+      "Engineering Vision",
+      "Righteous Civilization",
+      "Silent Presence",
+      "Decision Algorithm",
+      "Signs of Horizons and Souls",
+      "Cognitive System"
+    ]
+  }
+}

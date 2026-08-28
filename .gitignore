@@ -1,0 +1,17 @@
+# Google Drive pointer files are not the underlying documents.
+*.gdoc
+
+# Temporary Microsoft Office lock files.
+~$*
+
+# Local operating-system metadata.
+Thumbs.db
+Desktop.ini
+
+# Generated Word HTML book exports are not published; index.html pages stay tracked.
+/books/**/content.htm
+/books/**/content.html
+
+# Book binaries stay on Google Drive; GitHub keeps text search files and pages.
+/books/**/*.docx
+/books/**/*.pdf

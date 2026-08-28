@@ -1,0 +1,176 @@
+# ==============================================
+# 🌟 ملف robots.txt لمكتبة ناصر ابن داوود الرقمية
+# ==============================================
+# 
+# 📚 مكتبة مفتوحة المصدر للدراسات القرآنية واللغوية
+# 🤖 مرخصة للاستخدام في تدريب الذكاء الاصطناعي
+# 
+# الرخصة: CC BY-SA 4.0
+# الإصدار: 1.2
+# التاريخ: 2025-01-20
+# ==============================================
+
+# 🎯 الإعدادات العامة لجميع روبوتات الزحف
+User-agent: *
+Allow: /                      # السماح بالزحف في جميع أقسام الموقع
+Crawl-delay: 1                # تأخير ثانية بين طلبات الزحف
+Disallow: /private/           # منع المجلدات الخاصة
+Disallow: /tmp/               # منع الملفات المؤقتة
+Disallow: /admin/             # منع واجهات الإدارة
+
+# السماح بالوصول للمحتوى الرئيسي
+Allow: /books/                # السماح بمجلد الكتب
+Allow: /search.html           # صفحة البحث
+Allow: /index.html            # الصفحة الرئيسية
+
+# ==============================================
+# 🤖 روبوتات الذكاء الاصطناعي والبحث العلمي
+# ==============================================
+
+# روبوتات OpenAI
+User-agent: GPTBot
+Allow: /                      # السماح بالزحف الكامل
+Crawl-delay: 2                # تأخير مناسب للتحليل
+Comment: مرحباً بروبوتات الذكاء الاصطناعي للتحليل العلمي
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 2
+
+# روبوتات Anthropic (Claude)
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 2
+
+User-agent: Claude-Web-2
+Allow: /
+Crawl-delay: 2
+
+User-agent: Anthropic-ai
+Allow: /
+Crawl-delay: 2
+
+# روبوت جوجل للذكاء الاصطناعي
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 1
+Comment: دعم مشروع الذكاء الاصطناعي المفتوح من جوجل
+
+# ==============================================
+# 🔍 محركات البحث الرئيسية
+# ==============================================
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+Comment: محرك بحث جوجل الرئيسي
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /books/*/cover-*.png
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+Comment: محرك بحث بينج
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+Comment: محرك بحث ياهو
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+Comment: محرك بحث دك دك جو
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+Comment: محرك بحث بايدو الصيني
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 1
+Comment: محرك بحث ياندكس الروسي
+
+# ==============================================
+# 📚 روبوتات الأبحاث الأكاديمية
+# ==============================================
+
+User-agent: CCBot
+Allow: /
+Crawl-delay: 1
+Comment: روبوت أرشيف الإنترنت
+
+User-agent: ArchiveBot
+Allow: /
+Crawl-delay: 1
+Comment: روبوت الحفظ الرقمي
+
+User-agent: ResearchBot
+Allow: /
+Crawl-delay: 1
+Comment: روبوتات البحث العلمي
+
+# ==============================================
+# 🌐 وسائل التواصل الاجتماعي
+# ==============================================
+
+User-agent: FacebookBot
+Allow: /
+Crawl-delay: 1
+Comment: روبوت فيسبوك
+
+User-agent: Twitterbot
+Allow: /
+Crawl-delay: 1
+Comment: روبوت تويتر
+
+User-agent: LinkedInBot
+Allow: /
+Crawl-delay: 1
+Comment: روبوت لينكد إن
+
+# ==============================================
+# 🚫 روبوتات غير مرغوب فيها (معدل زحف عالي)
+# ==============================================
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+Comment: أداة تحليل الروابط الخلفية
+
+User-agent: SemrushBot
+Crawl-delay: 10
+Comment: أداة تحليل SEO
+
+User-agent: MJ12bot
+Crawl-delay: 10
+Comment: روبوت زحف عدواني
+
+User-agent: DotBot
+Crawl-delay: 10
+Comment: روبوت زحف تجاري
+
+# ==============================================
+# 🗺️ خرائط الموقع
+# ==============================================
+Allow: / 
+Sitemap: https://nasserhabitat.github.io/nasser-books/sitemap.xml
+Sitemap: https://nasserhabitat.github.io/nasser-books/sitemap-books.xml
+Sitemap: https://a520098.sitemaphosting7.com/4624346/sitemap_4624346.xml
+Sitemap: https://nasserhabitat.github.io/nasser-books/sitemap-bing.xml
+
+# ==============================================
+# 💡 معلومات إضافية
+# ==============================================
+
+# الرخصة: Creative Commons Attribution-ShareAlike 4.0
+# المحتوى: 32 كتاباً في الدراسات القرآنية واللغوية
+# اللغة: العربية والإنجليزية
+# الهدف: دعم البحث العلمي وتدريب الذكاء الاصطناعي
+# البريد: nasserhabitat@gmail.com
+
+# ==============================================
+# 🎉 نهاية ملف robots.txt
+# ==============================================

@@ -1,0 +1,90 @@
+﻿
+
+
+Encyclopedia: Fiqh Al-Lissan Al-Qur'ani – The Engineering of Revelation 
+Volume 1 Foundations and Tools
+ Fiqh of the Qur’anic Language –
+A Conceptual Introduction for the International Reader
+In the Name of God, the Most Compassionate, the Most Merciful
+This work begins from a simple but profound question:
+Not whether we read the Qur’an, but how we read it.
+In much of contemporary understanding, access to the Qur’an is mediated through layers of interpretation—commentaries, schools of thought, linguistic traditions, and inherited frameworks. While these contributions are historically valuable, they have gradually transformed the Qur’an from a direct system of guidance into an object of continuous explanation.
+This project challenges that trajectory.
+It proposes that the Qur’an is not merely a text to be interpreted, but a self-consistent semantic system—one that generates meaning through an internal architecture rooted in the Arabic language itself. However, this architecture has often been reduced to two dominant analytical levels:
+• Root-based morphology (typically triliteral roots)
+• Grammatical structure
+What remains largely unexplored is a deeper layer:
+the dynamic interaction between letters as foundational units of meaning, especially in the form of binary relationships (referred to in this work as “Mathani”).
+
+1. The Central Hypothesis
+The Qur’anic language operates as a structured system where meaning emerges through layered relationships:
+Letter (primary motion)
+↓
+Letter-pair (relational unit / Mathani)
+↓
+Root (semantic field)
+↓
+Word (functional structure)
+↓
+Context (activation field)
+Understanding the Qur’an, therefore, requires not only reading its words, but reconstructing the tool of reading itself.
+
+2. The Purpose of This Volume
+This first volume does not aim to interpret the Qur’an in the traditional sense.
+Instead, it builds the analytical instrument required for interpretation.
+It introduces a linguistic framework where:
+• The letter is treated as a minimal unit of semantic motion
+• The letter-pair is the generator of relational meaning
+• The word is a structured configuration, not reducible to its root
+• The context activates meaning but does not create it independently
+Through this framework, the reader transitions:
+From receiving meaning → to generating meaning
+From passive reading → to structural analysis
+
+3. Methodological Transformation
+The project seeks a shift:
+From transmitted understanding
+↓
+To analytical reconstruction
+From impressionistic interpretation
+↓
+To structural, testable reading
+From dependency on inherited meanings
+↓
+To engagement with a generative semantic system
+
+4. Practical Outcome
+By the end of this volume, the reader acquires a functional method to approach any Qur’anic word by:
+• Decomposing it into letter-pairs
+• Identifying relational dynamics
+• Mapping its semantic field
+• Evaluating its contextual function
+Reading becomes systematic, not intuitive alone.
+Reflection becomes method-driven, not merely contemplative.
+
+5. I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+• Global Access Policy: All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+• The Digital Library: As of early 2026, the collection hosts 68 volumes (34 in Arabic and 34 in English), fully optimized for AI-assisted research and digital archiving.
+• Official Platforms:
+• Main Website: nasserhabitat.github.io/nasser-books/
+• GitHub: nasserhabitat/nasser-books
+
+6. II. Translator’s Note: The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an “extraction of essence.”
+It presents the core philosophical framework in accessible English, omitting the detailed linguistic debates and classical references found in the original Arabic text.
+For the academic researcher:
+The original Arabic version remains the primary source for:
+• Comprehensive linguistic analysis
+• Detailed Qur’anic exegesis (Tafsir)
+• Full methodological expansion and references
+
+7. Concluding Perspective
+This work is not a final claim to truth.
+It is an invitation to reopen the path toward it.
+It does not seek to replace tradition, but to re-enable direct engagement with the Qur’anic system through a disciplined, reconstructive methodology.
+The Qur’an, in this vision, is not a static body of meanings—
+but a living semantic system, capable of reorganizing human perception from within.
+The tool is now presented.
+The process begins with the reader.
+

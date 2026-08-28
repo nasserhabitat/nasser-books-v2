@@ -1,0 +1,80 @@
+{
+      "id": "hajj",
+      "book_number": 68,
+      "titles": {
+        "ar": " الحج: من الشعيرة إلى هندسة الوعي في القرآن",
+        "en": " Al-Hajj: From Ritual to Consciousness Engineering in the Quran "
+      },
+      "description": {
+        "ar": " الحج هندسة الوعي",
+        "en": " Hajj is the engineering of consciousness "
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/hajj/ar/cover-ar.png",
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1gya6lIBXRoRbdAZileCBYVBbSGzW8tUA",
+        "pdf_direct": "books/hajj/ar/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1CZqD0o2Nkt0Y2XzdkDim8GLbuVsx64Vo",
+        "html": "https://drive.google.com/uc?export=download&id=1Tca5Wn97H4CWhqkzBavHfB11lRlhQXfS",
+        "txt_external": "https://drive.google.com/uc?export=download&id=11t4uZsfbEQ3byn8zh-ZJnQ-Zzz2NL-aH",
+        "txt_direct": "books/hajj/ar/content.txt",
+        "cover": "books/hajj/ar/cover-ar.png"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1gNKJfisgB5ruu_FcB_btLCAonmciYoAw",
+        "pdf_direct": "books/hajj/en/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1zHQAc3gvwIg8A5tNy1mN42DQdndl3m00",
+        "html": "https://drive.google.com/uc?export=download&id=1j0yP0uNIwRv7V7U_xnSnhKsAPPQuwKO3",
+        "txt_external": "https://drive.google.com/uc?export=download&id=11grEgpaALycTwdo7HvJbR8XbcEo3Rv3F",
+        "txt_direct": "books/hajj/en/content.txt",
+        "cover": "books/hajj/en/cover-en.png"
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "faith_studies",
+        "pages_ar": 94,
+        "pages_en": 23,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": [
+          "الحج",
+          "فقه اللسان القرآني",
+          "هندسة الوعي",
+          "من الشعيرة إلى التحول",
+          "الطواف",
+          "السعي",
+          "التقوى",
+          "الحجاج",
+          "الحجة",
+          "التفسير البنيوي",
+          "التأويل الرمزي",
+          "السيميائيات القرآنية",
+          "الرحلة الروحية",
+          "إعادة الضبط المعرفي",
+          "نظام تشغيل القرآن",
+          "ناصر ابن داوود"
+        ],
+        "topics_en": [
+          "Hajj",
+          "Quranic linguistics",
+          "Fiqh al-Lisan",
+          "consciousness engineering",
+          "ritual to transformation",
+          "pilgrimage",
+          "Tawaf",
+          "Sa'i",
+          "Taqwa",
+          "hijaj",
+          "hujjah",
+          "structural exegesis",
+          "symbolic interpretation",
+          "Quranic semiotics",
+          "spiritual journey",
+          "cognitive reset",
+          "operational system of Quran",
+          "Nasser Ibn Dawoud"
+        ]
+      }
+    }
+

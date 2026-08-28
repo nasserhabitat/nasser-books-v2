@@ -1,0 +1,87 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books":82,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 82 كتابًا (41 كتابًا باللغة العربية و41 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "the-universe",
+    "titles": {
+      "ar": "الكون كتاب حي — الموجودات تتكلم بلسان الله",
+      "en": "THE UNIVERSE IS A LIVING BOOK — ALL BEINGS SPEAK WITH THE VOICE OF GOD"
+    },
+    "description": {
+      "ar": "الموجودات تتكلم بلسان الله",
+      "en": "ALL BEINGS SPEAK WITH THE VOICE OF GOD"
+    },
+    "links": {
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1TjMyEw6kY8QDNQBnctdSt_bLa90DSgQF",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1PmIKdoRkn0iIJZNmjTnRBIeS7oufaY9Z",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1PmIKdoRkn0iIJZNmjTnRBIeS7oufaY9Z",
+        "html": "https://drive.google.com/uc?export=download&id=1uRubnGBenWRTIzmZdR8POToPm8_8skCL",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1sLfXOWeVTYqEx7t0h-EDOM4NUpXtvACW",
+        "txt_direct": "books/the-universe/ar/content.txt",
+        "cover": "books/the-universe/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20251111_20251111_2037"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=11S6GcaazsQ65zIHE6VmfjYOsr7ROSJWu",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1tElavrfT-FMNWHFXHlIUXn84bXpamr_a",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1tElavrfT-FMNWHFXHlIUXn84bXpamr_a",
+        "html": "https://drive.google.com/uc?export=download&id=1FNkEgRLOPW-WfX8sL2H7svz4yNwUTZ20",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1Wk9ATBYGUlA_b6PW-NU6rO-ndl4gA05r",
+        "txt_direct": "books/the-universe/en/content.txt",
+        "cover": "books/the-universe/en/cover-en.png",
+        "archive": "https://archive.org/details/20251111_20251111_2024"
+      },
+      "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 188,
+      "pages_en": 245,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+      "topics_ar": ["الكون", "الكتاب الحي", "الموجودات", "لسان الله", "القرآن الكريم", "التدبر", "الفهم", "البصيرة", "الإدراك", "المعرفة", "الخلق", "التكوين", "النظام", "التوازن", "الإعجاز", "الآيات", "الدلائل", "البراهين", "الحكمة", "المشيئة"],
+      "topics_en": ["Cosmic contemplation of the Quran", "Symbolism in the Quran", "Cosmic Consciousness", "Quranic Linguistic Jurisprudence", "The Soul, Spirit and Cosmos", "Speaking Entities", "Stars and Guidance", "Livestock and Blessings", "The Seven Heavens and Consciousness", "Light and the Heart", "Symbolic Interpretation", "Existence and Perception", "Animal Symbolism", "Intellect and Contemplation", "Quranic Parables", "Symbolic Eating and Drinking", "Ascension and Heaven", "Gates of Heaven", "Symbolic Splitting of the Moon", "Quranic Contemplation Methodology", "Analysis of Dualities", "Symbolic Deconstruction", "Quran and Modern Consciousness", "Quranic Spirituality", "Islam and Sufism", "Quran and Existential Philosophy", "Quran and Spiritual Psychology", "Nasser Ibn Dawood Library"],
+      "edition": "الأولى - 2025",
+      "key_features": [
+        "رؤية جديدة للكون ككتاب مفتوح يتكلم بلغة الخالق",
+        "تحليل عميق لعلاقة الموجودات بالله تعالى",
+        "منهجية متكاملة لفهم آيات الكون والقرآن",
+        "ربط بين العلم والإيمان في فهم الكون",
+        "تطبيقات عملية للتدبر في الكون"
+      ],
+      "controversial_issues": [
+        "طبيعة الكون ككتاب متكلم",
+        "العلاقة بين الخلق والخالق",
+        "دور الإنسان في فهم لغة الكون",
+        "التوازن بين العلم والإيمان"
+      ],
+      "digital_archive": "https://archive.org/details/20251111_20251111_2037"
+    },
+    "content_overview": {
+      "methodology": "منهجية متكاملة تجمع بين التدبر القرآني والتفكر الكوني والتحليل العلمي",
+      "sources": [
+        "القرآن الكريم",
+        "الكون والطبيعة",
+        "العلوم الحديثة",
+        "الفطرة الإنسانية"
+      ],
+      "applications": "تطبيقات عملية لفهم لغة الكون والاستفادة منها في تقوية الإيمان وتعميق المعرفة"
+    }
+  }
+}

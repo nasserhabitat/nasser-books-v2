@@ -1,0 +1,126 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 24,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    
+      "id": "the-jurisprudence",
+      "titles": {
+        "ar": "فقه اللسان القرآني",
+        "en": "The Jurisprudence of the Quranic Tongue"
+      },
+      "description": {
+        "ar": "دراسة منهجية لفهم اللسان العربي القرآني ومنهجية تدبر النص الإلهي",
+        "en": "A new approach to understanding the text and manuscript of the Quran"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-jurisprudence/ar/cover-ar.png",
+      "links": {
+        "ar": {
+               "cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-jurisprudence/ar/cover-ar.png",
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=10sqSU7RAVHnrQff6onfiBqxCgDaMnUKP",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1_kXmO-UwpEflBx3VQsuH2DOhkYgxE0pk",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1_kXmO-UwpEflBx3VQsuH2DOhkYgxE0pk",
+        "html": "https://drive.google.com/uc?export=download&id=1EVBgXQivnuE8NmlCeFTDuNfSUfjBZlMQ",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1ot2XILFBHDS3lom62mKvZIBCFooPkLI6",
+        "txt_direct": "books/the-jurisprudence/ar/content.txt",
+        "cover": "books/the-jurisprudence/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20250529_20250529_2057"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1eX1M7BRUdVPjiIzzFoOifQqtf93IWEoK",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1Ac2pctiufnAzN2-0yCLLrNA9gBsYC-lB",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1Ac2pctiufnAzN2-0yCLLrNA9gBsYC-lB",
+        "html": "https://drive.google.com/uc?export=download&id=1FXmnM4toB3DUinTLvmMovtnlihz4hHN5",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1ohXcnyc7F1xCkGynpdh-GB2ayRJlpVfV",
+        "txt_direct": "books/the-jurisprudence/en/content.txt",
+        "cover": "books/the-jurisprudence/en/cover-en.png",
+        "archive": "https://archive.org/details/the-jurisprudence-of-the-quranic-tongue-a-new-approach-to-understanding-the-text-and-manuscript"
+      }
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "pages_ar": 592,
+        "pages_en": 416,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+         "topics_ar": ["فقه اللسان القرآني", "فهم النص القرآني", "المخطوطات القرآنية", "الرسوم القرآنية", "التدبر", "المخطوطات الرقمية", "المفاهيم الجديدة", "التدبر التفاعلي", "رقمنة المخطوطات الأصلية", "المصاحف العثمانية", "فهم القرآن", "تطبيق القرآن", "قواعد اللسان العربي القرآني", "استنباط القواعد من النص القرآني", "الشواهد من المخطوطات الأصلية", "دلالات الحروف", "سبعا من المثاني", "الأزواج", "الترادف", "المنهج اللفظي", "المحكم والمتشابه", "السياق اللساني", "المصطلح القرآني", "الناسخ والمنسوخ", "تجديد الخطاب الديني", "الواقع المعاصر", "الكتابة القرآنية", "القرآن الكريم"],
+        "topics_en": ["Quranic Linguistics", "Understanding the Quranic Text", "Quranic Manuscripts", "Quranic Drawings/Illustrations", "Contemplation (Tadabbur)", "Digital Manuscripts", "New Concepts", "Interactive Contemplation", "Digitization of Original Manuscripts", "Uthmanic Mushafs", "Understanding the Quran", "Applying the Quran", "Rules of the Arabic Quranic Language", "Deriving Rules from the Quranic Text", "Evidence from Original Manuscripts", "Connotations of Letters", "Seven Oft-Repeated (Sab'a min al-Mathani)", "Pairs (Al-Azwaj)", "Synonymy (Al-Taraduf)", "Lexical Methodology", "Clear and Ambiguous (Muhkam and Mutashabih)", "Linguistic Context", "Quranic Terminology", "Abrogating and Abrogated (Nasikh and Mansukh)", "Renewal of Religious Discourse", "Reality", "The Book", "The Quran"],
+        "edition": "الأولى - 2025"
+    },
+    "key_features": [
+      "دراسة أسماء الحروف وطاقاتها الدلالية",
+      "تحليل 'المثاني' (الأزواج الحرفية) كنظام بنائي ودلالي",
+      "الاستناد إلى المخطوطات القرآنية الأصلية",
+      "دراسة النظام العددي في القرآن",
+      "تحليل سياق النزول وأثره في التفسير",
+      "منهجية التعامل مع القصص القرآني",
+      "ضوابط الاستعانة بالعلوم والمعارف الخارجية"
+    ],
+    "main_themes": [
+      "خصوصية اللسان القرآني وقصديته",
+      "ديناميكية المعنى ووحدة النص",
+      "أسماء الحروف والمثاني كنظام دلالي",
+      "التفاعل مع السياق والمخطوطات الأصلية",
+      "التدبر العقلي والمقاصد الكلية"
+    ],
+    "digital_archive": "https://archive.org/details/20250529_20250529_2057",
+    "content_overview": {
+      "methodology": "منهجية 'فقه اللسان العربي القرآني' التي تجمع بين التحليل اللغوي، الدراسة النصية، والاستناد إلى المخطوطات القرآنية الأصلية لفهم النظام الداخلي للقرآن",
+      "main_sections": [
+        {
+          "title": "خصوصية اللسان القرآني",
+          "chapters": [
+            "قصدية اللسان العربي القرآني",
+            "وحدة النص وخطورة التجزئة"
+          ]
+        },
+        {
+          "title": "أسماء الحروف والمثاني",
+          "chapters": [
+            "دراسة أسماء الحروف وطاقاتها الدلالية",
+            "المثاني كنظام بنائي ودلالي"
+          ]
+        },
+        {
+          "title": "التفاعل مع السياق",
+          "chapters": [
+            "تحليل سياق النزول وأثره",
+            "التفاعل الحيوي مع القصص القرآني"
+          ]
+        },
+        {
+          "title": "الاستناد إلى المخطوطات",
+          "chapters": [
+            "شواهد المخطوطات القرآنية الأصلية",
+            "النظام العددي في القرآن"
+          ]
+        },
+        {
+          "title": "التدبر العقلي والمقاصد",
+          "chapters": [
+            "العقل كأداة للتدبر",
+            "الانسجام مع المقاصد الكلية وتطبيقات الواقع"
+          ]
+        }
+      ],
+      "goal": "وضع مبادئ تأسيسية لفهم اللسان العربي القرآني من خلال منهجية فقه اللسان، لتجاوز الفهم السطحي والكشف عن النظام الداخلي المحكم للنص القرآني"
+    }
+  }
+}

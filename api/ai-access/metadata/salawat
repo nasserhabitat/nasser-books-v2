@@ -1,0 +1,77 @@
+  {
+    "id": "salawat",
+    "titles": {
+      "ar": " الصلاة على النبي من الترديد الآلي إلى النصرة الوجودية ",
+      "en": " Salawat: From Automatic Ritual to Existential Presence "
+    },
+    "description": {
+      "ar": " الصلاة على النبي: من اللفظ إلى المعنى… ومن المعنى إلى الشهود ",
+      "en": " Reclaiming the Spiritual Reality of Honoring the Divine Messenger "
+    },
+    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/salawat/ar/cover-ar.png",
+    "ar": {
+      "docx": "https://drive.google.com/uc?export=download&id=1RYYnFjWC_NGtM7U5ARKMg4I864jNpMuY ", 
+      "pdf_direct": "books/salawat/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1W_CWrU2jtISMoJnNPD2D5yWQKVcZpwQD ",
+      "html": "https://drive.google.com/uc?export=download&id=1lunKVBJpSv9oJpPYhj0ALCfV7BXHGR7z ",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1LJ9JpzjFpxUws8okrsJgEnZKypWz2Ys6 ",
+      "txt_direct": "books/salawat/ar/content.txt",
+      "cover": "books/salawat/ar/cover-ar.png",
+      "archive": " https://archive.org/details/content_202603 "
+    },
+    "en": {
+      "docx": "https://drive.google.com/uc?export=download&id=1EFRb37hqKRM-9GgwEeafESTixCgU1oy8 ",
+      "pdf_direct": "books/salawat/en/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1jgZuOVedjrcm6YzkVuFOkfjGs8G9mQfI -",
+      "html": "https://drive.google.com/uc?export=download&id=1egjJtIVtKIZuP1_rtWJHh33OPYbUP2u8 ",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1T5uu7TE2JSu5yhwd9rJpP3vRSLOKc-7X ",
+      "txt_direct": "books/salawat/en/content.txt",
+      "cover": "books/salawat/en/cover-en.png",
+      "archive": " https://archive.org/details/content_20260310 "
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 69,
+      "pages_en": 14,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+  "topics_ar": [
+    "الصلاة على النبي",
+    "النصرة الوجودية",
+    "التدبر القرآني",
+    "الوعي الإسلامي",
+    "سورة الأحزاب",
+    "مقام النبوة",
+    "التجديد الديني",
+    "الترديد الآلي",
+    "القيم النبوية",
+    "الشهود الحضاري",
+    "فقه اللسان",
+    "الإصلاح الفكري",
+    "الأخلاق الإسلامية",
+    "الاتباع الواعي",
+    "الفلسفة الوجودية الإسلامية"
+  ],
+  "topics_en": [
+    "Salawat",
+    "Existential Victory",
+    "Quranic Contemplation",
+    "Islamic Consciousness",
+    "Surah Al-Ahzab",
+    "Prophetic Status",
+    "Religious Renewal",
+    "Mechanical Recitation",
+    "Prophetic Values",
+    "Civilizational Witnessing",
+    "Linguistic Jurisprudence",
+    "Intellectual Reform",
+    "Islamic Ethics",
+    "Conscious Following",
+    "Islamic Existentialism"
+  ]
+}
+  },
+

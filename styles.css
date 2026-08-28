@@ -1,0 +1,306 @@
+/* styles.css - الأنماط الأساسية والشبكة */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #f8f9fa;
+    line-height: 1.6;
+}
+
+/* تنسيق عام للغة العربية */
+[dir="rtl"] {
+    text-align: right;
+}
+
+[dir="ltr"] {
+    text-align: left;
+}
+
+/* الحاويات */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* الأقسام */
+.language-section {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 25px 0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.language-section h2 {
+    color: #2c5f8a;
+    border-bottom: 3px solid #2c5f8a;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* الرأس والتذييل */
+header {
+    background: linear-gradient(135deg, #2c5f8a, #3a7bb8);
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+header a {
+    color: white;
+    text-decoration: underline;
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+footer a {
+    color: #4da6ff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* === شبكة الكتب (3 أعمدة) === */
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* بطاقة الكتاب */
+.book-card {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    border: 1px solid #eaeaea;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+/* صورة الغلاف */
+.book-cover {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.book-cover img {
+    width: 180px;
+    height: 250px;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    background: #f8f9fa;
+    border: 1px solid #eee;
+}
+
+/* معلومات الكتاب */
+.book-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.book-info h2 {
+    color: #2c5f8a;
+    margin: 0 0 12px 0;
+    font-size: 1.3rem;
+    line-height: 1.4;
+}
+
+.book-meta {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+}
+
+.book-desc {
+    color: #555;
+    line-height: 1.5;
+    margin: 10px 0 15px;
+    font-size: 0.95rem;
+}
+
+/* أزرار التحميل */
+.download-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 15px 0 10px;
+}
+
+.download-link {
+    display: inline-block;
+    padding: 6px 12px;
+    background: #2c5f8a;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    transition: all 0.3s;
+}
+
+.download-link:hover {
+    background: #1e4568;
+}
+
+.btn {
+    display: inline-block;
+    padding: 8px 16px;
+    background: #3a7bb8;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 500;
+    transition: all 0.3s;
+    margin-bottom: 10px;
+}
+
+.btn:hover {
+    background: #2c5f8a;
+}
+
+/* توجيه النص حسب اللغة */
+.book-card[data-lang="ar"] {
+    direction: rtl;
+    text-align: right;
+}
+
+.book-card[data-lang="en"] {
+    direction: ltr;
+    text-align: left;
+}
+
+/* أزرار التصفية */
+.filter-controls {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.filter-btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    border: 2px solid #2c5f8a;
+    background: white;
+    color: #2c5f8a;
+    border-radius: 8px;
+    transition: all 0.3s;
+}
+
+.filter-btn.active,
+.filter-btn:hover {
+    background: #2c5f8a;
+    color: white;
+}
+
+/* تحسينات الاستجابة */
+@media (max-width: 1024px) {
+    .book-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .book-grid {
+        grid-template-columns: 1fr;
+    }
+    .book-cover img {
+        width: 150px;
+        height: 210px;
+    }
+    body {
+        padding: 15px;
+    }
+}
+
+/* أنماط أزرار المكتبة في الصفحة الرئيسية */
+.library-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin: 40px 0;
+}
+
+.library-card {
+    background: white;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+    width: 280px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+    text-decoration: none;
+    color: inherit;
+}
+
+.library-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 35px rgba(0,0,0,0.15);
+}
+
+.library-icon {
+    font-size: 4rem;
+    margin-bottom: 15px;
+}
+
+.library-card h3 {
+    color: #2c5f8a;
+    font-size: 1.8rem;
+    margin: 10px 0;
+}
+
+.book-count {
+    display: inline-block;
+    background: #2c5f8a;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 30px;
+    font-size: 0.9rem;
+    margin-top: 15px;
+}
+
+/* توجيهات الذكاء الاصطناعي والمميزات */
+.promo-card, .guideline-item, .feature-item {
+    transition: transform 0.3s;
+}
+.promo-card:hover { transform: translateY(-10px); }
+@media (max-width: 768px) {
+    .promotion-grid, .guidelines-grid { grid-template-columns: 1fr; }
+    .features-grid { grid-template-columns: repeat(2, 1fr); }
+}

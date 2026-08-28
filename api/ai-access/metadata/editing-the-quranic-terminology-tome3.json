@@ -1,0 +1,126 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books":82,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 82 كتابًا (41 كتابًا باللغة العربية و41 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+   
+      "id": "editing-the-quranic-terminology-tome3",
+      "titles": {
+        "ar": "تحرير المصطلح القرآني: دراسة تطبيقية في فقه اللسان القرآني - المجلد 3",
+        "en": "Clarifying the Qur'anic Terminology: An Applied Study in the Jurisprudence of the Qur'anic Tongue - Tome 3"
+      },
+      "description": {
+        "ar": "دراسة تطبيقية في فقه اللسان القرآني، المجلد الثالث",
+        "en": "An applied study in the jurisprudence of the Qur'anic tongue, Tome 3"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/editing-the-quranic-terminology-tome3/ar/cover-ar.png",
+      "links": {
+        "ar": {
+                 "docx": "https://drive.google.com/uc?export=download&id=1ZBfjTTkFKQqhYYTYslNgHYQ0hcLxFCcp",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1AxcDCaF3eko71MMh9DFvWMkXACEBRIyh",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1AxcDCaF3eko71MMh9DFvWMkXACEBRIyh",
+        "html": "https://drive.google.com/uc?export=download&id=1hzPkLEVEZ_ejzUsHoiPlpPp0BkBnxTO2",
+        "txt_external": "https://drive.google.com/uc?export=download&id=19VRBRp30lVRbl8mp1gUuKeJFLc6DFs9I",
+        "txt_direct": "books/editing-the-quranic-terminology-tome3/ar/content.txt",
+        "cover": "books/editing-the-quranic-terminology-tome3/ar/cover-ar.png",
+        "archive": "https://archive.org/details/3_20250724"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1ZBfjTTkFKQqhYYTYslNgHYQ0hcLxFCcp",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1AxcDCaF3eko71MMh9DFvWMkXACEBRIyh",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1AxcDCaF3eko71MMh9DFvWMkXACEBRIyh",
+        "html": "https://drive.google.com/uc?export=download&id=1hzPkLEVEZ_ejzUsHoiPlpPp0BkBnxTO2",
+        "txt_external": "https://drive.google.com/uc?export=download&id=19VRBRp30lVRbl8mp1gUuKeJFLc6DFs9I",
+        "txt_direct": "books/editing-the-quranic-terminology-tome3/en/content.txt",
+        "cover": "books/editing-the-quranic-terminology-tome3/en/cover-en.png",
+        "archive": "https://archive.org/details/editing-the-qur-anic-term-an-applied-study-in-the-jurisprudence-of-the-qur-anic-_20250802"
+      }
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "pages_ar": 229,
+        "pages_en": 315,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": ["تغيير المفاهيم", "المصطلحات القرآنية", "فقه اللسان القرآني", "التدبر القرآني", "المخطوطات القرآنية الأصلية", "الرقمنة", "الوعي", "الإصلاح والتجديد", "القرآن الكريم", "السنة النبوية", "الربوبية والألوهية", "النفس في القرآن", "العبادة", "القيم القرآنية", "التفكير النقدي", "الذكاء والفطرة", "الشرك والتوحيد", "الكون والإنسان", "القيامة واليوم الآخر", "الجنة والنار", "الآيات الكونية", "البيانات", "المصداق القرآني", "الحروف المقطعة", "النسخ", "الجن والشياطين", "الأعداد في القرآن", "القصص القرآني", "القتل والقتال", "بنو إسرائيل", "الخلافة الإنسانية", "الزوج والأزواج", "الرجال والنساء", "القبلة", "المسجد الحرام والمسجد الأقصى", "الكذب", "الحلال والحرام", "الضحك والبكاء", "الصيد", "حجر", "اليقين", "الذكر", "الدعاء", "الرزق", "الميزان", "الجلد والجلود", "البعوضة", "الاستغفار", "العرش والماء", "الخلق والتصوير", "البشر والإنسان", "الخيل والبغال والحمير", "المليكة والملائكة والروح", "الأمة الوسط", "السفه", "الشرق والغرب", "الصراط المستقيم", "اللغة العربية ولسان القرآن", "الفيل", "الرحيم", "إحياء البلد", "كلام الله", "رؤية الله", "التسليم", "الساعة", "الموتى والأموات", "الأصنام الفكرية", "الفجر", "القرآن نهر جارٍ", "استشعار معاني الحروف"],
+        "topics_en": ["Changing Concepts", "Quranic Terminology", "Jurisprudence of the Qur'anic Tongue", "Quranic Contemplation", "Original Qur'anic Manuscripts", "Digitization", "Awareness", "Reform and Renewal", "The Holy Qur'an (as a One and Sufficient Source)", "The Sunnah of the Prophet (and the Methodology of Critical Dealing)", "Lordship and Divinity", "The Soul in the Qur'an", "Worship (Prayer", "Fasting", "Hajj", "Praise)", "Quranic Values (Justice", "Mercy", "Charity)", "Critical Thinking", "Intelligence and Instinct", "Shirk and Monotheism", "Universe and Man", "Resurrection and the Last Day", "Paradise and Hell", "Cosmic Verses", "Data (as a Quranic concept)", "Quranic authentication", "broken letters", "abrogation (in its new meaning)", "jinn and demons (correction of concepts)", "numbers in the Qur'an", "Quranic stories (sura Yusuf as a model)", "killing and fighting (deconstructing concepts)", "children of Israel (conceptual perspective)", "human succession", "husband and couples (functional understanding)", "men and women (functional understanding)", "qibla (compass of life)", "the Grand Mosque and the Al-Aqsa Mosque (symbols of consciousness)", "lying", "halal and haram", "laughing and crying", "hunting", "stone", "Certainty", "Dhikr", "Dua'a", "Livelihood", "Libra", "Skin and skins", "Mosquito (as a Quranic parable)", "Seeking forgiveness", "Throne and water", "Creation and photography", "Humans and man", "Horses", "mules and donkeys", "King", "Angels and Spirit", "The Middle Nation", "Foolishness", "East and West", "The Straight Path", "Arabic Language and the Tongue of the Qur'an", "The Elephant", "The Most Merciful (The Name of Allah)", "The Revival of the Country", "The Word of God", "The Vision of God", "Delivery", "The Hour", "The Dead and the Dead", "Intellectual Idols", "Fajr", "The Qur'an is a Running River", "Sensing the meanings of the letters"],
+      "edition": "الثالثة - 2025",
+      "volume": 3,
+      "total_volumes": 3
+    },
+    "key_features": [
+      "دراسة تطبيقية متعمقة للمصطلحات القرآنية",
+      "منهجية جديدة في فهم اللسان القرآني",
+      "تحليل سياقي للآيات القرآنية",
+      "رؤية شاملة لفقه المصطلحات القرآنية",
+      "ربط المفاهيم القرآنية بالواقع المعاصر"
+    ],
+    "main_themes": [
+      "بناء النموذج المعرفي والحضاري: الخلافة الإنسانية",
+      "إعادة تعريف الكيان الإنساني: الروح، القلب، الفؤاد، النفس",
+      "تفكيك وإعادة بناء المنظومة الاجتماعية والأسرية",
+      "إعادة هيكلة المفاهيم الاقتصادية والأخلاقية: الرزق، الميزان، الربا",
+      "قراءة وجودية لمفاهيم الغيب والآخرة: الجنة، جهنم، الموت",
+      "تعميق المنهجية اللغوية والتدبرية: الحروف المقطعة، النسخ، التفسير"
+    ],
+    "digital_archive": "https://archive.org/details/20250724_20250724_0900",
+    "content_overview": {
+      "methodology": "منهجية تعتمد على الأسس النظرية والضوابط المنهجية لكتاب 'فقه اللسان القرآني' مع التركيز على التطبيق العملي لبناء منظومة فكرية وحياتية شاملة",
+      "main_sections": [
+        {
+          "title": "بناء النموذج المعرفي والحضاري",
+          "chapters": [
+            "مشروع الخلافة الإنساني: الغاية القرآنية للوجود",
+            "إعادة تعريف الكيان الإنساني: الروح، القلب، الفؤاد، النفس"
+          ]
+        },
+        {
+          "title": "تفكيك وإعادة بناء المنظومة الاجتماعية والأسرية",
+          "chapters": [
+            "العلاقات بين الجنسين: الرجال والنساء كشراكة وظيفية",
+            "الزواج والطلاق: إعادة تعريف النكاح والشراكة المؤسسية"
+          ]
+        },
+        {
+          "title": "إعادة هيكلة المفاهيم الاقتصادية والأخلاقية",
+          "chapters": [
+            "مفهوم الرزق: من العطاء المادي إلى الفيض المعرفي",
+            "ميزان الحياة: إعادة تعريف الربا والزنا كخلل كوني"
+          ]
+        },
+        {
+          "title": "قراءة وجودية لمفاهيم الغيب والآخرة",
+          "chapters": [
+            "الجنة وجهنم: حالات وجودية ونفسية في الحياة الدنيا",
+            "الموت والحياة: تفسير الموت الروحي والفكري"
+          ]
+        },
+        {
+          "title": "تعميق المنهجية اللغوية والتدبرية",
+          "chapters": [
+            "شفرات قرآنية: الحروف المقطعة (كهيعص) والنسخ",
+            "الإنزال والتنزيل: الفرق بين التفسير والتأويل والتدبر",
+            "دعوة للتحرر الفكري: اخلع نعليك في تدبر القرآن"
+          ]
+        }
+      ],
+      "goal": "تتويج مشروع 'تحرير المصطلح القرآني' من خلال تقديم إطار فكري وحياتي شامل يربط المفاهيم القرآنية بالواقع المعاصر، مع دعوة للتحرر الفكري ورقمنة المخطوطات لتمكين فهم أصيل للقرآن"
+    }
+  }
+}

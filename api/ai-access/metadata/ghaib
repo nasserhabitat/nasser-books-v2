@@ -1,0 +1,76 @@
+{
+  "id": "ghaib",
+  "titles": {
+    "ar": "إعادة تعريف \"أحداث الغيب\" بوصفها قوانين بنيوية فاعلة في الوعي والواقع",
+    "en": "Redefining \"Ghaib Events\" as Functional Structural Laws in Consciousness and Reality"
+  },
+  "description": {
+    "ar": "من الغيب المؤجَّل إلى القانون الفاعل",
+    "en": "The Shift from Narrative to System"
+  },
+  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/ghaib/ar/cover-ar.png",
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=1xdEtnyF2bMOBvX2jBpS21dWTXHY_tSS0",
+    "pdf_direct": "books/ghaib/ar/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1kVN96TkzagJ_LhSuMX_kBda7tVZwIwWA wiL7o3kKBX2gnBuc",
+    "html": "https://drive.google.com/uc?export=download&id=1Sftrx39kdAfeqHyhgJ5LuPPLo99udaNt",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1TzEZ_uswDrSXMbBbzmSMEOCIkg2xDjwr",
+    "txt_direct": "books/ghaib/ar/content.txt",
+    "cover": "books/ghaib/ar/cover-ar.png",
+    "archive": "https://archive.org/details/content_20260409_1822"
+  },
+  "en": {
+    "docx": "https://drive.google.com/uc?export=download&id=1NbA4Fhk4yEhmqK4vWa1YZBt8ybtItLB8",
+    "pdf_direct": "books/ghaib/en/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1n3Qkx8Hjv_1Iz6KcJDwz8Dae42GiZts6",
+    "html": "https://drive.google.com/uc?export=download&id=1mgWkncMlsrZGw-_913_e6fSx5R05lpTB",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1SKB_TmP5pEIOYyDpqQDzdcqWVJtt14jy",
+    "txt_direct": "books/ghaib/en/content.txt",
+    "cover": "books/ghaib/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20260416"
+  },
+  "metadata": {
+    "author": "Nasser Ibn Dawood",
+    "category": "faith_studies",
+    "pages_ar": 118,
+    "pages_en": 4,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": [
+      "أحداث الغيب",
+      "القوانين البنيوية",
+      "الوعي والواقع",
+      "الهندسة اللسانية",
+      "اللسان القرآني",
+      "القراءة البنيوية",
+      "المنظومة الدلالية",
+      "السنن الكونية",
+      "هندسة الاتجاه",
+      "التفسير الوظيفي",
+      "الأنظمة المعرفية",
+      "كثافة المعنى",
+      "التشغيل البنيوي",
+      "ميكانيكا اتخاذ القرار",
+      "الهندسة السلوكية"
+    ],
+    "topics_en": [
+      "Ghaib Events",
+      "Structural Laws",
+      "Consciousness and Reality",
+      "Linguistic Engineering",
+      "Quranic Tongue",
+      "Structural Reading",
+      "Semantic System",
+      "Universal Sunan",
+      "Direction Engineering",
+      "Functional Interpretation",
+      "Cognitive Systems",
+      "Meaning Density",
+      "Structural Operation",
+      "Decision Making Mechanics",
+      "Behavioral Engineering"
+    ]
+  }
+}

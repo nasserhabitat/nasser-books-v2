@@ -1,0 +1,107 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books":82,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 82 كتابًا (41 كتابًا باللغة العربية و41 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "books": [
+    {
+     
+      "id": "contemplation-in-the-mirror",
+      "titles": {
+        "ar": "التدبر في مرآة الرسوم",
+        "en": "Contemplation in the Mirror of Drawings"
+      },
+      "description": {
+        "ar": "تطبيقات عملية للمخطوطات الرقمية في تدبر القرآن الكريم",
+        "en": "Practical applications of digital manuscripts in the contemplation of the Quran"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/contemplation-in-the-mirror/ar/cover-ar.png",
+      "links": {
+        "ar": {
+                 "docx": "https://drive.google.com/uc?export=download&id=1tcl8cfKV58JbCmZ4iMJ92YpkMW12l7f1",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1Ag4-dwddc2EqVV8ijZBmvOiLc_pmZPGZ",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1Ag4-dwddc2EqVV8ijZBmvOiLc_pmZPGZ",
+        "html": "https://drive.google.com/uc?export=download&id=1GYo1Qabj6ZoRIX_x4E8hf4_iZ0StNS1Y",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1xXMuTe5wXd1gi9sMxSKZXX2oYcpX5EfW",
+        "txt_direct": "books/contemplation-in-the-mirror/ar/content.txt",
+        "cover": "books/contemplation-in-the-mirror/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20250529_20250529_2006"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1Tgzt70R-az2BPBKlvz_Xu9Kzb_Sx8aFi",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1bz3GlhzT-arP_5hsu_EUMJfksSQ5AOGc",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1bz3GlhzT-arP_5hsu_EUMJfksSQ5AOGc",
+        "html": "https://drive.google.com/uc?export=download&id=1XDF6eAHoC4WbZXygZZzf_dMD4L2u3VPp",
+        "txt_external": "https://drive.google.com/uc?export=download&id=125pGBM7XANEUErNS8ROKKh_P2Gqo2AcU",
+        "txt_direct": "books/contemplation-in-the-mirror/en/content.txt",
+        "cover": "books/contemplation-in-the-mirror/en/cover-en.png",
+        "archive": "https://archive.org/details/contemplation-in-the-mirror-of-drawings-practical-applications-of-digital-manusc"
+      }
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "pages_ar": 251,
+        "pages_en": 254,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": ["التدبر في مرآة الرسوم", "المخطوطات الرقمية", "تدبر القرآن", "الرسم العثماني", "تطبيقات عملية للقرآن", "فهم القرآن", "أسرار الرسم العثماني", "نور المخطوطات الرقمية", "أنوار البيان", "جداول المعاني", "ناصر ابن داوود"],
+        "topics_en": ["Reflecting on the Mirror of Drawings", "Digital Manuscripts", "Reflecting on the Qur'an", "Ottoman Calligraphy", "Practical Applications of the Qur'an", "Understanding the Qur'an", "Secrets of Ottoman Calligraphy", "Light of Digital Manuscripts", "Lights of Explanation", "Tables of Meanings", "Nasser Ibn Dawood"],
+        "content_overview": {
+        "methodology": "منهجية تجمع بين دراسة المخطوطات القرآنية القديمة والتحليل الرقمي الحديث لفهم أعمق للنص القرآني",
+        "main_sections": [
+          {
+            "title": "الرسم العثماني والمخطوطات",
+            "topics": [
+              "الرسم العثماني: حماية أزلية للنص القرآني",
+              "المخطوطة الرقمية الشخصية",
+              "خصائص الرسم العثماني",
+              "تحليل لغوي لسورة التحريم"
+            ]
+          },
+          {
+            "title": "منهجيات التدبر",
+            "topics": [
+              "مبادئ توجيهية لفهم ثوري",
+              "التدبر بين الإجماع والتفرد",
+              "القرآن من المعنى إلى المبنى",
+              "ضوابط فهم الآيات المتشابهة"
+            ]
+          },
+          {
+            "title": "التطبيقات العملية",
+            "topics": [
+              "أمثلة تطبيقية على تدبر الآيات المتشابهة",
+              "منهج تفسير القرآن بالقرآن",
+              "تدبر القصص القرآني",
+              "تدبر آيات الأحكام"
+            ]
+          },
+          {
+            "title": "الأدوات والتقنيات",
+            "topics": [
+              "الأدوات الأساسية لتدبر القرآن",
+              "دور التكنولوجيا في تسهيل التدبر",
+              "التدبر الجماعي",
+              "جدول عملي للتدبر"
+            ]
+          }
+        ],
+        "goal": "تقديم منهجية متكاملة لل التعامل مع القرآن الكريم في ضوء المخطوطات القديمة والتقنيات الحديثة، لإحياء علاقة الأمة بكتابها عبر فهم أعمق يستلهم التراث ويتجاوزه باستخدام أدوات العصر"
+      }
+    }
+  }

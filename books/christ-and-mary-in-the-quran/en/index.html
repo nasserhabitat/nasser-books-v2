@@ -1,0 +1,535 @@
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christ and Mary in the Qur'an | Nasser Ibn Dawood Library</title>
+    <meta name="description" content="From the Esoteric Symbol to the Human Model - By Nasser Ibn Dawood">
+    
+    <!-- Schema.org markup for the book -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Christ and Mary in the Qur'an: From the Esoteric Symbol to the Human Model",
+    "author": {
+        "@type": "Person",
+        "name": "Dr. Nasser Ibn Dawood",
+        "email": "nasserhabitat@gmail.com",
+        "jobTitle": "Islamic Researcher and Engineer",
+        "url": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "publisher": {
+        "@type": "Organization", 
+        "name": "Nasser Ibn Dawood Library",
+        "url": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "datePublished": "2025",
+    "bookEdition": "First Edition",
+    "bookFormat": "https://schema.org/EBook",
+    "inLanguage": "en",
+    "description": "A deep esoteric reading of the story of Christ and Mary in the Qur'an, presenting the methodology of Fiqh of the Qur'anic Language as a tool for contemplation and psychological analysis",
+    "genre": ["Islamic Studies", "Quranic Exegesis", "Esoteric Interpretation", "Psychological Analysis"],
+    "isAccessibleForFree": true,
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "numberOfPages": 94,
+    "url": "https://nasserhabitat.github.io/nasser-books/books/christ-and-mary-in-quran/en/",
+    "image": "https://nasserhabitat.github.io/nasser-books/books/christ-and-mary-in-quran/en/cover-en.png",
+    "keywords": "Qur'an, Christ, Mary, Esoteric Interpretation, Fiqh of the Qur'anic Language, Quranic Symbols",
+    "workExample": [
+        {
+            "@type": "Book",
+            "bookFormat": "https://schema.org/EBook",
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "name": "DOCX Version - Christ and Mary in the Qur'an",
+            "url": "https://drive.google.com/uc?export=download&id=1PYNGnn0lxRO40fia_FLUYg9iaKjocuAh"
+        },
+        {
+            "@type": "Book",
+            "bookFormat": "https://schema.org/EBook", 
+            "encodingFormat": "application/pdf",
+            "name": "PDF Version - Christ and Mary in the Qur'an",
+            "url": "https://drive.google.com/uc?export=download&id=1PU2hPmTCn6GnFJzZ0sxHhdSgYrfg9jC4"
+        },
+        {
+            "@type": "Book",
+            "bookFormat": "https://schema.org/EBook",
+            "encodingFormat": "text/plain", 
+            "name": "Plain Text Version - Christ and Mary in the Qur'an",
+            "url": "https://nasserhabitat.github.io/nasser-books/books/christ-and-mary-in-the-quran/en/content.txt"
+        },
+        {
+            "@type": "Book",
+            "bookFormat": "https://schema.org/EBook",
+            "name": "Archive.org Version - Christ and Mary in the Qur'an",
+            "url": "https://archive.org/details/20250529_20250529_2033"
+        }
+    ],
+    "translationOfWork": {
+        "@type": "Book",
+        "name": "المسيح ومريم في القرآن",
+        "inLanguage": "ar",
+        "url": "https://nasserhabitat.github.io/nasser-books/books/christ-and-mary-in-quran/ar/"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Fiqh of the Qur'anic Language"
+    },
+    "mentions": [
+        {
+            "@type": "Thing",
+            "name": "Esoteric Contemplation"
+        },
+        {
+            "@type": "Thing",
+            "name": "Quranic Symbols"
+        },
+        {
+            "@type": "Thing",
+            "name": "Psychological Analysis"
+        }
+    ]
+}
+</script>
+
+    <style>
+        :root {
+            --primary-color: #1a5f7a;
+            --secondary-color: #159895;
+            --accent-color: #57C5B6;
+            --light-color: #f8f9fa;
+            --dark-color: #212529;
+            --gray-color: #6c757d;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+            color: var(--dark-color);
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .hero {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 4rem 1rem;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .hero-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            font-weight: 700;
+        }
+        h2 {
+            color: var(--primary-color);
+            margin-top: 2rem;
+            font-weight: 600;
+        }
+        h3 {
+            color: var(--secondary-color);
+            border-bottom: 2px solid var(--secondary-color);
+            padding-bottom: 0.5rem;
+            margin-top: 1.5rem;
+            font-weight: 600;
+        }
+        .subtitle {
+            font-size: 1.4rem;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
+        .book-cover {
+            flex: 1;
+            min-width: 300px;
+            text-align: center;
+        }
+        .book-cover img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            border: 1px solid #ddd;
+        }
+        .book-details {
+            flex: 2;
+            min-width: 300px;
+        }
+        .btn {
+            display: inline-block;
+            background: var(--primary-color);
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            margin: 0.5rem;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+        .btn-secondary {
+            background: var(--secondary-color);
+        }
+        .btn-accent {
+            background: var(--accent-color);
+        }
+        .btn:hover {
+            opacity: 0.9;
+            transform: translateY(-2px);
+            box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+        }
+        .download-links {
+            margin: 1.5rem 0;
+            background: rgba(255,255,255,0.8);
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .download-links h4 {
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+        .download-link {
+            display: inline-block;
+            background: #f8f9fa;
+            color: var(--primary-color);
+            padding: 0.6rem 1rem;
+            margin: 0.3rem;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            border: 1px solid #ddd;
+            transition: all 0.3s ease;
+        }
+        .download-link:hover {
+            background: var(--primary-color);
+            color: white;
+            border-color: var(--primary-color);
+        }
+        .book-meta {
+            margin: 1.5rem 0;
+            background: rgba(255,255,255,0.8);
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .book-meta p {
+            margin: 0.5rem 0;
+        }
+        .book-description {
+            margin: 2rem 0;
+        }
+        .book-description p {
+            margin-bottom: 1.5rem;
+            text-align: justify;
+        }
+        .book-features {
+            background: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+            border-left: 4px solid var(--accent-color);
+        }
+        .book-features h3 {
+            color: var(--primary-color);
+            margin-top: 0;
+        }
+        .book-features ul {
+            padding-left: 20px;
+        }
+        .book-features li {
+            margin-bottom: 0.8rem;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+        .book-features li::before {
+            content: "•";
+            color: var(--primary-color);
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+        .toc {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .toc h2 {
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+        .toc-section {
+            margin-bottom: 1.5rem;
+        }
+        .toc-chapter {
+            margin-left: 1rem;
+            margin-bottom: 0.5rem;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+        .toc-chapter::before {
+            content: "•";
+            color: var(--primary-color);
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+        .site-footer {
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+            background: var(--dark-color);
+            color: white;
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+        .section-divider {
+            border-top: 1px solid #eee;
+            margin: 2rem 0;
+        }
+        .volume-description {
+            background: #f0f7ff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+            border-left: 4px solid var(--accent-color);
+        }
+        .conclusion {
+            background: #f0f7ff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+            border-left: 4px solid var(--primary-color);
+        }
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+            h1 {
+                font-size: 2rem;
+            }
+            .subtitle {
+                font-size: 1.2rem;
+            }
+            .hero {
+                padding: 2.5rem 1rem;
+            }
+            .download-link {
+                display: block;
+                margin: 0.5rem 0;
+                text-align: center;
+            }
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Segoe+UI:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Christ and Mary in the Qur'an</h1>
+            <p class="subtitle">From the Esoteric Symbol to the Human Model</p>
+        </div>
+    </header>
+    
+    <main class="container">
+        <section class="book-cover">
+            <div class="cover-container">
+                <img src="cover-en.png"
+                     alt="Cover of Christ and Mary in the Qur'an - By Nasser Ibn Dawood"
+                     loading="lazy"
+                     width="300"
+                     height="400"
+                     decoding="async">
+            </div>
+            
+            <div class="book-actions">
+                <a href="https://archive.org/details/20250529_20250529_2033" 
+                   class="btn" 
+                   target="_blank" 
+                   rel="noopener noreferrer">
+                    Read on Archive.org
+                </a>
+                <a href="../ar/" class="btn btn-secondary">
+                    Arabic Version
+                </a>
+                <a href="https://nasserhabitat.github.io/nasser-books/" class="btn btn-accent">
+                    Back to Books
+                </a>
+            </div>
+            
+            <div class="download-links">
+                <h4>📥 Direct Download Links</h4>
+                <a href="https://drive.google.com/uc?export=download&id=1PYNGnn0lxRO40fia_FLUYg9iaKjocuAh" 
+                   class="download-link" target="_blank">📄 DOCX</a>
+                <a href="https://drive.google.com/uc?export=download&id=1PU2hPmTCn6GnFJzZ0sxHhdSgYrfg9jC4" 
+                   class="download-link" target="_blank">📖 PDF</a>
+                <a href="https://nasserhabitat.github.io/nasser-books/books/christ-and-mary-in-the-quran/en/content.txt" 
+                   class="download-link" target="_blank">📝 Plain Text</a>
+                <a href="https://archive.org/details/20250529_20250529_2033" 
+                   class="download-link" target="_blank">🌐 Archive.org</a>
+            </div>
+            
+            <div class="book-meta">
+                <p><strong>Author:</strong> Nasser Ibn Dawood</p>
+                <p><strong>Edition:</strong> First Edition - 2025</p>
+                <p><strong>Pages:</strong> 94 pages</p>
+                <p><strong>Category:</strong> Islamic Studies, Quranic Exegesis, Esoteric Interpretation</p>
+                <p><strong>Language:</strong> English</p>
+            </div>
+        </section>
+        
+        <section class="book-details">
+            <div class="book-description">
+                <h2>Book Description</h2>
+                <p>This book is not an interpretation, but an invitation to journey into the depths of the "clear Arabic tongue," not merely as a language, but as a divine code and a unique cognitive system. It is an attempt to delve into the "unclear" meanings that elude a superficial, literal reading, to discover how the story of Christ and his mother, Mary, is not merely a historical event, but a living roadmap for every human soul yearning for the birth of a new consciousness.</p>
+                
+                <p>It is a journey to learn how to be "Mary" in the courage to reject outdated intellectual legacies, and how to revive the "Christ" hidden deep within us, so that we may be a revival program in our reality, and a force that erases the ignorance of minds and the deadness of hearts. Are you ready to contemplate what has not been revealed to many?</p>
+                
+                <p>The series at hand—"Christ and Mary in the Qur'an: From the Esoteric Symbol to the Human Model"—is a practical outcome of a broader methodology we call "Fiqh of the Qur'anic Language." The esoteric contemplation it employs is one of the most significant branches of this fiqh, diving deepest into the text's core. It stems from a firm conviction that the Qur'an is not a linear, closed text, but an open universe of meanings, a unique linguistic and cognitive system with a rigorous and purposeful internal structure.</p>
+            </div>
+
+            <div class="volume-description">
+                <h3>Methodological Vision of the Book</h3>
+                <p>This book presents the methodology of "Fiqh of the Qur'anic Language" as a comprehensive framework for understanding the symbols and esoteric layers of the Qur'anic text. The author relies on psychological and cognitive analysis of the characters of Christ and Mary, offering a contemporary reading that transcends literal interpretation to a deeper understanding that connects Qur'anic symbols with human application.</p>
+                
+                <p>The book serves as a practical workshop for esoteric contemplation, guiding the reader from the historical level of the story to its existential and human dimensions, revealing how the story of Christ and Mary can be a roadmap for every individual in their journey toward consciousness and liberation.</p>
+            </div>
+            
+            <div class="book-features">
+                <h3>Key Features of the Book:</h3>
+                <ul>
+                    <li>Deep esoteric reading of the story of Christ and Mary in the Qur'an</li>
+                    <li>Methodology of "Fiqh of the Qur'anic Language" as a tool for contemplation</li>
+                    <li>Psychological and cognitive analysis of the Virgin Mary's character</li>
+                    <li>Contemporary symbolic reading of Christ's miracles</li>
+                    <li>Connecting Qur'anic symbols to practical application in life</li>
+                    <li>Reflective workshop for applying concepts</li>
+                    <li>Addressing the traditional mind with dialogue, not conflict</li>
+                    <li>Focused study in 94 pages, rich with insights</li>
+                </ul>
+            </div>
+
+            <div class="toc">
+                <h2>Table of Contents</h2>
+                
+                <div class="toc-section">
+                    <h3>Introduction and Methodological Foundations</h3>
+                    <div class="toc-chapter">Introduction to the Book: From the Esoteric Symbol to the Human Model</div>
+                    <div class="toc-chapter">Methodological Introduction: Foundations and Controls of Esoteric Contemplation</div>
+                    <div class="toc-chapter">A New Integrated Methodological Summary: Towards a New Jurisprudence of the Qur'anic Language</div>
+                    <div class="toc-chapter">Addressing the Traditional Mind: Dialogue, Not Conflict</div>
+                </div>
+                
+                <div class="toc-section">
+                    <h3>Mary: Psychological and Symbolic Analysis</h3>
+                    <div class="toc-chapter">The Virgin Mary: A Psychological Analysis of a Character Shaped by Trauma and Isolation</div>
+                    <div class="toc-chapter">Mary the Rebel: Withdrawal, the Veil, and Virgin Birth as Symbols of Intellectual Liberation</div>
+                    <div class="toc-chapter">Hidden Treasures of the Qur'an: Understanding the Symbols of the "Mihrab" in Mary's Story</div>
+                </div>
+                
+                <div class="toc-section">
+                    <h3>Christ: The Revival Program</h3>
+                    <div class="toc-chapter">The Birth of Christ and His Miracles: A Contemporary Scientific Symbolic Reading</div>
+                    <div class="toc-chapter">The Meaning of "Messiah": The Divine Program to Wipe Out Ignorance and Revive Minds</div>
+                    <div class="toc-chapter">Divine Lift: Between Spiritual Gravity and Cosmic Laws</div>
+                    <div class="toc-chapter">The Word: The Divine Code Between Creation and Consciousness</div>
+                </div>
+                
+                <div class="toc-section">
+                    <h3>Advanced Symbols and Concepts</h3>
+                    <div class="toc-chapter">Christians in the Qur'anic Scale: From "Supporting God" to "Supporting Desire"</div>
+                    <div class="toc-chapter">Ansar Allah: The Qur'anic Model of Rightly-Guided Support</div>
+                    <div class="toc-chapter">Disjointed Letters and the Story of Al-Khidr: Esoteric Interpretation of the Qur'an</div>
+                    <div class="toc-chapter">The Heavenly Table: Food for the Body or Food for the Soul?</div>
+                </div>
+                
+                <div class="toc-section">
+                    <h3>Practical Applications</h3>
+                    <div class="toc-chapter">Reflective Workshop: How to Activate the Christ Program in Your Life?</div>
+                    <div class="toc-chapter">The Beautiful Names in the Message of Jesus and Mary</div>
+                    <div class="toc-chapter">From Historical Event to Renewable Spiritual Energy</div>
+                </div>
+            </div>
+
+            <div class="conclusion">
+                <h3>Conclusion: Be the Next Delegation</h3>
+                <p>At the conclusion of our journey through the hidden meanings in the story of Christ and Mary, we reach a point that is not the end, but rather the beginning of responsibility. Together, we have tried to dust off the timeless symbols of the Qur'an—not to count them, but to revive them in our reality.</p>
+                
+                <p>We began with "Mary"—that pure soul who taught us that the birth of the true "Word" requires a "mihrab" of inner silence, and the courage to withdraw from the noise of the world. We saw in her a model for every consciousness preparing to receive divine inspiration. Then "Christ" was revealed to us—not only as a historical miracle, but as a renewable "revival program" and a divine "Word" that carries within it the code of both knowledge and faith, and an invitation for every human to wipe away the genes of aggression from their soul and revive the dead lands of consciousness in their surroundings.</p>
+                
+                <p>This book was not written to be read, but to be lived. It is an explicit invitation for every reader to transcend the role of recipient, to become themselves a "coming delegation," carrying the torch of contemplation and reviving these meanings in their life.</p>
+            </div>
+            
+            <div class="book-features">
+                <h3>Who is This Book For?</h3>
+                <ul>
+                    <li><strong>Researchers in Qur'anic Studies:</strong> Those interested in esoteric and symbolic approaches to interpretation</li>
+                    <li><strong>Those Interested in Psychological Dimensions:</strong> Individuals studying the psychological aspects of Qur'anic characters</li>
+                    <li><strong>Seekers of Spiritual Knowledge:</strong> Those searching for a deeper understanding of Qur'anic symbols</li>
+                    <li><strong>Islamic Thinkers:</strong> Those interested in renewing religious discourse through textual understanding</li>
+                    <li><strong>General Readers:</strong> Those eager to build a living relationship with Qur'anic stories</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <p>© 2025 Nasser Ibn Dawood Library - All Rights Reserved</p>
+        <p>Islamic Researcher and Engineer Specializing in Digital Quranic Studies</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,102 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books":82,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 82 كتابًا (41 كتابًا باللغة العربية و41 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "books": [
+    {
+      
+      "id": "digitizing",
+      "titles": {
+        "ar": "رقمنة المخطوطات القرآنية",
+        "en": "Digitization of Quranic Manuscripts"
+      },
+      "description": {
+        "ar": "دراسة منهجية لحفظ النص القرآني رقمياً وتطبيقاته",
+        "en": "A methodological study for the digital preservation of the Quranic text and its applications"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/digitizing/ar/cover-ar.png",
+      "links": {
+        "ar": {
+                  "docx": "https://drive.google.com/uc?export=download&id=1ypThTzXrRhfh-gs9OS5GXBqzAvUwkWdS",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1IJ2FneZK2jB3ur5ZYrTU08EXFwWw9hvs",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1IJ2FneZK2jB3ur5ZYrTU08EXFwWw9hvs",
+        "html": "https://drive.google.com/uc?export=download&id=18vLE3iJJ3KHUT0AFOr_YFTXgIIMeaU8i",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1JkXjPUssUOeC9Qbt7eKNUj4xfl2aCtR_",
+        "txt_direct": "books/digitizing/ar/content.txt",
+        "cover": "books/digitizing/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20250529_20250529_2128"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1lYAVqfSfni-yPWBevh9_K0cveY-Zl9MA",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1zIw6MTJcOa2wEhbmTngwFTcxIBcbcLYS",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1zIw6MTJcOa2wEhbmTngwFTcxIBcbcLYS",
+        "html": "https://drive.google.com/uc?export=download&id=1sp_GiMD7ArS8Cg-kFPnKp_c0yXh7gYbf",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1pQixa3HYKKSrDLNcOgQJ5rupR90mflng",
+        "txt_direct": "books/digitizing/en/content.txt",
+        "cover": "books/digitizing/en/cover-en.png",
+        "archive": "https://archive.org/details/the-project-of-digitizing-the-original-manuscripts-of-the-holy-quran_202505"
+      }
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "digital_projects",
+        "pages_ar": 177,
+        "pages_en": 227,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": ["رقمنة المخطوطات القرآنية", "تدبر القرآن", "نهضة قرآنية رقمية", "فهم القرآن", "التكنولوجيا والقرآن", "المخطوطة الرقمية الشخصية", "الأصالة والمعاصرة", "التراث العلمي الإسلامي", "الذكاء الاصطناعي والقرآن", "مشروع قرآني", "تحديات رقمنة المخطوطات", "تسويق المشروع القرآني", "مستقبل التدبر القرآني", "نشر التدبرات", "بناء الثقة والشراكات", "التوعية والتثقيف"],
+        "topics_en": ["Digitization of Qur'anic manuscripts", "Qur'anic contemplation", "a digital Qur'anic renaissance", "understanding the Qur'an", "technology and the Qur'an", "the personal digital manuscript", "authenticity and modernity", "Islamic scientific heritage", "artificial intelligence and the Qur'an", "a Qur'anic project", "challenges of digitizing manuscripts", "marketing the Qur'anic project", "the future of Qur'anic contemplation", "disseminating contemplations", "building trust and partnerships", "awareness and education"],
+
+        "content_overview": {
+        "methodology": "دراسة تطبيقية تجمع بين تقنيات الرقمنة الحديثة والدراسات القرآنية لتطوير منهجية متكاملة لحفظ النص القرآني",
+        "data_sources": [
+          "المخطوطات القرآنية",
+          "مراجع التقنية الرقمية",
+          "أبحاث الحفظ الرقمي"
+        ],
+        "contribution": "تطوير منهجية متكاملة لرقمنة المخطوطات القرآنية مع ضمان الدقة والأصالة، وتوفير أدوات تحليلية لفهم النصوص",
+        "main_sections": [
+          {
+            "title": "أسس الرقمنة",
+            "topics": [
+              "مبادئ الحفظ الرقمي",
+              "تقنيات المسح الضوئي",
+              "معايير الجودة في الرقمنة"
+            ]
+          },
+          {
+            "title": "تحليل المخطوطات القرآنية",
+            "topics": [
+              "خصائص المخطوطات القرآنية",
+              "التحليل الرقمي للنصوص",
+              "دراسة حالات تطبيقية"
+            ]
+          },
+          {
+            "title": "التطبيقات العملية",
+            "topics": [
+              "إتاحة النصوص للأجيال القادمة",
+              "أدوات التحليل الرقمي",
+              "التكامل مع الدراسات القرآنية"
+            ]
+          }
+        ],
+        "goal": "تقديم منهجية متكاملة لرقمنة المخطوطات القرآنية للحفاظ على النص القرآني وجعله متاحًا للدراسة والتحليل باستخدام التقنيات الحديثة"
+      }
+    }
+ }

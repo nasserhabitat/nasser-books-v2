@@ -1,0 +1,87 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 42,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "the-quranic-consciousness-trinity-project",
+    "titles": {
+      "ar": "ثالوث الوعي القرآني - التسبيح، الحمد، والشكر",
+      "en": "The Quranic Consciousness Trinity Project From the Cosmic Order to Human Consciousness"
+    },
+    "description": {
+      "ar": "من النظام الكوني إلى الوعي الإنساني",
+      "en": "From the Cosmic Order to Human Consciousness"
+    },
+    "links": {
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1DcQyqfzrgFyo4yAnBqFte0y0lJU2k-Uz",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1GZmBrOshDqi2bOiJT18u0ZF8pJ-XouNb",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1GZmBrOshDqi2bOiJT18u0ZF8pJ-XouNb",
+        "html": "https://drive.google.com/uc?export=download&id=1gzJnJW6Zs5cDb_7uqZ1gGFsNoS3SGKAk",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1erMaFq1MKtOI4-ef0h_LattBKOzzes2t",
+        "txt_direct": "books/the-quranic-consciousness-trinity-project/ar/content.txt",
+        "cover": "books/the-quranic-consciousness-trinity-project/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20251111_20251111_2053"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1rdloJf2vSnRwxpHCFHmuczpdALQpeCli",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1zRPEPuL7gdC46YYIMiSXMCmjGSZ3124C",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1zRPEPuL7gdC46YYIMiSXMCmjGSZ3124C",
+        "html": "https://drive.google.com/uc?export=download&id=10ra48Sx7GLSe0gTmqMxSq6Fw_dBnr3mH",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1lk7wEwj8TGEKj28m1dX4TCQmxQ0YiC5P",
+        "txt_direct": "books/the-quranic-consciousness-trinity-project/en/content.txt",
+        "cover": "books/the-quranic-consciousness-trinity-project/en/cover-en.png",
+        "archive": "https://archive.org/details/20251111_20251111_2033"
+      },
+      "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 142,
+      "pages_en": 188,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+     "topics_ar": ["ثالوث الوعي", "التسبيح", "الحمد", "الشكر", "النظام الكوني", "الوعي الإنساني", "القرآن الكريم", "التدبر", "الفهم", "البصيرة", "الإدراك", "المعرفة", "العبادة", "المنهج", "الرحلة", "التكامل", "الترابط", "النظام", "التوازن"],
+      "topics_en": ["Glorification", "Praise", "Gratitude", "Quranic Consciousness", "Quranic Linguistic Jurisprudence", "Cosmic System", "Consciousness Programming", "Cosmic Operating System", "Effusion and Expansion", "Gratitude as the Law of Increase", "Disbelief and Ingratitude", "Vision and the Electrifying Shock", "Divine Support and Existential Update", "Muhammad and Ahmad", "Overarching Concepts", "Divine Laws", "Cycle of Cosmic Consciousness", "Practical Activation", "Daily Consciousness", "Remembrance and Movement", "Science and Sufism", "Ibn Arabi", "Reformation", "Life Methodology", "Cosmic Code", "Conscious Servitude"],
+      "edition": "الأولى - 2025",
+      "key_features": [
+        "تحليل عميق لثالوث الوعي القرآني: التسبيح، الحمد، والشكر",
+        "ربط بين النظام الكوني والوعي الإنساني",
+        "منهجية متكاملة لفهم العلاقة بين الخالق والمخلوق",
+        "تطبيقات عملية لتعزيز الوعي القرآني",
+        "تحليل العلاقة بين العبادات القلبية والسلوكيات العملية"
+      ],
+      "controversial_issues": [
+        "طبيعة الثالوث القرآني وعلاقته بالتوحيد",
+        "العلاقة بين النظام الكوني والوعي الإنساني",
+        "دور العبادات القلبية في تشكيل الوعي",
+        "التوازن بين الجوانب النظرية والعملية في الوعي القرآني"
+      ],
+      "digital_archive": "https://archive.org/details/20251111_20251111_2053"
+    },
+    "content_overview": {
+      "methodology": "منهجية متكاملة تجمع بين التحليل القرآني والتفكر الكوني والدراسة النفسية والروحية",
+      "sources": [
+        "القرآن الكريم",
+        "النظام الكوني والطبيعة",
+        "الدراسات النفسية والروحية",
+        "التراث الإسلامي في التزكية والسلوك"
+      ],
+      "applications": "تطبيقات عملية لتعزيز الوعي القرآني من خلال الثالوث الأساسي: التسبيح، الحمد، والشكر في الحياة اليومية"
+    }
+  }
+}

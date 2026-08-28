@@ -1,0 +1,100 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books":82,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 82 كتابًا (41 كتابًا باللغة العربية و41 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "anwar-al-bayan",
+    "titles": {
+      "ar": "أنوار البيان في رسم المصحف العثماني",
+      "en": "Anwar Al-Bayan in the Drawing of the Ottoman Quran"
+    },
+    "description": {
+      "ar": "دراسة علمية متعمقة للرسم العثماني وأسراره اللغوية في فهم القرآن الكريم. يقدم الكتاب منهجية متكاملة لفهم القرآن من خلال استكشاف العلاقة الوثيقة بين الرسم العثماني والتدبر العميق لمعاني القرآن.",
+      "en": "A scientific study revealing the linguistic secrets of the Ottoman Quranic script for understanding the Noble Quran. The book offers an integrated methodology to explore the deep connection between the Uthmanic script and profound Quranic contemplation."
+    },
+   
+      "links": {
+              "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1VjEJEjjrJbM7glhR2lHEsqB1L94t2XCu",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1rMSGwIltsrPSjT4RLoX8ds21MyB633i7",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1rMSGwIltsrPSjT4RLoX8ds21MyB633i7",
+        "html": "https://drive.google.com/uc?export=download&id=1OuuQzbqrCW9blAvWc2AIpHdM9sl4bYUB",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1O0uafxgb-EXpmiOZaNnLEx73okvilKZl",
+        "txt_direct": "books/anwar-al-bayan/ar/content.txt",
+        "cover": "books/anwar-al-bayan/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20250529_20250529_2033"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1TVOxURf1EI8Oq774aUANI7WRqbg5MbOi",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1kyDrHDpYAWA1G0KE8Ow5e5VIk-lbM6zZ",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1kyDrHDpYAWA1G0KE8Ow5e5VIk-lbM6zZ",
+        "html": "https://drive.google.com/uc?export=download&id=1s0x6gR0p7zfHuQIN7C8mpYT82NyHysEX",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1vo44VX03M_ZR-ISriWgqAteOrvG8HMu2",
+        "txt_direct": "books/anwar-al-bayan/en/content.txt",
+        "cover": "books/anwar-al-bayan/en/cover-en.png",
+        "archive": "https://archive.org/details/anwar-al-bayan-in-the-drawing-of-the-ottoman-qur-an-revealing-the-secrets-of-the-tongue"
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "pages_ar": 161,
+        "pages_en": 215,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": ["الرسم العثماني", "المصحف العثماني", "أسرار اللسان", "أنوار البيان", "تدبر القرآن", "المخطوطات الرقمية", "اللغة العربية", "علوم القرآن", "القرآن الكريم", "الفهم العميق", "الدراسات القرآنية", "التفسير", "الخط العربي", "الكتابة القرآنية"],
+        "topics_en": ["Uthmanic Script", "Qur'anic Orthography", "Qur'an", "Holy Quran", "Digital Manuscripts", "Linguistic Secrets", "Language", "Contemplation (Tadabbur)", "Quranic Understanding", "Arabic Language", "Islamic Studies", "Quranic Sciences", "Script Variations", "Quranic Meanings", "Arabic Calligraphy", "Orthography", "Manuscript Studies", "Unveiling Secrets", "Deeper Understanding"]
+               
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "pages_ar": 161,
+        "pages_en": 215,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics": ["الرسم العثماني", "المصحف العثماني", "أسرار اللسان", "أنوار البيان", "تدبر القرآن", "المخطوطات الرقمية", "اللغة العربية", "علوم القرآن", "القرآن الكريم", "الفهم العميق", "الدراسات القرآنية", "التفسير", "الخط العربي", "الكتابة القرآنية"],
+      "edition": "الأولى - 2025",
+      "key_features": [
+        "استلهام طريقة تدوين القرآن في المخطوطات القرآنية القديمة",
+        "تحليل دقيق للرسم العثماني والسياق القرآني",
+        "معالجة الأخطاء الشائعة في الرسم الإملائي الحديث",
+        "طريقة جديدة لترتيب كلمات القرآن متعددة الرسم",
+        "نماذج تطبيقية للتدبر القرآني"
+      ],
+      "controversial_issues": [
+        "الفرق بين 'كتاب' و'كُتُب'",
+        "معنى كلمة 'السموت'",
+        "تطور كتابة الهمزة",
+        "أثر التشكيل والتنقيط على الفهم"
+      ],
+      "digital_archive": "https://archive.org/details/20250529_20250529_2033"
+    },
+    "content_overview": {
+      "methodology": "منهجية متكاملة تجمع بين التحليل اللغوي والدراسة التاريخية والتطبيق العملي",
+      "sources": [
+        "مصحف صنعاء",
+        "مصحف طوب قابي",
+        "المخطوطات القرآنية القديمة",
+        "أصول اللغة العربية"
+      ],
+      "applications": "تطبيقات عملية لفهم القرآن من خلال العودة إلى الأصول والتسلح بمنهجية علمية متوازنة"
+    }
+  }
+}

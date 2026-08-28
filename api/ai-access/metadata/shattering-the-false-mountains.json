@@ -1,0 +1,61 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 42,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 58 كتابًا (29 كتابًا باللغة العربية و29 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+    {
+  "id": "shattering-the-false-mountains",
+  "titles": {
+    "ar": "نسف الجبال الضالة: رحلة الرضا من ليلة القدر إلى يوم الكشف",
+    "en": "Shattering the False Mountains: A Qur'anic Unmasking of Sacred Illusions"
+  },
+  "description": {
+    "ar": "رحلة الرضا من ليلة القدر إلى يوم الكشف",
+    "en": "A Qur'anic Unmasking of Sacred Illusions"
+  },
+  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/shattering-the-false-mountains/ar/cover-ar.png",
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=16NgM27SOSPZL5sk8MJaiKVTvhqlEp1YB",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1Ik4w0sYBWoy1x2nExT0r5jMgsegwvRiD",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1Ik4w0sYBWoy1x2nExT0r5jMgsegwvRiD",
+    "html": "https://drive.google.com/uc?export=download&id=1JUGX5fcsuucgmLr66krl-iYXEprmh0s5",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1WXBy6PNlelep8I_vaY_VlP83fb8SMsVd",
+    "txt_direct": "books/shattering-the-false-mountains/ar/content.txt",
+    "cover": "books/shattering-the-false-mountains/ar/cover-ar.png",
+    "archive": "https://archive.org/details/content_20260101"
+  },
+  "en": {
+    "docx": "https://drive.google.com/uc?export=download&id=1moIai_xqwnS8U1e452gAGxgjwmNcxMOD",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=17zNYP48FHbxDpWCmkQD9bONmSPBzlv2i",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=17zNYP48FHbxDpWCmkQD9bONmSPBzlv2i",
+    "html": "https://drive.google.com/uc?export=download&id=11ppZK4SOav8xebky5mOkyx8kxI3TDdRm",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1FT93tvO8-0Mglb0xyUsUaDruwze5jH73",
+    "txt_direct": "books/shattering-the-false-mountains/en/content.txt",
+    "cover": "books/shattering-the-false-mountains/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20260101_1857"
+  },
+  "metadata": {
+    "author": "ناصر ابن داوود",
+    "category": "faith_studies",
+    "pages_ar": 147,
+    "pages_en": 56,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": ["تفكيك", "اليقين الموروث", "الجبال الزائفة", "الاتساق المعرفي", "المسؤولية الأخلاقية", "المنهج الإبراهيمي", "الاستخلاف", "النقد الذاتي", "التحرر من الوهم", "البناء المنهجي", "الحقيقة القرآنية", "المساءلة", "الطمأنينة المعرفية", "النظم السيميائي", "الأخلاق الهيكلية"],
+    "topics_en": ["Deconstruction", "Inherited Certainty", "False Mountains", "Epistemological Consistency", "Ethical Responsibility", "The Abrahamic Method", "Succession", "Self-Criticism", "Liberation from Illusion", "Methodological Construction", "The Qur'anic Truth", "Accountability", "Epistemological Tranquility", "Semiotic Systems", "Structural Ethics"]
+                }
+            }

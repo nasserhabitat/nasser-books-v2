@@ -1,0 +1,99 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 42,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "numbers-as-legislation",
+    "titles": {
+      "ar": "الأعداد في القرآن: من الكم إلى الكيف، ومن الظاهر إلى الوعي",
+      "en": "Numbers in the Quran: From Quantity to Quality, and from the Apparent to the Conscious"
+    },
+    "description": {
+      "ar": "دراسة تحليلية للأعداد في القرآن الكريم ودلالاتها التشريعية والكونية",
+      "en": "An analytical study of numbers in the Holy Quran and their legislative and cosmic implications"
+    },
+    "links": {
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=174J_5To6m4vQGn7mt7RBLRvhFE7YDA0a",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1_4iL8F_KH5bSdrYIyvI5eCxDZ8UssEwl",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1_4iL8F_KH5bSdrYIyvI5eCxDZ8UssEwl",
+        "html": "https://drive.google.com/uc?export=download&id=1Hj2fJS3f3bD52YIdE7qKzwY97ByusieN",
+        "txt_external": "https://drive.google.com/uc?export=download&id=16hnypignaujO9at5pe7dO_jI6SzlwVHL",
+        "txt_direct": "books/numbers-as-legislation/ar/content.txt",
+        "cover": "books/numbers-as-legislation/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20251111_20251111_2049"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1MbKQNs4yvRQoY3bH3NoNBM2fKM57gwcn",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1_4iL8F_KH5bSdrYIyvI5eCxDZ8UssEwl",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1_4iL8F_KH5bSdrYIyvI5eCxDZ8UssEwl",
+        "html": "https://drive.google.com/uc?export=download&id=1Hj2fJS3f3bD52YIdE7qKzwY97ByusieN",
+        "txt_external": "https://drive.google.com/uc?export=download&id=16hnypignaujO9at5pe7dO_jI6SzlwVHL",
+        "txt_direct": "books/numbers-as-legislation/en/content.txt",
+        "cover": "books/numbers-as-legislation/en/cover-en.png",
+        "archive": "https://archive.org/details/20251111_20251111_2029"
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "pages_ar": 178,
+        "pages_en": 235,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": ["الأعداد", "الكم والكيف", "الوعي", "التشريع", "القرآن الكريم", "المنهج العددي", "الدلالات الرقمية", "الإحصاء", "النظام العددي", "الرقم سبعة", "الرقم تسعة عشر", "الأعداد الأولية", "الرياضيات القرآنية", "الإعجاز العددي", "التحليل الكمي", "التحليل النوعي", "الرموز العددية", "السنن الكونية", "القوانين الإلهية"],
+        "topics_en": ["Numbers in the Quran", "Jurisprudence of Numbers", "Numerical Consciousness", "Qualitative Number", "Quantitative Number", "Elucidation and Balance", "Quantity and Quality", "Apparent and Hidden", "Numerical Symbolism", "Speaking Existence", "Divine Balance", "Legislation and Creation", "Number as Spiritual Consciousness", "Witnessing and Counting", "Cosmic System", "Language of Revelation", "Large Numbers", "Humanity and the Mirror of Balance", "The Hour and the Moment of Unveiling", "Return to the Center", "Letter and Number", "Enumeration and Comprehension", "Quranic Linguistic Analysis", "Contextual and Teleological Reading", "Existential and Spiritual Meditation", "Disciplined Contemplation", "Jurisprudence of Language and Number", "System and Consciousness", "Spiritual Rhythms", "Jurisprudence of Balance", "Organizing Worship", "Regulating Relationships", "Establishing Recompense", "Cultivating Time Consciousness", "Geometry of Creation", "Cosmic Time", "Ranks of Manifestation", "Light and System", "Jurisprudence of Existence", "Layers of Creation", "The Throne and Its Bearers", "Collective Consciousness", "From Individual to Community", "Community and Nation", "Order and Harmony", "Relationship and Integration", "Shared Human Experience", "From Counting to Witnessing", "Numerical Stations", "Journey to God", "Remembrance and Witnessing", "Annihilation and Permanence", "Cosmic Sound", "Mirror of the Balance", "The One and The Unique", "Two and Duality", "Three and Pillars", "Four and Directions", "Five and the Unseen-Manifest", "Six and Gradualism", "Seven and Completion", "Eight and Expansion", "Nine and the Threshold", "Ten and Perfection", "Twelve and Community", "Nineteen and Trial", "Forty and Maturity", "Seventy and Mercy", "One Thousand and Eternity", "Numerical Inimitability", "Quranic Subtleties", "Thematic Exegesis", "Quranic Contemplation", "Philosophy of Number", "Numbers in Islam", "Symbolism in the Quran", "Existence and Creation", "Numerology", "Islamic Spirituality", "Esoteric Dimension of the Quran"],
+      }
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "quranic_studies",
+      "pages_ar": 178,
+      "pages_en": 235,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+      "topics": ["الأعداد", "الكم والكيف", "الوعي", "التشريع", "القرآن الكريم", "المنهج العددي", "الدلالات الرقمية", "الإحصاء", "النظام العددي", "الرقم سبعة", "الرقم تسعة عشر", "الأعداد الأولية", "الرياضيات القرآنية", "الإعجاز العددي", "التحليل الكمي", "التحليل النوعي", "الرموز العددية", "السنن الكونية", "القوانين الإلهية"],
+      "edition": "الأولى - 2025",
+      "key_features": [
+        "دراسة تحليلية شاملة للأعداد في القرآن الكريم",
+        "تحويل النظرة من الكم إلى الكيف في فهم الأعداد",
+        "ربط الأعداد بالتشريعات والقوانين الإلهية",
+        "تحليل النظام العددي في القرآن ودلالاته الكونية",
+        "تطبيقات عملية لفهم دلالات الأعداد في الحياة"
+      ],
+      "controversial_issues": [
+        "طبيعة الأعداد في القرآن بين الحساب والرمز",
+        "العلاقة بين الكم والكيف في المنهج القرآني",
+        "دور الأعداد في التشريع الإسلامي",
+        "الإعجاز العددي بين العلم والإيمان"
+      ],
+      "digital_archive": "https://archive.org/details/20251111_20251111_2049"
+    },
+    "content_overview": {
+      "methodology": "منهجية متكاملة تجمع بين التحليل العددي والدراسة اللغوية والبحث التشريعي والتفكر الكوني",
+      "sources": [
+        "القرآن الكريم",
+        "الرياضيات والأنظمة العددية",
+        "العلوم الكونية والطبيعية",
+        "التراث الإسلامي في الإعجاز العددي"
+      ],
+      "applications": "تطبيقات عملية لفهم دلالات الأعداد في القرآن والاستفادة منها في فهم التشريعات والقوانين الإلهية في الكون والحياة"
+    }
+  }
+}

@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mirrors of the Cave: A Conceptual Journey into the Soul, Language, and the Sanctuary of the Word</title>
+    <meta name="description" content="From the Shelter to the Rampart: A Journey through Consciousness, Language, and the Serenity of the Book - Reflecting on the Four Stories of Surah Al-Kahf">
+    
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:title" content="Mirrors of the Cave">
+    <meta property="og:description" content="A Conceptual Journey into the Soul, Language, and the Sanctuary of the Word">
+    <meta property="og:type" content="book">
+    <meta property="og:image" content="books/cave/en/cover-en.png">
+    <meta property="og:url" content="https://nasserhabitat.github.io/nasser-books/">
+    
+    <!-- Schema.org markup -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Mirrors of the Cave: A Conceptual Journey into the Soul, Language, and the Sanctuary of the Word",
+        "author": {
+            "@type": "Person",
+            "name": "Nasser Ibn Dawood"
+        },
+        "publisher": "Nasser Ibn Dawood Library",
+        "datePublished": "2026",
+        "bookEdition": "First English Edition",
+        "inLanguage": "en",
+        "description": "From the Shelter to the Rampart: A Journey through Consciousness, Language, and the Serenity of the Book - Reflecting on the Four Stories of Surah Al-Kahf",
+        "genre": ["Quranic Reflection", "Linguistic Analysis", "Symbolic Interpretation", "Surah Al-Kahf"],
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "numberOfPages": 8
+    }
+    </script>
+
+    <style>
+        :root {
+            --primary-color: #1a5f7a;
+            --secondary-color: #159895;
+            --accent-color: #57C5B6;
+            --light-color: #f8f9fa;
+            --dark-color: #212529;
+            --gray-color: #6c757d;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+            color: var(--dark-color);
+            background-color: #f9f9f9;
+            overflow-x: hidden;
+        }
+        
+        .hero {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 3rem 1rem;
+            text-align: center;
+            margin-bottom: 2rem;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none" opacity="0.1"><path d="M0,0 L100,0 L100,100 Z" fill="white"/></svg>');
+            background-size: cover;
+        }
+        
+        .hero-content {
+            max-width: 800px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+        
+        h1 {
+            font-size: clamp(1.8rem, 5vw, 2.5rem);
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+            line-height: 1.3;
+        }
+        
+        .subtitle {
+            font-size: clamp(1.1rem, 3vw, 1.4rem);
+            opacity: 0.9;
+            font-weight: 300;
+            margin-bottom: 1rem;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+        
+        .book-section {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 3rem;
+            margin-bottom: 4rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px dashed var(--gray-color);
+        }
+        
+        .book-cover {
+            flex: 1;
+            min-width: 300px;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        
+        .book-cover img {
+            width: 100%;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+            border: 1px solid #e0e0e0;
+            transition: transform 0.3s ease;
+        }
+        
+        .book-cover img:hover {
+            transform: translateY(-5px);
+        }
+        
+        .book-details {
+            flex: 2;
+            min-width: 300px;
+        }
+        
+        h2 {
+            color: var(--primary-color);
+            font-size: 1.8rem;
+            margin-bottom: 0.5rem;
+            line-height: 1.3;
+        }
+        
+        h3 {
+            color: var(--secondary-color);
+            border-bottom: 2px solid var(--secondary-color);
+            padding-bottom: 0.5rem;
+            margin: 2rem 0 1rem;
+            font-size: 1.4rem;
+        }
+        
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            background: var(--primary-color);
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            margin: 0.5rem;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-size: 0.95rem;
+        }
+        
+        .btn-secondary {
+            background: var(--secondary-color);
+        }
+        
+        .btn-accent {
+            background: var(--accent-color);
+        }
+        
+        .btn:hover {
+            opacity: 0.9;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+        
+        .book-meta {
+            margin: 1.5rem 0;
+            background: white;
+            padding: 1.5rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            border-left: 4px solid var(--primary-color);
+        }
+        
+        .book-meta p {
+            margin: 0.5rem 0;
+            font-size: 1.05rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .book-meta p strong {
+            min-width: 100px;
+            color: var(--primary-color);
+        }
+        
+        .book-actions {
+            margin: 2rem 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        
+        .book-description {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            margin: 2rem 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        
+        .book-description p {
+            margin-bottom: 1.5rem;
+            line-height: 1.8;
+            text-align: justify;
+        }
+        
+        .book-description blockquote {
+            border-left: 4px solid var(--accent-color);
+            padding: 1rem 1.5rem;
+            margin: 1.5rem 0;
+            background: #f8f9fa;
+            font-style: italic;
+            color: var(--dark-color);
+        }
+        
+        .book-features {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            margin: 2rem 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            border-left: 4px solid var(--accent-color);
+        }
+        
+        .book-features ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .book-features li {
+            margin-bottom: 1rem;
+            padding-left: 1.5rem;
+            position: relative;
+            line-height: 1.6;
+        }
+        
+        .book-features li::before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--primary-color);
+            font-weight: bold;
+        }
+        
+        .download-section {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            margin: 2rem 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            border: 1px solid #e0e0e0;
+        }
+        
+        .download-section h3 {
+            text-align: center;
+            margin-top: 0;
+            border-bottom: none;
+            color: var(--primary-color);
+        }
+        
+        .download-links {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+        
+        .download-links .btn {
+            margin: 0;
+            width: 100%;
+            text-align: center;
+        }
+        
+        .site-footer {
+            text-align: center;
+            padding: 3rem 1.5rem;
+            margin-top: 4rem;
+            background: var(--dark-color);
+            color: white;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+        
+        .site-footer p {
+            margin: 0.5rem 0;
+        }
+        
+        .site-footer a {
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+        
+        .site-footer a:hover {
+            text-decoration: underline;
+        }
+        
+        .topics {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin: 1rem 0;
+        }
+        
+        .topic-tag {
+            background: var(--light-color);
+            color: var(--primary-color);
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            border: 1px solid var(--accent-color);
+        }
+        
+        @media (max-width: 768px) {
+            .book-section {
+                flex-direction: column;
+                gap: 2rem;
+            }
+            
+            .book-cover {
+                max-width: 300px;
+            }
+            
+            .book-actions {
+                justify-content: center;
+            }
+            
+            .book-actions .btn {
+                flex: 1;
+                min-width: 150px;
+                text-align: center;
+            }
+            
+            .download-links {
+                grid-template-columns: 1fr;
+            }
+            
+            .hero {
+                padding: 2rem 1rem;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .container {
+                padding: 0 1rem;
+            }
+            
+            .book-meta p {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.2rem;
+            }
+            
+            .book-actions .btn {
+                min-width: 100%;
+            }
+        }
+        
+        /* Print styles */
+        @media print {
+            .book-actions,
+            .download-section {
+                display: none;
+            }
+            
+            .book-cover img {
+                max-height: 300px;
+                object-fit: contain;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Nasser Ibn Dawood's Library</h1>
+            <p class="subtitle">A collection of digital studies on the Qur'an and Islamic sciences</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="book-section">
+            <div class="book-cover">
+                <img src="cover-en.png"
+                     alt="Book Cover: Mirrors of the Cave"
+                     loading="lazy"
+                     width="300"
+                     height="400"
+                     decoding="async">
+            </div>
+            
+            <div class="book-details">
+                <header>
+                    <h2>Mirrors of the Cave</h2>
+                    <p class="subtitle">A Conceptual Journey into the Soul, Language, and the Sanctuary of the Word</p>
+                    <p style="color: var(--secondary-color);">From the Shelter to the Rampart: A Journey through Consciousness, Language, and the Serenity of the Book</p>
+                </header>
+                
+                <div class="book-meta">
+                    <p><strong>Author:</strong> Nasser Ibn Dawood</p>
+                    <p><strong>Edition:</strong> First English Edition - 2026</p>
+                    <p><strong>Pages:</strong> 8 (Concise Edition)</p>
+                    <p><strong>Language:</strong> English</p>
+                    <p><strong>Category:</strong> Quranic Reflection, Linguistic Analysis, Spiritual Symbolism</p>
+                </div>
+
+                <div class="book-actions">
+                    <a href="https://archive.org/details/content_20260310_1942" 
+                       class="btn" 
+                       target="_blank" 
+                       rel="noopener noreferrer">
+                        📖 Read on Archive.org
+                    </a>
+                    <a href="../ar/" class="btn btn-secondary">
+                        🌐 النسخة العربية
+                    </a>
+                    <a href="https://nasserhabitat.github.io/nasser-books/" class="btn btn-accent">
+                        📚 Back to Library
+                    </a>
+                </div>
+                
+                <div class="book-description">
+                    <h3>Translator's Note</h3>
+                    <p>This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an "extraction of essence." It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.</p>
+                    <p>For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (Tafsir), and the complete bibliography.</p>
+                    
+                    <h3>The Cave as an Archetype of Reform</h3>
+                    <p>For centuries, the story of the "Seven Sleepers" has been treated as a historical miracle. However, in this work, we look at it as a Perpetual Archetype. The Crisis of the Youth: The youths in the story represent the "Awakened Mind" in a "Decadent Society." Their flight to the cave was not an act of cowardice, but a strategic retreat to preserve their intellectual and spiritual sovereignty.</p>
+                    
+                    <h3>The Linguistic Architecture (The Secrets of Labth)</h3>
+                    <p>The Quranic language is a precision tool. This section explores terms that define the "Cave Experience": <strong>Labth (The Stay)</strong>: Unlike "sleep," Labth implies a conscious or divinely suspended state of being. It suggests that time is relative. Within the "Cave of Truth," 300 years can pass as a single afternoon. <strong>The Turning (Taqleeb)</strong>: The Divine act of turning the sleepers represents the "dynamic nature of faith." Even in stillness, the heart must be moved, or it will stagnate.</p>
+                    
+                    <h3>The Violence of "Rajm" (Stoning)</h3>
+                    <p>One of the book's most critical insights is the concept of "Symbolic Stoning." Physical vs. Intellectual: While the youths feared being stoned with rocks (Rajm), the Quran uses the same word for "conjecture" (Rajm bi-al-Ghayb). The Lesson: Society "stones" the reformers not only with physical violence but with "labels," "falsehoods," and "intellectual exclusion."</p>
+                    
+                    <h3>The Currency of Purity</h3>
+                    <p>When the youths woke up, they sought the "Purest Food" (Azka Ta'aman). The Meta-Meaning: Wisdom is the currency of the awakened. After a period of "Retreat" (The Cave), one must not return to the world with the old tools of consumption, but with a refined taste for what is "Pure"—intellectually, spiritually, and physically.</p>
+                    
+                    <h3>The Metaphysics of Time and Numbers</h3>
+                    <p>In the original Arabic work, we analyzed the precise period of "300 years plus nine." For the global reader, this represents a profound intersection between Natural Law and Divine Relativity. Solar and Lunar Harmony: The addition of "nine" years is not a mere calculation but a bridge between two cosmic systems—Solar and Lunar. It teaches us that Divine Truth embraces all human perspectives of time.</p>
+                    
+                    <h3>The Alchemy of Loyalty (The Dog at the Threshold)</h3>
+                    <p>The presence of the dog in a sacred narrative is a unique spiritual archetype. The Sacred Ordinary: The dog represents the "biological companion" that is sanctified through loyalty. It teaches us that spiritual elevation is not reserved for the elite; even the "excluded" can reach the heights of history through steadfastness.</p>
+                    
+                    <h3>From the Cave to the Marketplace</h3>
+                    <p>The return of the youths to the city with their "silver coins" is a symbol of Re-engagement. The Currency of Transformation: They did not return with gold, but with silver—a symbol of purity and balance. They sought Azka Ta'aman (The Purest Food). This is the mission of every reformer: to return from their "spiritual retreat" (The Cave) not to dominate, but to offer the world a "purer" way of living and thinking.</p>
+                    
+                    <h3>Final Words: The Invitation</h3>
+                    <p>The journey of the People of the Cave is an invitation to every seeker of truth to find their own sanctuary. Whether it is in the verses of a Holy Book, the depths of a library, or the silence of one's own heart, the "Cave" is where we go to be made whole. May you find your "Cave," guard your "Truth," and emerge with the "Purest Food" for humanity.</p>
+                </div>
+                
+                <div class="book-features">
+                    <h3>Key Topics</h3>
+                    <div class="topics">
+                        <span class="topic-tag">People of the Cave</span>
+                        <span class="topic-tag">Quranic Reflection</span>
+                        <span class="topic-tag">Linguistic Analysis</span>
+                        <span class="topic-tag">Symbolic Interpretation</span>
+                        <span class="topic-tag">Surah Al-Kahf</span>
+                        <span class="topic-tag">Psychological Solitude</span>
+                        <span class="topic-tag">Intellectual Stoning</span>
+                        <span class="topic-tag">Quranic Miracles</span>
+                        <span class="topic-tag">Spiritual Semantics</span>
+                        <span class="topic-tag">Philosophy of Numbers</span>
+                        <span class="topic-tag">Quranic Language</span>
+                        <span class="topic-tag">Al-Raqim</span>
+                        <span class="topic-tag">Loyalty</span>
+                        <span class="topic-tag">Religious Reform</span>
+                        <span class="topic-tag">Jurisprudence of Insight</span>
+                        <span class="topic-tag">Spiritual Companionship</span>
+                    </div>
+                </div>
+                
+                <div class="download-section">
+                    <h3>Download Formats</h3>
+                    <div class="download-links">
+                        <a href="https://drive.google.com/uc?export=download&id=1g1yoYqyO94OXnnGDYwwth3_64JdmQaqh" class="btn" target="_blank">📄 DOCX</a>
+                        <a href="https://drive.google.com/uc?export=download&id=1TAI7Xq6GYd7-onPTyaoJd1_y-HURfsY-" class="btn" target="_blank">📖 PDF (Direct)</a>
+                        <a href="https://drive.google.com/uc?export=download&id=1TAI7Xq6GYd7-onPTyaoJd1_y-HURfsY-" class="btn" target="_blank">📖 PDF (External)</a>
+                        <a href="https://drive.google.com/uc?export=download&id=11N1AxIowzCb8h8z3H71tEswAMTJBjfjV" class="btn" target="_blank">🌐 HTML</a>
+                        <a href="https://nasserhabitat.github.io/nasser-books/books/cave/en/content.txt" class="btn" target="_blank">📝 TEXT (Direct)</a>
+                        <a href="https://drive.google.com/uc?export=download&id=1LeUjN9lByzwaehZ4WLDF4QgluWiZZYE7" class="btn" target="_blank">📝 TEXT (External)</a>
+                        <a href="https://archive.org/details/content_20260310_1942" class="btn" target="_blank">🌐 Archive.org</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <p>© 2026 Nasser Ibn Dawood Library - All Rights Reserved</p>
+        <p>Islamic Researcher and Engineer Specializing in Digital Qur'anic Studies</p>
+        <p>Designed with ❤️ by Nasser Habitat</p>
+        <p>Content licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a></p>
+    </footer>
+</body>
+</html>

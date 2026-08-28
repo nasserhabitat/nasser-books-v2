@@ -1,0 +1,61 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 42,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 58 كتابًا (29 كتابًا باللغة العربية و29 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": " tasbeeh ",
+    "titles": {
+      "ar": " التسبيح: السباحة في المسار الموجَّه من حفظ النظام الكوني إلى منع سفك الدماء ",
+      "en": "asbeeh: Swimming in the Guided Path: From Inner Transcendence to Lived Submission"
+    },
+    "description": {
+      "ar": " السباحة في المسار الموجَّه من حفظ النظام الكوني إلى منع سفك الدماء ",
+      "en": " Swimming in the Guided Path: From Inner Transcendence to Lived Submission "
+    },
+    "links": {
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=1b5udEUb2iu8GQMD6Pg1Q09lf5c5OLFev",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1Ybpue0ZDlhR7AgTDabQP2fXkOjE5SyvO",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1Ybpue0ZDlhR7AgTDabQP2fXkOjE5SyvO",
+    "html": "https://drive.google.com/uc?export=download&id=1wVa7zAsKqRbjCYGxAizr_xJzVfsH4rba",
+    "txt_external": "https://drive.google.com/uc?export=download&id=12QcxZ2DCAEJqXLHwKGvANiS0P3MDh_NT",
+    "txt_direct": "books/tasbeeh/ar/content.txt",
+    "cover": "books/tasbeeh/ar/cover-ar.png",
+    "archive": "https://archive.org/details/content_20251231_1245"
+  },
+  "en": {
+    "docx": "https://drive.google.com/uc?export=download&id=1f27NcQHtwl4eK4GppKbvKBG1Atd6WQ5X",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1IPUS7svTd1RSKRZEsRHnvWnquTo6Nyyk",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1IPUS7svTd1RSKRZEsRHnvWnquTo6Nyyk",
+    "html": "https://drive.google.com/uc?export=download&id=1yuMVbs1Bzn7l7ootuPdRlLDHAfoStGjs",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1TAMznBKdG000yAnbZUyqZ55yxG5uNFj5",
+    "txt_direct": "books/tasbeeh/en/content.txt",
+    "cover": "books/tasbeeh/en/cover-en.png",
+    "archive": "https://archive.org/details/content_202601"
+  },
+  "metadata": {
+    "author": "ناصر ابن داوود",
+    "category": "faith_studies",
+    "pages_ar": 75,
+    "pages_en": 39,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": ["التأويل الوظيفي", "ناموس الأسماء", "الأنبياء كبرامج استخلاف", "القرآن كنظام تشغيل", "التدبر البنيوي", "الاستخلاف الإنساني", "النبي بين التاريخ والوظيفة", "الأسماء النبوية كأكواد", "المثاني في القرآن", "الفطرة والوعي", "الخليفة الإنسان", "المسجد الحرام كبيئة آمنة", "السكينة واليقين", "الأنبياء كنماذج تشغيلية", "محمد كنظام شامل", "العقل الكلي", "الترميم الروحي", "التسخير الكوني", "المنهج الإبراهيمي", "التفعيل العملي للنبوة"],
+    "topics_en": ["Functional Interpretation", "The Law of Names", "Prophets as Succession Programs", "The Qur'an as an Operating System", "Structural Contemplation, Human Succession", "The Prophet Between History and Function", "Prophetic Names as Codes", "The Mathani in the Qur'an", "Innate Nature and Consciousness", "The Human Caliph", "The Sacred Mosque as a Safe Environmen"t, "Tranquility and Certainty", "Prophets as Operational Models", "Muhammad as a Comprehensive System", "The Universal Mind", "Spiritual Restoration", "Cosmic Subjugation", "The Abrahamic Methodology", "The Practical Activation of Prophethood"]
+                }
+            }

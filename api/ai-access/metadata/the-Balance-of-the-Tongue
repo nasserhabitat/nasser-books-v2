@@ -1,0 +1,86 @@
+ {
+"id": "the-Balance-of-the-Tongue",
+"titles": {
+"ar": "بنية الهداية - من الفوضى الإدراكية إلى الفرقان العمراني",
+"en": "The Structure of Guidance: From Cognitive Chaos to Civilizational Criterion"
+},
+"description": {
+"ar": "نحو إعادة تعريف الوعي: قراءة في سورة العلق في عصر الخوارزميات",
+"en": "An Engineering Perspective on Quranic Linguistics and Consciousness Reprogramming"
+},
+"cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-Balance-of-the-Tongue/ar/cover-ar.png",
+"ar": {
+"docx": "https://drive.google.com/uc?export=download&id=1NZLjrKBk8swQv1uCyFAQHLlLKcCMLKxg",
+"pdf_direct": "books/the-Balance-of-the-Tongue/ar/content.pdf",
+"pdf_external": "https://drive.google.com/uc?export=download&id=1l2fajhIAqwDpzuKK610x8PNJO3PqbxCBK",
+"html": "https://drive.google.com/uc?export=download&id=10DiKerDnxe_XnXrDT_wKnycuiDigD2L1",
+"txt_external": "https://drive.google.com/uc?export=download&id=1EevXreF7gEUHjgthNJ52wi5rxobwb1ym",
+"txt_direct": "books/the-Balance-of-the-Tongue/ar/content.txt",
+"cover": "books/the-Balance-of-the-Tongue/ar/cover-ar.png",
+"archive": "https://archive.org/details/content_20260416_1140"
+},
+"en": {
+"docx": "https://drive.google.com/uc?export=download&id=1s-DVdPO0sc8pkkbpDmkU_UVuaLXF5wEc",
+"pdf_direct": "books/the-Balance-of-the-Tongue/en/content.pdf",
+"pdf_external": "https://drive.google.com/uc?export=download&id=15aotXWXhpGtb1GvqOhmdCiJZld-GYvR1-",
+"html": "https://drive.google.com/uc?export=download&id=18a4PHPB-bQTv7pnBDC-lpSdCscmxkuRE",
+"txt_external": "https://drive.google.com/uc?export=download&id=1gpv-Jd6Mpja82ZfZaOdP0cKgAsPiqJR1",
+"txt_direct": "books/the-Balance-of-the-Tongue/en/content.txt",
+"cover": "books/the-Balance-of-the-Tongue/en/cover-en.png",
+"archive": "https://archive.org/details/content_20260416_1148"
+},
+"metadata": {
+"author": "Nasser Ibn Dawood",
+"category": "faith_studies",
+"pages_ar": 150,
+"pages_en": 20,
+"language_ar": "arabic",
+"language_en": "english",
+"ai_accessible": true,
+"structured_data": true,
+"topics_ar": [
+"اللسانيات القرآنية",
+"التفسير البنيوي",
+"هندسة الدلالة",
+"النظام القرآني",
+"الدلالة الوظيفية",
+"النمذجة المفاهيمية",
+"تجديد الفكر الإسلامي",
+"تحليل النصوص",
+"الشبكات الدلالية",
+"التصنيف الوجودي",
+"إبستمولوجيا القرآن",
+"البنى اللغوية",
+"التأويل",
+"اللسانيات الحاسوبية",
+"التفسير المنهجي",
+"العمارة الدلالية",
+"النماذج المعرفية",
+"المنهج القرآني",
+"القراءة العميقة",
+"نظم المعرفة"
+],
+"topics_en": [
+"Quranic Linguistics",
+"Structural Interpretation",
+"Semantic Engineering",
+"Quranic System",
+"Functional Semantics",
+"Conceptual Modeling",
+"Islamic Thought Renewal",
+"Textual Analysis",
+"Semantic Networks",
+"Ontological Classification",
+"Epistemology of the Quran",
+"Linguistic Structures",
+"Hermeneutics",
+"Computational Linguistics",
+"Systemic Interpretation",
+"Semantic Architecture",
+"Cognitive Frameworks",
+"Quranic Methodology",
+"Deep Reading",
+"Knowledge Systems"
+]
+}
+}

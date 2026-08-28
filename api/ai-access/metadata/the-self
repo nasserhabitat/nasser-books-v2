@@ -1,0 +1,88 @@
+
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 42,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "the-self",
+    "titles": {
+      "ar": "النفس: من الحرف إلى الوعي",
+      "en": "The Self: From Letter to Consciousness"
+    },
+    "description": {
+      "ar": "دراسة تحليلية للنفس الإنسانية في ضوء القرآن الكريم",
+      "en": "An analytical study of the human self in the light of the Holy Quran"
+    },
+    "links": {
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1AqOzFIoFcrK0Cz4UMTymomQQKZJwT0tG",
+        "pdf_direct": "books/the-self/ar/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1MeHXwXpiCMmIN9esbfTvAyEF8io5ONM-",
+        "html": "https://drive.google.com/uc?export=download&id=1HtFrMbZBUDBeitQfzSidJW4RGVqatFK2",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1tyBgIsYIlm4FZ2x4ieL9nXDiOpGHt2Ji",
+        "txt_direct": "books/the-self/ar/content.txt",
+        "cover": "books/the-self/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20251111_20251111_2045"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1Xeph18KiC-ggCbbMwhakM-oykj4uWgPT",
+        "pdf_direct": "books/the-self/en/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1mogwIkCylozFP_QDv8PpmEbsAlx5dv_Z",
+        "html": "https://drive.google.com/uc?export=download&id=1ZYAsNhH8PKiYTDPiGzSzJ-fGkMx07J_y",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1Tbx5HUpHY_dAM5rtSx6QqFz94-TVYTpw",
+        "txt_direct": "books/the-self/en/content.txt",
+        "cover": "books/the-self/en/cover-en.png",
+        "archive": "https://archive.org/details/20251111_20251111_2029"
+      },
+       "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 165,
+      "pages_en": 220,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+      "topics_ar": ["النفس", "الحرف", "الوعي", "القرآن الكريم", "التدبر", "الفهم", "البصيرة", "الإدراك", "المعرفة", "الروح", "القلب", "العقل", "البعد الإنساني", "التكامل", "التربية", "التزكية", "التطهير", "السمو", "الارتقاء"],
+      "topics_en": ["Soul", "Consciousness", "Spirit", "Quran", "Interpretation", "Contemplation", "Letter", "Meaning", "Purification", "Heart", "Core-Heart", "Human Entity", "Existence", "Destiny", "Barzakh", "Paradise", "Hell", "Divine Laws", "Revelation", "Understanding", "Personal Understanding", "Spiritual Journey", "Return Inwards", "Self-Awareness", "Cosmos", "Quranic Language", "Deep Structure", "Dualities", "Disjointed Letters", "Dynamic Meaning", "Quranic Linguistic Jurisprudence", "Prophets", "Intellectual Stations", "Cosmic Play", "Light", "Shadow", "Mask", "Illusion", "Remembrance", "The Path", "Piety", "Vicegerency", "The Perfect Human", "Quranic Anthropology", "Death", "Resurrection", "Reckoning", "Balance", "Witnessing", "Heart Purification", "Obedience", "Submission", "Righteous Deeds", "The Luminous House", "Social Light", "Inner Light", "Silent Prayer", "Uprightness", "Psychological Laws", "Cosmic Laws", "Unity", "Quranic Architecture", "The Seven Oft-Repeated", "Ottoman Script", "Manuscripts", "Theory of Linguistic Zero", "Imagery and Intonation", "Self-Clarification", "Context", "Higher Objectives", "Intellect", "Reality", "New Methodology", "Structural Inimitability", "Textual Interconnectedness", "Quranic Names", "Letter Analysis", "Binary Roots", "Letter Pairs", "Deconstructing Words", "Foreign Words", "Original Meaning", "Semantic Energy", "Dynamics of Existence", "Hidden System", "Total Unity", "The Great Quran", "Healing", "Mercy", "Criterion", "Spiritual Reception", "Collective Consciousness", "Civilizational Witnessing", "Intellectual Crisis", "Interconnective Method", "Cinematic Reading", "Continuous Revelation", "Heart Preparation", "Mental Preparation", "Practical Preparation"],
+      "edition": "الأولى - 2025",
+      "key_features": [
+        "دراسة تحليلية شاملة للنفس الإنسانية في ضوء القرآن",
+        "ربط بين الحرف العربي والوعي الإنساني",
+        "منهجية متكاملة لفهم مراحل تطور النفس",
+        "تحليل العلاقة بين النفس والروح والقلب",
+        "تطبيقات عملية لتزكية النفس وتربيتها"
+      ],
+      "controversial_issues": [
+        "طبيعة النفس الإنسانية ومراحل تطورها",
+        "العلاقة بين النفس والروح والجسد",
+        "دور الحرف العربي في تشكيل الوعي",
+        "التزكية بين الجهد البشري والتوفيق الإلهي"
+      ],
+      "digital_archive": "https://archive.org/details/20251111_20251111_2045"
+    },
+    "content_overview": {
+      "methodology": "منهجية متكاملة تجمع بين التحليل القرآني والدراسة اللغوية والتطبيق العملي",
+      "sources": [
+        "القرآن الكريم",
+        "اللغة العربية وأسرار حروفها",
+        "التراث الإسلامي في علم النفس",
+        "الدراسات المعاصرة في الوعي"
+      ],
+      "applications": "تطبيقات عملية لفهم النفس الإنسانية وتزكيتها من خلال المنهج القرآني المتكامل"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+  {
+    "id": " youssef",
+    "titles": {
+      "ar": " كتاب: يوسف فينا :
+رحلة الوعي من الكيد والفساد إلى التمكين",
+      "en": " YUSUF WITHIN US
+From Conspiracy and Corruption to Empowerment "    },
+    "description": {
+      "ar": " يوسف فينا -رحلة الوعي من مخاض الكيد إلى تمكين الذات والواقع",
+      "en": " YUSUF WITHIN US
+From Conspiracy and Corruption to Empowerment - A Contemporary Quranic Framework of Consciousness "    },
+    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/youssef/ar/cover-ar.png",
+    "ar": {
+      "docx": "https://drive.google.com/uc?export=download&id=1FX-dinmxySC5WSjS4C4U1Ml2_w0rmXpa ", 
+      "pdf_direct": "books/youssef/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1BZ37nOMsIoK6Zl3tHiyqVDWOlF5Odwyc ",
+      "html": "https://drive.google.com/uc?export=download&id=1JR7VQEfx1LPHIaTq2RJLkVixvWoj4JcF ",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1JjE7yY68zkfc23AO7RrP-Cgxo-YuEusW ",
+      "txt_direct": "books/youssef/ar/content.txt",
+      "cover": "books/youssef/ar/cover-ar.png",
+      "archive": "https://archive.org/details/content_20260312_1928 "
+    },
+    "en": {
+      "docx": "https://drive.google.com/uc?export=download&id=1rAICDVgHcbALzTf-jBeTIM_-G1h676sW ", 
+      "pdf_direct": "books/youssef/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1eYw4hM-AJDI3EqIj10TJAx68vuiK6Mz3- ",
+      "html": "https://drive.google.com/uc?export=download&id=1emL3OvM2CmL1i82Eps3ShakhLBvWAjXp ",
+      "txt_external": "https://drive.google.com/uc?export=download&id=17j6ePY-GPVy0GRAIYy7-QFoTd7Y4Bt8j ",
+      "txt_direct": "books/youssef/en/content.txt",
+      "cover": "books/youssef/en/cover-en.png",
+      "archive": "https://archive.org/details/content_20260312_1932 "
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 149,
+      "pages_en": 12,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+{
+  "topics_ar": [
+    "الوعي القرآني",
+    "تفسير سورة يوسف",
+    "اليقظة الروحية",
+    "التحول الداخلي",
+    "علم النفس القرآني",
+    "الفساد والسلطة في القرآن",
+    "الرمزية السياسية في القرآن",
+    "التحليل البنيوي للقرآن",
+    "نموذج يوسف",
+    "إدارة الأزمات في الإسلام",
+    "الصبر والتمكين",
+    "سيميائية القرآن",
+    "التدبر العميق",
+    "الإصلاح المعرفي الإسلامي",
+    "أخلاقيات الحكم في القرآن",
+    "الصمود الروحي",
+    "تزكية النفس",
+    "القراءة الرمزية للقرآن",
+    "التفكير النسقي القرآني",
+    "القيادة الأخلاقية"
+  ],
+  "topics_en": [
+    "Quranic consciousness",
+    "Surah Yusuf interpretation",
+    "Spiritual awakening",
+    "Inner transformation",
+    "Quranic psychology",
+    "Corruption and power in the Quran",
+    "Political symbolism in the Quran",
+    "Structural Quranic analysis",
+    "Joseph archetype",
+    "Crisis management in Islam",
+    "Patience and empowerment",
+    "Quranic semiotics",
+    "Deep interpretation (Tadabbur)",
+    "Cognitive reform in Islam",
+    "Quran and governance ethics",
+    "Spiritual resilience",
+    "Inner purification",
+    "Symbolic reading of the Quran",
+    "Quranic systemic thinking",
+    "Moral leadership model"
+]
+}
+  },
+

@@ -1,0 +1,119 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 24,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "books": [
+    {
+     
+      "id": "names-in-the-holy",
+      "titles": {
+        "ar": "الأسماء الحسنى الوظيفية في القرآن الكريم: دراسة توقيفية تحليلية لدلالات التدبير الإلهي",
+        "en": "The Functional Beautiful Names in the Holy Quran: An Analytical Discretionary Study of the Connotations of Divine Management"
+      },
+      "description": {
+        "ar": "دراسة توقيفية تحليلية لدلالات التدبير الإلهي من خلال الأسماء الحسنى",
+        "en": "An analytical discretionary study of the connotations of divine management through the Beautiful Names"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/names-in-the-holy/ar/cover-ar.png",
+      "links": {
+        "ar": {
+                "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1vm4f-wf0X7VA3GFzMeWntSeV5qOs3crQ",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1hX1pyjB-AMZipBO7goySnXLAO1Yb5j0o",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1hX1pyjB-AMZipBO7goySnXLAO1Yb5j0o",
+        "html": "https://drive.google.com/uc?export=download&id=1nOdYzAUMz7HR0NeHrOfACEMwRGHu87Uc",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1yzexcZFd9MKtcyR_a-6EpFkjsmp2RPJD",
+        "txt_direct": "books/names-in-the-holy/ar/content.txt",
+        "cover": "books/names-in-the-holy/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20250529_20250529_2125"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1wm69kiHQygYC8_hecev39pKfNFdMnuiy",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1UiOYSda3JvMBzHqoX9B3Tg5dzU56A9nu",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1UiOYSda3JvMBzHqoX9B3Tg5dzU56A9nu",
+        "html": "https://drive.google.com/uc?export=download&id=12cV5qFDaZ-0SzQGInIn9cP9vOONVzY9-",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1MYa0vWDb1vBI5R7Ojq1bloO45txsVkdE",
+        "txt_direct": "books/names-in-the-holy/en/content.txt",
+        "cover": "books/names-in-the-holy/en/cover-en.png",
+        "archive": "https://archive.org/details/the-most-beautiful-functional-names-in-the-holy-qur-an-an-analytical-endowment-s"
+      }
+
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "faith_studies",
+        "pages_ar": 193,
+        "pages_en": 248,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": ["الأسماء الحسنى", "الأسماء الحسنى الوظيفية", "التدبير الإلهي", "القرآن الكريم", "دراسة توقيفية", "دلالات الأسماء الحسنى", "الإحصاء", "فهم سنن الكون", "اليقين", "الطمأنينة", "حل المشكلات", "الدعاء", "التوكل", "تطبيق الأسماء الحسنى", "المعرفة بالله", "أسرار الأسماء", "العلاقة بالله", "التأمل في القرآن"],
+        "topics_en": ["Divine Names", "Functional Divine Names", "Divine Providence", "Holy Quran", "Documentary Study", "Meanings of Divine Names", "Enumeration", "Understanding Universal Laws", "Certainty", "Tranquility", "Problem Solving", "Supplication (Dua)", "Trust in God (Tawakkul)", "Application of Divine Names", "Knowledge of God", "Secrets of Divine Names", "Relationship with God", "Contemplation of the Quran"],
+
+        "edition": "الأولى - 2025"
+      },
+      "key_features": [
+        "دراسة توقيفية صارمة تعتمد فقط على الأسماء المثبتة قرآنياً",
+        "تحليل وظيفي للأسماء الحسنى في سياقاتها القرآنية",
+        "تصنيف الأسماء إلى فئات ومجموعات دلالية",
+        "تطبيقات عملية لتفعيل الأسماء في الحياة اليومية",
+        "معجم شامل للأسماء الحسنى القرآنية"
+      ],
+      "main_themes": [
+        "الأسماء الحسنى كمدخل لفهم التدبير الإلهي",
+        "تصنيف وتحليل دلالات الأسماء في القرآن",
+        "تطبيقات عملية للأسماء في التدبر والحياة اليومية",
+        "الأسماء الحسنى كأساس للمعرفة القرآنية"
+      ],
+      "digital_archive": "https://archive.org/details/20250529_20250529_2125",
+      "content_overview": {
+        "methodology": "منهجية توقيفية تحليلية تجمع بين الدراسة القرآنية، التحليل اللغوي، والتطبيق العملي لفهم الأسماء الحسنى",
+        "main_sections": [
+          {
+            "title": "المفهوم والأسس: الإطار النظري والمنهجية",
+            "chapters": [
+              "مفهوم الأسماء الحسنى في القرآن",
+              "المنهجية التوقيفية لدراسة الأسماء"
+            ]
+          },
+          {
+            "title": "الأسماء الحسنى الوظيفية: التحليل والتصنيف",
+            "chapters": [
+              "تصنيف الأسماء إلى فئات دلالية",
+              "تحليل وظيفي للأسماء في سياقاتها"
+            ]
+          },
+          {
+            "title": "معاني وثمرات الأسماء",
+            "chapters": [
+              "دراسة تحليلية لكل اسم حسنى",
+              "دلالات الأسماء في التدبير الإلهي"
+            ]
+          },
+          {
+            "title": "التطبيقات العملية",
+            "chapters": [
+              "تفعيل الأسماء في الحياة اليومية",
+              "الأسماء الحسنى في الدعاء والتدبر"
+            ]
+          }
+        ],
+        "goal": "تقديم فهم عميق للأسماء الحسنى من خلال تحليلها الوظيفي في سياقات القرآن، مع تطبيقات عملية لتفعيلها في الحياة اليومية والتدبر"
+      }
+    }
+  ]
+}

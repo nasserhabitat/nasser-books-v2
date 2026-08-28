@@ -1,0 +1,99 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 42,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "from-the-letter-to-consciousness",
+    "titles": {
+      "ar": "من الحرف إلى الوعي – رحلة الإنسان في مرآة القرآن",
+      "en": "From letter to consciousness The human journey in the mirror of the Qur'an Between the soul, the spirit, and the statement - a symbolic reading of the jurisprudence of the Quranic language"
+    },
+    "description": {
+      "ar": "رحلة الإنسان في مرآة القرآن بين النفس والروح والبيان - قراءة رمزية لفقه اللسان القرآني",
+      "en": "The human journey in the mirror of the Qur'an Between the soul, the spirit, and the statement - a symbolic reading of the jurisprudence of the Quranic language"
+    },
+    "links": {
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1xNFrqZjsypDd1IqW7yEbc-m72zhNVTyG",
+        "pdf_direct": "books/from-the-letter-to-consciousness/ar/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1qdBl4FRtrUkomGObePr6qKY6Y6Qdct6H",
+        "html": "https://drive.google.com/uc?export=download&id=1NNSTSNGxBfwvFSVPJaCygBSh50tbR67S",
+        "txt_external": "https://drive.google.com/uc?export=download&id=11jndZKslD_W5kJ5SrnCtweKqcGVNcU7p",
+        "txt_direct": "books/from-the-letter-to-consciousness/ar/content.txt",
+        "cover": "books/from-the-letter-to-consciousness/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20251111_20251111_2115"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=13kWSwu6hqkQu_4LrWectTQeDQBZZDi1K",
+        "pdf_direct": "books/from-the-letter-to-consciousness/en/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1u0JS2WHY-qzOGMBmMf9HdmqGT66sipqI",
+        "html": "https://drive.google.com/uc?export=download&id=19I2QgKcNKKhOxCWxKKiWzLaBB69CzbC1",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1BcBQNiaX_qi_neit19x26kdLKoqzTPZZ",
+        "txt_direct": "books/from-the-letter-to-consciousness/en/content.txt",
+        "cover": "books/from-the-letter-to-consciousness/en/cover-en.png",
+        "archive": "https://archive.org/details/from-letter-to-consciousness"
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "pages_ar": 198,
+        "pages_en": 265,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": ["الحرف", "الوعي", "رحلة الإنسان", "النفس", "الروح", "البيان", "القراءة الرمزية", "فقه اللسان القرآني", "التدبر", "المعرفة", "البصيرة", "الإدراك", "الفهم", "التأمل", "الرمز", "الدلالة", "المعنى", "البعد الإنساني", "البعد الكوني"],
+        "topics_en": ["Soul", "Consciousness", "Spirit", "Quran", "Interpretation", "Contemplation", "Letter", "Meaning", "Purification", "Heart", "Core-Heart", "Human Entity", "Existence", "Destiny", "Barzakh", "Paradise", "Hell", "Divine Laws", "Revelation", "Understanding", "Personal Understanding", "Spiritual Journey", "Return Inwards", "Self-Awareness", "Cosmos", "Quranic Language", "Deep Structure", "Dualities", "Disjointed Letters", "Dynamic Meaning", "Quranic Linguistic Jurisprudence", "Prophets", "Intellectual Stations", "Cosmic Play", "Light", "Shadow", "Mask", "Illusion", "Remembrance", "The Path", "Piety", "Vicegerency", "The Perfect Human", "Quranic Anthropology", "Death", "Resurrection", "Reckoning", "Balance", "Witnessing", "Heart Purification", "Obedience", "Submission", "Righteous Deeds", "The Luminous House", "Social Light", "Inner Light", "Silent Prayer", "Uprightness", "Psychological Laws", "Cosmic Laws", "Unity", "Quranic Architecture", "The Seven Oft-Repeated", "Ottoman Script", "Manuscripts", "Theory of Linguistic Zero", "Imagery and Intonation", "Self-Clarification", "Context", "Higher Objectives", "Intellect", "Reality", "New Methodology", "Structural Inimitability", "Textual Interconnectedness", "Quranic Names", "Letter Analysis", "Binary Roots", "Letter Pairs", "Deconstructing Words", "Foreign Words", "Original Meaning", "Semantic Energy", "Dynamics of Existence", "Hidden System", "Total Unity", "The Great Quran", "Healing", "Mercy", "Criterion", "Spiritual Reception", "Collective Consciousness", "Civilizational Witnessing", "Intellectual Crisis", "Interconnective Method", "Cinematic Reading", "Continuous Revelation", "Heart Preparation", "Mental Preparation", "Practical Preparation"],
+      }
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "quranic_studies",
+      "pages_ar": 198,
+      "pages_en": 265,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+      "topics": ["الحرف", "الوعي", "رحلة الإنسان", "النفس", "الروح", "البيان", "القراءة الرمزية", "فقه اللسان القرآني", "التدبر", "المعرفة", "البصيرة", "الإدراك", "الفهم", "التأمل", "الرمز", "الدلالة", "المعنى", "البعد الإنساني", "البعد الكوني"],
+      "edition": "الأولى - 2025",
+      "key_features": [
+        "رحلة تحليلية شاملة من الحرف العربي إلى الوعي الإنساني",
+        "قراءة رمزية متعمقة لفقه اللسان القرآني",
+        "تحليل العلاقة بين النفس والروح والبيان في القرآن",
+        "منهجية متكاملة لفهم رحلة الإنسان في مرآة القرآن",
+        "تطبيقات عملية للتدبر الرمزي في النص القرآني"
+      ],
+      "controversial_issues": [
+        "القراءة الرمزية للنص القرآني وحدودها",
+        "العلاقة بين الحرف العربي والوعي الإنساني",
+        "التفاعل بين النفس والروح في الرحلة الإنسانية",
+        "فقه اللسان القرآني بين المنهجية العلمية والرمزية"
+      ],
+      "digital_archive": "https://archive.org/details/20251111_20251111_2115"
+    },
+    "content_overview": {
+      "methodology": "منهجية متكاملة تجمع بين التحليل اللغوي والدراسة الرمزية والبحث الفلسفي والمنهج القرآني",
+      "sources": [
+        "القرآن الكريم",
+        "اللغة العربية وأسرار حروفها",
+        "التراث الإسلامي في التفسير الرمزي",
+        "الدراسات المعاصرة في الوعي والإدراك"
+      ],
+      "applications": "تطبيقات عملية لفهم رحلة الإنسان من خلال المنهج القرآني المتكامل والاستفادة منها في تطوير الوعي والإدراك"
+    }
+  }
+}

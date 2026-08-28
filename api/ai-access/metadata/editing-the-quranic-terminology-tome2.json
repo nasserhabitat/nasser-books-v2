@@ -1,0 +1,135 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books":82,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 82 كتابًا (41 كتابًا باللغة العربية و41 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+   
+      "id": "editing-the-quranic-terminology-tome2",
+      "titles": {
+        "ar": "تحرير المصطلح القرآني: دراسة تطبيقية في فقه اللسان القرآني - المجلد 2",
+        "en": "Clarifying the Qur'anic Terminology: An Applied Study in the Jurisprudence of the Qur'anic Tongue - Tome 2"
+      },
+      "description": {
+        "ar": "دراسة تطبيقية في فقه اللسان القرآني، المجلد الثاني",
+        "en": "An applied study in the jurisprudence of the Qur'anic tongue, Tome 2"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/editing-the-quranic-terminology-tome2/ar/cover-ar.png",
+      "links": {
+        "ar": {
+                  "docx": "https://drive.google.com/uc?export=download&id=1qlDfBSgbzqm-YW9PKKERKsIlqL-Gy1CU",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1FB_k6Gr-zoqJhlt8t5ZaN8DWuhnHmJrW",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1FB_k6Gr-zoqJhlt8t5ZaN8DWuhnHmJrW",
+        "html": "https://drive.google.com/uc?export=download&id=1_a5rQoHcQjG9SMOlza8-z_GDjpHf8qFw",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1FB_k6Gr-zoqJhlt8t5ZaN8DWuhnHmJrW",
+        "txt_direct": "books/editing-the-quranic-terminology-tome2/ar/content.txt",
+        "cover": "books/editing-the-quranic-terminology-tome2/ar/cover-ar.png",
+        "archive": "https://archive.org/details/2_20250724_20250724_0836"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1qVJJHYcRLFxQ1i08iiJ0oj8dL0D_JBu-",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1OZjyDOBnxQoeahD1P7D-BCjqbuDnKS53",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1OZjyDOBnxQoeahD1P7D-BCjqbuDnKS53",
+        "html": "https://drive.google.com/uc?export=download&id=1PGDe1-UdiA4BzTyFE4k06ati_AxegBo3",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1ceHbTYwL1eVy_cuSPIZtU10u_IxXW9cU",
+        "txt_direct": "books/editing-the-quranic-terminology-tome2/en/content.txt",
+        "cover": "books/editing-the-quranic-terminology-tome2/en/cover-en.png",
+        "archive": "https://archive.org/details/editing-the-qur-anic-term-an-applied-study-in-the-jurisprudence-of-the-qur-anic-_202508"
+      }
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "pages_ar": 333,
+        "pages_en": 473,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+     "topics_ar": ["تغيير المفاهيم", "المصطلحات القرآنية", "فقه اللسان القرآني", "التدبر القرآني", "المخطوطات القرآنية الأصلية", "الرقمنة", "الوعي", "الإصلاح والتجديد", "القرآن الكريم", "السنة النبوية", "الربوبية والألوهية", "النفس في القرآن", "العبادة", "القيم القرآنية", "التفكير النقدي", "الذكاء والفطرة", "الشرك والتوحيد", "الكون والإنسان", "القيامة واليوم الآخر", "الجنة والنار", "الآيات الكونية", "البيانات", "المصداق القرآني", "الحروف المقطعة", "النسخ", "الجن والشياطين", "الأعداد في القرآن", "القصص القرآني", "القتل والقتال", "بنو إسرائيل", "الخلافة الإنسانية", "الزوج والأزواج", "الرجال والنساء", "القبلة", "المسجد الحرام والمسجد الأقصى", "الكذب", "الحلال والحرام", "الضحك والبكاء", "الصيد", "حجر", "اليقين", "الذكر", "الدعاء", "الرزق", "الميزان", "الجلد والجلود", "البعوضة", "الاستغفار", "العرش والماء", "الخلق والتصوير", "البشر والإنسان", "الخيل والبغال والحمير", "المليكة والملائكة والروح", "الأمة الوسط", "السفه", "الشرق والغرب", "الصراط المستقيم", "اللغة العربية ولسان القرآن", "الفيل", "الرحيم", "إحياء البلد", "كلام الله", "رؤية الله", "التسليم", "الساعة", "الموتى والأموات", "الأصنام الفكرية", "الفجر", "القرآن نهر جارٍ", "استشعار معاني الحروف"],
+        "topics_en": ["Changing Concepts", "Quranic Terminology", "Jurisprudence of the Qur'anic Tongue", "Quranic Contemplation", "Original Qur'anic Manuscripts", "Digitization", "Awareness", "Reform and Renewal", "The Holy Qur'an (as a One and Sufficient Source)", "The Sunnah of the Prophet (and the Methodology of Critical Dealing)", "Lordship and Divinity", "The Soul in the Qur'an", "Worship (Prayer", "Fasting", "Hajj", "Praise)", "Quranic Values (Justice", "Mercy", "Charity)", "Critical Thinking", "Intelligence and Instinct", "Shirk and Monotheism", "Universe and Man", "Resurrection and the Last Day", "Paradise and Hell", "Cosmic Verses", "Data (as a Quranic concept)", "Quranic authentication", "broken letters", "abrogation (in its new meaning)", "jinn and demons (correction of concepts)", "numbers in the Qur'an", "Quranic stories (sura Yusuf as a model)", "killing and fighting (deconstructing concepts)", "children of Israel (conceptual perspective)", "human succession", "husband and couples (functional understanding)", "men and women (functional understanding)", "qibla (compass of life)", "the Grand Mosque and the Al-Aqsa Mosque (symbols of consciousness)", "lying", "halal and haram", "laughing and crying", "hunting", "stone", "Certainty", "Dhikr", "Dua'a", "Livelihood", "Libra", "Skin and skins", "Mosquito (as a Quranic parable)", "Seeking forgiveness", "Throne and water", "Creation and photography", "Humans and man", "Horses", "mules and donkeys", "King", "Angels and Spirit", "The Middle Nation", "Foolishness", "East and West", "The Straight Path", "Arabic Language and the Tongue of the Qur'an", "The Elephant", "The Most Merciful (The Name of Allah)", "The Revival of the Country", "The Word of God", "The Vision of God", "Delivery", "The Hour", "The Dead and the Dead", "Intellectual Idols", "Fajr", "The Qur'an is a Running River", "Sensing the meanings of the letters"],
+      "edition": "الثالثة - 2025",
+      "volume": 2,
+      "total_volumes": 3,
+      "key_features": [
+        "تحليل دقيق للمصطلحات القرآنية في سياقاتها الأصلية",
+        "منهج 'التدبر التفاعلي' الذي يتجاوز القراءة السطحية",
+        "استخدام التكنولوجيا الحديثة كأدوات بحثية",
+        "نهج شامل يتجاوز القضايا التفسيرية التقليدية",
+        "تحرير المصطلحات من الإضافات البشرية والتفسيرات الموروثة",
+        "دراسة تطبيقية للمفاهيم الأساسية في القرآن الكريم",
+        "ربط المنهجية النظرية بالتطبيق العملي في فهم النص"
+      ],
+      "main_themes": [
+        "تفكيك المفاهيم العقدية والفكرية: الجن والشياطين، بني إسرائيل، الشرك، التوحيد الخالص",
+        "إعادة قراءة المصطلحات التشريعية: الضرب في القرآن، القتل والإكراه، الجلد والقطع، الحلال والحرام",
+        "التدبر في القصص والأنبياء: سورة يوسف، موسى في القرآن، أسماء الأنبياء، الذبح والفداء",
+        "دراسات مصطلحية ولغوية متقدمة: الأعداد في القرآن، الذكر والدعاء، الكتاب والكتب، القرآن، الصراط المستقيم"
+      ],
+      "digital_archive": "https://archive.org/details/20250724_20250724_0836"
+    },
+    "content_overview": {
+      "methodology": "منهجية تعتمد على الأسس النظرية والضوابط المنهجية لكتاب 'فقه اللسان القرآني' مع التركيز على التطبيق العملي والتحليل المتقدم للمصطلحات القرآنية",
+      "main_sections": [
+        {
+          "title": "المقدمة المنهجية للمجلد الثاني",
+          "chapters": [
+            "الأساسيات المنهجية لفقه اللسان القرآني",
+            "آلية تطبيق المنهجية على المصطلحات القرآنية",
+            "الاختلافات بين المجلد الأول والثاني في المنهجية والتطبيق"
+          ]
+        },
+        {
+          "title": "تفكيك المفاهيم العقدية والفكرية",
+          "chapters": [
+            "الجن والشياطين: قراءة جديدة للمفاهيم القرآنية",
+            "بني إسرائيل: من الفهم العرقي إلى الإدراك المفاهيمي",
+            "الشرك في القرآن: أبعاده الحقيقية beyond التبسيط",
+            "التوحيد الخالص: عقيدة إبراهيم كمنهج حياة شامل"
+          ]
+        },
+        {
+          "title": "إعادة قراءة المصطلحات التشريعية",
+          "chapters": [
+            "سلسلة 'الضرب في القرآن': معاني متعددة وسياقات",
+            "القتل والإكراه والطاغوت: تفكيك السرديات التقليدية",
+            "الجلد والقطع: بين التأديب الإصلاحي والعقاب الجسدي",
+            "مفاهيم الحلال والحرام: العودة إلى الأصول القرآنية"
+          ]
+        },
+        {
+          "title": "التدبر في القصص والأنبياء",
+          "chapters": [
+            "سورة يوسف: استكشاف أعماق 'أحسن القصص'",
+            "موسى في القرآن: قراءة منهجية رمزية ومتجددة",
+            "أسماء الأنبياء: كنوز لغوية وروحية في نظام 'المثاني'",
+            "الذبح والفداء: رؤى جديدة في قصة إبراهيم وابنه"
+          ]
+        },
+        {
+          "title": "دراسات مصطلحية ولغوية متقدمة",
+          "chapters": [
+            "الأعداد في القرآن: من الكمية العددية إلى الدلالة النوعية",
+            "الذكر والدعاء: جوهر الاتصال بالله في المنظور القرآني",
+            "'الكتاب' و'الكتب': رحلة في أسرار المصطلحات المركزية",
+            "'القرآن': من الحرف إلى الواقع في المفهوم والمصطلح",
+            "'الصراط المستقيم': الرؤية القرآنية في خمسة أبعاد"
+          ]
+        }
+      ],
+      "goal": "تمكين القارئ من تطبيق منهجية فقه اللسان القرآني بشكل عملي، وتقديم رؤى متجددة للمصطلحات القرآنية، والمساهمة في بناء فهم أصيل للقرآن الكريم يعتمد على التدبر المباشر للنص القرآني"
+    }
+  }
+}

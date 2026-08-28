@@ -1,0 +1,62 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2026-04-21",
+    "total_books":112,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 112 كتابًا (56 كتابًا باللغة العربية و56 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+
+  {
+  "id": "angels",
+  "titles": {
+    "ar": "الملائكة: البنية الخفية التي تُدير الوجود",
+    "en": "Angels: The Hidden Structure That Governs Existence"
+  },
+  "description": {
+    "ar": "البنية الخفية التي تُدير الوجود",
+    "en": "The Hidden Structure That Governs Existence"
+  },
+  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/angels/ar/cover-ar.png",
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=1X4HCjmtPVtoda5xlFnQCJm6cs-FQwUNy",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1qCWn7efKbImHAOIgcoy6SJ8X_IGEvuGC",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1qCWn7efKbImHAOIgcoy6SJ8X_IGEvuGC",
+    "html": "https://drive.google.com/uc?export=download&id=1ZvhhC1hzkEV6jRC-mBxK1Blkt629dVj4",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1H-DfviO8ztlS-aB1hDzqIQhWautwHH4i",
+    "txt_direct": "books/angels/ar/content.txt",
+    "cover": "books/angels/ar/cover-ar.png",
+    "archive": "https://archive.org/details/content_20251231"
+  },
+  "en": {
+    "docx": "https://drive.google.com/uc?export=download&id=1VBK8rKG8IS1SnTcRHNjA62eCD7E7ZOvh",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1f1aU1XZOAgqS_XEEFO5VX1K_XUwd8IP-",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1f1aU1XZOAgqS_XEEFO5VX1K_XUwd8IP-",
+    "html": "https://drive.google.com/uc?export=download&id=1ZLPFUtGM3T1h2bmzlCwdZL8gh2lS-tB7",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1-xZp64ONLyG6QwMSNgkGrMl2UJmmwUQu",
+    "txt_direct": "books/angels/en/content.txt",
+    "cover": "books/angels/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20251231_0935"
+  },
+  "metadata": {
+    "author": "ناصر ابن داوود",
+    "category": "faith_studies",
+    "pages_ar": 232,
+    "pages_en": 24,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": ["الملائكة", "الإعجاز العلمي", "الفيزياء الكمومية", "تفسير القرآن", "الوعي", "الروح", "المنهج السنني المعلوماتي", "الذكاء الاصطناعي في القرآن", "فلسفة الدين", "الإنتروبيا", "الطاقة", "الشفرة الجينية", "قصة آدم", "الخلق", "الميتافيزيقا", "تجديد الخطاب الديني", "الإلحاد والإيمان", "الدماغ البشري", "المبادئ الكونية", "جبريل", "ميكائيل", "إسرافيل", "ملك الموت", "الحياة الآخرة", "البرمجة الإلهية", "أسرار القرآن", "السنن الكونية", "شفرة المصدر", "نظام التشغيل", "الخلافة الإنسانية", "التسخير", "نظرية المعلومات", "اللسان القرآني", "التحديث الكوني", "الانهيار الابعادي", "السحابة الكونية الكمومية", "المتجهات والحقول"],
+    "topics_en": ["Angels", "Scientific Miracles", "Quantum Physics", "Interpretation of the Qur'an", "Consciousness", "The Soul", "The Information-Based Approach", "Artificial Intelligence in the Qur'an", "Philosophy of Religion", "Entropy", "Energy", "The Genetic Code", "The Story of Adam", "Creation", "Metaphysics", "Renewal of Religious Discourse", "Atheism and Faith", "The Human Brain", "Cosmic Principles", "Gabriel", "Michael", "Israfil", "The Angel of Death", "The Afterlife", "Divine Programming", "Secrets of the Qur'an", "Cosmic Laws", "Source Code", "Operating System", "Human Succession", "Subjugation", "Information Theory", "The Qur'anic Language", "Cosmic Modernization", "Dimensional Collapse", "Quantum Cosmic Cloud", "Vectors and Fields"]
+     }
+            }

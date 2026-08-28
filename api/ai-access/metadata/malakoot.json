@@ -1,0 +1,122 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 44,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+   
+      "id": "malakoot",
+      "titles": {
+        "ar": "وَلِيَكُونَ مِنَ الْمُوقِنِينَ: رحلة برهانية في ملكوت السماوات والأرض وما بينهما",
+        "en": "And So That He May Be of the Certain Ones: A Demonstrative Journey in the Kingdom of the Heavens and the Earth and What is Between Them"
+      },
+      "description": {
+        "ar": "رحلة برهانية في ملكوت السماوات والأرض وما بينهما",
+        "en": "A DEMONSTRATIVE JOURNEY IN THE KINGDOM OF THE HEAVENS AND THE EARTH AND WHAT IS BETWEEN THEM"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/malakoot/ar/cover-ar.png",
+      "links": {
+        "ar": {
+                 "docx": "https://drive.google.com/uc?export=download&id=1qq6AYqnC-eOT750cNSUUFHTZ55LtZUkP",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1XRFXQhnqIpeGc_TgEduZmNnJW1BMK_cH",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1XRFXQhnqIpeGc_TgEduZmNnJW1BMK_cH",
+        "html": "https://drive.google.com/uc?export=download&id=13nlGntfmvlgozUIGF1GcT0RA-VEGSQ-P",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1vosJndUPs6glX6cwu4-81ScG_vdOxgi0",
+        "txt_direct": "books/malakoot/ar/content.txt",
+        "cover": "books/malakoot/ar/cover-ar.png",
+        "archive": "https://archive.org/details/20250624_20250624_0823"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1Fry44fWXw6apxYERhrVgmIdJjOk3NddT",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1Cv7n-xO9J7Of8i5KuTObjtl2JWbd8l4N",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1Cv7n-xO9J7Of8i5KuTObjtl2JWbd8l4N",
+        "html": "https://drive.google.com/uc?export=download&id=1U0qsfnSg-AVEVFrGkNCtY7TqC-EuFDkh",
+        "txt_external": "https://drive.google.com/uc?export=download&id=10woJi7fjOZKTuG1Mt-E2n4NElhfMM8sg",
+        "txt_direct": "books/malakoot/en/content.txt",
+        "cover": "books/malakoot/en/cover-en.png",
+        "archive": "https://archive.org/details/and-so-that-he-may-be-of-the-certain-ones-a-demonstrative-journey-in-the-kingdom"
+      }
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "faith_studies",
+        "pages_ar": 610,
+        "pages_en": 797,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": ["اليقين", "ملكوت السماوات والأرض", "برهان", "رؤية الحقيقة", "القرآن", "الحقائق العلمية", "الوحي", "الفطرة", "الكون", "الخلق", "الخالق", "الأرض المسطحة", "الأرض الثابتة", "التفكر", "التدبر", "نظريات إسلامية", "شكل الكون", "الشمس", "القمر", "الكواكب", "علم الفلك"],
+        "topics_en": ["Certainty", "Kingdom of Heaven and Earth", "Evidence", "Seeing the Truth", "Quran", "Scientific Facts", "Revelation", "Nature", "Universe", "Creation", "Creator", "Flat Earth", "Fixed Earth", "Contemplation", "Reflection", "Islamic Theories", "Shape of the Universe", "Sun", "Moon", "Planets", "Astronomy", "Nasser Ibn Dawood", "Reflection in the Mirror of Drawings"],
+      "edition": "الأولى - 2025"
+    },
+    "key_features": [
+      "دراسة شاملة للكون كما ورد في القرآن الكريم",
+      "نقد علمي منهجي للنظريات الفلكية السائدة",
+      "تحليل معمق لآيات السماوات والأرض في القرآن",
+      "رؤية متكاملة تجمع بين البعد المادي والروحي",
+      "أدلة قرآنية وعلمية على ثبات الأرض ومركزيتها"
+    ],
+    "main_themes": [
+      "المنظور القرآني للكون: السماوات والأرض وما بينهما",
+      "حقيقة الأرض: بين الأدلة القرآنية والنظريات العلمية",
+      "نظام الشمس والقمر: دراسة تحليلية للآيات الكونية",
+      "العرش والكرسي: البعد المادي والرمزي في القرآن",
+      "نقد العلم الزائف: تحليل لخرافات علم الفلك الحديث"
+    ],
+    ,
+    "content_overview": {
+      "methodology": "منهجية متكاملة تجمع بين التحليل العلمي، التأويل القرآني، والنقد المنهجي للنظريات الفلكية المعاصرة",
+      "main_sections": [
+        {
+          "title": "المنظور القرآني للكون",
+          "chapters": [
+            "السماوات والأرض: تحليل الآيات الكونية",
+            "ما بينهما: الأبعاد الروحية والمادية"
+          ]
+        },
+        {
+          "title": "حقيقة الأرض",
+          "chapters": [
+            "ثبات الأرض: الأدلة القرآنية",
+            "نقد النظريات العلمية حول حركة الأرض"
+          ]
+        },
+        {
+          "title": "نظام الشمس والقمر",
+          "chapters": [
+            "الآيات الكونية: تحليل حركة الشمس والقمر",
+            "النظام الكوني في القرآن"
+          ]
+        },
+        {
+          "title": "العرش والكرسي",
+          "chapters": [
+            "البعد المادي للعرش والكرسي",
+            "الرمزية الروحية في الآيات"
+          ]
+        },
+        {
+          "title": "نقد العلم الزائف",
+          "chapters": [
+            "تحليل خرافات علم الفلك الحديث",
+            "تحرير العقل من النماذج العلمية غير المثبتة"
+          ]
+        }
+      ],
+      "goal": "تقديم رؤية قرآنية متكاملة للكون تجمع بين التحليل العلمي والفهم الروحي، مع نقد منهجي للنظريات الفلكية المعاصرة لتحرير العقل من النماذج العلمية غير المثبتة"
+    }
+  }
+}

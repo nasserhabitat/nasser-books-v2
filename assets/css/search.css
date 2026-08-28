@@ -1,0 +1,266 @@
+/* أنماط شريط البحث */
+.search-container {
+    max-width: 600px;
+    margin: 30px auto;
+    position: relative;
+    display: flex;
+}
+/* في search.css */
+.book-result-cover {
+  width: 100px;
+  height: auto;
+  max-height: 150px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: opacity 0.3s ease; /* تأثير ناعم عند التحميل */
+}
+/* توحيد أحجام الصور في نتائج البحث */
+.search-results .book-result-cover {
+    width: 120px;
+    height: 160px; /* ارتفاع ثابت */
+    object-fit: contain; /* يحافظ على التناسب دون تشويه */
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    background: #f8f8f8; /* خلفية فاتحة للصور الشفافة */
+    border: 1px solid #eee; /* إطار خفيف */
+}
+
+/* حاوية الصورة لضمان الحفاظ على النسبة */
+.book-result-header .cover-container {
+    width: 120px;
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+/* تحسين العرض على الجوال */
+@media (max-width: 768px) {
+    .search-results .book-result-cover {
+        width: 80px;
+        height: 120px;
+    }
+    
+    .book-result-header .cover-container {
+        width: 80px;
+        height: 120px;
+    }
+}
+
+.book-result-cover[loading="lazy"] {
+  opacity: 0.5; /* خفيف قبل التحميل */
+}
+
+.book-result-cover:not([loading]) {
+  opacity: 1; /* كامل بعد التحميل */
+}
+
+.search-input {
+    width: 100%;
+    padding: 12px 45px 12px 20px;
+    border: 2px solid var(--primary-color);
+    border-radius: 30px;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 1rem;
+    outline: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.search-input:focus {
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 3px rgba(21, 152, 149, 0.2);
+}
+
+.search-btn {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: var(--primary-color);
+    padding: 0;
+}
+
+.search-suggestions {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 0 0 8px 8px;
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 1000;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    display: none;
+}
+
+.suggestion-item {
+    padding: 12px 15px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-bottom: 1px solid #eee;
+}
+
+.suggestion-item:last-child {
+    border-bottom: none;
+}
+
+.suggestion-item:hover {
+    background-color: #f5f5f5;
+}
+
+.suggestion-title {
+    font-weight: 500;
+    color: var(--primary-color);
+    margin-bottom: 3px;
+}
+
+.suggestion-type {
+    font-size: 0.8rem;
+    color: #666;
+}
+
+.highlight {
+    background-color: var(--search-highlight);
+    padding: 2px 0;
+    border-radius: 3px;
+}
+
+/* أنماط نتائج البحث */
+.book-search-result {
+    background: white;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.book-result-header {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.search-results .book-result-cover {
+  width: 120px; /* تقليل إلى 80-120px ليكون أصغر من الصفحات الأخرى (180px) */
+  height: auto;
+  max-height: 180px; /* حد أقصى لتجنب الارتفاع الكبير */
+  object-fit: contain; /* يحافظ على الجودة دون تشويه أو قص */
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* تجنب تعارض مع style.css */
+.book-result-cover {
+  background: none !important; /* إزالة أي background إذا ورث */
+}
+
+@media (max-width: 768px) {
+  .search-results .book-result-cover {
+    width: 80px;
+    max-height: 120px;
+  }
+}
+
+.book-result-info {
+    flex: 1;
+}
+
+.book-result-info h3 {
+    margin: 0 0 0.5rem 0;
+    color: var(--primary-color);
+}
+
+.book-result-info h3 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.book-result-info h3 a:hover {
+    text-decoration: underline;
+}
+
+.book-result-info .book-meta {
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.book-result-info .book-desc {
+    color: #555;
+    margin-bottom: 0.5rem;
+}
+
+.match-stats {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 0.5rem;
+}
+
+.match-count {
+    background: var(--light-color);
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    color: var(--primary-color);
+}
+
+.content-previews {
+    margin-top: 1rem;
+    border-top: 1px solid #eee;
+    padding-top: 1rem;
+}
+
+.content-preview-section {
+    margin-bottom: 1rem;
+}
+
+.content-preview-section h4 {
+    margin: 0 0 0.5rem 0;
+    color: var(--secondary-color);
+    font-size: 1rem;
+}
+
+.content-preview {
+    background: #f9f9f9;
+    padding: 0.8rem;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* للشاشات الصغيرة */
+@media (max-width: 768px) {
+    .search-container {
+        margin: 20px 15px;
+    }
+    
+    .search-input {
+        padding: 10px 40px 10px 15px;
+    }
+    
+    .search-suggestions {
+        max-height: 200px;
+    }
+    
+    .suggestion-item {
+        padding: 10px 12px;
+    }
+    
+    .book-result-header {
+        flex-direction: column;
+    }
+    
+    .book-result-cover {
+        width: 80px;
+        margin-bottom: 1rem;
+    }
+}

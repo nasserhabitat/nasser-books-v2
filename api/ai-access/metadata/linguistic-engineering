@@ -1,0 +1,87 @@
+
+{
+  "id": "linguistic-engineering",
+  "titles": {
+    "ar": "هندسة اللسان والارتقاء بالإنسان - دراسة تدبرية في سور (المسد، العصر، الفلق، الناس...)",
+    "en": "Linguistic Engineering and Human Elevation: A Strategic Concept for Self-Development"
+  },
+  "description": {
+    "ar": "من هندسة المادة إلى هندسة اللسان",
+    "en": "From Matter to Meaning"
+  },
+  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/linguistic-engineering/ar/cover-ar.png",
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=1nXxSdJYvAg_lKXKsaV0qzeZIheCEiju0",
+    "pdf_direct": "books/linguistic-engineering/ar/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1-GH-46pVJslSac5-wiL7o3kKBX2gnBuc",
+    "html": "https://drive.google.com/uc?export=download&id=1eOlXUTkEL4bYiZwRsmyZlIPzVLqt2X68",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1FnLW9MYKT59MsCLBtVcUs-e2c5BPTmXB",
+    "txt_direct": "books/linguistic-engineering/ar/content.txt",
+    "cover": "books/linguistic-engineering/ar/cover-ar.png",
+    "archive": "https://archive.org/details/content_20260409_1733"
+  },
+  "en": {
+    "docx": "https://drive.google.com/uc?export=download&id=1QmDWjmTFnJXVjp-iGtUO-kqNW8XHIZ93",
+    "pdf_direct": "books/linguistic-engineering/en/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1ZY3vGG06G8ZMjhlGs8zzpiOmwIF72I5Z",
+    "html": "https://drive.google.com/uc?export=download&id=1Bk7hc5d1IWY8dB_byb93NWSSCwCUhaIE",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1k_WqFprMDkzE3MyBchz_iUxDFjGKoBbg",
+    "txt_direct": "books/linguistic-engineering/en/content.txt",
+    "cover": "books/linguistic-engineering/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20260409_1740"
+  },
+  "metadata": {
+    "author": "Nasser Ibn Dawood",
+    "category": "faith_studies",
+    "pages_ar": 88,
+    "pages_en": 4,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": [
+      "هندسة اللسان",
+      "فقه اللسان القرآني",
+      "التدبر البنيوي",
+      "المثاني الحرفية",
+      "الارتقاء بالإنسان",
+      "الرسم الجذري",
+      "الجذر الحركي",
+      "طاقة الحروف",
+      "النفس البشرية",
+      "القوانين السلوكية",
+      "التفكيك اللساني",
+      "سورة المسد",
+      "سورة العصر",
+      "سورة الفلق",
+      "سورة الناس",
+      "سورة الكوثر",
+      "سورة الإخلاص",
+      "سورة الماعون",
+      "التحليل البنيوي",
+      "الاستقامة الكوثرية"
+    ],
+    "topics_en": [
+      "Linguistic Engineering",
+      "Jurisprudence of the Quranic Tongue",
+      "Structural Contemplation",
+      "Literal Mathani",
+      "Human Elevation",
+      "Radical Drawing",
+      "Kinetic Root",
+      "Energy of Letters",
+      "Human Soul",
+      "Behavioral Laws",
+      "Linguistic Deconstruction",
+      "Surah Al-Masad",
+      "Surah Al-Asr",
+      "Surah Al-Falaq",
+      "Surah Al-Nas",
+      "Surah Al-Kawthar",
+      "Surah Al-Ikhlas",
+      "Surah Al-Ma'un",
+      "Structural Analysis",
+      "Kawthari Uprightness"
+    ]
+  }
+}

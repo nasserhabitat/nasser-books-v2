@@ -1,0 +1,84 @@
+  {
+    "id": "cave",
+    "titles": {
+      "ar": " مرايا الكهف: الهندسة القرآنية لقانون الفتن ومسار الاستخلاف ",
+      "en": "Mirrors of the Cave
+A Conceptual Journey into the Soul, Language, and the Sanctuary of the Word "
+    },
+    "description": {
+      "ar": " من الملجأ إلى الردم 
+رحلة في الوعي واللغة وسكينة الكتاب
+ تدبر قصص السورة الأربع: من أصحاب الكهف إلى ذي القرنين ",
+      "en": "(Al-Salāt): A Sovereign and Continuous System of Interconnectivity "
+    },
+    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/cave/ar/cover-ar.png",
+    "ar": {
+      "docx": "https://drive.google.com/uc?export=download&id=1FzALoXyjvXgLH4Bo0BLCAfegJIMlihlZ ",
+      "pdf_direct": "books/cave/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1EnFORQsiJOJzU1GdS8A1hRzFfJ11cljp ",
+      "html": "https://drive.google.com/uc?export=download&id=1Wu-sS3_Z_5SS3vqSfdtJaKFs7izV0H6G ",
+      "txt_external": "https://drive.google.com/uc?export=download&id=115B6gVIofyfsiet4JPLebpINlQZi6x_g ",
+      "txt_direct": "books/cave/ar/content.txt",
+      "cover": "books/cave/ar/cover-ar.png",
+      "archive": "https://archive.org/details/content_20260310_1937 "
+    },
+    "en": {
+      "docx": "https://drive.google.com/uc?export=download&id=1g1yoYqyO94OXnnGDYwwth3_64JdmQaqh ",
+      "pdf_direct": "books/cave/en/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1TAI7Xq6GYd7-onPTyaoJd1_y-HURfsY-",
+      "html": "https://drive.google.com/uc?export=download&id=11N1AxIowzCb8h8z3H71tEswAMTJBjfjV ",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1LeUjN9lByzwaehZ4WLDF4QgluWiZZYE7",
+      "txt_direct": "books/cave/en/content.txt",
+      "cover": "books/cave/en/cover-en.png",
+      "archive": "https://archive.org/details/content_20260310_1942 "
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 528,
+      "pages_en": 8,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+  "topics_ar": [
+    "أصحاب الكهف",
+    "التدبر القرآني",
+    "التحليل اللغوي",
+    "التفسير الرمزي",
+    "سورة الكهف",
+    "ناصر ابن داوود",
+    "العزلة النفسية",
+    "الرجم بالغيب",
+    "إعجاز القرآن",
+    "الدلالات المعنوية",
+    "فلسفة العدد",
+    "لغة القرآن",
+    "الرقيم",
+    "الوفاء",
+    "التجديد الديني",
+    "فقه البصيرة",
+    "الملازمة الإيمانية"
+  ],
+  "topics_en": [
+    "People of the Cave",
+    "Quranic Reflection",
+    "Linguistic Analysis",
+    "Symbolic Interpretation",
+    "Surah Al-Kahf",
+    "Nasser Ibn Dawood",
+    "Psychological Solitude",
+    "Intellectual Stoning",
+    "Quranic Miracles",
+    "Spiritual Semantics",
+    "Philosophy of Numbers",
+    "Quranic Language",
+    "Al-Raqim",
+    "Loyalty",
+    "Religious Reform",
+    "Jurisprudence of Insight",
+    "Spiritual Companionship"
+  ]
+}
+  },
+

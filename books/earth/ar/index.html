@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الأرض في القرآن: رحلة من الثنائية الوجودية إلى الشهادة النهائية</title>
+    <meta name="description" content="المجلد الثالث: الأرض في القرآن – رحلة من الثنائية الوجودية إلى الشهادة النهائية ضمن سلسلة وَلِيَكُونَ مِنَ الْمُوقِنِينَ">
+    
+    <!-- Schema.org markup -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "الأرض في القرآن: رحلة من الثنائية الوجودية إلى الشهادة النهائية",
+        "author": {
+            "@type": "Person",
+            "name": "ناصر ابن داوود"
+        },
+        "publisher": "مكتبة ناصر ابن داوود",
+        "datePublished": "2026",
+        "bookEdition": "الطبعة الأولى",
+        "inLanguage": "ar",
+        "description": "دراسة قرآنية شاملة لمفهوم الأرض في القرآن، واستكشاف لدورها كبنية دلالية تحكم فهم الوجود الإنساني، وارتباطها بالعبادات والحياة اليومية، وانتهاءً بشهادتها يوم القيامة.",
+        "genre": ["الدراسات القرآنية", "التفسير الموضوعي", "الكونيات"],
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "numberOfPages": 94
+    }
+    </script>
+
+    <style>
+        :root {
+            --primary: #1a5f7a;
+            --secondary: #159895;
+            --accent: #57C5B6;
+            --light: #f8f9fa;
+            --dark: #212529;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Tajawal', sans-serif;
+            line-height: 1.8;
+            color: var(--dark);
+            background: #f9f9f9;
+            direction: rtl;
+        }
+        
+        .hero {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 4rem 1rem;
+            text-align: center;
+        }
+        
+        .hero-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            font-size: 1.3rem;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .section {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .section h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .book-cover {
+            text-align: center;
+        }
+        
+        .book-cover img {
+            width: 100%;
+            max-width: 350px;
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .summary {
+            background: #f0f7ff;
+            border-right: 5px solid var(--primary);
+        }
+        
+        .summary p {
+            margin-bottom: 1rem;
+            text-align: justify;
+        }
+        
+        .toc-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .toc-item {
+            background: var(--light);
+            padding: 1rem;
+            border-radius: 5px;
+            border-right: 3px solid var(--secondary);
+            transition: transform 0.3s ease;
+        }
+        
+        .toc-item:hover {
+            transform: translateX(-5px);
+            background: #e9f7f6;
+        }
+        
+        .toc-item h3 {
+            color: var(--secondary);
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+        }
+        
+        .btn {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 5px;
+            text-decoration: none;
+            margin: 0.5rem;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .btn:hover {
+            background: var(--secondary);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .btn-secondary {
+            background: var(--secondary);
+        }
+        
+        .btn-accent {
+            background: var(--accent);
+        }
+        
+        .download-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin: 1rem 0;
+        }
+        
+        .download-link {
+            background: var(--light);
+            color: var(--primary);
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            text-decoration: none;
+            border: 1px solid #ddd;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+        
+        .download-link:hover {
+            background: var(--primary);
+            color: white;
+        }
+        
+        .meta-info {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1rem 0;
+        }
+        
+        .meta-item {
+            margin: 0.5rem 0;
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 0.5rem;
+        }
+        
+        .meta-item:last-child {
+            border-bottom: none;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 2rem;
+            background: var(--dark);
+            color: white;
+            margin-top: 3rem;
+        }
+        
+        .highlight {
+            color: var(--primary);
+            font-weight: bold;
+        }
+    </style>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-content">
+            <h1>الأرض في القرآن</h1>
+            <p class="subtitle">رحلة من الثنائية الوجودية إلى الشهادة النهائية</p>
+            <p>ضمن سلسلة "وَلِيَكُونَ مِنَ الْمُوقِنِينَ"</p>
+        </div>
+    </header>
+    
+    <main class="container">
+        <div class="left-column">
+            <section class="section book-cover">
+                <img src="https://nasserhabitat.github.io/nasser-books/books/earth/ar/cover-ar.png" alt="غلاف كتاب الأرض في القرآن" loading="lazy">
+                
+                <div class="meta-info">
+                    <div class="meta-item">
+                        <span>المؤلف:</span>
+                        <span class="highlight">ناصر ابن داوود</span>
+                    </div>
+                    <div class="meta-item">
+                        <span>الطبعة:</span>
+                        <span>الأولى - 2026</span>
+                    </div>
+                    <div class="meta-item">
+                        <span>عدد الصفحات:</span>
+                        <span>94 صفحة</span>
+                    </div>
+                    <div class="meta-item">
+                        <span>التصنيف:</span>
+                        <span>الدراسات القرآنية، التفسير الموضوعي</span>
+                    </div>
+                </div>
+                
+                <div class="book-actions">
+                    <a href="https://archive.org/details/content_20260228_1125" class="btn" target="_blank" rel="noopener noreferrer">
+                        قراءة على الأرشيف
+                    </a>
+                    <a href="../en/index.html" class="btn btn-secondary">
+                        English Version
+                    </a>
+                    <a href="https://nasserhabitat.github.io/nasser-books/" class="btn btn-accent">
+                        العودة إلى الكتب
+                    </a>
+                </div>
+                
+                <div class="download-links">
+                    <h4>📥 روابط التحميل المباشر</h4>
+                    <a href="https://drive.google.com/uc?export=download&id=1FjnTezt9iKLvt32BA6cmTKcMh8ayn3LQ" class="download-link" target="_blank" rel="noopener noreferrer">📄 DOCX</a>
+                    <a href="https://drive.google.com/uc?export=download&id=1-W6n4PmTo3MVlKjblZS7k2p_PvxkFKN-" class="download-link" target="_blank" rel="noopener noreferrer">📖 PDF</a>
+                    <a href="https://drive.google.com/uc?export=download&id=1-W6n4PmTo3MVlKjblZS7k2p_PvxkFKN-" class="download-link" target="_blank" rel="noopener noreferrer">📖 PDF (خارجي)</a>
+                    <a href="https://drive.google.com/uc?export=download&id=17OWgl1znQMz80C8UQgj0WXKvI74B2l5X" class="download-link" target="_blank" rel="noopener noreferrer">🌐 HTML</a>
+                    <a href="https://nasserhabitat.github.io/nasser-books/books/earth/ar/content.txt" class="download-link" target="_blank" rel="noopener noreferrer">📝 نص خام</a>
+                    <a href="https://drive.google.com/uc?export=download&id=1XhgXJapFHj5ghH8euNmy1R-Y6PQ2Ale1" class="download-link" target="_blank" rel="noopener noreferrer">📝 نص (خارجي)</a>
+                </div>
+            </section>
+            
+            <section class="section">
+                <h2>لمن هذا الكتاب؟</h2>
+                <ul style="padding-right: 1.5rem;">
+                    <li style="margin-bottom: 0.8rem;">الباحثون في الدراسات القرآنية والتفسير الموضوعي</li>
+                    <li style="margin-bottom: 0.8rem;">المهتمون بفهم العلاقة بين الكون والعبادات في القرآن</li>
+                    <li style="margin-bottom: 0.8rem;">الدعاة وطلاب العلم الشرعي</li>
+                    <li style="margin-bottom: 0.8rem;">المفكرون المهتمون بإعادة بناء الرؤية القرآنية للوجود</li>
+                    <li>كل من يبحث عن اليقين من خلال تدبر آيات الأرض في القرآن</li>
+                </ul>
+            </section>
+            
+            <section class="section">
+                <h2>موضوعات الكتاب</h2>
+                <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الأرض</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">السماء</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الاستخلاف</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الزلازل</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الموت</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">البعث</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">القصص القرآنية</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الدعاء</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الصلاة</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الصيام</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الحج</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الزكاة</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الجهاد النفسي</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الشهادة</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">التوبة</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الفطرة</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الذكر</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الصبر</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">الشكر</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">العمل الصالح</span>
+                    <span style="background: var(--light); padding: 0.3rem 0.8rem; border-radius: 20px; border: 1px solid #ddd;">يوم القيامة</span>
+                </div>
+            </section>
+        </div>
+        
+        <div class="right-column">
+            <section class="section summary">
+                <h2>مقدمة الكتاب</h2>
+                <p>في هذا الكتاب، نستكشف مفهوم "الأرض" في القرآن الكريم ليس كمجرد عنصر كوني مادي، بل كبنية دلالية عميقة تحكم فهم الوجود الإنساني. من خلال سلسلة مقالات مترابطة، نبدأ برؤية الأرض كامتداد عملي للسماء، ميدان للتلقي والتدبر، الابتلاء والاستخلاف، ثم نربطها بالأركان الإسلامية والمفاهيم الروحية مثل التوبة، الذكر، الدعاء، الصبر، الشكر، والعمل الصالح. تنتهي الرحلة بيوم القيامة، حيث تتحول الأرض إلى شاهدة نهائية على أعمالنا، محذرة من الفساد وداعية إلى التعمير. هذا الكتاب دعوة للتدبر في الأرض كجزء من المنظومة القرآنية، مع ربط بالعبادات والحياة اليومية.</p>
+                
+                <p>يأتي هذا الكتاب كتكملة لكتبي التي ألفتها سابقًا ضمن سلسلة "وَلِيَكُونَ مِنَ الْمُوقِنِينَ"، والتي تمثّل مشروعًا معرفيًا متكاملًا لإعادة بناء الرؤية القرآنية للكون والإنسان والوجود، بعيدًا عن إسقاطات العلمية المعاصرة، وبعيدًا في الوقت نفسه عن القراءة الوعظية أو الرمزية المنفلتة من النص.</p>
+                
+                <p><strong>المجلد الأول</strong> يؤسّس المنهج القرآني في قراءة الآيات الكونية، ويعالج مفاهيم السماء والأرض، والآفاق والأنفس، والعرش والماء، والليل والنهار، بوصفها بنى دلالية ذات ظاهر وباطن، ويعيد الاعتبار للتدبر باعتباره أداة معرفية تُفضي إلى اليقين لا إلى الجدل.</p>
+                
+                <p><strong>المجلد الثاني</strong> ينتقل من المنهج إلى الشهادة، فيتناول الملكوت بوصفه واقعًا مخلوقًا ماديًا كما يصفه القرآن، ويدخل في نقد مباشر للنموذج الكوني المعاصر حين يتعارض مع النص أو المشاهدة أو العقل، دون ادّعاء استبدال علم بعلم، بل بقصد تحرير الوعي من المسلّمات غير المفحوصة.</p>
+                
+                <p><strong>وفي هذا الكتاب (المجلد الثالث)</strong>، نطبق هذا المنهج على "الأرض" كميدان مركزي، لنكشف كيف تُصبح جزءًا من رحلة اليقين، تربط بين الوحي السماوي والواقع الأرضي، وتدعو إلى تعمير يتجاوز المادي إلى الروحي والحضاري.</p>
+            </section>
+            
+            <section class="section">
+                <h2>محتويات الكتاب</h2>
+                <div class="toc-grid">
+                    <div class="toc-item">
+                        <h3>١. الأرض والسماء: ثنائية وجودية</h3>
+                        <p>الأرض كامتداد عملي للسماء وميدان للابتلاء</p>
+                    </div>
+                    
+                    <div class="toc-item">
+                        <h3>٢. الأرض في القصص القرآني</h3>
+                        <p>دروس من قصص الأمم السابقة وعلاقتها بالأرض</p>
+                    </div>
+                    
+                    <div class="toc-item">
+                        <h3>٣. الأرض والعبادات</h3>
+                        <p>الصلاة، الزكاة، الحج، والصيام وارتباطها بالأرض</p>
+                    </div>
+                    
+                    <div class="toc-item">
+                        <h3>٤. الأرض والمفاهيم الروحية</h3>
+                        <p>التوبة، الذكر، الدعاء، الصبر، والشكر في سياق الأرض</p>
+                    </div>
+                    
+                    <div class="toc-item">
+                        <h3>٥. الأرض والزلازل: آيات وعلامات</h3>
+                        <p>الزلازل كآيات تخويف وتذكير</p>
+                    </div>
+                    
+                    <div class="toc-item">
+                        <h3>٦. الموت والأرض</h3>
+                        <p>الأرض كمستقر ومبعث</p>
+                    </div>
+                    
+                    <div class="toc-item">
+                        <h3>٧. الأرض يوم القيامة</h3>
+                        <p>شهادة الأرض على أعمال البشر</p>
+                    </div>
+                    
+                    <div class="toc-item">
+                        <h3>٨. خلاصة: من الثنائية إلى الشهادة</h3>
+                        <p>رحلة اليقين عبر تدبر الأرض</p>
+                    </div>
+                </div>
+            </section>
+            
+            <section class="section">
+                <h2>خاتمة الكتاب</h2>
+                <p>بهذا نختتم رحلتنا في كتاب "الأرض في القرآن": بدأنا بثنائيتها مع السماء كبنية وجودية، مرورًا بدورها كآية، وميدان ابتلاء، وشاهدة، وربطها بالعبادات كمنهج حياة متجدد، وانتهاء بشهادتها النهائية يوم القيامة. الأرض ليست نقيضًا للسماء، بل امتدادها العملي: هي الميدان الذي نُختبر فيه، والحضن الذي يحمل أعمالنا، والشاهدة التي تنبئ بها. القرآن يدعونا للعيش في الأرض كخلفاء، نعمرها بالعمل الصالح، ونصبر عليها، ونشكر لله نعمها، وندعو فيها، ونذكره عليها، حتى تخرج الأرض أثقالها وتشهد لنا لا علينا.</p>
+            </section>
+        </div>
+    </main>
+    
+    <footer>
+        <p>© 2026 مكتبة ناصر ابن داوود - جميع الحقوق مفتوحة بموجب رخصة المشاع الإبداعي CC BY-NC-ND 4.0</p>
+        <p>باحث إسلامي ومهندس متخصص في الدراسات القرآنية الرقمية</p>
+    </footer>
+</body>
+</html>

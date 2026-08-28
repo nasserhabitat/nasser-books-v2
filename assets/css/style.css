@@ -1,0 +1,445 @@
+:root {
+    --primary-color: #1a5276;
+    --secondary-color: #2980b9;
+    --accent-color: #e74c3c;
+    --light-color: #f5f5f5;
+    --dark-color: #333;
+    --new-badge-color: #27ae60;
+    --new-section-bg: #f9f7f0;
+    --search-highlight: #ffeb3b;
+    --ai-color: #6a0dad;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Tajawal', sans-serif;
+    background-color: #f9f9f9;
+    color: var(--dark-color);
+    line-height: 1.6;
+}
+
+.update-banner {
+    background: linear-gradient(135deg, var(--ai-color), var(--primary-color));
+    color: white;
+    text-align: center;
+    padding: 12px;
+    font-size: 0.9rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.hero {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    text-align: center;
+    padding: 3rem 1rem;
+    margin-bottom: 2rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none"><path d="M0,0 L100,0 L100,100 Q50,80 0,100 Z" fill="rgba(255,255,255,0.1)"/></svg>');
+    background-size: 100% 100%;
+    opacity: 0.3;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    margin-bottom: 1.5rem;
+}
+
+.library-stats {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+}
+
+.library-stats span {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+}
+
+/* 
+    *** التعديل هنا: استخدام .book-cover img لتحديد أبعاد الصور مباشرة بدلاً من .book-result-cover
+    *** هذا يجعل إدارة الصور أكثر اتساقًا ومرونة عبر جميع أنماط العرض.
+    *** تم إزالة .book-result-cover لأنه يبدو أنه يحدد صورة خلفية (background-image)
+    *** بينما الأفضل استخدام وسم <img> مباشرًا في HTML مع خاصية `src`.
+*/
+/* 
+.book-result-cover {
+    width: 100px;
+    height: 150px;
+    background-image: url('books/conscious-contemplation/ar/cover-ar.png');
+    background-size: cover;
+} 
+*/
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.section-title {
+    text-align: center;
+    margin: 2rem 0;
+    color: var(--primary-color);
+    font-size: 1.8rem;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.section-title::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    height: 3px;
+    background: var(--primary-color);
+    border-radius: 3px;
+}
+
+.filter-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.filter-buttons button {
+    padding: 8px 20px;
+    border: 2px solid var(--primary-color);
+    background: white;
+    color: var(--primary-color);
+    border-radius: 30px;
+    cursor: pointer;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.filter-buttons button.active {
+    background: var(--primary-color);
+    color: white;
+}
+
+.filter-buttons button:hover {
+    background: var(--primary-color);
+    color: white;
+}
+
+/* Book Card and Layout Styles */
+.books-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.books-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.book-card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+}
+
+.books-grid .book-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.books-list .book-card {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+}
+
+.book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+.book-cover {
+    position: relative;
+    flex-shrink: 0;
+    background-color: #f0f0f0;
+    /* 
+        *** اقتراح: يمكنك هنا تحديد أبعاد افتراضية إذا لم يتم تحديدها من قبل العنصر <img> نفسه.
+        *** لكن الأفضل هو ترك الـ <img> يحدد الأبعاد لتجنب التحميل المزدوج.
+        *** مع 'object-fit: contain' يجب أن يكون عرض وارتفاع الصورة في الـ HTML مناسبين.
+    */
+}
+
+.books-grid .book-cover {
+    height: 220px; /* الارتفاع الكلي لحاوية الصورة في عرض الشبكة */
+    width: 100%;
+}
+
+.books-list .book-cover {
+    width: 180px; /* عرض حاوية الصورة في عرض القائمة */
+    height: 240px; /* ارتفاع حاوية الصورة في عرض القائمة */
+}
+
+/* 
+    *** هذا هو أهم جزء للتعديل لتصغير الصور!
+    *** تم تعديل الأبعاد لتصبح 100x150 بكسل كحجم افتراضي لصور الأغلفة المصغرة.
+    *** هذا الحجم مثالي لنتائج البحث الداخلية ويسرع التحميل.
+    *** لاحظ أن `object-fit: contain` سيضمن أن الصورة ستناسب هذه الأبعاد دون قص.
+    *** يجب أن يتم توفير صور فعلية بأبعاد قريبة من 100x150 أو 180x240 (حسب عرض القائمة)
+    *** في ملفات HTML لكي تستفيد من هذا التحسين.
+*/
+.book-cover img {
+    width: 100px; /* حجم العرض الافتراضي لصور الأغلفة في نتائج البحث */
+    height: 150px; /* حجم الارتفاع الافتراضي لصور الأغلفة في نتائج البحث */
+    object-fit: contain;
+    display: block;
+    margin: 0 auto; /* توسيط الصورة داخل حاويتها */
+}
+
+/* 
+    *** تعديل الأحجام الخاصة بأنماط العرض Grid و List
+    *** لضمان أن الصورة الداخلية `<img>` تتكيف مع حجم الحاوية `book-cover` الخاصة بها.
+*/
+.books-grid .book-cover img {
+    width: 100%; /* اجعل الصورة تملأ عرض الحاوية */
+    height: 100%; /* اجعل الصورة تملأ ارتفاع الحاوية */
+    max-width: 150px; /* يمكنك تحديد أقصى عرض هنا إذا كنت لا تريد أن تكون ضخمة جدًا في الشبكة */
+    max-height: 220px; /* أقصى ارتفاع */
+    margin: 0 auto; /* توسيط أفقي */
+}
+
+.books-list .book-cover img {
+    width: 100%; /* اجعل الصورة تملأ عرض الحاوية */
+    height: 100%; /* اجعل الصورة تملأ ارتفاع الحاوية */
+    max-width: 180px; /* أقصى عرض لصور الأغلفة في عرض القائمة */
+    max-height: 240px; /* أقصى ارتفاع لصور الأغلفة في عرض القائمة */
+    margin: 0 auto; /* توسيط أفقي */
+}
+
+
+.ai-badge, .new-badge-card {
+    position: absolute;
+    top: 15px;
+    background: var(--ai-color);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    z-index: 2;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.ai-badge {
+    left: 15px;
+}
+
+.new-badge-card {
+    right: 15px;
+    background: var(--new-badge-color);
+}
+
+.book-info {
+    padding: 1.5rem;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.books-grid .book-info {
+    height: calc(100% - 220px);
+}
+
+.books-list .book-info {
+    width: calc(100% - 180px);
+}
+
+.book-card h2 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+}
+
+.book-meta {
+    color: #666;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+
+.book-desc {
+    margin-bottom: 1.5rem;
+    color: #555;
+    flex-grow: 1;
+}
+
+.books-grid .book-desc {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.book-formats {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+}
+
+.book-formats span {
+    background: #f0f0f0;
+    padding: 4px 10px;
+    border-radius: 15px;
+    font-size: 0.8rem;
+}
+
+.book-actions {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 8px 20px;
+    background: var(--primary-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+    font-size: 0.9rem;
+    text-align: center;
+    flex: 1;
+}
+
+.btn:hover {
+    background: var(--secondary-color);
+}
+
+.site-footer {
+    background: var(--dark-color);
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 3rem;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-section {
+    flex: 1;
+    min-width: 250px;
+}
+
+.footer-section h3 {
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+.footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 20px;
+}
+
+.new-books-section, .api-section, .advanced-filters, .search-info, .no-results, .ai-access {
+    /* Keeping remaining specific styles */
+}
+
+
+@media (max-width: 992px) {
+    .books-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .books-list .book-card {
+        flex-direction: column;
+    }
+    
+    .books-list .book-cover {
+        width: 100%;
+        height: 200px;
+    }
+    
+    .books-list .book-info {
+        width: 100%;
+    }
+    /* 
+        *** تعديل الأبعاد في الميديا كويري لتتناسب مع التغييرات الجديدة
+        *** هنا، نجعل الصورة تملأ عرض الحاوية وتأخذ ارتفاعًا أقصى.
+    */
+    .books-list .book-cover img {
+        max-width: 150px; /* أقصى عرض للصورة في عرض القائمة على الشاشات الصغيرة */
+        max-height: 200px; /* أقصى ارتفاع للصورة في عرض القائمة على الشاشات الصغيرة */
+        margin: 0 auto; /* توسيط أفقي */
+    }
+}
+
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+    
+    .subtitle {
+        font-size: 1rem;
+    }
+    /* 
+        *** تعديل الأبعاد في الميديا كويري للأجهزة الأصغر
+    */
+    .books-grid .book-cover img {
+        max-width: 120px; /* أقصى عرض للصورة في عرض الشبكة على الشاشات الصغيرة جدًا */
+        max-height: 180px; /* أقصى ارتفاع */
+    }
+    
+    .books-list .book-cover img {
+        max-width: 120px; /* أقصى عرض للصورة في عرض القائمة على الشاشات الصغيرة جدًا */
+        max-height: 180px; /* أقصى ارتفاع */
+    }
+}

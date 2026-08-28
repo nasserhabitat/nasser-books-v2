@@ -1,0 +1,61 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 42,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 58 كتابًا (29 كتابًا باللغة العربية و29 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+{
+  "id": "magog",
+  "titles": {
+    "ar": "يأجوج ومأجوج - من قانون الدم إلى سنن الفساد",
+    "en": "Gog and Magog - From the Law of Blood to the Patterns of Corruption"
+  },
+  "description": {
+    "ar": "تحليل سنني ولساني لقصة يأجوج ومأجوج وذو القرنين، كاشفًا عن شفرة الدم وقوانين الفساد والردم في الزمن المعاصر.",
+    "en": "A linguistic and paradigmatic analysis of the story of Gog and Magog and Dhul-Qarnayn, revealing the code of blood and the laws of corruption and containment in the modern era."
+  },
+  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/magog/ar/cover-ar.png",
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=13FgsqFRI7lmtrCnHTZgPUdwUvSNEraZM",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1A06d-es2hU46qJtWsffNRbf3rUMD5cHP",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1A06d-es2hU46qJtWsffNRbf3rUMD5cHP",
+    "html": "https://drive.google.com/uc?export=download&id=19j3WqedOVq6MW1n1Z9ih3A8bP74ZTMkB",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1ayzrEHiJEFs-u5G5QAcC0mxltFg_2TCB",
+    "txt_direct": "books/magog/ar/content.txt",
+    "cover": "books/magog/ar/cover-ar.png",
+    "archive": "https://archive.org/details/content_20251231_1245"
+  },
+  "en": {
+    "docx": " https://drive.google.com/uc?export=download&id=1f27NcQHtwl4eK4GppKbvKBG1Atd6WQ5X ",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1IPUS7svTd1RSKRZEsRHnvWnquTo6Nyyk ",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1IPUS7svTd1RSKRZEsRHnvWnquTo6Nyyk ",
+    "html": " https://drive.google.com/uc?export=download&id=1yuMVbs1Bzn7l7ootuPdRlLDHAfoStGjs ",
+    "txt_external": " https://drive.google.com/uc?export=download&id=1TAMznBKdG000yAnbZUyqZ55yxG5uNFj5",
+    "txt_direct": "books/magog/en/content.txt",
+    "cover": "books/magog/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20260120_1816"
+  },
+  "metadata": {
+    "author": "ناصر ابن داوود",
+    "category": "faith_studies",
+    "pages_ar": 60,
+    "pages_en": 20,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": ["يأجوج ومأجوج", "ذو القرنين", "قانون الدم", "سنن الفساد", "الردم", "الاستخلاف", "فقه اللسان", "شفرة الوجود", "المسار الموجه", "التأجيج", "السيولة", "سفك الوعي", "الردم الرقمي", "هندسة المناعة الوجودية", "تدبر القرآن", "الوعي الوجودي", "خريطة القمر", "أطلنطس", "الجدار الجليدي", "ميزان الوحي", "التسييل", "التحول الرقمي", "الأمن القومي الفكري", "زبر الحديد", "كيمياء الحماية", "النظام الإلهي", "الفساد المنظومي", "المنهج السنني", "الإعجاز اللساني", "الفلسفة القرآنية", "العزل الفكري الواعي"],
+    "topics_en": ["Gog and Magog", "Dhul-Qarnayn", "The Law of Blood", "The Laws of Corruption", "The Barrier", "Succession", "The Jurisprudence of Language", "The Code of Existence", "The Directed Path", "Incitement", "Liquidity", "The Shedding of Consciousness", "The Digital Barrier", "The Engineering of Existential Immunity", "Contemplating the Qur'an", "Existential Consciousness", "The Map of the Moon", "Atlantis", "The Ice Wall", "The Balance of Revelation", "Liquidation", "Digital Transformation", "Intellectual National Security", "Iron Bars", "The Chemistry of Protection", "The Divine Order", "Systemic Corruption", "The Sunnah Methodology", "Linguistic Inimitability", "The Qur'anic Philosophy", "Conscious Intellectual Isolation"]
+                }
+            }

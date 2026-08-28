@@ -1,0 +1,244 @@
+<!DOCTYPE html >
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>يوسف فينا :: رحلة الوعي من الكيد والفساد إلى التمكين</title>
+    <meta name="description" content="يوسف فينا - رحلة الوعي من مخاض الكيد إلى تمكين الذات والواقع. قراءة معاصرة في سورة يوسف: الوعي، الفساد، التمكين.">
+    <!-- Open Graph / EN version will be separate file, but we keep both in one master page? we'll create two sections -->
+    <!-- for this answer I'll produce both files as requested: first the Arabic page (like index.html but for yusuf) then the English page (like index (1).html) -->
+    <!-- we'll follow the exact design language from the provided samples but adapt to new content -->
+    <style>
+        :root {
+            --primary: #1a5f7a;
+            --secondary: #159895;
+            --accent: #57C5B6;
+            --light: #f8f9fa;
+            --dark: #212529;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Tajawal', sans-serif;
+            line-height: 1.8;
+            color: var(--dark);
+            background: #f9f9f9;
+            direction: rtl;
+        }
+        .hero {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 3rem 1rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none" opacity="0.1"><path d="M0,0 L100,0 L100,100 Z" fill="white"/></svg>');
+            background-size: cover;
+        }
+        .hero-content { max-width: 800px; margin: 0 auto; position: relative; z-index: 1; }
+        h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
+        .subtitle { font-size: 1.4rem; opacity: 0.9; font-weight: 300; }
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1.5rem;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+        }
+        @media (max-width: 768px) { .container { grid-template-columns: 1fr; } }
+        .section {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        .section h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .book-cover { text-align: center; }
+        .book-cover img {
+            width: 100%;
+            max-width: 350px;
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        .summary { background: #f0f7ff; border-right: 5px solid var(--primary); }
+        .summary p { margin-bottom: 1rem; text-align: justify; }
+        .toc-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px,1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        .toc-item {
+            background: var(--light);
+            padding: 1rem;
+            border-radius: 5px;
+            border-right: 3px solid var(--secondary);
+            transition: transform 0.3s ease;
+        }
+        .toc-item:hover { transform: translateX(-5px); background: #e9f7f6; }
+        .toc-item h3 { color: var(--secondary); margin-bottom: 0.5rem; }
+        .btn {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 5px;
+            text-decoration: none;
+            margin: 0.5rem 0.5rem 0.5rem 0;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-weight: 500;
+        }
+        .btn:hover { background: var(--secondary); transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+        .btn-secondary { background: var(--secondary); }
+        .btn-accent { background: var(--accent); color: var(--dark); }
+        .download-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin: 1rem 0;
+        }
+        .download-link {
+            background: var(--light);
+            color: var(--primary);
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            text-decoration: none;
+            border: 1px solid #ddd;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+        .download-link:hover { background: var(--primary); color: white; }
+        .meta-info {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1rem 0;
+        }
+        .meta-item {
+            margin: 0.5rem 0;
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 0.5rem;
+        }
+        .meta-item:last-child { border-bottom: none; }
+        footer {
+            text-align: center;
+            padding: 3rem 1.5rem;
+            background: var(--dark);
+            color: white;
+            margin-top: 3rem;
+        }
+        footer a { color: var(--accent); text-decoration: none; }
+        .highlight { color: var(--primary); font-weight: bold; }
+        .book-actions { margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-content">
+            <h1>يوسف فينا</h1>
+            <p class="subtitle">رحلة الوعي من الكيد والفساد إلى التمكين</p>
+            <p>المجلد الأول: قراءة نسقية في سورة يوسف – الرموز والدلالات</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- العمود الأيمن (في اليمين بسبب RTL) -->
+        <div class="right-column">
+            <section class="section book-cover">
+                <img src="cover-ar.png" alt="غلاف كتاب يوسف فينا" loading="lazy">
+                <div class="meta-info">
+                    <div class="meta-item"><span>المؤلف:</span><span class="highlight">ناصر ابن داوود</span></div>
+                    <div class="meta-item"><span>الطبعة:</span><span>الأولى - 2026</span></div>
+                    <div class="meta-item"><span>عدد الصفحات:</span><span>149 صفحة</span></div>
+                    <div class="meta-item"><span>التصنيف:</span><span>الوعي القرآني، تدبر السور</span></div>
+                </div>
+                <div class="book-actions">
+                    <a href="https://archive.org/details/content_20260312_1928" class="btn" target="_blank" rel="noopener">📖 قراءة على الأرشيف</a>
+                    <a href="../en/" class="btn btn-secondary">English version</a>
+                    <a href="https://nasserhabitat.github.io/nasser-books/" class="btn btn-accent">العودة إلى المكتبة</a>
+                </div>
+                <div class="download-links">
+                    <h4>📥 تحميل مباشر</h4>
+                    <a href="https://drive.google.com/uc?export=download&id=1FX-dinmxySC5WSjS4C4U1Ml2_w0rmXpa" class="download-link" target="_blank">📄 DOCX</a>
+                    <a href="https://drive.google.com/uc?export=download&id=1BZ37nOMsIoK6Zl3tHiyqVDWOlF5Odwyc" class="download-link" target="_blank">📖 PDF (مباشر)</a>
+                    <a href="https://drive.google.com/uc?export=download&id=1BZ37nOMsIoK6Zl3tHiyqVDWOlF5Odwyc" class="download-link" target="_blank">📘 PDF (خارجي)</a>
+                    <a href="https://drive.google.com/uc?export=download&id=1JR7VQEfx1LPHIaTq2RJLkVixvWoj4JcF" class="download-link" target="_blank">🌐 HTML</a>
+                    <a href="https://nasserhabitat.github.io/nasser-books/books/youssef/ar/content.txt" class="download-link" target="_blank">📝 نص (مباشر)</a>
+                    <a href="https://drive.google.com/uc?export=download&id=1JjE7yY68zkfc23AO7RrP-Cgxo-YuEusW" class="download-link" target="_blank">📝 نص (خارجي)</a>
+                </div>
+            </section>
+            <section class="section">
+                <h2>لمن هذا الكتاب؟</h2>
+                <ul style="padding-right: 1.5rem;">
+                    <li style="margin-bottom:0.8rem;">الباحثون عن الوعي القرآني والمنهج النسقي</li>
+                    <li style="margin-bottom:0.8rem;">المهتمون بتفسير سورة يوسف برؤية رمزية معاصرة</li>
+                    <li style="margin-bottom:0.8rem;">المفكرون في قضايا الفساد والسلطة والإصلاح</li>
+                    <li style="margin-bottom:0.8rem;">طلاب التزكية والتربية الروحية</li>
+                    <li>كل من يريد أن يرى يوسف في داخله</li>
+                </ul>
+            </section>
+        </div>
+
+        <!-- العمود الأيسر -->
+        <div class="left-column">
+            <section class="section summary">
+                <h2>مقدمة الكتاب: يوسف فينا</h2>
+                <p><strong>رحلة الوعي من مخاض الكيد إلى تمكين الذات والواقع</strong></p>
+                <p>الحمد لله الذي أنزل القرآن روحاً تحيا بها القلوب... يوسف فينا. هذه ليست مجرد جملة استهلالية، بل هي "عقيدة تدبرية" ننطلق منها في هذا الكتاب. إن يوسف بن يعقوب عليهما السلام ليس شخصية احتجزها الماضي، بل هو "أنت" في أبهى تجليات نقائك. هو الجوهر الفطري، الضمير اليقظ، الرؤيا الصادقة التي يحملها كل منا في أعماقه.</p>
+                <p>هذا الكتاب ينتشل السورة من ضيق التفسير المادي الفردي إلى سعة المنظومة القرآنية الشاملة. السورة تكرر كلمة "الكيد" تسع مرات لترسم ملامح "الدولة العميقة" للفساد الإداري والمالي. نعيد اكتشاف الرموز: القميص يتحول من دليل إدانة مزيف إلى بشير شفاء، البكاء قد يكون دموع تمساح أو دموع توبة، السجن ليس قضباناً بل مدرسة الخلوة التي تعد للتمكين.</p>
+                <p>نربط بين يوسف والكهف: إذا كانت الكهف حصننا من الفتن الأربع، فإن يوسف هو التطبيق العملي للنجاة منها بسلاح الإحسان. دعوة للتحرر من "الغفلة الأبائية" وسقاية العقول بخمر النصوص الجامدة، نحو تأويل الأحاديث (Data Update) لفهم ما استجد في نفوسنا وواقعنا.</p>
+                <p>يوسف فينا.. لأن القرآن حي فينا.</p>
+            </section>
+
+            <section class="section">
+                <h2>هيكل الرحلة: مراحل الوعي الخمس</h2>
+                <div class="toc-grid">
+                    <div class="toc-item"><h3>١. الرؤيا (تلقي المعنى)</h3><p>ليلة القدر الفردية، لحظة اليقظة والنداء.</p></div>
+                    <div class="toc-item"><h3>٢. الجب (قمع الإمكانات)</h3><p>الرفض الاجتماعي، حسد الأقربين، بداية التصفية.</p></div>
+                    <div class="toc-item"><h3>٣. القصر والفتنة</h3><p>مواجهة إغراء السلطة والشهوة، الامتحان الأخلاقي.</p></div>
+                    <div class="toc-item"><h3>٤. السجن (العزلة الاستراتيجية)</h3><p>الاعتزال الاختياري، مختبر النمو الداخلي وتأويل الأحلام.</p></div>
+                    <div class="toc-item"><h3>٥. التمكين (السلطة المسؤولة)</h3><p>إدارة الأزمة، العفو عند المقدرة، الإصلاح بلا انتقام.</p></div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>أبرز المحاور</h2>
+                <div class="toc-grid">
+                    <div class="toc-item"><h3>الكيد المنظومي</h3><p>فساد إداري ومالي، شبكات المصالح، الدولة العميقة.</p></div>
+                    <div class="toc-item"><h3>الرمزية السياسية</h3><p>مراكز القوى، شهوة السلطة، تهديد بقاء الحضارات.</p></div>
+                    <div class="toc-item"><h3>الوعي والنسيان</h3><p>الصلاة على النبي ثورة وجودية تقطع دابر الانفصال.</p></div>
+                    <div class="toc-item"><h3>الإحسان سلاحاً</h3><p>الخروج من الفتن الأربع كما في سورة الكهف.</p></div>
+                    <div class="toc-item"><h3>القميص والعرش</h3><p>من دليل الإدانة إلى بشير الشفاء إلى راية التمكين.</p></div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>خاتمة الكتاب</h2>
+                <p>انتهت صفحات هذا الكتاب، لكن الرحلة الحقيقية تبدأ الآن في عمق وعيك، في يومياتك، في مواجهاتك اليومية مع الكيد والفساد، وفي سعيك نحو التمكين الحقيقي. يوسف فينا ليس مجرد عنوان، بل دعوة لاستدعاء ذلك الجوهر النقي الذي يواجه الجب، يحتمل السجن، وينهض عزيزاً محسناً. كشفنا أن سورة يوسف – أحسن القصص – ليست سيرة تاريخية جامدة، بل نموذج حي يتجدد في كل عصر. الغاية الأعمى: استرداد ميثاق "الوصل" مع الأنبياء، ورفض تشويه سمعتهم في المرويات المغرضة. "الصلاة على النبي ﷺ" ليست تمتمة طقسية، بل ثورة وجودية تربطنا بمنبع الإمداد الإلهي، وتحمينا من متاهات النسيان.</p>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2026 مكتبة ناصر ابن داوود — جميع الحقوق مفتوحة برخصة المشاع الإبداعي CC BY-NC-ND 4.0</p>
+        <p>باحث إسلامي ومهندس متخصص في الدراسات القرآنية الرقمية</p>
+        <p>تصميم مستوحى من رحلة يوسف: من الجب إلى العرش</p>
+    </footer>
+</body>
+</html>

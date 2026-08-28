@@ -1,0 +1,91 @@
+  {
+    "id": "jinn",
+    "book_number": 33,
+    "titles": {
+      "ar": "الجن والشياطين في القرآن: من الخرافة إلى الوعي المعقلن",
+      "en": "Jinn and Demons in the Quran: From Myth to Rational Awareness"
+    },
+    "description": {
+      "ar": "كيف يحرر القرآن الإنسان من الرعب الغيبي؟",
+      "en": "How does the Qur'an free man from the horror of the unseen?"
+    },
+    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/jinn/ar/cover-ar.png",
+    "ar": {
+      "docx": "https://drive.google.com/uc?export=download&id=1Db_N_KvQ-U6knjryPCB1MhyEJz6xsMtW",
+      "pdf_direct": "books/jinn/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=16x-e2mmmL_wHaCiOxhHT8omq7GQDAv9A",
+      "html": "https://drive.google.com/uc?export=download&id=1MYGIaln5ImuEeMvN2DNjtvpvOIreasEg",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1nZ26iRPwaNCIg4nUd9FYys9dzzh_PKGx",
+      "txt_direct": "books/jinn/ar/content.txt",
+      "cover": "books/jinn/ar/cover-ar.png",
+      "archive": "https://archive.org/details/content_20260202_2027"
+    },
+    "en": {
+      "docx": "https://drive.google.com/uc?export=download&id=1fIXN0XljjaUZ4sZZ1Mi61ObxAktAFhww",
+      "pdf_direct": "books/jinn/en/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1bj6jTUjK09000JqA5xtZFB-3JxfAADUZ",
+      "html": "https://drive.google.com/uc?export=download&id=1rYFg-8zpHNBXxOMrI8c-WXS3a1umw1FN",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1WtBgqVrSALHmDDaH7xc1JP2H9uYcjrfq",
+      "txt_direct": "books/jinn/en/content.txt",
+      "cover": "books/jinn/en/cover-en.png",
+      "archive": "https://archive.org/details/content_20260202_2020"
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 71,
+      "pages_en": 18,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+      "topics_ar": [
+        "اليقين",
+        "ملكوت السماوات والأرض",
+        "برهان",
+        "رؤية الحقيقة",
+        "القرآن",
+        "الحقائق العلمية",
+        "الوحي",
+        "الفطرة",
+        "الكون",
+        "الخلق",
+        "الخالق",
+        "الأرض المسطحة",
+        "الأرض الثابتة",
+        "التفكر",
+        "التدبر",
+        "نظريات إسلامية",
+        "شكل الكون",
+        "الشمس",
+        "القمر",
+        "الكواكب",
+        "علم الفلك"
+      ],
+      "topics_en": [
+        "Certainty",
+        "Kingdom of Heaven and Earth",
+        "Evidence",
+        "Seeing the Truth",
+        "Quran",
+        "Scientific Facts",
+        "Revelation",
+        "Nature",
+        "Universe",
+        "Creation",
+        "Creator",
+        "Flat Earth",
+        "Fixed Earth",
+        "Contemplation",
+        "Reflection",
+        "Islamic Theories",
+        "Shape of the Universe",
+        "Sun",
+        "Moon",
+        "Planets",
+        "Astronomy",
+        "Nasser Ibn Dawood",
+        "Reflection in the Mirror of Drawings"
+      ]
+    }
+  }

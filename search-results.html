@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نتائج البحث - مكتبة ناصر ابن داوود</title>
+    <style>
+        /* نفس الأنماط من search.html */
+        :root {
+            --primary-color: #1a5276;
+            --secondary-color: #2980b9;
+            --accent-color: #e74c3c;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: #f5f7fa;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+            border-radius: 0 0 20px 20px;
+            margin-bottom: 2rem;
+        }
+        
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin: 2rem 0;
+        }
+        
+        .search-input {
+            flex: 1;
+            padding: 15px 20px;
+            border: 2px solid #e1e8ed;
+            border-radius: 50px;
+            font-size: 1.1rem;
+        }
+        
+        .search-btn {
+            padding: 15px 30px;
+            background: var(--accent-color);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+        }
+        
+        .back-link {
+            display: inline-block;
+            margin: 1rem 0;
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🔍 نتائج البحث</h1>
+            <p>مكتبة ناصر ابن داوود - عرض نتائج البحث المتخصص</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <a href="search.html" class="back-link">← العودة إلى صفحة البحث الرئيسية</a>
+        
+        <!-- محرك بحث جوجل لصفحة النتائج -->
+        <script async src="https://cse.google.com/cse.js?cx=87a2ea74c56054f92"></script>
+        <div class="gcse-searchresults-only" data-queryParameterName="search"></div>
+        
+        <!-- رسالة إذا لم تكن هناك نتائج -->
+        <div id="no-results" style="display: none; text-align: center; padding: 3rem; color: #666;">
+            <h3>لم يتم العثور على نتائج</h3>
+            <p>جرب استخدام كلمات بحث مختلفة أو تصفح الكتب مباشرة</p>
+            <a href="index.html" style="display: inline-block; margin-top: 1rem; padding: 10px 20px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 5px;">
+                📚 تصفح جميع الكتب
+            </a>
+        </div>
+    </div>
+
+    <script>
+        // التحقق من وجود نتائج
+        setTimeout(() => {
+            const searchResults = document.querySelector('.gsc-results');
+            const noResults = document.getElementById('no-results');
+            
+            if (!searchResults || searchResults.children.length === 0) {
+                noResults.style.display = 'block';
+            }
+        }, 2000);
+    </script>
+</body>
+</html>

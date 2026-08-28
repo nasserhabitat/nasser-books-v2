@@ -1,0 +1,101 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 24,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "prostration-and-glorification-in-the-qur’an",
+    "titles": {
+      "ar": "السجود والتسبيح في القرآن: من التنزيه القلبي إلى الخضوع العملي",
+      "en": "Prostration and Glorification in the Qur’an: From Heartfelt Purification to Practical Submission"
+    },
+    "description": {
+      "ar": "التسبيح والسجود هما جناحا العبودية في الإسلام، يجمعان بين تنزيه الله سبحانه وتعالى عن كل نقص والخضوع التام له في القلب والجسد. يستكشف هذا الكتاب أبعاد السجود والتسبيح في القرآن الكريم، من خلال مقاربة 'فقه اللسان القرآني'، التي تفكك الدلالات اللغوية والرمزية للنصوص، لتكشف عن أعماق المعاني التي تربط التسبيح (التنزيه القلبي والفكري) بالسجود (الخضوع العملي).",
+      "en": "Glorification (Tasbih) and prostration (Sujud) are the two wings of servitude in Islam, combining the purification of Allah Almighty from any imperfection with complete submission to Him in heart and body. This book explores the dimensions of prostration and glorification in the Holy Qur’an through the 'jurisprudence of the Qur’anic tongue' approach, which deconstructs the linguistic and symbolic connotations of the texts to reveal the deep meanings that link glorification (heartfelt and intellectual purification) with prostration (practical submission)."
+    },
+    "links": {
+     xv0NXWlrDLV",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1SMFzP3qbsclWGaYJH_idtBPC2HOlZBuB",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1SMFzP3qbsclWGaYJH_idtBPC2HOlZBuB",
+        "html": "https://drive.google.com/uc?export=download&id=1DV-6QP-LbkLlIbEKmhTV54iSUzcdGYHe",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1Ic6Us2cmPScuJPOYUzShq-GERNdXO-gx",
+        "txt_direct": "books/prostration-and-glorification-in-the-quran/ar/content.txt",
+        "cover": "books/prostration-and-glorification-in-the-quran/ar/cover-ar.png",
+        "archive": "https://archive.org/details/content_20250929_1646"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1N8d5YlzSU9nLBnUkekLefTlskisPa1Qo",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1LgKEAcmmtIql5jFdRF4kZc0Xow-dPWjd",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1LgKEAcmmtIql5jFdRF4kZc0Xow-dPWjd",
+        "html": "https://drive.google.com/uc?export=download&id=1sDxqVx_D8NvO1q0CGrQs25_-CxW_Wsi0",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1-4pwIbiwFemrRSoMqGDGCgmPtEkiTlXD",
+        "txt_direct": "books/prostration-and-glorification-in-the-quran/en/content.txt",
+        "cover": "books/prostration-and-glorification-in-the-quran/en/cover-en.png",
+        "archive": "https://archive.org/details/context_20250929"
+      }
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 131,
+      "pages_en": 189,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+            "topics_ar": ["السجود", "التسبيح", "القرآن الكريم", "التنزيه القلبي", "الخضوع العملي", "منهج حياة", "الحمد المحمدي", "فقه اللسان القرآني", "العبودية"],
+        "topics_en": ["Prostration", "glorification", "the Holy Quran", "purification of the heart", "practical submission", "a way of life", "Muhammadan praise", "understanding of the Quranic language", "servitude"],
+      "edition": "الأولى - 2025",
+      "key_features": [
+        "إعادة تعريف التسبيح والسجود كمنهج حياة متكامل",
+        "ربط الشعائر بواقع الحياة وتحدياتها اليومية",
+        "تقديم منهجية 'فقه اللسان القرآني' لفهم أعمق",
+        "تحليل موضوعات قرآنية رئيسية مثل قصة آدم، الحج، والسجود الكوني",
+        "عرض إطار عمل للإصلاح النفسي والاجتماعي من خلال الممارسة الروحية"
+      ],
+      "controversial_issues": [
+        "مقارنة التفسيرات التقليدية بالقراءة الرمزية لمفهوم السجود الكوني",
+        "تفسير السجود لآدم كاختبار للطاعة يكشف عن طبيعة الكبرياء مقابل التسليم"
+      ],
+      "digital_archive": null
+    },
+    "content_overview": {
+      "methodology": "منهجية 'فقه اللسان القرآني' التي تفكك الدلالات اللغوية والرمزية للنصوص لكشف أعماق المعاني.",
+      "sources": [
+        "القرآن الكريم",
+        "فقه اللسان القرآني"
+      ],
+      "applications": "دعوة لعيش التسبيح والسجود كمنهج حياة يربط المؤمن بالله، بالكون، وبنفسه، ويقدم أدوات خالدة لتحقيق التوازن الروحي، والتواضع، والغاية، مما يمهد الطريق للنجاح في الدنيا والآخرة.",
+      "chapter_highlights": [
+        {
+          "title": "الأسس المفاهيمية",
+          "description": "يضع هذا القسم حجر الأساس من خلال استكشاف المعنى الجوهري للتسبيح كتنزيه لله عن كل نقص، والسجود باعتباره أسمى تعبير عملي عن الخضوع."
+        },
+        {
+          "title": "أمر السجود لآدم",
+          "description": "تحليل عميق لقصة خلق آدم، ودراسة الأمر بالسجود كاختبار للطاعة يكشف عن طبيعة الكبرياء مقابل التسليم الحقيقي لإرادة الله."
+        },
+        {
+          "title": "الحج: رحلة تسبيح وسجود",
+          "description": "يصور رحلة الحج إلى مكة كمسيرة شاملة تجمع بين التسبيح والسجود، وتقود إلى اكتشاف الذات، بناء المعرفة، والتجديد الروحي."
+        },
+        {
+          "title": "السجود في سورة الحج",
+          "description": "يبحث في كيفية خضوع الكون بأسره—من السماوات إلى الأرض—لخطة الله الإلهية، مع مقارنة التفسيرات التقليدية بالقراءة الرمزية للسجود الكوني."
+        }
+      ]
+    }
+  }
+}

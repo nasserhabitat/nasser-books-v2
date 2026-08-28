@@ -1,0 +1,87 @@
+  {
+    "id": " fasting",
+    "titles": {
+      "ar": " موسوعة الصيام القرآني -من النُسك الجسدي إلى المنهج الوجودي ",
+      "en": " Encyclopedia of Qur’anic Fasting
+From Physical Ritual to Existential Method and the Architecture of Taqwa "    },
+    "description": {
+      "ar": " موسوعة الصيام القرآني -قراءة بنيوية مقاصدية في هندسة التقوى",
+      "en": " Encyclopedia of Qur’anic Fasting
+From Ritual Practice to Existential Method: A Structural and Maqasid-Based Reading of the Fasting Verses and the Construction of Taqwa as a Way of Life "    },
+    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/fasting/ar/cover-ar.png",
+    "ar": {
+      "docx": "https://drive.google.com/uc?export=download&id=1l8Zy_hbpWiKRKbbOeP0XuqXlWxSLOz9K ", 
+      "pdf_direct": "books/fasting/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=14tjE8BpbvViu7oymIwFwEde7MkGOo4sE ",
+      "html": "https://drive.google.com/uc?export=download&id=15KlDUaOTiWHxztKVsIV7ZzAaUlicftEk ",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1xjAgK_t_2NfyU4V_YYzGPUHNkud_0IDe ",
+      "txt_direct": "books/fasting/ar/content.txt",
+      "cover": "books/fasting/ar/cover-ar.png",
+      "archive": " https://archive.org/details/20260310_20260310_2232 "
+    },
+    "en": {
+      "docx": "https://drive.google.com/uc?export=download&id=12Mr5_YQ4-Ti5wel4qU0PDmChOOoK-3Pf ", 
+      "pdf_direct": "books/fasting/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1HslqFk5izRKvTxG_9617Xz0W3qGqtM9- ",
+      "html": "https://drive.google.com/uc?export=download&id=1dm-4h4ekVwt1rScyRwcX_BGB4E3zpjdp ",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1UkfR4X17GTIdLnvHk8JgC1SQaQhbSLUg ",
+      "txt_direct": "books/fasting/en/content.txt",
+      "cover": "books/fasting/en/cover-en.png",
+      "archive": " https://archive.org/details/content_20260310_2236 "
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 600,
+      "pages_en": 6,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+  "topics_ar": [
+    "الصيام الحقيقي",
+    "المنهج الفكري",
+    "التدبر القرآني",
+    "التزكية الشاملة",
+    "الصمام الداخلي",
+    "الجبال الضالة",
+    "الارتواء المعرفي",
+    "النسك الجسدي",
+    "إعادة قراءة النص",
+    "الميزان",
+    "الفطرة",
+    "التقوى الروحية",
+    "العبادة المعرفية",
+    "تكبير الله",
+    "التوحيد",
+    "التراكم المعرفي",
+    "التدبر الجماعي",
+    "إصلاح السريرة",
+    "الفرقان",
+    "السنن الكونية"
+  ],
+  "topics_en": [
+    "True Fasting",
+    "Intellectual Methodology",
+    "Quranic Tadabbur",
+    "Comprehensive Self-Purification",
+    "Internal Valve",
+    "Stray Mountains",
+    "Cognitive Satiation",
+    "Physical Ritualism",
+    "Textual Re-reading",
+    "The Balance (Al-Mizan)",
+    "Human Nature (Fitra)",
+    "Spiritual Taqwa",
+    "Intellectual Worship",
+    "Glorifying Allah",
+    "Monotheism (Tawhid)",
+    "Knowledge Accumulation",
+    "Collective Reflection",
+    "Inner Reform",
+    "Al-Furqan",
+    "Universal Laws"
+  ]
+}
+  },
+

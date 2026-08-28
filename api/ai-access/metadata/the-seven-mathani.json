@@ -1,0 +1,51 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books": 42,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 58 كتابًا (29 كتابًا باللغة العربية و29 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "the-seven-mathani",
+    "titles": {
+      "ar": "السبع المثاني في ضوء البنية اللغوية والبنية العددية: نحو وحدة الهندسة والمعنى",
+      "en": "Towards a Unity of Geometry and Meaning"
+    },
+    "description": {
+      "ar": "نحو وحدة الهندسة والمعنى",
+      "en": "An analytical study of the human self in the light of the Holy Quran"
+    },
+    "links": {
+      "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=1Ju02f4YVhDqXNWERPFT1dNSycW3Wukqj",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1_oBA1fBJFfzt87X7SKTT8crEWhv5Pz9p",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1_oBA1fBJFfzt87X7SKTT8crEWhv5Pz9p",
+    "html": "https://drive.google.com/uc?export=download&id=1XkUfrHfgwxpcnvTSoWaqi_V0ART_8EGx",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1lKvlpYSOYxf-lhulsEy_7XkY0p6TeRjK",
+    "txt_direct": "books/the-seven-mathani/en/content.txt",
+    "cover": "books/the-seven-mathani/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20251201"
+  },
+  "metadata": {
+    "author": "ناصر ابن داوود",
+    "category": "faith_studies",
+    "pages_ar": 268,
+    "pages_en": 387,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": ["السبع المثاني", "البنية اللغوية", "البنية العددية", "الهندسة الإلهية", "القرآن الكريم", "المثاني", "الأزواج الحرفية", "النظام الثنائي", "فقه اللسان القرآني", "فقه الترتيب", "الحروف المقطعة", "التناظر البنائي", "المعنى الحركي", "الوحدة القرآنية", "الإعجاز العددي", "السبع الطوال", "الفاتحة", "دوائر القرآن", "الحواميم", "التدبر البنيوي", "التحليل الحرفي", "الاستقراء القرآني", "الوحي", "التثنية", "الترتيب المصحفي", "الهندسة الكلية"],
+    "topics_en": ["Quran", "Practical Preparation", "The Seven Mathani", "Quranic Linguistic Structure", "Quranic Numerical Structure", "Divine Design", "Quranic Paradigm", "Surah Pairs", "Binary System", "Quranic Philology", "Hermeneutical Methodology", "Disjointed Letters", "Paired Symmetry", "Kinetic Semantics", "Structural Unity", "Numerical Miracle", "Mathematical Miracle", "Al-Fatihah", "Quranic Architecture", "Al-Hawameem", "Structural Exegesis", "Linguistic-Numerical Integration", "Quranic Coherence", "Revelation", "Dualistic System", "Quranic Fabric", "Geometric Exegesis"]
+                }
+            }

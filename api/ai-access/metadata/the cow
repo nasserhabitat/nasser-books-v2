@@ -1,0 +1,76 @@
+{
+      "id": "the-cow",
+      "book_number": 67,
+      "titles": {
+        "ar": " البقرة: من الرمز إلى البروتوكول ",
+        "en": " The Cow: From Symbol to Protocol "
+      },
+      "description": {
+        "ar": " نحو إعادة قراءة القصة القرآنية بوصفها نظامًا تشغيليًا للوعي ",
+        "en": " Toward a Operational Reading of the Qur'anic Narrative as a Consciousness Operating System"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-cow/ar/cover-ar.png",
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1PjCDwwjJYHwJfQuQbhK73zeLrCem0uPy",
+        "pdf_direct": "books/the-cow/ar/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1VvxQsWvuHeecGfKX885MxZS8mURHQGG-",
+        "html": "https://drive.google.com/uc?export=download&id=1n88sEvGDxYeNGUZ8OaJhiguuQFXlLnXn",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1E6zw-a5mHt166XndRQXezKWHDX7MNn4m",
+        "txt_direct": "books/the-cow/ar/content.txt",
+        "cover": "books/the-cow/ar/cover-ar.png"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1g4c4FyUMTVGi0v3zpBFNkFgeN6iBAyoS",
+        "pdf_direct": "books/the-cow/en/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1b26lHbfmuJHZKwqEmZx6xJdeEhSA1Ze1",
+        "html": "https://drive.google.com/uc?export=download&id=10IUSWFqIJvKZyNOp5rqlUoT6ip1vL6QD",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1QtHoD51mTgmIOYafyrFkp4CpQ82DHDsk",
+        "txt_direct": "books/the-cow/en/content.txt",
+        "cover": "books/the-cow/en/cover-en.png"
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "faith_studies",
+        "pages_ar": 85,
+        "pages_en": 14,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": [
+          "قرآن",
+          "بقرة",
+          "بروتوكول",
+          "رمز",
+          "وعي",
+          "تزكية",
+          "نفس",
+          "عجل",
+          "طور",
+          "مثاني",
+          "تحليل حرفي",
+          "جمود",
+          "تحرير",
+          "استخلاف",
+          "تدبر"
+        ],
+        "topics_en": [
+          "Quran",
+          "Cow",
+          "Protocol",
+          "Symbol",
+          "Consciousness",
+          "Purification (Tazkiyah)",
+          "Self (Nafs)",
+          "Calf",
+          "Tur (Mount)",
+          "Mathani",
+          "Letter analysis",
+          "Rigidity",
+          "Liberation",
+          "Stewardship (Istikhlaf)",
+          "Contemplation"
+        ]
+      }
+    }
+

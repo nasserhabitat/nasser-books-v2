@@ -1,0 +1,113 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2026-04-21",
+    "total_books":112,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 112 كتابًا (56 كتابًا باللغة العربية و56 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+{
+  "id": "alaq-al-qalam",
+  "titles": {
+    "ar": " سورة العلق والقلم - خوارزمية الوعي ومنهاج التحرر المعرفي (قراءة نظمية في فقه اللسان)",
+    "en": " The Algorithm of Consciousness: A conceptual reading of Surah Al-Alaq and Al-Qalam"
+  },
+  "description": {
+    "ar": " نحو إعادة تعريف الوعي: قراءة في سورة العلق في عصر الخوارزميات",
+    "en": "\"Read\" --- The Birth of the Cognitive Human"
+  },
+  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/alaq-al-qalam/ar/cover-ar.png",
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=134vqHZIU_VKUGqLU08iHO_B0TClPFllu",
+    "pdf_direct": "books/alaq-al-qalam/ar/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1lQpeksvOFxfiBTOi_KrUim42IOuEcRVb",
+    "html": "https://drive.google.com/uc?export=download&id=1JVT4jxqYCBVVPLwPRnAbt6JgGgMSgiHg",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1-SNkmAm4qcmTYe5_LdyT05aLNmWCmP72",
+    "txt_direct": "books/alaq-al-qalam/ar/content.txt",
+    "cover": "books/alaq-al-qalam/ar/cover-ar.png",
+    "archive": "https://archive.org/details/content_20260413"
+  },
+  "en": {
+    "docx": "https://drive.google.com/uc?export=download&id=1UdtaPg83b8bsz0wvhfh395CUwwNKeUyg",
+    "pdf_direct": "books/alaq-al-qalam/en/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1qA-1w4XDXYdUbBNtDmJEg17jaJBREtF-",
+    "html": "https://drive.google.com/uc?export=download&id=1P3t4MfN5Dz6FgvgKvO-CKwi0kun9Hm8u",
+    "txt_external": "https://drive.google.com/uc?export=download&id=1zTR4QsRkH6uH1QiMxHQE5nCf40QZ9_fu",
+    "txt_direct": "books/alaq-al-qalam/en/content.txt",
+    "cover": "books/alaq-al-qalam/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20260409_1905"
+  },
+  "metadata": {
+    "author": "Nasser Ibn Dawood",
+    "category": "faith_studies",
+    "pages_ar": 114,
+    "pages_en": 7,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": [
+      "فقه اللسان القرآني",
+      "التفكير النظمي",
+      "هندسة الوعي",
+      "نظرية المعرفة",
+      "الأنظمة المعرفية",
+      "أخلاقيات الذكاء الاصطناعي",
+      "التحرر المعرفي",
+      "الأنطولوجيا العلائقية",
+      "حلقات التغذية الراجعة",
+      "ديناميكيات الأنظمة",
+      "السيادة المعرفية",
+      "الهيمنة الرقمية",
+      "التحيز الخوارزمي",
+      "التزييف العميق",
+      "المعرفة مفتوحة المصدر",
+      "التواضع المعرفي",
+      "إنتاج المعرفة",
+      "التحليل الدلالي",
+      "الدراسات القرآنية",
+      "فلسفة المعرفة",
+      "التفكير النقدي",
+      "تفاعل الإنسان والآلة",
+      "أخلاقيات المعلومات",
+      "النقد ما بعد الحداثي",
+      "الأنظمة الإدراكية"
+    ],
+    "topics_en": [
+      "Quranic linguistics",
+      "Systems thinking",
+      "Consciousness engineering",
+      "Epistemology",
+      "Knowledge systems",
+      "Artificial intelligence ethics",
+      "Cognitive liberation",
+      "Ontological relationality",
+      "Feedback loops",
+      "System dynamics",
+      "Intellectual sovereignty",
+      "Digital hegemony",
+      "Algorithmic bias",
+      "Deepfake",
+      "Open-source knowledge",
+      "Epistemic humility",
+      "Knowledge production",
+      "Semantic analysis",
+      "Qur’anic studies",
+      "Philosophy of knowledge",
+      "Critical thinking",
+      "Human-AI interaction",
+      "Information ethics",
+      "Postmodern critique",
+      "Cognitive systems"
+    ]
+  }
+}

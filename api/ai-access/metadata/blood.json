@@ -1,0 +1,155 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books":82,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 82 كتابًا (41 كتابًا باللغة العربية و41 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "blood",
+    "titles": {
+      "ar": "الدم - شفرة الوجود التي أهملناها",
+      "en": "Blood - The Code of Existence That We Neglected"
+    },
+    "description": {
+      "ar": "الدم - شفرة الوجود التي أهملناها",
+      "en": "Blood - The Code of Existence That We Neglected"
+    },
+    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/blood/ar/cover-ar.png",
+    "links": {
+      "ar": {
+               "docx": "https://drive.google.com/uc?export=download&id=1h0g0y8brAnCuiANk9uCpqeSAm_DsBHem",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1k0iB4fd-UntvLN1ilgBTzwYNm0_K7uwx",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1k0iB4fd-UntvLN1ilgBTzwYNm0_K7uwx",
+        "html": "https://drive.google.com/uc?export=download&id=1XbcwS_Fd-4Nsc7Z3zCCa4hjYWJWYH8WB",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1MVLKRtTXWWznmFzsmWHcqtxcabld7P4J",
+        "txt_direct": "books/blood/ar/content.txt",
+        "cover": "books/blood/ar/cover-ar.png",
+        "archive": "https://archive.org/stream/content_202510"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1MbKQNs4yvRQoY3bH3NoNBM2fKM57gwcn",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1RaYvaZFNLwWnWZV99eYtkh984kpHZOBU",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1RaYvaZFNLwWnWZV99eYtkh984kpHZOBU",
+        "html": "https://drive.google.com/uc?export=download&id=1tElavrfT-FMNWHFXHlIUXn84bXpamr_a",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1qGGETH0dyGOHvPWJhlygXQw9Lcs-poeU",
+        "txt_direct": "books/blood/en/content.txt",
+        "cover": "books/blood/en/cover-en.png",
+        "archive": "https://archive.org/details/content_20251016"
+      }
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 119,
+      "pages_en": 119,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+      "topics_ar": ["شفرة القرآن", "نظام التشغيل القرآني", "اللسان العربي القرآني", "فقه السبع المثاني", "المثاني القرآنية", "الرسم العثماني", "تدبر القرآن", "المنظومة القرآنية", "تفعيل النص القرآني", "الاقتران (القران)", "الدم – المحور الرئيسي للكتاب", "اللسان القرآني – المنهجية المعتمدة في التحليل", "المثاني (الأزواج الحرفية) – النظام الخفي للكلمات في القرآن", "الحروف المقطعة – رموز ودلالات في فواتح السور", "المعنى الحركي – الدلالة الديناميكية للكلمات القرآنية", "التدبر الجماعي – أسلوب فهم القرآن", "الشفرة القرآنية – تفسير الرموز والحروف", "التحريم والتذكية – الدم بين الحكم الشرعي والرمز الكوني", "الذكاة والتزكية – التطهير الروحي والفكري", "الضرب في الأرض – منهج التغيير والخروج من الجمود", "أسماء الحروف – دلالاتها الكونية والقرآنية", "الرمز الكوني – الدم كنموذج للنظام الكوني", "الوعي الإنساني – المسؤولية تجاه الدم كمسار حيوي", "التبرع بالدم – من منظور روحي وإنساني", "يأجوج ومأجوج – رمز للفوضى والعبث بالأنظمة الحيوية", "فقه اللسان العربي القرآني – المنهجية الشاملة لفهم النص", "الرمز الكوني في التشريع القرآني", "سفك الدماء والاستخلاف الإنساني", "الدم بين الحكم الشرعي والمعنى الروحي", "الشيفرة اللسانية لكلمة دم (د + م)", "المعراج النبوي ودورة النور الإلهي", "فقه اللسان القرآني", "التدبر القرآني المعاصر", "البنية اللغوية العميقة للحروف العربية", "المثاني القرآنية والمعنى الحركي", "العلاقة بين المادة والروح في القرآن", "الدم كبوابة روحية ومسار وعي إنساني", "فن التبرع بالدم ونهج الرحمة", "الدم في المجتمعات الحديثة – قراءة قرآنية علمية", "مكتبة ناصر ابن داوود – المعرفة المفتوحة والذكاء الاصطناعي"],
+      "topics_en": ["Quranic Code", "Quranic Operating System", "Quranic Arabic Tongue", "Jurisprudence of the Seven Pairs", "Quranic Pairs", "Uthmani Script", "Quranic Contemplation", "Quranic System", "Activation of the Quranic Text", "Coupling (Al-Iqtiran)", "Blood -- The Main Axis of the Book", "Quranic Tongue -- The Adopted Methodology in Analysis", "Pairs (Letter Pairs) -- The Hidden System of Words in the Quran", "Disjoined Letters -- Symbols and Indications in Surah Openings", "Kinetic Meaning -- The Dynamic Indication of Quranic Words", "Collective Contemplation -- A Method of Understanding the Quran", "Quranic Code -- Interpretation of Symbols and Letters", "Prohibition and Purification -- Blood Between Sharia Ruling and Cosmic Symbol", "Dhikah and Tazkiyah -- Spiritual and Intellectual Purification", "Traveling in the Land -- Method of Change and Exit from Stagnation", "Names of Letters -- Their Cosmic and Quranic Indications", "Cosmic Symbol -- Blood as a Model for the Cosmic System", "Human Consciousness -- Responsibility Towards Blood as a Vital Path", "Blood Donation -- From a Spiritual and Human Perspective", "Gog and Magog -- Symbol for Chaos and Tampering with Vital Systems", "Jurisprudence of the Quranic Arabic Tongue -- The Comprehensive Methodology for Understanding the Text", "The Cosmic Symbol in Quranic Legislation", "Shedding Blood and Human Succession", "Blood Between Sharia Ruling and Spiritual Meaning", "Linguistic Code for the Word Blood (D + M)", "Prophetic Mi'raj and Cycle of Divine Light", "Jurisprudence of the Quranic Tongue", "Contemporary Quranic Contemplation", "Deep Linguistic Structure of Arabic Letters", "Quranic Pairs and Kinetic Meaning", "Relationship Between Matter and Spirit in the Quran", "Blood as a Spiritual Gateway and Path of Human Consciousness", "Art of Blood Donation and Path of Mercy", "Blood in Modern Societies -- Scientific Quranic Reading", "Nasser Ibn Dawood Library -- Open Knowledge and Artificial Intelligence"]
+     },
+    "key_features": [
+      "الدم بين الحكم الشرعي والرمز الكوني",
+      "الشيفرة اللسانية لكلمة دم (د + م)",
+      "سفك الدماء: من القتل إلى الإفساد الكوني",
+      "الدم في المعراج النبوي – من مسار الجسد إلى مدار النور",
+      "الدم في المجتمعات الحديثة – قراءة قرآنية للعلم المعاصر",
+      "فن التبرع بالدم – من حرمة العنصر إلى نهج الرحمة",
+      "الدم كبوابة روحية بين السر الإلهي والعبث الشيطاني"
+    ],
+    "main_themes": [
+      "الدم بين الخلق والتحريم",
+      "الدم ومسارات الوجود",
+      "الدم في الواقع المعاصر"
+    ],
+    "content_overview": {
+      "introduction": {
+        "ar": "ماذا لو كانت كلمة واحدة في كتاب الله تحمل مفتاح فهم الكون كله؟ تلك الكلمة هي 'الدم'. هذا الكتاب ليس بحثًا فقهيًا أو علميًا بالمعنى التقليدي، بل رحلة تدبرية في أعماق اللسان القرآني والرمز الكوني للوجود. يسعى المؤلف إلى إظهار كيف أن تحريم الدم في القرآن ليس نفيًا للحياة بل حفاظٌ على نظامها، وكيف أن 'د + م' تشكل شفرة كونية تعكس منهج الله في الخلق والأمر.",
+        "en": "The Code of the Qur'an: An Operating Manual for a New Age explores how the Qur'an functions as a living system — a divine architecture of consciousness, meaning, and creation. It invites modern readers to move from recitation to activation, from memorization to manifestation. The book approaches the Qur'an as a self-operating system governed by the law of correspondence (al-iqtirān), where language and existence mirror one another. It bridges revelation and reality, offering tools for decoding divine meaning through linguistic, symbolic, and systemic analysis."
+      },
+      "author_bio": {
+        "en": "Nasser Ibn Dawood is an engineer and Qur'anic researcher specializing in systemic linguistics and philosophical tafsīr. His work integrates classical revelation studies with modern systems thinking, digital semiotics, and artificial intelligence ethics."
+      },
+      "main_themes_list": {
+        "en": [
+          "The Qur'an as a living system of meaning and structure",
+          "The law of correspondence (al-iqtirān) and divine code",
+          "The Qur'anic Arabic Tongue and its systemic depth",
+          "The ʿUthmānī script as visual revelation",
+          "Tadabbur as activation, not interpretation",
+          "Conceptual architecture: Light, Spirit, Time, and Human Consciousness",
+          "From revelation to civilization: applying divine systems to life"
+        ]
+      },
+      "main_sections": [
+        {
+          "title": "الفصل الأول: الدم بين الخلق والتحريم",
+          "title_en": "Chapter 1: The Blood Between Creation and Prohibition",
+          "chapters": [
+            "الدم في القرآن – بين الحكم الشرعي والرمز الكوني",
+            "الشيفرة اللسانية لكلمة دم (د + م)"
+          ]
+        },
+        {
+          "title": "الفصل الثاني: الدم ومسارات الوجود",
+          "title_en": "Chapter 2: Blood and Paths of Existence",
+          "chapters": [
+            "سفك الدماء: من القتل إلى الإفساد الكوني",
+            "الدم في دورة الحياة والرحمة الكونية",
+            "الدم في المعراج النبوي"
+          ]
+        },
+        {
+          "title": "الفصل الثالث: الدم في الواقع المعاصر",
+          "title_en": "Chapter 3: Blood in Contemporary Reality",
+          "chapters": [
+            "الدم في المجتمعات الحديثة – قراءة قرآنية للعلم",
+            "التبرع بالدم كعبادة روحية",
+            "خاتمة: من السائل المحرم إلى المسار المكرم"
+          ]
+        }
+      ],
+      "table_of_contents": {
+        "en": [
+          "Preface – The Code of Existence",
+          "Chapter 1: The Qur'anic Arabic Tongue – Linguistic DNA of Revelation",
+          "Chapter 2: The ʿUthmānī Script – The Visual Revelation",
+          "Chapter 3: The Methodology of Tadabbur – From Reading to Activation",
+          "Chapter 4: The Great Qur'anic Concepts – From Symbol to System",
+          "Chapter 5: The Qur'anic System – From Language to Being",
+          "Chapter 6: The Human Being – Consciousness as Operating Platform",
+          "Chapter 7: Time in the Qur'an – Temporal Consciousness",
+          "Chapter 8: The Spirit – From Command to Consciousness",
+          "Chapter 9: Light – The Luminous Geometry of Knowledge",
+          "Chapter 10: The Qur'anic Code – Architecture of Meaning and Operation"
+        ]
+      }
+    },
+    "target_audience": [
+      "الباحثين عن الحقيقة في الرموز القرآنية",
+      "المهتمين بفقه اللسان القرآني والدراسات القرآنية المعاصرة",
+      "المفكرين والمصلحين الذين يبحثون عن قراءات جديدة للقرآن",
+      "المهتمين بالعلاقة بين العلم والدين في القضايا الطبية والبيولوجية"
+    ],
+    "publication_info": {
+      "edition": "الأولى",
+      "year": 2025,
+      "pages": 119,
+      "category": "التدبر القرآني، الدراسات الإسلامية، الرمزية اللغوية",
+      "language": "العربية",
+      "license": "CC BY-NC-ND 4.0"
+    }
+  }
+}

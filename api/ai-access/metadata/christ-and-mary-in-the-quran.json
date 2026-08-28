@@ -1,0 +1,104 @@
+{
+  "library": {
+    "name": "مكتبة ناصر ابن داوود",
+    "version": "2.0",
+    "ai_compatible": true,
+    "last_updated": "2025-08-28",
+    "total_books":82,
+    "languages": ["ar", "en"],
+    "formats": ["html", "pdf", "txt"],
+    "license": "CC BY-SA 4.0",
+    "author": {
+      "name": "ناصر ابن داوود",
+      "email": "nasserhabitat@gmail.com",
+      "website": "https://nasserhabitat.github.io/nasser-books/"
+    },
+    "description": "مكتبة تحتوي على 82 كتابًا (41 كتابًا باللغة العربية و41 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+  },
+  "book": {
+    "id": "christ-and-mary-in-the-quran",
+    "titles": {
+      "ar": "المسيح ومريم في القرآن: من الرمز الباطني إلى النموذج الإنساني",
+      "en": "Christ and Mary in the Qur’an: From the Esoteric Symbol to the Human Model"
+    },
+    "description": {
+      "ar": "يتناول هذا الكتاب شخصيتي المسيح عيسى وأمه مريم العذراء في القرآن الكريم من منظور عميق، متجاوزًا السرد التاريخي إلى التحليل الرمزي والباطني. يكشف الكتاب كيف يقدم القرآن المسيح ومريم كنماذج إنسانية للوعي والإصلاح، ويستكشف الأبعاد الروحية والفكرية لقصتهما من خلال منهج 'فقه اللسان القرآني'.",
+      "en": "This book provides a deep perspective on the figures of Christ Jesus and his mother, the Virgin Mary, in the Holy Qur'an, moving beyond historical narrative to symbolic and esoteric analysis. The book reveals how the Qur'an presents Christ and Mary as human models for consciousness and reform, and explores the spiritual and intellectual dimensions of their story through the 'jurisprudence of the Qur'anic tongue' methodology."
+    },
+    "links": {
+            "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=1f-RnPsgoj2SWgpUKGqXfXXloZaQPfPo0",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1tg6hiu3rJs1AClr-rfT732y2zN6-cHmJ",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1tg6hiu3rJs1AClr-rfT732y2zN6-cHmJ",
+        "html": "https://drive.google.com/uc?export=download&id=126o_Pn8Z5HEUQl3OVy4Tjo0dGcPEp4Ni",
+        "txt_external": "https://drive.google.com/uc?export=download&id=12xfvS3lrXzU5EPijQGWWThmxoRPOdMDZ",
+        "txt_direct": "books/christ-and-mary-in-the-quran/ar/content.txt",
+        "cover": "books/christ-and-mary-in-the-quran/ar/cover-ar.png",
+        "archive": "https://archive.org/details/content_20250929"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=1PU2hPmTCn6GnFJzZ0sxHhdSgYrfg9jC4",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1PU2hPmTCn6GnFJzZ0sxHhdSgYrfg9jC4",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1PU2hPmTCn6GnFJzZ0sxHhdSgYrfg9jC4",
+        "html": "https://drive.google.com/uc?export=download&id=1tNy2hUQvoEDFLaj9kOm-mGzuzp1Q_Uzt",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1YtX1Q9rjzo-qL6UXCDeklHUcjuKe9m6w",
+        "txt_direct": "books/christ-and-mary-in-the-quran/en/content.txt",
+        "cover": "books/christ-and-mary-in-the-quran/en/cover-en.png",
+        "archive": "https://archive.org/details/context_202509"
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "faith_studies",
+        "pages_ar": 69,
+        "pages_en": 94,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": ["المسيح", "مريم", "القرآن", "التدبر الباطني", "الرمز الباطني", "النموذج الإنساني", "نماذج الوعي", "التفسير الرمزي", "فقه اللسان القرآني", "نظام المثاني", "الكلمة", "برنامج إحيائي", "الوعي الجديد", "التحرر الفكري", "أسماء الله الحسنى", "الرفع الإلهي", "الولادة العذرية", "مريم الثائرة", "تحليل نفسي لمريم", "المحراب", "النصارى في القرآن", "قراءة علمية معاصرة"],
+        "topics_en": ["Christ", "Mary", "the Qur'an", "inner contemplation", "inner symbol", "human model", "models of consciousness", "symbolic interpretation", "Qur'anic linguistics", "the Mathani system", "the word", "revival program", "new consciousness", "intellectual liberation", "the beautiful names of God", "divine ascension", "the virgin birth", "the rebellious Mary", "a psychoanalysis of Mary", "the mihrab", "Christians in the Qur'an", "a contemporary scientific reading"]
+              ,
+      "edition": "الأولى - 2025",
+      "key_features": [
+        "تقديم قراءة معاصرة لشخصيتي المسيح ومريم في القرآن",
+        "الانتقال من التفسير الظاهري إلى التدبر الباطني والرمزي",
+        "استخدام منهج 'فقه اللسان القرآني' لتحليل الألفاظ والمفاهيم",
+        "إبراز المسيح ومريم كنماذج للوعي والتحرر الفكري",
+        "ربط قصتهما بأسماء الله الحسنى ومفاهيم قرآنية كبرى"
+      ],
+      "controversial_issues": [
+        "مفهوم 'الرفع الإلهي' مقابل المفهوم التقليدي للصلب",
+        "تحليل نفسي لشخصية 'مريم الثائرة' كنموذج للوعي",
+        "قراءة رمزية للولادة العذرية ودلالاتها الروحية"
+      ],
+      "digital_archive": null
+    },
+    "content_overview": {
+      "methodology": "يعتمد الكتاب على منهج 'فقه اللسان القرآني' والتفسير الرمزي لاستكشاف الأبعاد الباطنية للنص القرآني.",
+      "sources": [
+        "القرآن الكريم",
+        "منهج فقه اللسان القرآني",
+        "الدراسات الرمزية والمقارنة"
+      ],
+      "applications": "يقدم الكتاب رؤية جديدة لفهم القصص القرآني ليس كأحداث تاريخية فحسب، بل كنماذج وعي وبرامج إحيائية يمكن تطبيقها لتحقيق التحرر الفكري والتجديد الروحي في الواقع المعاصر.",
+      "chapter_highlights": [
+        {
+          "title": "الرمز الباطني والنموذج الإنساني",
+          "description": "يؤسس هذا الفصل للمنهجية المتبعة في الكتاب، معرفًا بالفرق بين القراءة الظاهرية والتحليل الرمزي الذي يرى في الشخصيات نماذج للوعي الإنساني."
+        },
+        {
+          "title": "مريم: من المحراب إلى الثورة",
+          "description": "يقدم تحليلاً نفسيًا ورمزيًا لشخصية مريم، ليس فقط كأم للمسيح، بل كنموذج للقوة الروحية والثورة على المفاهيم التقليدية."
+        },
+        {
+          "title": "المسيح: الكلمة وبرنامج الإحياء",
+          "description": "يستكشف دلالات وصف المسيح بأنه 'كلمة من الله'، وكيف تمثل رسالته برنامجًا لإحياء الوعي وتحرير الفكر الإنساني."
+        },
+        {
+          "title": "قراءة معاصرة لمفاهيم قرآنية",
+          "description": "يناقش هذا الفصل مفاهيم أساسية مرتبطة بقصة المسيح مثل 'الرفع الإلهي' و'الولادة العذرية'، مقدمًا تفسيرًا ينسجم مع رؤية الكتاب الرمزية والباطنية."
+        }
+      ]
+    }
+  }
+}

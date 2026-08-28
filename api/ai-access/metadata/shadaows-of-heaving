@@ -1,0 +1,77 @@
+
+  {
+    "id": " shadaows-of-heaving",
+    "titles": {
+      "ar": " ظلال الجنة والنار وجهنم: رحلة من الدنو المعرفي إلى اليقين الأخروي ",
+      "en": " The Comprehensive Conceptual Adaptation: Shadows of Heaven, Hell, and Jahannam "
+    },
+    "description": {
+      "ar": " ظلال الجنة والنار وجهنم: من الحرف إلى الوعي – رحلة الإنسان في مرآة القرآن ",
+      "en": " A Global Manifesto for Cognitive Sovereignty and the Restoration of Human Meaning "
+    },
+    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/shadaows-of-heaving/ar/cover-ar.png",
+    "ar": {
+      "docx": "https://drive.google.com/uc?export=download&id=1tSWabjc2m-_lH1Y0zzh-DhWqK19QSGnC ",
+      "pdf_direct": "books/shadaows-of-heaving/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1Boln7l_L3m4WIjU-GAEdZ04Zq_LhAt0i ",
+      "html": "https://drive.google.com/uc?export=download&id=1YDqf5Omhb8UUpeUZQkwr_h1OXUZR9HNz ",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1SIF0EG3VgynS3a7gCQ7SoyPL0wsaYLM9 ",
+      "txt_direct": "books/shadaows-of-heaving/ar/content.txt",
+      "cover": "books/shadaows-of-heaving/ar/cover-ar.png",
+      "archive": " https://archive.org/details/20260310_20260310_2232 "
+    },
+    "en": {
+      "docx": "https://drive.google.com/uc?export=download&id=1tUNwP4bi9RyYhfuk8cetwD8VWIWbZAem ", 
+      "pdf_direct": "books/shadaows-of-heaving/ar/content.pdf",
+      "pdf_external": "https://drive.google.com/uc?export=download&id=1eaLMMxePGSV9EZ46fletvfUMb1_pVTkX ",
+      "html": "https://drive.google.com/uc?export=download&id=1Ensk6-yjE1-3gzVuJ6J7vO9wovP3UiIr ",
+      "txt_external": "https://drive.google.com/uc?export=download&id=1PAmbOsPpx94rmCW81OAdQAYSNOaCe7F3      "txt_direct": "books/shadaows-of-heaving/en/content.txt",
+      "cover": "books/shadaows-of-heaving/en/cover-en.png",
+      "archive": " https://archive.org/details/content_20260310_2236 "
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 148,
+      "pages_en": 12,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+  "topics_ar": [
+    "التدبر البنائي",
+    "الرسم العثماني",
+    "الدنو المعرفي",
+    "ليلة القدر",
+    "الزلزلة النفسية",
+    "جهنم المتقين",
+    "المعيشة الضنك",
+    "الجنة الدنيوية",
+    "هندسة الوعي",
+    "ناصر ابن داوود",
+    "التزامن الوجودي",
+    "علم النفس القرآني",
+    "الحفريات النفسية",
+    "اليقين المعرفي",
+    "رموز التشريع"
+  ],
+  "topics_en": [
+    "Constructive Contemplation",
+    "Ottoman Script",
+    "Cognitive Lowliness",
+    "Laylat al-Qadr",
+    "Psychological Earthquake",
+    "Jahannam of the Pious",
+    "Distressed Life",
+    "Earthly Paradise",
+    "Consciousness Engineering",
+    "Nasser Ibn Dawoud",
+    "Existential Simultaneity",
+    "Quranic Psychology",
+    "Psychological Excavation",
+    "Cognitive Certainty",
+    "Legislative Symbols"
+  ]
+}
+  },
+

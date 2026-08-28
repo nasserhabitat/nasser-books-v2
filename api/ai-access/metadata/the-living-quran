@@ -1,0 +1,73 @@
+{
+      "id": "the-living-quran",
+      "book_number": 61,
+      "titles": {
+        "ar": "القرآن الحيّ: هندسة الذكر وتوليد البصيرة",
+        "en": "The Living Qur’an: The Architecture of Remembrance and the Generation of Insight"
+      },
+      "description": {
+        "ar": "قراءة تأسيسية هندسة الوحي وتجدد الذكر",
+        "en": "Foundational Reading The Engineering of Revelation and the Renewal of Remembrance"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-living-quran/ar/cover-ar.png",
+      "ar": {
+        "docx": "https://drive.google.com/uc?export=download&id=13QXwpnMGLVrJbgh8QSzlV5QtJM9-hINb",
+        "pdf_direct": "books/the-living-quran/ar/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=10r34qTWla-G9T4ha1TS-Fev-WVC6svCA",
+        "html": "https://drive.google.com/uc?export=download&id=1ZXkz6dp3cPKbN1iLpk4jqSochGXJdcVm",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1l0EC73JW59Y7V3s4ElojpwotggzkOPvz",
+        "txt_direct": "books/the-living-quran/ar/content.txt",
+        "cover": "books/the-living-quran/ar/cover-ar.png"
+      },
+      "en": {
+        "docx": "https://drive.google.com/uc?export=download&id=18oAfweEJyYhjyLRGnukigWK5iFhWWEXQ",
+        "pdf_direct": "books/the-living-quran/en/content.pdf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1o9DjaxqgPjhJ317qDFaeQKXYB1ZMwnfn",
+        "html": "https://drive.google.com/uc?export=download&id=1-3woLxUHCAnJM_FttKfTzPSTd4pWCbpW",
+        "txt_external": "https://drive.google.com/uc?export=download&id=1JZNKLyz5mzYSKQGVHJnX54nzo4hNwrhw",
+        "txt_direct": "books/the-living-quran/en/content.txt",
+        "cover": "books/the-living-quran/en/cover-en.png"
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "faith_studies",
+        "pages_ar": 52,
+        "pages_en": 29,
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "topics_ar": [
+          "القرآن الحي",
+          "هندسة الذكر",
+          "توليد البصيرة",
+          "نظام تشغيل قرآني",
+          "القراءة البنيوية",
+          "فقه اللسان القرآني",
+          "المثاني الحرفية",
+          "التزكية",
+          "هندسة الوعي",
+          "نظام الحماية الإلهي",
+          "التذكية المعرفية",
+          "التحول الوجودي",
+          "الذكر",
+          "البصيرة"
+        ],
+        "topics_en": [
+          "Living Quran",
+          "Architecture of Remembrance",
+          "Generation of Insight",
+          "Quranic Operating System",
+          "Structural Reading",
+          "Fiqh al-Lisan",
+          "Binary Letter Pairs (Mathani)",
+          "Purification (Tazkiyah)",
+          "Consciousness Engineering",
+          "Divine Protection System",
+          "Cognitive Tadhkiyah",
+          "Existential Transformation",
+          "Remembrance (Dhikr)",
+          "Insight (Basirah)"
+        ]
+      }
+    }

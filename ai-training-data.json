@@ -1,0 +1,11 @@
+{
+  "training_examples": [
+    {
+      "question": "ما معنى الحيوان في القرآن؟",
+      "recommended_books": ["editing-the-quranic-terminology-tome2"],
+      "sections": ["12.5"],
+      "key_points": ["الرمزية الباطنية", "الفرق بين المفهوم اللغوي والقرآني"],
+      "sample_response": "في اللسان القرآني، الحيوان ليس مجرد كائن حي بل يرمز إلى..."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "the-jurisprudence-tome4",
+  "titles": {
+    "ar": "فقه اللسان القرآني -- هندسة الوحي: مشروع إعادة بناء الفهم القرآني: من الحرف الأولي إلى التشغيل الوجودي",
+    "en": "Encyclopedia: Fiqh Al-Lissan Al-Qur'ani -- The Engineering of Revelation"
+  },
+  "description": {
+    "ar": " المجلد الرابع - فقه اللسان القرآني – من المعنى إلى التشغيل ",
+    "en": "Volume 2: Practical Applications & Conceptual Deconstruction"
+  },
+  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-jurisprudence-tome4/ar/cover-ar.png",
+  "ar": {
+    "docx": "https://drive.google.com/uc?export=download&id=1nca3YhKD906lxvokbtvx0mnqC26WZchZ ", 
+    "pdf_direct": "books/the-jurisprudence-tome4/ar/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=13V4EMVUArs77SUQ2WqA_fHTsETm_LzFY ",
+    "html": "https://drive.google.com/uc?export=download&id=1i5o2iJBBVcuTxj0obCLp5FOp9PDkFkJq j",
+    "txt_external": "https://drive.google.com/uc?export=download&id=19zN-aVdayjifiXyHpAnDcrQTWLfJsi_d ",
+    "txt_direct": "books/the-jurisprudence-tome4/ar/content.txt",
+    "cover": "books/the-jurisprudence-tome4/ar/cover-ar.png",
+    "archive": "https://archive.org/details/20260409_20260409_0857 "
+  },
+  "en": {
+    "docx": "https://drive.google.com/uc?export=download&id=1ofEzm9lsav00I_YFLFbyp0vbRbHUJBc2",
+    "pdf_direct": "books/the-jurisprudence-tome4/en/content.pdf",
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1RwG_TpUKqufQiILALwZ-ZdDZA8jh_G_J ",
+    "html": "https://drive.google.com/uc?export=download&id=1MykLvb9nh2VZsicONNBLtKyKk1xY0k4X ",
+    "txt_external": "https://drive.google.com/uc?export=download&id=17bJWfiV3NhCt24qKpjzjSxVWWai1XvkF ",
+    "txt_direct": "books/the-jurisprudence-tome4/en/content.txt",
+    "cover": "books/the-jurisprudence-tome4/en/cover-en.png",
+    "archive": "https://archive.org/details/content_20260409_0900 "
+  },
+  "metadata": {
+    "author": "ناصر ابن داوود",
+    "category": "faith_studies",
+    "pages_ar": 428,
+    "pages_en": 5,
+    "language_ar": "arabic",
+    "language_en": "english",
+    "ai_accessible": true,
+    "structured_data": true,
+    "topics_ar": [
+      "هندسة اللسان",
+      "فقه اللسان القرآني",
+      "التدبر البنيوي",
+      "المثاني الحرفية",
+      "الارتقاء بالإنسان",
+      "الرسم الجذري",
+      "الجذر الحركي",
+      "طاقة الحروف",
+      "النفس البشرية",
+      "القوانين السلوكية",
+      "التفكيك اللساني",
+      "سورة المسد",
+      "سورة العصر",
+      "سورة الفلق",
+      "سورة الناس",
+      "سورة الكوثر",
+      "سورة الإخلاص",
+      "سورة الماعون",
+      "التحليل البنيوي",
+      "الاستقامة الكوثرية"
+    ],
+    "topics_en": [
+      "Linguistic Engineering",
+      "Jurisprudence of the Quranic Tongue",
+      "Structural Contemplation",
+      "Literal Mathani",
+      "Human Elevation",
+      "Radical Drawing",
+      "Kinetic Root",
+      "Energy of Letters",
+      "Human Soul",
+      "Behavioral Laws",
+      "Linguistic Deconstruction",
+      "Surah Al-Masad",
+      "Surah Al-Asr",
+      "Surah Al-Falaq",
+      "Surah Al-Nas",
+      "Surah Al-Kawthar",
+      "Surah Al-Ikhlas",
+      "Surah Al-Ma'un",
+      "Structural Analysis",
+      "Kawthari Uprightness"
+    ]
+  }
+}
