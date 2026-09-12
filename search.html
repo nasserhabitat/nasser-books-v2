@@ -298,11 +298,11 @@
             
             <div style="margin: 10px 0; display: flex; gap: 10px; flex-wrap: wrap;">
                 <label style="display: flex; align-items: center; gap: 8px;">
-                    <input type="checkbox" id="fastSearch" checked> 🔍 البحث السريع (في العناوين والوصف والكلمات المفتاحية فقط)
+                    <input type="checkbox" id="fastSearch"> 🔍 البحث السريع دون مقتطفات (العناوين والوصف والكلمات المفتاحية فقط)
                 </label>
                 <button onclick="clearBookCache()" style="padding: 5px 10px; background: #95a5a6; color: white; border: none; border-radius: 5px; cursor: pointer;">🧹 تنظيف الذاكرة المؤقتة</button>
             </div>
-            <small>إلغاء التحديد للبحث في النص الكامل (قد يستغرق وقتاً أطول)</small>
+            <small>البحث الكامل هو الافتراضي ويعرض مقتطفات مع أرقام أسطر النص، وليس أرقام صفحات PDF. قد يستغرق تحميل الكتب وقتًا أطول.</small>
             
             <!-- عنصر لعرض التقدم أثناء البحث (اختياري) -->
             <div id="searchProgress" style="display: none; text-align: center; margin: 10px;"></div>
@@ -4824,11 +4824,10 @@ const booksData = [
 
         async function loadBookContent(bookId, textUrl) {
             if (bookContentCache.has(bookId)) return bookContentCache.get(bookId);
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 15000);
             try {
-                const controller = new AbortController();
-                const timeoutId = setTimeout(() => controller.abort(), 15000);
                 const response = await fetch(textUrl, { signal: controller.signal });
-                clearTimeout(timeoutId);
                 if (!response.ok) throw new Error(`HTTP ${response.status}`);
                 const content = await response.text();
                 if (!content || content.trim().length === 0) throw new Error('محتوى فارغ');
@@ -4836,8 +4835,9 @@ const booksData = [
                 return content;
             } catch (error) {
                 console.warn(`خطأ بتحميل ${bookId}:`, error.message);
-                bookContentCache.set(bookId, null);
                 return null;
+            } finally {
+                clearTimeout(timeoutId);
             }
         }
 
@@ -4865,6 +4865,7 @@ const booksData = [
             resultsDiv.innerHTML = ''; // مسح النتائج القديمة
 
             const searchResults = [];
+            let failedTexts = 0;
             // البحث في كل كتاب
             for (let i = 0; i < booksData.length; i++) {
                 const book = booksData[i];
@@ -4890,11 +4891,13 @@ const booksData = [
                     // تحميل النص الكامل إذا كان مطلوباً
                     if (currentSearchLanguage === 'both' || currentSearchLanguage === 'ar') {
                         const content = await loadBookContent(book.id + '_ar', book.links.ar.text);
-                        if (content) textMatches.push(...searchInText(content, query, 2));
+                        if (content) textMatches.push(...searchInText(content, query, 3).map(m => ({...m, language: 'العربية'})));
+                        else failedTexts++;
                     }
                     if (currentSearchLanguage === 'both' || currentSearchLanguage === 'en') {
                         const content = await loadBookContent(book.id + '_en', book.links.en.text);
-                        if (content) textMatches.push(...searchInText(content, query, 2));
+                        if (content) textMatches.push(...searchInText(content, query, 3).map(m => ({...m, language: 'English'})));
+                        else failedTexts++;
                     }
                     // تأخير بسيط لتجنب الضغط على الخادم
                     await new Promise(r => setTimeout(r, 30));
@@ -4920,16 +4923,20 @@ const booksData = [
 
             // ترتيب النتائج حسب الأهمية
             searchResults.sort((a, b) => b.score - a.score);
+            const modeNotice = fastSearch
+                ? '<p role="status">البحث السريع لا يفحص النصوص ولا يعرض مقتطفات. ألغِ تحديده ثم أعد البحث لعرض السطور.</p>'
+                : `<p role="status">بحث في النص الكامل؛ نعرض حتى ثلاثة مقتطفات لكل لغة من كل كتاب. ${failedTexts ? `⚠️ تعذّر تحميل ${failedTexts} ملفًا نصيًا؛ النتائج غير مكتملة. أعد البحث للمحاولة مجددًا.` : ''}</p>`;
 
             if (searchResults.length === 0) {
-                resultsDiv.innerHTML = `<div style="text-align:center;padding:2rem;">⚠️ لم يتم العثور على نتائج لـ "<strong>${query}</strong>"<br>جرب استخدام كلمات أخرى أو تغيير لغة البحث.</div>`;
+                resultsDiv.innerHTML = modeNotice + `<div style="text-align:center;padding:2rem;">⚠️ لم يتم العثور على نتائج لـ "<strong>${escapeSearchHtml(query)}</strong>"<br>جرب استخدام كلمات أخرى أو تغيير لغة البحث.</div>`;
                 return;
             }
 
             // عرض النتائج
             resultsDiv.innerHTML = `
+                ${modeNotice}
                 <h3 style="margin:0 0 1rem 0; color:var(--primary-color);">
-                    📚 نتائج البحث لـ "<span style="color:var(--accent-color);">${query}</span>" (${searchResults.length})
+                    📚 نتائج البحث لـ "<span style="color:var(--accent-color);">${escapeSearchHtml(query)}</span>" (${searchResults.length} كتابًا)
                     <span style="font-size:0.8em; color:#666;"> - البحث في: ${getLanguageText(currentSearchLanguage)}</span>
                 </h3>
                 ${searchResults.map(r => {
@@ -4963,7 +4970,7 @@ const booksData = [
                                     <h5>📖 مواضع ورود الكلمة في النص الكامل:</h5>
                                     ${r.textMatches.map(m => `
                                         <div class="match-line">
-                                            <div class="line-number">السطر ${m.lineNumber}</div>
+                                            <div class="line-number">${m.language} — السطر ${m.lineNumber}</div>
                                             ${m.context.map(ctx => `
                                                 <div class="context-line ${ctx.isMatch ? 'match' : ''}">
                                                     ${ctx.isMatch ? '→ ' : ''}${highlightText(ctx.text, query)}
@@ -4972,7 +4979,7 @@ const booksData = [
                                         </div>
                                     `).join('')}
                                 </div>
-                            ` : ''}
+                            ` : '<p>التطابق في بيانات الكتاب فقط؛ لا توجد مقتطفات نصية متاحة لهذه النتيجة.</p>'}
                             <div style="margin-top:1rem; display:flex; gap:10px; flex-wrap:wrap;">
                                 <a href="books/${book.id}/ar/" target="_blank" class="book-link">📚 عرض الكتاب (العربية)</a>
                                 <a href="books/${book.id}/en/" target="_blank" class="book-link" style="background:#e74c3c;">📘 عرض الكتاب (English)</a>
