@@ -15,8 +15,8 @@
     },
     "description": "مكتبة تحتوي على 58 كتابًا (29 كتابًا باللغة العربية و29 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
   },
-{
-  "id": "human",
+  "book": {
+    "id": "human",
   "titles": {
     "ar": "كتاب الإنسان والاستخلاف",
     "en": "The Book of Human and Stewardship"
@@ -57,5 +57,6 @@
     "structured_data": true,
     "topics_ar": ["الإنسان", "الاستخلاف", "الوعي", "الأمانة", "القرآن", "التدبير القرآني", "الأسماء الحسنى", "الوجود", "النفس", "الخلافة", "التأويل", "القيامة", "النية", "البرزخ", "الشفرة الإلهية", "البشر", "الروح", "الموت", "الحياة", "الفلسفة الإسلامية", "التدبر", "فقه اللسان", "الهندسة الوجودية", "التسليم", "الرضا", "الملكوت", "السقوط الوجودي", "وحدة الشهود", "الملائكة", "الأمر الإلهي", "النعمة", "الآن الوجودي", "التكليف", "الحرية", "المسؤولية"],
     "topics_en": ["Man", "Succession", "Consciousness", "Trust", "The Qur'an", "The Qur'anic Approach", "The Most Beautiful Names", "Existence", "The Soul", "Succession", "Interpretation", "Resurrection", "Intention", "The Intermediate Realm", "The Divine Code", "Humans", "The Spirit", "Death", "Life", "Islamic Philosophy", "Contemplation", "The Jurisprudence of Language", "Existential Geometry", "Submission", "Contentment", "The Kingdom", "Existential Fall", "Unity of Witnessing", "Angels", "The Divine Command", "Blessing", "The Existential Now", "Assignment", "Freedom", "Responsibility"]
-                   {
-         }
+  }
+  }
+}

@@ -15,8 +15,8 @@
     },
     "description": "مكتبة تحتوي على 58 كتابًا (29 كتابًا باللغة العربية و29 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
   },
-    {
-  "id": "shattering-the-false-mountains",
+  "book": {
+    "id": "shattering-the-false-mountains",
   "titles": {
     "ar": "نسف الجبال الضالة: رحلة الرضا من ليلة القدر إلى يوم الكشف",
     "en": "Shattering the False Mountains: A Qur'anic Unmasking of Sacred Illusions"
@@ -59,3 +59,4 @@
     "topics_en": ["Deconstruction", "Inherited Certainty", "False Mountains", "Epistemological Consistency", "Ethical Responsibility", "The Abrahamic Method", "Succession", "Self-Criticism", "Liberation from Illusion", "Methodological Construction", "The Qur'anic Truth", "Accountability", "Epistemological Tranquility", "Semiotic Systems", "Structural Ethics"]
                 }
             }
+}

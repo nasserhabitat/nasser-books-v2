@@ -15,9 +15,8 @@
     },
     "description": "مكتبة تحتوي على 112 كتابًا (56 كتابًا باللغة العربية و56 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
   },
-
-  {
-  "id": "angels",
+  "book": {
+    "id": "angels",
   "titles": {
     "ar": "الملائكة: البنية الخفية التي تُدير الوجود",
     "en": "Angels: The Hidden Structure That Governs Existence"
@@ -60,3 +59,4 @@
     "topics_en": ["Angels", "Scientific Miracles", "Quantum Physics", "Interpretation of the Qur'an", "Consciousness", "The Soul", "The Information-Based Approach", "Artificial Intelligence in the Qur'an", "Philosophy of Religion", "Entropy", "Energy", "The Genetic Code", "The Story of Adam", "Creation", "Metaphysics", "Renewal of Religious Discourse", "Atheism and Faith", "The Human Brain", "Cosmic Principles", "Gabriel", "Michael", "Israfil", "The Angel of Death", "The Afterlife", "Divine Programming", "Secrets of the Qur'an", "Cosmic Laws", "Source Code", "Operating System", "Human Succession", "Subjugation", "Information Theory", "The Qur'anic Language", "Cosmic Modernization", "Dimensional Collapse", "Quantum Cosmic Cloud", "Vectors and Fields"]
      }
             }
+}

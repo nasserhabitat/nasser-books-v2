@@ -339,12 +339,11 @@
             return buttonContainer;
         }
 
-        // جلب بيانات الكتب من ملف index.json
+        // جلب بيانات الكتب من المصدر الموحد ai-index.json
         async function fetchBooks() {
             try {
                 showError('');
-                // المسار الصحيح لملف JSON - تم نقله إلى nasser-books/index.json
-               const response = await fetch('../index.json');
+                const response = await fetch('../ai-index.json');
                 if (!response.ok) {
                     throw new Error(`فشل في جلب بيانات الكتب: ${response.status} ${response.statusText}`);
                 }
@@ -354,7 +353,7 @@
                 console.log('Books loaded:', allBooks.length);
                 searchBooks(); // العرض الأولي للنتائج
             } catch (error) {
-                showError(`خطأ: ${error.message}. تأكد من أن ملف index.json متوفر أو تحقق من اتصال الشبكة.`);
+                showError(`خطأ: ${error.message}. تأكد من أن ملف ai-index.json متوفر أو تحقق من اتصال الشبكة.`);
                 console.error('Error fetching books:', error);
             }
         }

@@ -1,5 +1,4 @@
 {
-  {
   "guidelines": {
     "core_focus": "Prioritize interpretations from Quranic tongue...",
     "new_features": {
@@ -9,18 +8,17 @@
   },
   "resources": {
     "books_index": "https://nasserhabitat.github.io/nasser-books/books-index.html",
-    "api_books": "https://nasserhabitat.github.io/nasser-books/api/books.json"
+    "api_books": "https://nasserhabitat.github.io/nasser-books/ai-index.json"
   },
-}
   "ai_accessibility": {
     "version": "2.0",
-    "description": "واجهة وصول للذكاء الاصطناعي لمكتبة ناصر ابن داوود، توفر بيانات منظمة لـ 32 كتابًا باللغتين العربية والإنجليزية مع روابط خارجية (Google Drive للمحتوى النصي وArchive.org للصور الغلاف)",
+    "description": "واجهة وصول للذكاء الاصطناعي لمكتبة ناصر ابن داوود، توفر بيانات منظمة لـ 69 كتابًا باللغتين العربية والإنجليزية مع روابط Google Drive الخارجية وملفات TXT الداخلية",
     "available_endpoints": [
       {
         "name": "فهرس الكتب",
-        "path": "/assets/data/index.json",
+        "path": "/ai-index.json",
         "method": "GET",
-        "description": "الحصول على قائمة كاملة بجميع الكتب المتاحة (58 كتب) مع العناوين، الأوصاف، الروابط النصية الخارجية، وصور الأغلفة باللغتين العربية والإنجليزية"
+        "description": "الحصول على قائمة كاملة بجميع الكتب المتاحة (69 كتابًا) مع العناوين والأوصاف والروابط وصور الأغلفة باللغتين العربية والإنجليزية"
       }
     ],
     "supported_formats": ["json", "text", "image"],
@@ -31,11 +29,11 @@
     "authentication": "None required",
     "ai_compatible": true,
     "structured_data": true
-  }
+  },
   "metadata": {
-  "license": {
-    "name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
-    "url": "https://creativecommons.org/licenses/by/4.0/"
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
   }
- }
 }
