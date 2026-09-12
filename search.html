@@ -4759,9 +4759,41 @@ const booksData = [
             return 'الإنجليزية فقط';
         }
 
+        // تطبيع للمطابقة فقط؛ لا يغيّر النص الأصلي أو يساوي بين ة/ه وى/ي.
+        function normalizeSearchText(text) {
+            return String(text).normalize('NFC').toLowerCase()
+                .replace(/[أإآٱ]/g, 'ا')
+                .replace(/[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06DC\u06DF-\u06E4\u06E7-\u06E8\u06EA-\u06ED\u0640]/g, '');
+        }
+
+        function escapeSearchHtml(text) {
+            return String(text).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+        }
+
         function highlightText(text, query) {
-            const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
-            return text.replace(regex, '<mark class="search-highlight">$1</mark>');
+            const q = normalizeSearchText(query);
+            if (!q) return escapeSearchHtml(text);
+            // Map normalized positions back to the original spelling and diacritics.
+            let normalized = '', offset = 0;
+            const starts = [], ends = [];
+            for (const char of text) {
+                const part = normalizeSearchText(char);
+                for (let i = 0; i < part.length; i++) {
+                    starts.push(offset);
+                    ends.push(offset + char.length);
+                }
+                if (!part && ends.length) ends[ends.length - 1] = offset + char.length;
+                normalized += part;
+                offset += char.length;
+            }
+            let result = '', cursor = 0, position = 0;
+            while ((position = normalized.indexOf(q, position)) !== -1) {
+                const start = starts[position], end = ends[position + q.length - 1];
+                result += escapeSearchHtml(text.slice(cursor, start)) + '<mark class="search-highlight">' + escapeSearchHtml(text.slice(start, end)) + '</mark>';
+                cursor = end;
+                position += q.length;
+            }
+            return result + escapeSearchHtml(text.slice(cursor));
         }
 
         function escapeRegex(string) {
@@ -4773,9 +4805,10 @@ const booksData = [
             if (!content) return [];
             const lines = content.split('\n');
             const matches = [];
-            const q = query.toLowerCase();
+            const q = normalizeSearchText(query);
+            if (!q) return [];
             for (let i = 0; i < lines.length && matches.length < maxLines; i++) {
-                if (lines[i].toLowerCase().includes(q)) {
+                if (normalizeSearchText(lines[i]).includes(q)) {
                     const start = Math.max(0, i - 1);
                     const end = Math.min(lines.length, i + 2);
                     const context = lines.slice(start, end).map((l, idx) => ({
@@ -4816,11 +4849,12 @@ const booksData = [
         // البحث المحلي المُحسَّن
         async function performLocalSearch() {
             const query = document.getElementById('localSearch').value.trim();
+            const normalizedQuery = normalizeSearchText(query);
             const fastSearch = document.getElementById('fastSearch').checked;
             const resultsDiv = document.getElementById('localResults');
             const progressDiv = document.getElementById('searchProgress');
 
-            if (!query) {
+            if (!normalizedQuery) {
                 resultsDiv.innerHTML = '<p style="text-align:center;padding:2rem;">⚠️ الرجاء إدخال مصطلح للبحث</p>';
                 return;
             }
@@ -4841,14 +4875,14 @@ const booksData = [
 
                 // البحث في العناوين والوصف والمواضيع (المحلي)
                 if (currentSearchLanguage === 'both' || currentSearchLanguage === 'ar') {
-                    inTitle = book.titles.ar.toLowerCase().includes(query.toLowerCase());
-                    inDesc = book.description.ar.toLowerCase().includes(query.toLowerCase());
-                    inTopics = book.metadata.topics_ar.some(t => t.toLowerCase().includes(query.toLowerCase()));
+                    inTitle = normalizeSearchText(book.titles.ar).includes(normalizedQuery);
+                    inDesc = normalizeSearchText(book.description.ar).includes(normalizedQuery);
+                    inTopics = book.metadata.topics_ar.some(t => normalizeSearchText(t).includes(normalizedQuery));
                 }
                 if (currentSearchLanguage === 'both' || currentSearchLanguage === 'en') {
-                    inTitle = inTitle || book.titles.en.toLowerCase().includes(query.toLowerCase());
-                    inDesc = inDesc || book.description.en.toLowerCase().includes(query.toLowerCase());
-                    inEnTopics = book.metadata.topics_en.some(t => t.toLowerCase().includes(query.toLowerCase()));
+                    inTitle = inTitle || normalizeSearchText(book.titles.en).includes(normalizedQuery);
+                    inDesc = inDesc || normalizeSearchText(book.description.en).includes(normalizedQuery);
+                    inEnTopics = book.metadata.topics_en.some(t => normalizeSearchText(t).includes(normalizedQuery));
                 }
 
                 let textMatches = [];
