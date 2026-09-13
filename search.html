@@ -4872,6 +4872,7 @@ const booksData = [
 
             const searchResults = [];
             let failedTexts = 0;
+            const failedTextLinks = [];
             // البحث في كل كتاب
             for (let i = 0; i < booksData.length; i++) {
                 const book = booksData[i];
@@ -4898,12 +4899,12 @@ const booksData = [
                     if (currentSearchLanguage === 'both' || currentSearchLanguage === 'ar') {
                         const content = await loadBookContent(book.id + '_ar', book.links.ar.text);
                         if (content) textMatches.push(...searchInText(content, query, 3).map(m => ({...m, language: 'العربية'})));
-                        else failedTexts++;
+                        else { failedTexts++; failedTextLinks.push({url:book.links.ar.text,label:book.titles.ar+' — العربية'}); }
                     }
                     if (currentSearchLanguage === 'both' || currentSearchLanguage === 'en') {
                         const content = await loadBookContent(book.id + '_en', book.links.en.text);
                         if (content) textMatches.push(...searchInText(content, query, 3).map(m => ({...m, language: 'English'})));
-                        else failedTexts++;
+                        else { failedTexts++; failedTextLinks.push({url:book.links.en.text,label:book.titles.en+' — English'}); }
                     }
                     // تأخير بسيط لتجنب الضغط على الخادم
                     await new Promise(r => setTimeout(r, 30));
@@ -4929,9 +4930,10 @@ const booksData = [
 
             // ترتيب النتائج حسب الأهمية
             searchResults.sort((a, b) => b.score - a.score);
+            const failureDetails = failedTextLinks.length ? '<details><summary>عرض الملفات التي تعذّر تحميلها</summary><ul>' + failedTextLinks.map(f => `<li><a href="${escapeSearchHtml(f.url)}" target="_blank" rel="noopener noreferrer">${escapeSearchHtml(f.label)}</a></li>`).join('') + '</ul></details>' : '';
             const modeNotice = fastSearch
                 ? '<p role="status">البحث السريع لا يفحص النصوص ولا يعرض مقتطفات. ألغِ تحديده ثم أعد البحث لعرض السطور.</p>'
-                : `<p role="status">بحث في النص الكامل؛ نعرض حتى ثلاثة مقتطفات لكل لغة من كل كتاب. ${failedTexts ? `⚠️ تعذّر تحميل ${failedTexts} ملفًا نصيًا؛ النتائج غير مكتملة. أعد البحث للمحاولة مجددًا.` : ''}</p>`;
+                : `<p role="status">بحث في النص الكامل؛ نعرض حتى ثلاثة مقتطفات لكل لغة من كل كتاب. ${failedTexts ? `⚠️ تعذّر تحميل ${failedTexts} ملفًا نصيًا؛ النتائج غير مكتملة. أعد البحث للمحاولة مجددًا.` : ''}</p>${failureDetails}`;
 
             if (searchResults.length === 0) {
                 resultsDiv.innerHTML = modeNotice + `<div style="text-align:center;padding:2rem;">⚠️ لم يتم العثور على نتائج لـ "<strong>${escapeSearchHtml(query)}</strong>"<br>جرب استخدام كلمات أخرى أو تغيير لغة البحث.</div>`;
