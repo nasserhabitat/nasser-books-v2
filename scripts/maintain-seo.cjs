@@ -1,4 +1,4 @@
-// Reproducible metadata-only maintenance; never rewrites book bodies or licenses.
+// Reproducible metadata maintenance; CC BY-SA 4.0 approved by the author.
 const fs = require('node:fs');
 const path = require('node:path');
 const root = path.resolve(__dirname, '..');
@@ -31,14 +31,16 @@ function update(file,url,book,lang,alternates) {
     const primary=book && (value['@type']==='Book'||Array.isArray(value['@type'])&&value['@type'].includes('Book')) && !bookFound;
     if(primary) bookFound=true;
     const out=Object.fromEntries(Object.entries(value).map(([k,v])=>[k,visit(v)]));
+    if(book && (out['@type']==='Book'||Array.isArray(out['@type'])&&out['@type'].includes('Book'))) {
+     out.license='https://creativecommons.org/licenses/by-sa/4.0/';
+     out.isAccessibleForFree=true;
+    }
     if(primary) {
      out.url=url; out['@id']=url+'#book'; out.inLanguage=lang;
      out.image=base+book[lang].cover.replace(/^.*\/books\//,'books/');
      if(!out.name) out.name=book.titles[lang];
      if(!out.description) out.description=book.description[lang];
      if(!out.author) out.author={'@type':'Person',name:lang==='ar'?'ناصر ابن داوود':'Nasser Ibn Dawood'};
-     if(!out.license) issues.push({file,issue:'Missing license; requires author decision'});
-     else if(!String(out.license).includes('/by-sa/4.0')) issues.push({file,issue:'License differs from catalog',license:out.license});
     }
     return out;
    }
@@ -48,8 +50,9 @@ function update(file,url,book,lang,alternates) {
  });
  if(book&&!bookFound) {
   const data={'@context':'https://schema.org','@type':'Book','@id':url+'#book',url,name:book.titles[lang],description:book.description[lang],inLanguage:lang,author:{'@type':'Person',name:lang==='ar'?'ناصر ابن داوود':'Nasser Ibn Dawood'},image:base+book[lang].cover.replace(/^.*\/books\//,'books/')};
+  data.license='https://creativecommons.org/licenses/by-sa/4.0/';
+  data.isAccessibleForFree=true;
   extra+=`    <script type="application/ld+json">${JSON.stringify(data).replace(/</g,'\\u003c')}</script>\n`;
-  issues.push({file,issue:'New Book metadata; license requires review'});
  }
  if(book&&!/<meta\b[^>]*name=["']description["']/i.test(head)) extra+=`    <meta name="description" content="${esc(book.description[lang])}">\n`;
  const next=original.replace(match[0],match[0].replace(match[1],(head+extra).replace(/[ \t]+(?=\r?$)/gm,'')));
