@@ -8,26 +8,20 @@
     "ar": "بين القرآن المسطور والمنشور",
     "en": "Between the Written Qur'an and the Manifest Universe"
   },
-  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/sultan-of-insight/ar/cover-ar.png",
+  "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/sultan-of-insight/ar/sultan-of-insight-cover-ar.png",
   "ar": {
     "docx": "https://drive.google.com/uc?export=download&id=11tYeNUU7qCt4M3zRPzc8S8J50Rar2Q5-",
     "pdf_direct": "books/sultan-of-insight/ar/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1WMMFYwxnz75YeF0L9HZspEVDr7kQKpN3",
-    "html": "https://drive.google.com/uc?export=download&id=10DiKerDnxe_XnXrDT_wKnycuiDigD2L1",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1ObDOoXFOMQULfddjjd1pc0ZKpkrKXnUz",
-    "txt_direct": "books/sultan-of-insight/ar/content.txt",
-    "cover": "books/sultan-of-insight/ar/cover-ar.png",
-    "archive": "https://archive.org/details/content_20260417_1033"
+    "txt_direct": "books/sultan-of-insight/ar/56-sultan-of-insight-ar.txt",
+    "cover": "books/sultan-of-insight/ar/sultan-of-insight-cover-ar.png"
   },
   "en": {
     "docx": "https://drive.google.com/uc?export=download&id=1s-sC7PZFkLfZTa-jYk5-zyRzfUNouywX",
     "pdf_direct": "books/sultan-of-insight/en/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1tZaWC-pvo7DUftt4UbKh1RTnOjgXBH0Q",
-    "html": "https://drive.google.com/uc?export=download&id=10zAiOUDvPrKVFDAFhlYB5coMAVH2WyFy",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1VO2hP2mHLqIhJZkeP4Bg9C2N7oHxdFN5",
-    "txt_direct": "books/sultan-of-insight/en/content.txt",
-    "cover": "books/sultan-of-insight/en/cover-en.png",
-    "archive": "https://archive.org/details/content_20260417_1037"
+    "txt_direct": "books/sultan-of-insight/en/56-sultan-of-insight-en.txt",
+    "cover": "books/sultan-of-insight/en/sultan-of-insight-cover-en.png"
   },
   "metadata": {
     "author": "Nasser Ibn Dawood",

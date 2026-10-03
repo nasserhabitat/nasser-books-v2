@@ -2,15 +2,12 @@
 function fixBookPaths() {
     document.querySelectorAll('.book-actions a, .ai-access-links a').forEach(link => {
         let correctedPath = link.getAttribute('href');
-        
-        // إزالة المسافات وتحويل إلى حروف صغيرة إذا لزم الأمر
-        correctedPath = correctedPath.replace(/\s+/g, '-').toLowerCase();
-        
-        // التأكد من أن الرابط يبدأ بـ http أو https
-        if (!correctedPath.startsWith('http://') && !correctedPath.startsWith('https://')) {
-            correctedPath = 'https://' + correctedPath;
-        }
-        
+
+        // Drive IDs and local filenames are case-sensitive. Preserve their spelling
+        // and leave relative site URLs relative.
+        if (!correctedPath) return;
+        correctedPath = correctedPath.trim();
+
         // تحديث الرابط إذا كان مختلفاً
         if (link.getAttribute('href') !== correctedPath) {
             link.setAttribute('href', correctedPath);

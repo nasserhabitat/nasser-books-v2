@@ -6,7 +6,7 @@ let pages=0;
 for(const book of books)for(const lang of ['ar','en']){
  const txt=book[lang].txt_direct.replace(/^.*\/books\//,'books/');
  assert.ok(fs.statSync(txt).size>0,txt);
- const file=txt.replace(/content\.txt$/,'index.html');
+ const file=path.posix.dirname(txt)+'/index.html';
  const html=fs.readFileSync(file,'utf8');
  const canonical=base+file.replace(/index\.html$/,'');
  assert.ok(html.includes(`rel="canonical" href="${canonical}"`),file);

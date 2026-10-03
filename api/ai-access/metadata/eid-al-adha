@@ -9,24 +9,22 @@
         "ar": "عيد الأضحى: من فيزياء الذبح إلى هندسة التحرر",
         "en": "Eid al-Adha: From the Physics of Slaughter to the Engineering of Liberation"
       },
-      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/eid-al-adha/ar/cover-ar.png",
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/eid-al-adha/ar/eid-al-adha-cover-ar.png",
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=1Z3U2UkMjZZKS4io2RMWrK_rSuGTuVVfg",
         "pdf_direct": "books/eid-al-adha/ar/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1qkEHV7ZoNdEuBGvKEohVbrujmCK91lXM",
-        "html": "https://drive.google.com/uc?export=download&id=1HbWJBdUj7rwqA_QicYsc04BH0uIZvTWe",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1CAG-34dtQlLKOPA5Z4A6lzjoGmWXpKh8",
-        "txt_direct": "books/eid-al-adha/ar/content.txt",
-        "cover": "books/eid-al-adha/ar/cover-ar.png"
+
+        "txt_direct": "books/eid-al-adha/ar/60-eid-al-adha-ar.txt",
+        "cover": "books/eid-al-adha/ar/eid-al-adha-cover-ar.png"
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=10qalExuB1b7c-30du_2lLkloFW7opRDU",
         "pdf_direct": "books/eid-al-adha/en/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1VzNCWNxBWQhujnlljQWsT2jIrx325zLv",
-        "html": "https://drive.google.com/uc?export=download&id=15OYkZTXe9iMrrZbjwssqDgi8xUKa9eiK",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1LP89y2QItBDSy3hU7Y66wzHwEXgcerNf",
-        "txt_direct": "books/eid-al-adha/en/content.txt",
-        "cover": "books/eid-al-adha/en/cover-en.png"
+
+        "txt_direct": "books/eid-al-adha/en/60-eid-al-adha-en.txt",
+        "cover": "books/eid-al-adha/en/eid-al-adha-cover-en.png"
       },
       "metadata": {
         "author": "ناصر ابن داوود",

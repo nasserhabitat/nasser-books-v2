@@ -24,7 +24,7 @@ function walk(dir) {
     for (const entry of fs.readdirSync(dir, {withFileTypes:true})) {
         const file = path.join(dir, entry.name);
         if (entry.isDirectory()) walk(file);
-        else if (entry.name === 'content.txt') {
+        else if (/^\d+-.+-(ar|en)\.txt$/.test(entry.name)) {
             const text = fs.readFileSync(file, 'utf8');
             const first = search(text, 'الإسلام', Infinity);
             const second = search(text, 'الاسلام', Infinity);
@@ -35,4 +35,5 @@ function walk(dir) {
     }
 }
 walk(path.join(root, 'books'));
+assert.equal(files, JSON.parse(fs.readFileSync(path.join(root,'ai-index.json'),'utf8')).books.length*2);
 console.log(JSON.stringify({files, matchingLines, result:'PASS'}));

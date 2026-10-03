@@ -8,26 +8,24 @@
       "ar": " رحلة من الثنائية الوجودية إلى الشهادة النهائية – ضمن سلسلة "وَلِيَكُونَ مِنَ الْمُوقِنِينَ"",
       "en": " A Journey from Existential Duality to Final Testimony "
     },
-    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/earth/ar/cover-ar.png",
+    "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/earth/ar/earth-cover-ar.png",
     "ar": {
       "docx": "https://drive.google.com/uc?export=download&id=1FjnTezt9iKLvt32BA6cmTKcMh8ayn3LQ ",
       "pdf_direct": "books/earth/ar/content.pdf",
       "pdf_external": "https://drive.google.com/uc?export=download&id=1-W6n4PmTo3MVlKjblZS7k2p_PvxkFKN-",
-      "html": "https://drive.google.com/uc?export=download&id=17OWgl1znQMz80C8UQgj0WXKvI74B2l5X O8",
-      "txt_external": "https://drive.google.com/uc?export=download&id=1XhgXJapFHj5ghH8euNmy1R-Y6PQ2Ale1",
-      "txt_direct": "books/earth/ar/content.txt",
-      "cover": "books/earth/ar/cover-ar.png",
-      "archive": "https://archive.org/details/content_20260228_1125 "
+
+      "txt_direct": "books/earth/ar/36-earth-ar.txt",
+      "cover": "books/earth/ar/earth-cover-ar.png",
+
     },
     "en": {
       "docx": "https://drive.google.com/uc?export=download&id=1qqw7vkFRtJKk7O-ihm-XbdOLrXk0eaYg ",
       "pdf_direct": "books/earth/en/content.pdf",
       "pdf_external": "https://drive.google.com/uc?export=download&id=1GpfXA9b4DKAoKRY9PXpBvhhRCtdetINe ",
-      "html": "https://drive.google.com/uc?export=download&id=1kaGrZvZk93ONwD84nIEwVsINyER7TyHM ",
-      "txt_external": "https://drive.google.com/uc?export=download&id=1yMGj8oncaWrKXcqGExUkOaPf202YKC-U ",
-      "txt_direct": "books/earth/en/content.txt",
-      "cover": "books/earth/en/cover-en.png",
-      "archive": "https://archive.org/details/the-earth-in-the-quran-a-journey-from-existential-duality-to-final-testimony "
+
+      "txt_direct": "books/earth/en/36-earth-en.txt",
+      "cover": "books/earth/en/earth-cover-en.png",
+
     },
     "metadata": {
       "author": "ناصر ابن داوود",

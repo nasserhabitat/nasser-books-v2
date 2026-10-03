@@ -9,26 +9,24 @@ From Conspiracy and Corruption to Empowerment "    },
       "ar": " يوسف فينا -رحلة الوعي من مخاض الكيد إلى تمكين الذات والواقع",
       "en": " YUSUF WITHIN US
 From Conspiracy and Corruption to Empowerment - A Contemporary Quranic Framework of Consciousness "    },
-    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/youssef/ar/cover-ar.png",
+    "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/youssef/ar/youssef-cover-ar.png",
     "ar": {
       "docx": "https://drive.google.com/uc?export=download&id=1FX-dinmxySC5WSjS4C4U1Ml2_w0rmXpa ", 
       "pdf_direct": "books/youssef/ar/content.pdf",
       "pdf_external": "https://drive.google.com/uc?export=download&id=1BZ37nOMsIoK6Zl3tHiyqVDWOlF5Odwyc ",
-      "html": "https://drive.google.com/uc?export=download&id=1JR7VQEfx1LPHIaTq2RJLkVixvWoj4JcF ",
-      "txt_external": "https://drive.google.com/uc?export=download&id=1JjE7yY68zkfc23AO7RrP-Cgxo-YuEusW ",
-      "txt_direct": "books/youssef/ar/content.txt",
-      "cover": "books/youssef/ar/cover-ar.png",
-      "archive": "https://archive.org/details/content_20260312_1928 "
+
+      "txt_direct": "books/youssef/ar/41-youssef-ar.txt",
+      "cover": "books/youssef/ar/youssef-cover-ar.png",
+
     },
     "en": {
       "docx": "https://drive.google.com/uc?export=download&id=1rAICDVgHcbALzTf-jBeTIM_-G1h676sW ", 
       "pdf_direct": "books/youssef/ar/content.pdf",
       "pdf_external": "https://drive.google.com/uc?export=download&id=1eYw4hM-AJDI3EqIj10TJAx68vuiK6Mz3- ",
-      "html": "https://drive.google.com/uc?export=download&id=1emL3OvM2CmL1i82Eps3ShakhLBvWAjXp ",
-      "txt_external": "https://drive.google.com/uc?export=download&id=17j6ePY-GPVy0GRAIYy7-QFoTd7Y4Bt8j ",
-      "txt_direct": "books/youssef/en/content.txt",
-      "cover": "books/youssef/en/cover-en.png",
-      "archive": "https://archive.org/details/content_20260312_1932 "
+
+      "txt_direct": "books/youssef/en/41-youssef-en.txt",
+      "cover": "books/youssef/en/youssef-cover-en.png",
+
     },
     "metadata": {
       "author": "ناصر ابن داوود",

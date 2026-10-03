@@ -1,0 +1,246 @@
+THE FORBIDDEN
+IN THE QUR’AN
+From Lexical Circularity to a Laboratory of Meaning
+A Condensed Conceptual Adaptation
+A practical study in the Fiqh of the Qur’anic Tongue,
+the construction of meaning, and the testing of claims
+Nasser Ibn Dawud
+Project: Fiqh of the Qur’anic Tongue — Engineering of Revelation
+Final Academic Edition — 2026
+I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy: All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library: As of early 2026, the collection hosts 68 volumes (34 in Arabic and 34 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platforms: Main Website: nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+II. Translator’s Note: The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an “extraction of essence.” It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.
+For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (Tafsir), and the complete bibliography.
+Scope of this adaptation
+This version preserves the architecture of the argument, the methodological safeguards, the principal test results, and the declared limits of the Arabic edition. It deliberately compresses technical records, repeated test tables, long corpus discussions, and the complete appendices. Open questions remain open; provisional candidates are not silently promoted into final definitions.
+Contents
+1. Why the Problem Is Not “What Does the Word Mean?”
+2. From Selected Evidence to a Controlled Corpus
+3. The First Laboratory: H-R-M and the Limits of “Prohibition”
+4. Neighboring Concepts: Difference Without Forced Synonymy
+5. Mathani as a Discovery Engine, Not a Second Scripture
+6. From Interpretation to Falsification: The Book’s Testing Architecture
+7. The Riba Laboratory: A Stress Test for the Method
+8. Narrowing the Riba Model Without Forcing a Final Definition
+9. Governance: What a Result May and May Not Be Used For
+10. A Reader’s Protocol for Re-testing the Book
+11. Final Synthesis: From Lexical Circularity to a Jurisprudence of Relations
+12. Compact Glossary and Status Register
+1. Why the Problem Is Not “What Does the Word Mean?”
+This book begins with an epistemic problem rather than with a dictionary entry. A reader can easily start with a familiar definition, collect Qur’anic verses that appear to fit it, and then announce that the verses confirm the definition. The procedure looks textual, but the conclusion was already present at the beginning. The book calls this a form of lexical circularity: the inherited meaning directs the observation, and the directed observation is then used to prove the inherited meaning.
+The alternative is not to reject dictionaries, grammar, morphology, or inherited scholarship. It is to change their rank. They may preserve usage, open possibilities, and provide descriptive tools, but they do not receive automatic authority to determine the Qur’anic concept in advance. The Qur’anic text, its resources, relations, contexts, surah structures, and cross-Qur’anic networks must be allowed to constrain or overturn the proposed meaning.
+The governing question
+Not: “What is the known meaning of this root?”
+But: “What can be established from the Qur’anic resources before we decide what the root means?”
+This shift changes the order of knowledge. The root first serves as an indexing device: it tells us which textual occurrences enter the field of study. Only later, after observation and testing, may we ask whether those occurrences share a semantic core. Shared letters do not prove shared function. Different forms do not prove total semantic separation either. Both unity and plurality must be tested rather than assumed.
+The book therefore treats a “meaning” as the end of a chain rather than the first step of one. A claim must be traceable from text to observation, from observation to relation, from relation to hypothesis, and from hypothesis to testing. If one of these bridges is missing, the claim remains at the lower rank.
+2. From Selected Evidence to a Controlled Corpus
+The first methodological transformation is the movement from the “proof-text” to the “resource.” A proof-text is often selected after an idea has appeared. A resource enters the corpus because it satisfies a declared inclusion rule whether it supports the hypothesis or resists it. This distinction is central because difficult resources are often more informative than easy ones.
+A research corpus is not simply a pile of verses. It needs a defined scope, a resource identity, a counting policy, stable inclusion and exclusion rules, and a version that can be revisited. Once the corpus is frozen for a given test, the researcher may not expand or shrink it simply to rescue a preferred interpretation. Corpus integrity does not prove semantic truth, but without corpus integrity later claims cannot be audited.
+Observation must also remain distinct from interpretation. Recording a surface form, a relation, a syntactic role, an actor, an object, a negation, a condition, or a recurring association is not the same as explaining why that relation exists. The book repeatedly protects this boundary because interpretation can otherwise enter the data layer disguised as description.
+A minimal research sequence
+Text → Resource → Observation → Relations → Competing Hypotheses → Resistant Resources → Reverse / Transfer Tests → Claim Rank → Scope Limits
+The book formalizes this discipline through concept cards, claim-status registers, failure logs, and versioned protocols. These devices are not treated as sources of truth. Their function is governance: they preserve the history of how a claim changed, why it was narrowed, whether it failed, and what evidence would justify reopening it.
+3. The First Laboratory: H-R-M and the Limits of “Prohibition”
+The first major laboratory examines the Qur’anic family built around H-R-M. The study does not begin with the equation “haram = forbidden” and then force every occurrence into that box. It collects forms such as haram, hurum, hurumat, muharram, mahrum, and related verbal forms, and asks how their relational environments change from one resource to another.
+The result is deliberately cautious. The conventional idea of “prevention” or “prohibition” remains relevant in many contexts, but the book judges it insufficient as a single semantic core capable of covering the entire corpus without added assumptions. A broader structural hypothesis—described as the engineering or fencing of a domain—emerges as a high-level model candidate. Yet it is not sealed as the final semantic core.
+This is methodologically important. The laboratory succeeds not because it produces a replacement slogan, but because it demonstrates that a familiar definition can be downgraded without the researcher being forced to invent a new absolute definition. The final semantic core of H-R-M remains unsealed.
+Issue
+Status
+Meaning in this edition
+“Haram = prohibition”
+Insufficient as a complete core
+Useful in some contexts, but not adequate to compress the entire H-R-M network.
+“Engineering of boundaries”
+High-level candidate
+A structural model worth testing, not a final definition.
+H-R-M final semantic core
+NOT SEALED
+The book preserves the unresolved state rather than filling it by assertion.
+The deeper lesson is that a Qur’anic concept may be relational rather than reducible to one substitute word. The task is to explain what changes in status, access, interaction, position, or domain across the network of resources—and only then ask whether a stable semantic core survives the pressure.
+4. Neighboring Concepts: Difference Without Forced Synonymy
+The book next opens independent files for neighboring Qur’anic concepts rather than treating them as ready-made synonyms or opposites. This is crucial because a network can contain concepts that overlap strongly without being identical. The method uses a descriptive functional spectrum, T0–T4, to track degrees of identity, near-synonymy, overlap, complementarity, and functional difference without turning the spectrum into a value ranking.
+H-L-L is not accepted as the universal lexical opposite of H-R-M. Direct opposition appears locally, but the H-L-L semantic core remains unsealed. The study tests possibilities such as availability, release, or a change of state rather than assuming that “halal” simply means “not haram.”
+J-N-B is treated as a separate relational system. The prior question “Is avoidance stronger than prohibition?” is rejected as an unsuitable starting axis. The stronger candidate is that ijtinab may describe the position of the self relative to an object or domain—possibly distance, separation, or avoidance as a relation. Even here, the core remains a candidate rather than a sealed law.
+N-H-Y is studied as an act of directive speech: who is being addressed, what action or route is being stopped, and how the command is structured. The book does not establish that every prohibition is haram, nor that the root necessarily derives its meaning from “ending.” Its strongest open hypothesis concerns the guidance of agent and action.
+Q-R-B brings a different functional question: not only the final act, but movement toward it. “Do not approach” may operate at a stage prior to final occurrence. Yet the book does not endorse the blanket formula “all preliminaries are forbidden,” nor does it equate proximity with a boundary or with a stronger form of prohibition.
+H-D-D is kept distinct from H-R-M and Q-R-B. “The limits of God” enter relations of approach and transgression, and a strong model candidate sees a boundary as the edge of a domain or relation. Still, the equations “hudud = prohibitions” and “do not approach = outside / do not transgress = inside” remain unproven or analytical candidates rather than final laws.
+The six-file working model
+H-R-M: status of thing/domain?
+H-L-L: availability or release?
+J-N-B: position of the self?
+N-H-Y: direction of the agent/action?
+Q-R-B: movement or approach?
+H-D-D: limits of a domain?
+
+These are research questions, not six completed laws.
+5. Mathani as a Discovery Engine, Not a Second Scripture
+A distinctive feature of the project is the Mathani layer: the analysis of letter-pairs, reversals, internal lexical relations, and broader paired structures. The condensed edition preserves this layer because it is central to the author’s research program, but it also preserves the safeguards that prevent Mathani from becoming a second unquestionable dictionary.
+The governing rule is simple: Text First → Mathani Second. The Qur’anic resource is frozen before letter-level interpretation enters. Pronouns, negation, condition, conjunction, grammatical relations, agents, objects, and form changes are observed first. Mathani may then generate hypotheses, but those hypotheses must return to the word, the verse, the surah, and the Qur’anic network for testing.
+The book explicitly separates acceptance of the Mathani module from ratification of individual Mathani claims. A tool may be legitimate while a particular pair-analysis fails. A reverse pair is not automatically an antonym. The meaning of a letter-pair is not automatically the meaning of the whole word. And success in one word does not prove the entire system.
+Constitutional hierarchy
+Qur’an > Mathani Dictionary.
+If the Qur’anic corpus resists the Mathani candidate, the candidate is narrowed, revised, or rejected; the text is not rewritten to rescue the model.
+In this framework Mathani widens the possibility space, context filters it, the Qur’anic network constrains it, resistant resources try to break it, and QCROS assigns the surviving claim its proper rank. The point is not esoteric symbolism but the disciplined production of hypotheses that can fail.
+6. From Interpretation to Falsification: The Book’s Testing Architecture
+The methodological center of the book is not a definition but a testing architecture. Once several concept files exist, the question changes: how can we tell whether a proposed relation is explanatory, discriminative, or merely attractive? Chapters 24–30 therefore build a battery of tests designed to expose overgeneralization.
+The substitution test asks what is lost when one Qur’anic term is replaced by another in a controlled comparison. Co-occurrence does not establish identity. A shared outcome does not prove a shared function. A neighboring concept may overlap with another yet carry a different relational role. The functional spectrum T0–T4 gives the researcher language for describing these differences without forcing binary sameness or total separation.
+The resistant-resource principle gives priority to the verse or case that is hardest for the hypothesis. Instead of asking, “How many examples support me?” the researcher asks, “Which resource would force me to narrow or abandon this claim?” The reverse test asks what we should expect to observe if the hypothesis were false. Structural transfer asks whether the proposed variable still makes sense outside the concept it was invented to explain; if it collapses when transferred, it may be circular.
+The predictive protocol distinguishes a build set from a test set. A test designed after the result is known cannot carry the same evidential weight as a prediction frozen before the unseen data are opened. The book therefore distinguishes three stages that are often confused: protocol designed ≠ test executed ≠ claim ratified.
+Independent reconstruction is another critical safeguard. A second reader should be able to use the resources and rules without being handed the final sentence in advance. Reproducibility increases auditability; it does not turn a human model into truth. Divergence may reveal a weak inference, a different relation classification, an overlooked resistant resource, or a scope problem. It is not automatically a failure of the entire method.
+Decision and failure governance
+Claim rank ≠ claim status. Closure ≠ infallibility. A rejected hypothesis does not prove its alternative. Failed hypotheses are preserved. Silent rewriting is prohibited. “Unresolved” is a legitimate knowledge state.
+7. The Riba Laboratory: A Stress Test for the Method
+The second major laboratory is riba. The book chooses it precisely because it is sensitive: linguistic, financial, legal, ethical, and historical assumptions easily enter the analysis. The laboratory therefore refuses to begin with a modern banking definition, an inherited economic formula, or the simple equation “riba = increase.” Instead it rebuilds the field from Qur’anic resources and controlled comparisons.
+The first distinction is between the root R-B-W and the local financial concept riba. A root core, even if identified, is not automatically the definition of a particular financial concept. The study explores growth, elevation, extension, increase, and related movements within the root family, but it does not allow the root to predetermine the financial definition.
+Several intuitive candidates are then placed under pressure. “Increase” is rejected as a sufficient criterion because increases, gains, and profits can occur in other financial relations. Sale is not defined merely as “what is not riba,” and the difference between sale and riba cannot be reduced to their normative labels. Debt is not equated with riba. Contractual time is treated as a feature of debt relations, not automatically as the core of riba.
+The study also separates principal from additional claim. The Qur’anic return to “principal sums” in the repentance context is treated as a strong local rights boundary, not as a proof that every amount above principal is riba in every possible transaction. The possession of capital does not, by itself, generate automatic entitlement to an added amount.
+Likewise, time does not become an automatic generator of entitlement. Rescheduling, delay, hardship, and deferred payment must be distinguished from the amount of the claim itself. “Doubled and multiplied” is treated as an intensity or accumulation layer rather than as the universal lexical core. Mahq—erasure, depletion, or destructive outcome in the riba network—is a strong systemic relation, but it is not established as part of the semantic core.
+The relation between riba and “consuming people’s wealth wrongfully” is also narrowed. Qur’anic co-occurrence and strong functional overlap are supported, but identity is not. Bāṭil matters as a network constraint; it is not established as the complete definition of riba. In the same way, the categories of injustice, wrongdoing, and harmful outcome cannot simply be folded into the lexical core.
+Issue
+Status
+Meaning in this edition
+Riba = increase
+Rejected as insufficient
+Increase alone does not discriminate riba from other financial changes.
+Riba = debt
+Not established
+Debt has a broader operating system and cannot be identified with riba.
+Time creates entitlement to increase
+Failed
+Time and claim amount are separated variables.
+“Doubled and multiplied” = universal core
+Failed
+Treated as intensity/accumulation, not the core.
+Mahq = riba core
+Not established
+Strong systemic outcome relation, not a proven core feature.
+Riba = consuming wealth by bāṭil
+Failed as identity
+Strong overlap and constraint, but not identity.
+8. Narrowing the Riba Model Without Forcing a Final Definition
+After the broad laboratory closes, the book enters a narrowing phase. Instead of asking for everything associated with riba, it asks for the smallest structure that still retains useful recognition and discrimination. The layer matrix separates root ancestry, financial/rights domain, entitlement structure, network constraints, intensity, outcomes, and normative governance. This prevents high-level consequences from being smuggled into a minimal semantic core.
+The strongest surviving analytical candidate is the structure or source of entitlement. The recurring question is not merely, “Is there an increase?” but: What is the original right? What is the limit of the claim? On what basis does an additional claim arise? This variable can be described independently of the label riba, which is an important anti-circularity result.
+Yet that very transferability also limits the candidate. Entitlement structure is a general analytical axis in financial and rights-bearing relations. It is not exclusive to riba. When transferred to sale, it still appears, because lawful sale also contains a financial domain, a change or gain, and a source of entitlement. Thus the candidate collides with sale at the abstract level and cannot function as a sufficient final definition on its own.
+The retained audit frame
+D + Δ + E*
+D = financial / rights-bearing domain
+Δ = directional or additional change / claim
+E* = independent source or structure of entitlement
+
+Status: retained as a recognition / audit frame; NOT a sealed definition.
+This is one of the book’s most important negative results. D + Δ + E* is more useful than definitions based solely on increase, debt, or time, but it is still too general to exclude all false positives. Its explanatory power is stronger than its final discriminative power. The minimum sufficiency gate is therefore not passed.
+The final definition of riba remains unsealed. No new “root law” is announced from the riba laboratory. This restraint is intentional: the method prefers a well-governed open result to a neat definition that overstates the evidence.
+9. Governance: What a Result May and May Not Be Used For
+The last part of the book is devoted to governance because a technically careful result can still be misused after publication. The study therefore distinguishes recognition, classification, ruling, and application. They are not interchangeable stages.
+Within the book’s direct validity domain, the riba results may be used to reconstruct the Qur’anic concept network, audit relations among increase, principal, time, debt, sale, mahq, injustice, and bāṭil, and trigger further testing when a financial case resembles the recognition frame. They may not be used as an automatic contemporary banking classifier.
+The Arabic edition explicitly places modern banking and contemporary financial products outside the scope of this volume. It also prohibits using D + Δ + E* as a final definition, making blanket classifications of all loans, or hiding the open status of unresolved claims in simplified summaries. A later application project must pass a separate domain-transfer gate and build its own corpus of products, contracts, cash flows, ownership structures, risk, obligations, and entitlement claims.
+Issue
+Status
+Meaning in this edition
+Recognition
+Permitted
+Use the framework to identify cases that require deeper testing.
+Classification
+Not automatic
+A recognized pattern still requires case-specific evidence.
+Normative ruling
+Not derived by shortcut
+Semantic recognition is not itself a legal ruling.
+Modern banking application
+Out of scope here
+Requires a separate application laboratory and corpus.
+Governance also defines reopening conditions. A closed claim may be reopened by a new resistant resource, a new independent corpus that changes discrimination, an internal contradiction, or a documented methodological update. It should not be reopened merely for rhetorical simplicity or because a simpler conclusion is easier to communicate.
+10. A Reader’s Protocol for Re-testing the Book
+The book ends by transferring the method to the reader. A research work is not mature merely because it announces a conclusion; it becomes auditable when another reader can retrace the path from resource to claim and identify the precise point of agreement or disagreement.
+1. Declare one question and its scope before analytical reading begins.
+2. Freeze the corpus and version so that resources are not added selectively after the hypothesis is known.
+3. Observe before interpreting: record textual facts without importing the conclusion.
+4. Map relations without turning co-occurrence into causality.
+5. Form competing hypotheses where the evidence allows more than one explanation.
+6. Build a resistant set: seek the hardest resources for the hypothesis, not the easiest supporters.
+7. Run controlled substitution and reverse tests.
+8. Test discrimination and structural transfer: does the hypothesis identify the concept, or does it fit everything?
+9. Reconstruct independently without copying the author’s conclusion.
+10. Compare pathways and points of divergence, not merely final wording.
+11. Assign claim rank and status: established, supported, candidate, open, downgraded, rejected, or unresolved.
+12. Record the scope limit: state clearly what the result does not prove.
+The reader is also instructed not to inherit the book’s riba results as premises. Even conclusions such as “increase is insufficient,” “debt is not identical to riba,” or “entitlement structure is the strongest current candidate” are to be re-tested from the corpus if the goal is independent replication. The book’s own result is a target of comparison after the new reconstruction, not an input into it.
+Reproducibility is not truth
+Reproducibility means that the path can be audited and re-run. It does not mean that the same wording must appear, that the model is beyond criticism, or that repeated agreement turns a human inference into revelation.
+11. Final Synthesis: From Lexical Circularity to a Jurisprudence of Relations
+The book’s central contribution is methodological. It moves the study of Qur’anic concepts away from the search for a substitute word and toward the analysis of relational architecture. Meaning is produced through forms, agents, objects, conditions, oppositions, proximity, boundaries, repeated networks, surah context, cross-Qur’anic comparison, resistant resources, and tests that can narrow or defeat a hypothesis.
+The first laboratory shows that H-R-M cannot responsibly be compressed into a final one-word semantic core on the evidence tested. The neighboring files show that prohibition, avoidance, approach, limits, and permissibility should not be forced into a single ladder of stronger and weaker restriction. Their functions may intersect while remaining distinct.
+The second laboratory demonstrates the same discipline under greater practical pressure. Riba is not reduced to increase, debt, time, accumulation, wrongful consumption, or harmful outcome. Entitlement structure becomes the strongest current discriminator candidate, and D + Δ + E* survives as a useful audit frame, but the book refuses to call it a complete final definition because it does not pass the sufficiency barrier against sale and other legitimate financial relations.
+The intellectual ethic behind this choice is explicit: an unresolved result can be more truthful than a premature definition. Failure logs are part of knowledge. Rejected hypotheses are preserved. A claim does not gain authority because it is repeated, visually elegant, or embedded in a complex model. The text remains above the model, and every model remains open to revision when a stronger Qur’anic resource resists it.
+Final principle
+The aim is not to move the reader from the authority of an old dictionary to the authority of a new model. The aim is to make every model explicit in its bridges, limited in its rank, testable in its claims, and ready to retreat when the text resists it.
+12. Compact Glossary and Status Register
+Term
+Meaning in this adaptation
+Corpus
+A declared and versioned set of textual resources included by a stated rule.
+Resource
+A traceable textual occurrence or unit that enters the corpus before interpretation.
+Observation
+A description of what is present in the text without yet explaining why.
+Relational Structure
+The network of agents, objects, directions, conditions, contrasts, proximity, and distribution that shapes function.
+Resistant Resource
+A resource that puts maximum pressure on a hypothesis and may narrow or falsify it.
+Reverse Test
+A test asking what should be observed if the hypothesis were false.
+Structural Transfer Test
+A test of whether a proposed variable remains meaningful outside the concept it was invented to explain.
+T0–T4
+A descriptive functional spectrum from identity toward increasing degrees of non-identity / functional difference; not a value ranking.
+Mathani
+A discovery and testing layer involving internal letter-pairs and relational pairings; subordinate to the Qur’anic corpus.
+Independent Reconstruction
+Rebuilding the result from resources and rules without being instructed to reproduce the author’s final wording.
+Claim Rank
+The epistemic strength of a claim: observation, supported relation, candidate, law, etc.
+Claim Status
+The operational state of a claim: open, closed, rejected, unresolved, superseded, and so on.
+D
+Financial / rights-bearing domain in the riba audit frame.
+Δ
+Directional or additional change / claim in the riba audit frame.
+E*
+Independent source or structure of entitlement in the riba audit frame.
+Final Status Snapshot
+Issue
+Status
+Meaning in this edition
+Book architecture
+7 parts / 51 chapters / general conclusion / 8 appendices
+The full Arabic edition contains the complete research record.
+H-R-M final semantic core
+NOT SEALED
+The tested corpus did not justify a final single core.
+Mathani + T0–T4
+Discovery/testing tool + active descriptive spectrum
+Methodological tools, not independent sources of truth.
+Riba root law
+0
+No universal root law was ratified from the riba lab.
+Riba final definition
+NOT SEALED
+The book preserves the open state.
+D + Δ + E*
+Recognition / audit frame — strong / limited
+Useful for structured inquiry, not sufficient as a final definition.
+Modern banking applications
+OUT OF SCOPE
+Requires a separate contemporary application study.
+Reproducibility
+Required for auditability — not truth
+Re-running a path supports transparency, not infallibility.
+Closing Note to the International Reader
+This condensed edition is designed to give readers outside the Arabic-speaking research environment access to the architecture of the project rather than to every lexical dispute and documentary layer. The full Arabic edition remains the authoritative version for technical detail, Qur’anic resource tracking, Arabic terminology, appendices, and the complete audit history.
+Readers are encouraged to treat this adaptation as an invitation to inspect the method, not as a replacement for the Qur’anic text or the original research edition. The strongest way to engage the book is not to repeat its conclusions, but to test them.

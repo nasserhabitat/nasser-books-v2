@@ -1,0 +1,291 @@
+DEATH AND THE QUR’ANIC VOCABULARY OF THE DEAD
+Mawt, Maytah, Amwāt, and Mawtā in an Inductive-Structural Reading
+Condensed Conceptual English Edition
+Fiqh of the Qur’anic Tongue – Engineering of Revelation
+Nasser Ibn Dawood
+2026
+nasserhabitat.github.io/nasser-books/
+I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy: All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library: As of early 2026, the collection hosts 68 volumes (34 in Arabic and 34 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platforms: Main Website: nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+II. Translator’s Note: The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an "extraction of essence." It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.
+For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (Tafsir), and the complete bibliography.
+Editorial note for this condensed edition: Arabic technical terms are retained where their distinctions matter. The English reader is therefore introduced to terms such as mawt (death), tawaffī, baʿth (raising/resurrection), iḥyāʾ (giving life/revival), amwāt, mawtā, mayyit, mayt, and maytah instead of flattening them into a single English vocabulary.
+Executive Summary
+This book studies the Qur’anic field of death from within the Qur’an’s own network of usage. It does not begin with a dictionary definition and then force every verse to fit it. Instead, it builds a closed corpus of the root m-w-t, distinguishes its internal forms, compares their contexts, and then tests every proposed definition against resistant passages.
+The audited corpus contains 165 occurrences of the root m-w-t, distributed across 143 distinct verses in 53 surahs. The occurrences were organized into eight principal morphological categories. The central methodological result is deliberately negative in form but positive in scientific value: no single positive lexical definition survived all the resistant cases. The study therefore seals ROOT LAW (m-w-t) = 0 — meaning not that the root has no meaning, but that no one formula should be imposed on all of its Qur’anic uses.
+What does survive are strong distinctions, boundary laws, and a practical analytical model. Death is not identical to non-existence, killing, tawaffī, or the mere negation of life. The forms māta and amāta do not perform the same function. Amwāt and mawtā show different distributional patterns. The Qur’an can speak of someone who "was dead" and was then given life and light while still being physically alive, and it can call people to what "gives you life." It can also describe a state in which one "neither dies nor lives," which prevents death and life from being treated as a simple exhaustive binary in every context.
+The book therefore shifts the reader from the question "What is death?" to a more disciplined question: "How does the Qur’anic field of death work across event, classification, description, and relational network?" The result is DSAM — the Death-Specific Analytical Matrix — a four-layer model that helps readers examine a verse without confusing the function of one form with another.
+Core principle: a failed universal definition is not a failed study. Sometimes the most rigorous result is to refuse a generalization that the corpus does not support.
+How to Read This Condensed Edition
+The original Arabic volume is both a research study and a training manual in Qur’anic inquiry. This condensed edition preserves that dual purpose. Each section therefore gives both a finding and the reasoning discipline behind it. The reader is encouraged to follow a recurring sequence:
+READ → COLLECT → CONTEXTUALIZE → COMPARE → FORM A HYPOTHESIS → TEST RESISTANCE → JUDGE → CONTINUE THE RESEARCH
+Several methodological cautions govern the entire work: co-occurrence is not causality; textual sequence is not necessarily chronological sequence; morphology does not automatically become semantics; a branch of a root is not the root itself; a model is not a lexical law; and a previous volume is not evidence for a new corpus.
+Condensed Contents
+1. From Definition to Structure
+2. The Corpus of m-w-t and Its Internal Forms
+3. Death, Life, and Revival: Why the Binary Is Not Simple
+4. Death, Tawaffī, Killing, and Baʿth: Separation of Functions
+5. After Death: Term, Return, Barzakh, and Exceptional Revivals
+6. Functional Death and the Limits of Metaphor
+7. Dunyā, Ākhirah, and al-Ḥayawān
+8. DSAM: A Practical Analytical Matrix
+9. What the Study Establishes — and What It Refuses to Establish
+10. Open Research Questions and the Reader’s Role
+Glossary of Key Terms and Status Labels
+1. From Definition to Structure
+The study begins by rejecting a common shortcut: defining death first and collecting verses later. That procedure is attractive because it is efficient, but it can hide the diversity of the Qur’anic data. A definition such as “death is the cessation of biological life” may describe many ordinary cases, yet it cannot by itself explain dead land that is revived, a person who “was dead” and is given life and light, those who are killed but explicitly described as living, or the condition in which one “neither dies nor lives.”
+The research therefore moves in the opposite direction. It starts from the text, observes the forms, builds the corpus, maps relationships, proposes hypotheses, tests them, and only then asks whether a law can be sealed. The method is summarized as: text → observation → induction → relationships → hypothesis → testing → law → model.
+This order matters. A hypothesis belongs after induction, not before it. A model belongs after testing, not before it. If a resistant verse breaks a proposed universal definition, the proper response is not to reinterpret the verse until it fits the definition. The definition must be narrowed, revised, or abandoned.
+The Resistant Set
+The book gives special importance to resistant passages. A resistant case is not an inconvenient exception. It is a scientific instrument. The most valuable verses are often those that refuse a neat generalization. In this study, several passages play this role repeatedly: the state in which one “neither dies nor lives”; the description “dead, not living”; the slain who are described as living; the person who “was dead” and was given life and light; tawaffī applied to one who “did not die” in sleep; the “first death”; and exceptional instances of death followed by revival within earthly history.
+The research also uses reverse tests and controlled substitution. If two terms are assumed to be synonymous, the researcher asks whether one can replace the other without loss. If substitution fails in a key verse, synonymy cannot be assumed.
+Direct Meaning and Functional Meaning
+A second governing principle is semantic integration. The direct or material level of a verse is not erased by a functional or existential reading. A scene may remain physically real while also carrying a functional or instructive extension. The revival of dead land, for example, remains a cosmic event; at the same time, the Qur’an itself invites the reader to reflect on revival, resurrection, and intelligibility through such scenes. The task is not to choose between “literal” and “functional” in advance, but to test whether the context and wider Qur’anic network justify the extension.
+The same caution applies to Mathani, the project’s exploratory system of paired structures and internal relations. Mathani may generate a hypothesis, but a Mathani relation is not automatically a morphological derivation or lexical law. Discovery must be followed by testing.
+2. The Corpus of m-w-t and Its Internal Forms
+The legal research corpus closes at 165 occurrences of the root m-w-t, distributed across 143 distinct verses in 53 surahs. These figures were cross-checked through a digital morphological source and an independent Arabic count. The count is documentary; it does not, by itself, define death.
+Form / category
+Count
+Function in this study
+māta — Form I
+39
+Occurrence of dying; does not itself explain the event
+amāta — Form IV
+21
+Causative/causing death; functionally distinct from māta
+mamāt
+3
+Relational noun, often paired with life/living
+mawt
+50
+The broadest nominal category
+mawtah
+3
+A bounded or countable death-event
+mayyit family
+38
+Requires internal differentiation
+mayt
+5
+Kept distinct for testing
+maytah
+6
+Noun/adjective depending on the verse
+Total
+165
+Closed corpus for this volume
+Form I and Form IV
+The distinction between māta and amāta is one of the clearest findings. Form IV has a causative function that cannot be collapsed into Form I. In the 21 occurrences of amāta, divine attribution predominates strongly: 20 out of 21. The remaining case is a human claim in al-Baqarah 2:258. The study therefore records a dominant pattern but refuses to transform the pattern into an absolute rule. A claim by a human speaker is not automatically a verified event.
+Mawtah and Mamāt
+Mawtah occurs only three times, all in the expression “the first death.” Its narrow distribution matters because it behaves as a specified, countable death-event rather than as a general label for the entire semantic field. Mamāt also occurs three times and functions as a relational pole in paired structures. Neither form can be used to define the root as a whole.
+Amwāt and Mawtā
+The plural forms reveal a strong distributional difference. All six occurrences of amwāt appear inside an explicit life/death polarity. The 17 occurrences of al-mawtā appear either in contexts of revival, resurrection, or extraction (13 cases) or in contexts of speech/hearing (4 cases). This is a robust distributional pattern. Yet distribution is not the same as a sealed dictionary definition. The study therefore refuses the simplistic rule “amwāt means functional death, while mawtā means physical death.” That older hypothesis remains historically important, but the present audit does not establish it as an exact lexical law.
+Mayyit, Mayt, and Maytah
+The hypothesis that mayyit refers only to future death was tested and resisted. The smaller mayt category contains five occurrences, including dead towns, the “dead brother” image in al-Ḥujurāt 49:12, and the person who “was dead” and was given life in al-Anʿām 6:122. The data justify keeping mayyit and mayt analytically distinct, but they do not yet justify a fixed semantic law between them.
+Maytah occurs six times. Five are legislative food-noun occurrences; one describes dead land in Yā Sīn 36:33. That single descriptive use is enough to warn against collapsing every occurrence into one food-law definition, but it is not enough to build a universal functional definition either.
+Branch ≠ Root. Shared morphology does not guarantee shared function, and a pattern found in one branch cannot be transferred to the entire root without independent evidence.
+3. Death, Life, and Revival: Why the Binary Is Not Simple
+Death and life are strongly opposed in the Qur’an, but the opposition is not always an exhaustive logical binary. The book distinguishes between textual polarity and lexical definition. A pair can be rhetorically or structurally opposed without proving that each term is simply the logical negation of the other in every context.
+The Strongest Resistance: “Neither Dies nor Lives”
+Passages such as Ṭā Hā 20:74 and al-Aʿlā 87:13 describe a condition in which a person neither dies nor lives. This is a decisive resistant case against the formula “death = not-life.” If both descriptions can be denied together, then death and life cannot be treated as two exhaustive logical states in every Qur’anic context.
+By contrast, al-Naḥl 16:21 says “dead, not living.” That local pairing is real and important. But the existence of one local pairing does not erase the resistant passages where both are denied. The correct conclusion is therefore contextual: death and life form a strong polarity, but the polarity does not authorize a universal definition of either term as the simple negation of the other.
+A Functional Layer of Life
+Al-Anʿām 6:122 presents a person who “was dead,” was given life, and was given a light by which to walk among people. Al-Anfāl 8:24 calls living hearers to respond to God and the Messenger when they are called to “that which gives you life.” These passages make a functional layer of life difficult to ignore. Life can refer, in some contexts, to guidance, responsiveness, light, and effective movement rather than merely biological respiration.
+The study nevertheless keeps this result local. It does not conclude that every occurrence of “life” means guidance, or that every occurrence of “death” means cognitive failure. The functional layer is supported where the context supports it; it is not promoted into a universal root definition.
+Dead Land and Revival
+The Qur’an repeatedly speaks of dead land that becomes alive. This expands the field beyond human biology and makes the locus of death analytically important. The same root can classify a human condition, a land condition, or an event. This is one reason the book separates event, classification, description, and relation instead of forcing them into one essence.
+4. Death, Tawaffī, Killing, and Baʿth: Separation of Functions
+The most important relational result is that proximity does not equal synonymy. Death, tawaffī, killing, baʿth, and iḥyāʾ often appear near one another, but controlled substitution shows that they do not perform the same function.
+Proposed substitution
+Resistant evidence
+Result
+tawaffī <-> dying
+Al-Zumar 39:42: tawaffī applies to those who die and to those who “did not die” in sleep
+Substitution fails
+killing <-> death
+Al-Baqarah 2:154 and Āl ʿImrān 3:169: the slain are not to be called dead; they are described as living
+Substitution fails
+baʿth <-> giving life
+Al-Anʿām 6:60 and al-Anfāl 8:24 show that the two operations are not interchangeable
+Substitution fails
+death <-> non-existence
+Al-Baqarah 2:243 and 2:259 contain death followed by revival
+Substitution fails
+Tawaffī
+Al-Zumar 39:42 is the central resource. It speaks of God taking the selves (tawaffī) at death and also taking those who “did not die” during their sleep. This alone prevents tawaffī from being defined as death. The same distinction is reinforced by al-Anʿām 6:60, which describes nightly tawaffī followed by daytime baʿth. The study therefore concludes that tawaffī intersects death but extends beyond it.
+A further claim — that tawaffī means the soul leaving the body — is not established by these passages alone. That question belongs to an independent corpus of tawaffī, nafs, sleep, holding, and release.
+Killing
+Killing and death overlap in ordinary experience, but the Qur’an does not allow them to collapse into one term. In the verses concerning those killed in the way of God, the text explicitly resists the label “dead” and affirms life. This distinction is enough to establish that killing is not a lexical synonym of death. It does not, by itself, settle broader theories of “cognitive killing”; those remain open research proposals requiring a complete q-t-l corpus.
+Baʿth and Iḥyāʾ
+Baʿth and iḥyāʾ are also not perfect synonyms. Baʿth can function as raising, sending, awakening, or resuming activity depending on context. The Qur’an can speak of baʿth after nightly tawaffī without having first described biological death. The English word “resurrection” is therefore useful in some contexts but too narrow as a universal translation of baʿth.
+Shared context ≠ shared meaning. A Qur’anic network is a network of differentiated functions, not a bag of synonyms.
+5. After Death: Term, Return, Barzakh, and Exceptional Revivals
+The root m-w-t does not, by itself, tell the reader everything that follows death. To study what comes after, the book examines adjacent fields: ajal (term), return, barzakh, baʿth, and exceptional revival. The guiding rule is that a lexical item should not be forced to carry information supplied by a neighboring concept.
+Ajal: The Boundary of Delay
+Ajal concerns the fixed or bounded term beyond which delay does not continue. Its relation to death is important, but ajal is not simply a definition of death. The two belong to the same broader network while performing different functions.
+Return and Barzakh
+Al-Muʾminūn 23:99–100 provides the clearest sequence: death arrives, a request is made to return in order to perform righteous work, the request is rejected, and a barzakh stands until the day of baʿth. The text therefore resists the idea of a general law in which every person repeatedly returns to earthly life to resume testing.
+The book is careful not to overstate what barzakh means. The passage supports a barrier or interval between the rejected request for return and the future baʿth. It does not, by itself, define the full phenomenology of consciousness during that interval. Likewise, the expression “our resting place” (marqad) does not prove absolute unconsciousness across the entire period.
+Exceptional Earthly Revival
+At the same time, the Qur’an contains exceptional cases of death followed by revival within earthly history, notably al-Baqarah 2:243 and 2:259. These verses resist an absolute claim that earthly revival never occurs. The result is asymmetric: exceptional revival is textually supported, while a general recurrent system of multiple earthly lives is strongly resisted.
+This distinction is methodologically important. One extraordinary case cannot be converted into a universal cycle; and one rejected request for return cannot be used to deny every exceptional revival narrated elsewhere. The corpus must hold both.
+6. Functional Death and the Limits of Metaphor
+The author’s earlier writings developed a broad model of functional death: the death of the heart, the intellect, the community, the idea, or the civilization. The present volume does not erase those proposals. It reclassifies them according to the evidence available in the new corpus.
+The Heart and Response
+The strongest local evidence for a functional reading comes from passages such as al-Anʿām 6:122 and al-Anfāl 8:24. A living body can be addressed as needing a form of life that involves response, guidance, light, and meaningful movement. This supports a functional layer in which “life” may describe restored receptivity and action.
+But the reverse generalization fails. Not every cognitive defect is called death. The Qur’an also speaks of hardness, sealing, disease, deafness, blindness, heedlessness, and other failures. Therefore “death of the heart” is best treated as a controlled model in relevant contexts, not as a universal label for every spiritual or cognitive deficiency.
+From Individual to Civilization
+The same caution applies when extending the model from persons to communities and civilizations. An institution may continue to exist while losing its ability to produce justice, guidance, renewal, or meaningful response. Calling this “civilizational death” can be analytically fruitful, but it is an interpretive extension. The present corpus does not establish that every social collapse is lexically named death by the Qur’an.
+Maytah as a Knowledge Model
+The earlier draft proposed the idea of “epistemic maytah”: a body of thought that remains socially present after losing the capacity to explain reality or generate guidance. This proposal is retained as a research thesis, not as the dictionary meaning of maytah. The dominant Qur’anic use of the noun is legislative and dietary, while one occurrence describes dead land. The educational value of the model is kept separate from the lexical claim.
+Functional extension ≠ exclusive functional meaning. A useful model must remain smaller than the evidence that produced it.
+7. Dunyā, Ākhirah, and al-Ḥayawān
+The book widens the field of life without allowing that widening to redefine death. Al-ʿAnkabūt 29:64 contrasts “this worldly life” with “the Abode of the Hereafter” and describes the latter as al-ḥayawān. The secure textual finding is narrow but important: al-ḥayawān is a description of the Hereafter within a contrast with worldly life.
+Earlier works by the author explore a broader model in which dunyā is not merely chronological “before death” but a rank of nearness, immediacy, or lower orientation, while ākhirah is a later or higher rank of outcome and disclosure. The present book preserves these as prior authorial models rather than importing them as evidence for the root m-w-t.
+The Functional Thesis of al-Ḥayawān
+The author also proposes a functional extension: al-ḥayawān can be read as a model of fuller life — life near God through istiqāmah (steadfast uprightness), the straight path, non-corruption, and responsive action. This does not replace the direct eschatological meaning of al-ʿAnkabūt 29:64. It is offered as an open thesis for an independent corpus of life, nearness, uprightness, path, corruption, and reform.
+This distinction captures the book’s broader hermeneutic: the direct meaning is preserved; a functional layer may be explored; but the functional layer must still pass contextual and corpus-based testing. The reader is invited to test the thesis rather than simply receive it.
+What Death Does Not Automatically Prove
+Death does not automatically prove ascent, higher consciousness, or entrance into al-ḥayawān. The root m-w-t does not contain a complete map of the Hereafter. Nor does the description of the Hereafter as al-ḥayawān establish a complete theory of post-mortem consciousness, luminous bodies, informational reconstruction, or quantum transition. Those are broader models that require independent evidence.
+8. DSAM: A Practical Analytical Matrix
+Because no single root-wide definition survived, the book builds a model rather than a replacement definition. DSAM — the Death-Specific Analytical Matrix — organizes the field into four layers. Its purpose is practical: to stop the reader from transferring a result from one layer to another without evidence.
+Layer
+What it contains
+Question to ask
+A. Event
+māta, amāta, mawt, mawtah
+What event occurs, is caused, arrives, is tasted, or is counted?
+B. Classification
+amwāt, mawtā
+How is a group or class designated in this context?
+C. Description
+mayyit, mayt, maytah
+What is being described, and what does the local context permit?
+D. Relational network
+life/revival, tawaffī, killing, baʿth, ajal, barzakh, return
+Which neighboring function is present, and is it truly interchangeable with death?
+The governing DSAM principle is simple: read the field of death by distinguishing event, classification, description, and relational network; do not transfer a judgment from one layer to another without independent textual evidence. Sharing a root does not prove identical function, and sharing a context does not prove synonymy.
+How a Reader Can Use DSAM
+Identify the exact form in the verse rather than beginning from the English word “death.”
+Locate the verse inside its immediate context and the thematic movement of the surah.
+Classify the form as event, classification, description, or relational network.
+Compare it with all relevant occurrences of the same form before generalizing.
+Test proposed synonyms by substitution.
+Search deliberately for a resistant case.
+Assign a status: supported, candidate, open, resisted, or not established.
+Only then consider a wider functional or existential model.
+9. What the Study Establishes — and What It Refuses to Establish
+The final result is not a one-sentence definition of death. It is a structured set of findings and limits. The study regards this as a strength. A boundary law that survives resistant cases is better than a positive definition that survives only because difficult verses are ignored.
+Established or Strongly Supported
+The corpus is closed at 165 occurrences, 143 distinct verses, and 53 surahs for this volume.
+Māta and amāta are functionally distinct; Form IV is causative, with divine attribution strongly predominant (20/21) but not exclusive.
+Amwāt shows a 6/6 distribution inside explicit life/death polarity.
+Al-mawtā shows a 17/17 distribution: 13 revival/resurrection/extraction contexts and 4 speech/hearing contexts.
+The claim “mayyit = future death only” is resisted.
+A fixed semantic law separating mayyit and mayt remains open.
+Death is not synonymous with killing.
+Death is not synonymous with tawaffī.
+Baʿth and iḥyāʾ are not perfect synonyms.
+Death is not equivalent to non-existence.
+A local functional layer of life/death is supported, but not as a universal lexical definition.
+Exceptional earthly revival is supported; a general recurrent earthly-life system is strongly resisted.
+Boundary Law of the Volume
+Death in the Qur’an is not equivalent to non-existence, killing, tawaffī, or the mere negation of life; and attributing death to a locus does not, by itself, determine the condition that follows or its rank within the wider network of consciousness and resurrection.
+ROOT LAW (m-w-t) = 0
+This formula is easy to misunderstand. It does not mean “the root is meaningless.” It means that the audit did not seal one positive lexical core that can be imposed on every occurrence without loss or contradiction. Earlier candidates — such as “functional shutdown,” “loss of efficacy,” or “the interruption of an existing mode of life” — explained important subsets but failed as universal root definitions.
+The study therefore prefers a precise negative result over an elastic positive definition. “Not established” is treated as a meaningful scientific status, not as embarrassment. Open questions remain open.
+10. Open Research Questions and the Reader’s Role
+The Arabic volume intentionally preserves unresolved theses. The purpose is not to blur the distinction between evidence and speculation, but to hand the research laboratory to the next reader. A disciplined study should record not only what succeeded, but also what failed, what remained incomplete, and what corpus would be required next.
+Open Research Paths
+Research path
+Why it matters
+Current status
+Life and al-Ḥayawān
+Test functional life, uprightness, path, nearness, and non-corruption
+Open independent corpus
+Nafs and rūḥ
+Clarify the responsible self, divine support, identity, and continuity
+Open independent corpus
+Tawaffī, sleep, and dream
+Test whether tawaffī is broader than death and how sleep changes reception
+Strong candidate / open core
+Killing and slaughter
+Test cognitive/functional readings of q-t-l and dh-b-ḥ without erasing direct meanings
+Authorial theses / independent corpus needed
+Heart, hearing, sight, and sealing
+Test functional death against other Qur’anic models of cognitive failure
+Open
+Dunyā and Ākhirah
+Test rank-based models without reducing them to chronology alone
+Prior authorial model / open
+A Note on Reincarnation
+The earlier draft explicitly entertained the possibility that a self might return to earthly life in another body according to its deeds. The present audit retains that hypothesis in the research history but classifies it as strongly resisted and not established. Al-Muʾminūn 23:99–100 resists a general return to worldly testing after death, while the Qur’an’s exceptional revival narratives remain exceptional rather than evidence for a recurring cycle.
+A Note on Mathani and the Dream
+The project has explored a Mathani relation between the letters n-m and ideas of growth or transformation, particularly in discussions of manām (sleep/dream). The present volume preserves this as an exploratory relation, not as a morphological derivation. The direct setting of manām remains sleep, while the possibility of altered reception or cognitive preparation may be investigated functionally. Relation is not derivation.
+A Note on Purification and Deep Reading
+The author further proposes that deeper access to Qur’anic guidance is connected with the purification of the reader’s instruments of reception through reflection, discrimination, and moral alignment. This thesis is linked in the broader project to the networks of tadabbur, guidance, deviation, purity, and the phrase “none touch it except the purified.” In this volume it remains an open methodological thesis, not a closed result of the death corpus.
+The Reader as Researcher
+The educational goal of the book is not to make the reader repeat its conclusions. It is to make the reader capable of reproducing the path by which conclusions are formed and tested. A reader should be able to ask: What is the exact Qur’anic term? Where does it occur? What does its local context do? What changes across surahs? What neighboring terms appear? What would falsify the hypothesis? Which verses resist it? What remains open? What corpus should be built next?
+The successful volume is not the one that closes research in front of the reader, but the one that raises the reader’s capacity to continue it.
+Glossary of Key Terms and Status Labels
+Term
+Working explanation in this edition
+Mawt
+The broad Qur’anic noun usually translated “death”; not reduced here to one universal positive definition.
+Māta
+Form I: to die / occurrence of dying.
+Amāta
+Form IV: to cause death / bring about death.
+Mawtah
+A specified or countable death-event; occurs in “the first death.”
+Mamāt
+A relational noun associated with dying/death, often in paired structures.
+Amwāt
+Plural form with a strong life/death polarity distribution in the audited corpus.
+Mawtā
+Definite plural form distributed across revival/resurrection/extraction and speech/hearing contexts.
+Mayyit / Mayt
+Distinct forms kept analytically separate; a fixed semantic law between them is not sealed.
+Maytah
+A form used predominantly in food law, with one dead-land descriptive occurrence.
+Tawaffī
+A taking/receiving process that intersects death but also occurs without death; exact root-wide core remains open.
+Baʿth
+Raising, sending, awakening, or resurrection depending on context; not identical to iḥyāʾ.
+Iḥyāʾ
+Giving life / revival; can be physical, terrestrial, or functionally related to guidance depending on context.
+Barzakh
+A barrier or interval in the post-death sequence; the term alone does not define the full state of consciousness.
+Al-Ḥayawān
+The Qur’anic description of the Abode of the Hereafter in al-ʿAnkabūt 29:64; broader functional readings remain open.
+Mathani
+The project’s method of exploring paired/internal relations as hypothesis generators; not automatic morphology.
+Corpus
+The complete set of relevant occurrences used for the study.
+Resistant Set
+Passages selected because they can break or limit a proposed generalization.
+Reverse Test
+Testing a proposed relation by reversing or substituting its elements to see whether the function survives.
+ROOT LAW = 0
+No single positive root-wide lexical definition was sealed.
+CLOSED
+The claim or boundary is closed within the declared scope.
+SUPPORTED
+The evidence supports the claim within the stated scope.
+CANDIDATE
+A promising claim that still needs testing.
+OPEN
+The study intentionally leaves the question unresolved.
+RESISTED
+The proposed claim failed or was limited by resistant evidence.
+NOT ESTABLISHED
+The available evidence does not justify the claim.
+Closing Perspective
+The Qur’anic vocabulary of death resists reduction because the Qur’an deploys it across bodies, land, events, classifications, descriptions, eschatological sequences, and functional states. The disciplined response is not to abandon the search for structure, but to build a structure capable of preserving difference.
+The central achievement of this study is therefore methodological as much as lexical. It shows how a corpus can lead the researcher away from an attractive definition, how resistant verses can become instruments of discovery, how a negative legal result can be scientifically productive, and how a model can help without pretending to be the meaning of the root itself.
+The final invitation is simple: do not begin with the conclusion. Begin with the text. Collect before generalizing. Compare before equating. Test before sealing. Keep the resistant verse visible. And when the evidence stops, let the question remain open until a new study is ready to continue it.

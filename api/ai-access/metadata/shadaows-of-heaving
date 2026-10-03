@@ -9,24 +9,23 @@
       "ar": " ظلال الجنة والنار وجهنم: من الحرف إلى الوعي – رحلة الإنسان في مرآة القرآن ",
       "en": " A Global Manifesto for Cognitive Sovereignty and the Restoration of Human Meaning "
     },
-    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/shadaows-of-heaving/ar/cover-ar.png",
+    "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/shadaows-of-heaving/ar/shadaows-of-heaving-cover-ar.png",
     "ar": {
       "docx": "https://drive.google.com/uc?export=download&id=1tSWabjc2m-_lH1Y0zzh-DhWqK19QSGnC ",
       "pdf_direct": "books/shadaows-of-heaving/ar/content.pdf",
       "pdf_external": "https://drive.google.com/uc?export=download&id=1Boln7l_L3m4WIjU-GAEdZ04Zq_LhAt0i ",
-      "html": "https://drive.google.com/uc?export=download&id=1YDqf5Omhb8UUpeUZQkwr_h1OXUZR9HNz ",
-      "txt_external": "https://drive.google.com/uc?export=download&id=1SIF0EG3VgynS3a7gCQ7SoyPL0wsaYLM9 ",
-      "txt_direct": "books/shadaows-of-heaving/ar/content.txt",
-      "cover": "books/shadaows-of-heaving/ar/cover-ar.png",
+
+      "txt_direct": "books/shadaows-of-heaving/ar/39-shadaows-of-heaving-ar.txt",
+      "cover": "books/shadaows-of-heaving/ar/shadaows-of-heaving-cover-ar.png",
       "archive": " https://archive.org/details/20260310_20260310_2232 "
     },
     "en": {
       "docx": "https://drive.google.com/uc?export=download&id=1tUNwP4bi9RyYhfuk8cetwD8VWIWbZAem ", 
       "pdf_direct": "books/shadaows-of-heaving/ar/content.pdf",
       "pdf_external": "https://drive.google.com/uc?export=download&id=1eaLMMxePGSV9EZ46fletvfUMb1_pVTkX ",
-      "html": "https://drive.google.com/uc?export=download&id=1Ensk6-yjE1-3gzVuJ6J7vO9wovP3UiIr ",
-      "txt_external": "https://drive.google.com/uc?export=download&id=1PAmbOsPpx94rmCW81OAdQAYSNOaCe7F3      "txt_direct": "books/shadaows-of-heaving/en/content.txt",
-      "cover": "books/shadaows-of-heaving/en/cover-en.png",
+
+      "txt_external": "https://drive.google.com/uc?export=download&id=1PAmbOsPpx94rmCW81OAdQAYSNOaCe7F3      "txt_direct": "books/shadaows-of-heaving/en/39-shadaows-of-heaving-en.txt",
+      "cover": "books/shadaows-of-heaving/en/shadaows-of-heaving-cover-en.png",
       "archive": " https://archive.org/details/content_20260310_2236 "
     },
     "metadata": {

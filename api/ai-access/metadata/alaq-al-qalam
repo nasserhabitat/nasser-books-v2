@@ -11,7 +11,7 @@
     "author": {
       "name": "ناصر ابن داوود",
       "email": "nasserhabitat@gmail.com",
-      "website": "https://nasserhabitat.github.io/nasser-books/"
+      "website": "https://nasserhabitat.github.io/nasser-books-v2/"
     },
     "description": "مكتبة تحتوي على 112 كتابًا (56 كتابًا باللغة العربية و56 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
   },
@@ -25,26 +25,24 @@
     "ar": " نحو إعادة تعريف الوعي: قراءة في سورة العلق في عصر الخوارزميات",
     "en": "\"Read\" --- The Birth of the Cognitive Human"
   },
-  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/alaq-al-qalam/ar/cover-ar.png",
+  "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/alaq-al-qalam/ar/alaq-al-qalam-cover-ar.png",
   "ar": {
     "docx": "https://drive.google.com/uc?export=download&id=134vqHZIU_VKUGqLU08iHO_B0TClPFllu",
     "pdf_direct": "books/alaq-al-qalam/ar/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1lQpeksvOFxfiBTOi_KrUim42IOuEcRVb",
-    "html": "https://drive.google.com/uc?export=download&id=1JVT4jxqYCBVVPLwPRnAbt6JgGgMSgiHg",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1-SNkmAm4qcmTYe5_LdyT05aLNmWCmP72",
-    "txt_direct": "books/alaq-al-qalam/ar/content.txt",
-    "cover": "books/alaq-al-qalam/ar/cover-ar.png",
-    "archive": "https://archive.org/details/content_20260413"
+
+    "txt_direct": "books/alaq-al-qalam/ar/54-alaq-al-qalam-ar.txt",
+    "cover": "books/alaq-al-qalam/ar/alaq-al-qalam-cover-ar.png",
+
   },
   "en": {
     "docx": "https://drive.google.com/uc?export=download&id=1UdtaPg83b8bsz0wvhfh395CUwwNKeUyg",
     "pdf_direct": "books/alaq-al-qalam/en/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1qA-1w4XDXYdUbBNtDmJEg17jaJBREtF-",
-    "html": "https://drive.google.com/uc?export=download&id=1P3t4MfN5Dz6FgvgKvO-CKwi0kun9Hm8u",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1zTR4QsRkH6uH1QiMxHQE5nCf40QZ9_fu",
-    "txt_direct": "books/alaq-al-qalam/en/content.txt",
-    "cover": "books/alaq-al-qalam/en/cover-en.png",
-    "archive": "https://archive.org/details/content_20260409_1905"
+
+    "txt_direct": "books/alaq-al-qalam/en/54-alaq-al-qalam-en.txt",
+    "cover": "books/alaq-al-qalam/en/alaq-al-qalam-cover-en.png",
+
   },
   "metadata": {
     "author": "Nasser Ibn Dawood",

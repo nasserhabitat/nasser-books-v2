@@ -14,7 +14,7 @@
             --light-color: #f8f9fa;
             --dark-color: #2c3e50;
         }
-        
+
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%);
@@ -22,7 +22,7 @@
             min-height: 100vh;
             padding: 20px;
         }
-        
+
         .header {
             background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
             color: white;
@@ -31,7 +31,7 @@
             margin-bottom: 30px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
         }
-        
+
         .search-container {
             max-width: 900px;
             margin: 0 auto;
@@ -40,13 +40,13 @@
             padding: 25px;
             box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
         }
-        
+
         .search-box {
             display: flex;
             gap: 10px;
             margin-bottom: 25px;
         }
-        
+
         .search-input {
             flex: 1;
             border-radius: 50px;
@@ -54,19 +54,19 @@
             border: 2px solid #e2e8f0;
             transition: all 0.3s;
         }
-        
+
         .search-input:focus {
             border-color: var(--accent-color);
             box-shadow: 0 0 0 3px rgba(76, 181, 174, 0.2);
         }
-        
+
         .lang-select {
             border-radius: 50px;
             border: 2px solid #e2e8f0;
             padding: 0 15px;
             width: 130px;
         }
-        
+
         .search-btn {
             border-radius: 50px;
             padding: 0 25px;
@@ -75,12 +75,12 @@
             font-weight: 600;
             transition: all 0.3s;
         }
-        
+
         .search-btn:hover {
             background: #3aa39d;
             transform: translateY(-2px);
         }
-        
+
         .result-card {
             margin-bottom: 25px;
             border: none;
@@ -90,12 +90,12 @@
             transition: transform 0.3s;
             background: white;
         }
-        
+
         .result-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
         }
-        
+
         .book-cover {
             height: 200px;
             object-fit: cover;
@@ -112,18 +112,18 @@
             height: 100%;
             object-fit: cover;
         }
-        
+
         .book-info {
             padding: 20px;
         }
-        
+
         .book-title {
             font-size: 1.4rem;
             font-weight: 700;
             color: var(--dark-color);
             margin-bottom: 10px;
         }
-        
+
         .book-desc {
             color: #64748b;
             margin-bottom: 15px;
@@ -132,7 +132,7 @@
             -webkit-box-orient: vertical;
             overflow: hidden;
         }
-        
+
         .book-meta {
             display: flex;
             justify-content: space-between;
@@ -140,12 +140,12 @@
             font-size: 0.9rem;
             margin-bottom: 15px;
         }
-        
+
         .action-buttons {
             display: flex;
             gap: 10px;
         }
-        
+
         .btn-text {
             background: var(--primary-color);
             color: white;
@@ -155,12 +155,12 @@
             text-decoration: none;
             transition: all 0.3s;
         }
-        
+
         .btn-text:hover {
             background: #3d5d90;
             color: white;
         }
-        
+
         .btn-disabled {
             background: #94a3b8;
             color: white;
@@ -171,17 +171,17 @@
             cursor: not-allowed;
             opacity: 0.7;
         }
-        
+
         .pagination {
             justify-content: center;
             margin-top: 30px;
         }
-        
+
         .page-item.active .page-link {
             background-color: var(--accent-color);
             border-color: var(--accent-color);
         }
-        
+
         .page-link {
             color: var(--primary-color);
             border-radius: 8px;
@@ -189,32 +189,32 @@
             border: none;
             padding: 10px 18px;
         }
-        
+
         .stats {
             text-align: center;
             color: #64748b;
             margin-bottom: 20px;
         }
-        
+
         .filter-section {
             margin-bottom: 20px;
             padding: 15px;
             background: #f1f5f9;
             border-radius: 12px;
         }
-        
+
         .filter-title {
             font-weight: 600;
             margin-bottom: 10px;
             color: var(--dark-color);
         }
-        
+
         .filter-badges {
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
         }
-        
+
         .filter-badge {
             background: white;
             border: 1px solid #e2e8f0;
@@ -224,36 +224,36 @@
             cursor: pointer;
             transition: all 0.2s;
         }
-        
+
         .filter-badge:hover, .filter-badge.active {
             background: var(--accent-color);
             color: white;
             border-color: var(--accent-color);
         }
-        
+
         .no-results {
             text-align: center;
             padding: 40px;
             color: #64748b;
         }
-        
+
         .no-results i {
             font-size: 3rem;
             margin-bottom: 15px;
             color: #cbd5e1;
         }
-        
+
         @media (max-width: 768px) {
             .search-box {
                 flex-direction: column;
             }
-            
+
             .lang-select, .search-btn {
                 width: 100%;
                 border-radius: 50px;
                 margin-top: 10px;
             }
-            
+
             .book-title {
                 font-size: 1.2rem;
             }
@@ -266,7 +266,7 @@
             <h1 class="display-5 fw-bold"><i class="fas fa-book-open me-2"></i>مكتبة ناصر ابن داوود</h1>
             <p class="lead">ابحث في مجموعة الكتب المتاحة في المكتبة</p>
         </div>
-        
+
         <div class="search-container">
             <div class="search-box">
                 <input type="text" id="searchInput" class="form-control search-input" placeholder="ابحث عن كتاب أو موضوع..." value="القرآن">
@@ -278,7 +278,7 @@
                     <i class="fas fa-search me-1"></i> بحث
                 </button>
             </div>
-            
+
             <div class="filter-section">
                 <div class="filter-title">الفئات:</div>
                 <div class="filter-badges">
@@ -288,14 +288,14 @@
                     <div class="filter-badge" onclick="toggleFilter('digital_projects')">مشاريع رقمية</div>
                 </div>
             </div>
-            
+
             <div id="stats" class="stats">يتم تحميل النتائج...</div>
             <div id="results" class="row"></div>
-            
+
             <nav aria-label="Page navigation">
                 <ul class="pagination" id="pagination"></ul>
             </nav>
-            
+
             <div id="error" class="alert alert-danger d-none" role="alert"></div>
         </div>
     </div>
@@ -311,15 +311,17 @@
             const buttonContainer = document.createElement('div');
             let bookUrl = null;
 
-            if (book.links && book.links[lang]) {
-                const langLinks = book.links[lang];
+            if (book[lang] || (book.links && book.links[lang])) {
+                const langLinks = book[lang] || book.links[lang];
                 // تحديد الأولوية: أرشيف الإنترنت ثم جوجل درايف
-                if (langLinks.archive_pdf) {
-                    bookUrl = langLinks.archive_pdf;
-                } else if (langLinks.pdf_external) {
+                if (langLinks.pdf_external) {
                     bookUrl = langLinks.pdf_external;
                 } else if (langLinks.pdf) {
                     bookUrl = langLinks.pdf;
+                } else if (langLinks.docx) {
+                    bookUrl = langLinks.docx;
+                } else if (langLinks.txt_direct) {
+                    bookUrl = langLinks.txt_direct;
                 }
             }
 
@@ -367,12 +369,12 @@
         function toggleFilter(filter) {
             const currentBadge = document.querySelector(`.filter-badge[onclick="toggleFilter('${currentFilter}')"]`);
             if(currentBadge) currentBadge.classList.remove('active');
-            
+
             currentFilter = filter;
-            
+
             const newBadge = document.querySelector(`.filter-badge[onclick="toggleFilter('${currentFilter}')"]`);
             if(newBadge) newBadge.classList.add('active');
-            
+
             currentPage = 1;
             searchBooks();
         }
@@ -395,14 +397,14 @@
                 const description = book.description[lang]?.toLowerCase() || '';
                 const topics = book.metadata?.topics?.map(t => t.toLowerCase()) || [];
                 const category = book.metadata?.category || '';
-                
+
                 const categoryMatch = currentFilter === 'all' || category === currentFilter;
-                
+
                 const queryMatch = !query ||
                                  title.includes(query) ||
                                  description.includes(query) ||
                                  topics.some(topic => topic.includes(query));
-                
+
                 return categoryMatch && queryMatch;
             });
 
@@ -428,15 +430,15 @@
                     if (!coverImage && book.links && book.links[lang] && book.links[lang].cover) {
                         coverImage = book.links[lang].cover;
                     }
-                    
+
                     const pages = book.metadata ? book.metadata[`pages_${lang}`] || '' : '';
                     const pagesHTML = pages ? `<span><i class="fas fa-file-alt"></i> ${pages} صفحة</span>` : '';
-                    
+
                     const col = document.createElement('div');
                     col.className = 'col-md-6 col-lg-4';
-                    
+
                     const readButton = createReadButton(book, lang);
-                    
+
                     col.innerHTML = `
                         <div class="result-card">
                             <div class="book-cover">
@@ -452,7 +454,7 @@
                                 <div class="action-buttons"></div>
                             </div>
                         </div>`;
-                    
+
                     col.querySelector('.action-buttons').appendChild(readButton);
                     resultsDiv.appendChild(col);
                 });
@@ -474,13 +476,13 @@
             };
 
             pagination.appendChild(createPageItem(currentPage - 1, '<i class="fas fa-arrow-right"></i>', currentPage === 1));
-            
+
             const startPage = Math.max(1, currentPage - 2);
             const endPage = Math.min(totalPages, startPage + 4);
             for (let i = startPage; i <= endPage; i++) {
                 pagination.appendChild(createPageItem(i, i, false, i === currentPage));
             }
-            
+
             pagination.appendChild(createPageItem(currentPage + 1, '<i class="fas fa-arrow-left"></i>', currentPage === totalPages));
         }
 

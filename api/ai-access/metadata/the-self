@@ -12,7 +12,7 @@
     "author": {
       "name": "ناصر ابن داوود",
       "email": "nasserhabitat@gmail.com",
-      "website": "https://nasserhabitat.github.io/nasser-books/"
+      "website": "https://nasserhabitat.github.io/nasser-books-v2/"
     },
     "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
   },
@@ -31,21 +31,19 @@
         "docx": "https://drive.google.com/uc?export=download&id=1AqOzFIoFcrK0Cz4UMTymomQQKZJwT0tG",
         "pdf_direct": "books/the-self/ar/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1MeHXwXpiCMmIN9esbfTvAyEF8io5ONM-",
-        "html": "https://drive.google.com/uc?export=download&id=1HtFrMbZBUDBeitQfzSidJW4RGVqatFK2",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1tyBgIsYIlm4FZ2x4ieL9nXDiOpGHt2Ji",
-        "txt_direct": "books/the-self/ar/content.txt",
-        "cover": "books/the-self/ar/cover-ar.png",
-        "archive": "https://archive.org/details/20251111_20251111_2045"
+
+        "txt_direct": "books/the-self/ar/22-the-self-ar.txt",
+        "cover": "books/the-self/ar/the-self-cover-ar.png",
+
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1Xeph18KiC-ggCbbMwhakM-oykj4uWgPT",
         "pdf_direct": "books/the-self/en/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1mogwIkCylozFP_QDv8PpmEbsAlx5dv_Z",
-        "html": "https://drive.google.com/uc?export=download&id=1ZYAsNhH8PKiYTDPiGzSzJ-fGkMx07J_y",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1Tbx5HUpHY_dAM5rtSx6QqFz94-TVYTpw",
-        "txt_direct": "books/the-self/en/content.txt",
-        "cover": "books/the-self/en/cover-en.png",
-        "archive": "https://archive.org/details/20251111_20251111_2029"
+
+        "txt_direct": "books/the-self/en/22-the-self-en.txt",
+        "cover": "books/the-self/en/the-self-cover-en.png",
+
       },
        "metadata": {
       "author": "ناصر ابن داوود",

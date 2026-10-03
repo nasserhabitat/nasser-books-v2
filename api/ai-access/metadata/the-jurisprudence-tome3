@@ -8,26 +8,20 @@
     "ar": "المجلد الثالث: فقه اللسان القرآني - النظم والبنية الكلية (الرؤية الشاملة)",
     "en": "Volume 2: Practical Applications & Conceptual Deconstruction"
   },
-  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-jurisprudence-tome3/ar/cover-ar.png",
+  "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/the-jurisprudence-tome3/ar/the-jurisprudence-tome3-cover-ar.png",
   "ar": {
     "docx": "https://drive.google.com/uc?export=download&id=1j32PQpQql7PE68bb27V-cFrMogXOtdIu",
     "pdf_direct": "books/the-jurisprudence-tome3/ar/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1_HKR0GiOJNBPaxpSDR4ALLtUOuGlEW_p",
-    "html": "https://drive.google.com/uc?export=download&id=1Evb0iN_9yefBvUCS37I21qXWNCTfJ1-j",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1Ntipu0ib2gHwmD2mW3SJKtJVh_e0oYcc",
-    "txt_direct": "books/the-jurisprudence-tome3/ar/content.txt",
-    "cover": "books/the-jurisprudence-tome3/ar/cover-ar.png",
-    "archive": "https://archive.org/details/content_20260409"
+    "txt_direct": "books/the-jurisprudence-tome3/ar/50-the-jurisprudence-tome3-ar.txt",
+    "cover": "books/the-jurisprudence-tome3/ar/the-jurisprudence-tome3-cover-ar.png"
   },
   "en": {
     "docx": "https://drive.google.com/uc?export=download&id=168minc88UIDFFyiGW_ML9DdTDDVDV1KK",
     "pdf_direct": "books/the-jurisprudence-tome3/en/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1Y5YHFxlQ8k928HaVR13SXmn0vmsGaTgM",
-    "html": "https://drive.google.com/uc?export=download&id=1xYE3Lg6xH2fUcNc_b31b-xiC7HIlLOCw",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1SamXgWgChdjos5e19pzg7YaXCHnoSMc0",
-    "txt_direct": "books/the-jurisprudence-tome3/en/content.txt",
-    "cover": "books/the-jurisprudence-tome3/en/cover-en.png",
-    "archive": "https://archive.org/details/content_20260409_0850"
+    "txt_direct": "books/the-jurisprudence-tome3/en/50-the-jurisprudence-tome3-en.txt",
+    "cover": "books/the-jurisprudence-tome3/en/the-jurisprudence-tome3-cover-en.png"
   },
   "metadata": {
     "author": "ناصر ابن داوود",

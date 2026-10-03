@@ -8,26 +8,20 @@
     "ar": "هندسة الابتلاء في اللسان القرآني: من تفكيك الاضطراب إلى تشكّل الحظ العظيم",
     "en": "The Paradigm Shift: From Passive Faith to Systemic Operation"
   },
-  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/engineering-of-trials/ar/cover-ar.png",
+  "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/engineering-of-trials/ar/engineering-of-trials-cover-ar.png",
   "ar": {
     "docx": "https://drive.google.com/uc?export=download&id=1KQVc2GED8L1lWy4y7QXscGunn-VmyuuP",
     "pdf_direct": "books/engineering-of-trials/ar/content.pdf",
-    "pdf_external": "https://drive.google.com/uc?export=download&id=1At2p7HgavB9BtaDI8VMLC9q-aZlU8XM-wiL7o3kKBX2gnBuc",
-    "html": "https://drive.google.com/uc?export=download&id=1M6XchaHY89vigtF1vaF8GnyGCfwBgMmS",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1pJNvWEjdt7E5uZGPfUoQfSeeIw2iRZYP",
-    "txt_direct": "books/engineering-of-trials/ar/content.txt",
-    "cover": "books/engineering-of-trials/ar/cover-ar.png",
-    "archive": "https://archive.org/details/content_20260409_1810"
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1At2p7HgavB9BtaDI8VMLC9q-aZlU8XM-",
+    "txt_direct": "books/engineering-of-trials/ar/47-engineering-of-trials-ar.txt",
+    "cover": "books/engineering-of-trials/ar/engineering-of-trials-cover-ar.png"
   },
   "en": {
     "docx": "https://drive.google.com/uc?export=download&id=1xSFUjzQq0WsuOt0c41W_McsfQzGA3O-T",
     "pdf_direct": "books/engineering-of-trials/en/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=17a2GS8rw9eG_Xw38lfQngdjirCQwLrJZ",
-    "html": "https://drive.google.com/uc?export=download&id=1AFiJYp8r7DlgXY8TXjdxaNK4UHllf6FU",
-    "txt_external": "https://drive.google.com/uc?export=download&id=10RaB5oLzapHxajIh68s6Oym3-V6arvyp",
-    "txt_direct": "books/engineering-of-trials/en/content.txt",
-    "cover": "books/engineering-of-trials/en/cover-en.png",
-    "archive": "https://archive.org/details/content_20260409_1817"
+    "txt_direct": "books/engineering-of-trials/en/47-engineering-of-trials-en.txt",
+    "cover": "books/engineering-of-trials/en/engineering-of-trials-cover-en.png"
   },
   "metadata": {
     "author": "Nasser Ibn Dawood",

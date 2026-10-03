@@ -1,0 +1,140 @@
+{
+  "books": 112,
+  "language_editions": 224,
+  "new_books": 43,
+  "missing_drive_links": [
+    {
+      "number": 70,
+      "id": "pure-religion",
+      "language": "en",
+      "source_file": "كتب جديدة/موسوعة الاستخلاف/70-pure-religion-en.docx"
+    },
+    {
+      "number": 71,
+      "id": "upright-religion",
+      "language": "en",
+      "source_file": "كتب جديدة/موسوعة الاستخلاف/71-upright-religion-en.docx"
+    },
+    {
+      "number": 72,
+      "id": "religion-of-truth",
+      "language": "en",
+      "source_file": "كتب جديدة/موسوعة الاستخلاف/72-religion-of-truth-en.docx"
+    },
+    {
+      "number": 73,
+      "id": "quranic-stewardship-encyclopedia",
+      "language": "en",
+      "source_file": "كتب جديدة/موسوعة الاستخلاف/73-quranic-stewardship-encyclopedia-en.docx"
+    },
+    {
+      "number": 93,
+      "id": "recompense-engineering-vol7-return-repentance",
+      "language": "en",
+      "source_file": "كتب جديدة/volume 1 to 8/VOL7_Condensed_Conceptual_English_Edition.docx"
+    },
+    {
+      "number": 94,
+      "id": "recompense-engineering-vol8-relations",
+      "language": "en",
+      "source_file": "كتب جديدة/volume 1 to 8/VOL8_Condensed_Conceptual_English_Edition.docx"
+    }
+  ],
+  "missing_covers": [],
+  "review_before_publication": [
+    75,
+    81,
+    87,
+    89,
+    101,
+    110
+  ],
+  "old_google_links_preserved": true,
+  "legacy_metadata_parse_errors": [
+    {
+      "path": "api\\ai-access\\metadata\\alaq-al-qalam",
+      "error": "Expecting property name enclosed in double quotes: line 18 column 1 (char 622)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\catalogue of Consciousness",
+      "error": "Expecting ',' delimiter: line 103 column 1 (char 4062)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\cave",
+      "error": "Invalid control character at: line 5 column 33 (char 146)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\earth",
+      "error": "Expecting ',' delimiter: line 8 column 75 (char 214)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\eid-al-adha",
+      "error": "Expecting ',' delimiter: line 91 column 1 (char 3401)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\fasting",
+      "error": "Invalid control character at: line 5 column 47 (char 164)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\from-the-letter-to-consciousness",
+      "error": "Expecting property name enclosed in double quotes: line 60 column 7 (char 5058)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\nutrition",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\salat",
+      "error": "Expecting ',' delimiter: line 8 column 40 (char 281)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\salawat",
+      "error": "Extra data: line 76 column 4 (char 2805)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\shadaows-of-heaving",
+      "error": "Expecting ',' delimiter: line 28 column 111 (char 1749)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\the-self",
+      "error": "Expecting ',' delimiter: line 89 column 1 (char 5568)"
+    },
+    {
+      "path": "api\\ai-access\\metadata\\youssef",
+      "error": "Invalid control character at: line 4 column 32 (char 73)"
+    }
+  ],
+  "review_notes": {
+    "75": "اسم ملف المصدر العربي يحمل مسودة؛ لم تُحذف العلامة أو يُنشر الملف.",
+    "81": "نسخة مرتبطة بـ QCROS والمجلد 102؛ لم يُفترض أنهما كتاب واحد ولم يُدمجا.",
+    "87": "تبدأ النسخة الإنجليزية ببيان الإتاحة قبل عنوان الكتاب.",
+    "89": "تبدأ النسخة الإنجليزية بعبارة تقديمية لترجمة وتحليل؛ حُفظت دون تحرير صامت.",
+    "101": "تبدأ النسخة الإنجليزية ببيان الإتاحة قبل عنوان الكتاب.",
+    "110": "يتضمن أول النص العربي عبارة مخاطبة تحريرية؛ حُفظت ولم تُحذف بصمت."
+  },
+  "latest_source_archive": "C:\\Users\\nasse\\OneDrive\\Documents\\google_books\\incoming_70-112.zip",
+  "cover_refresh": {
+    "provided_covers": 86,
+    "changed_covers": 78,
+    "changed_texts": 0,
+    "newly_available_covers": 12,
+    "png": 83,
+    "jpg": 3,
+    "source_naming_warning": "104/en contains a DOCX named ar, but its text and cover are English; source preserved.",
+    "site_png": 86
+  },
+  "site_cover_conversions": [
+    {
+      "Cover": "books/governance-quranic-knowledge-production/en/governance-quranic-knowledge-production-cover-en.png",
+      "Sha256": "a3cae4022125b40506134df3b58e87a8b0138bc87a49181e77e58417508e802e"
+    },
+    {
+      "Cover": "books/architecture-of-karamah/en/architecture-of-karamah-cover-en.png",
+      "Sha256": "2835981e127a5ab0a4c25553ffe49604f5cde04fd2d1c26a54e1417b74b1402e"
+    },
+    {
+      "Cover": "books/preserved-system/en/preserved-system-cover-en.png",
+      "Sha256": "543993a6610be5231c2f1bd451c93c7f9ac14d62244a0e3e2325cce9e6248a84"
+    }
+  ]
+}

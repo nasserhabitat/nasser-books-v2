@@ -1,0 +1,197 @@
+Riba in the Qur’an and the Contemporary Banking System
+From the Engineering of Entitlement to Testing the Structure of the Transaction
+Volume I — Foundations, Method, and the Qur’anic Audit Model
+A Condensed Conceptual English Adaptation
+Nasser Ibn Dawood
+2026
+nasserhabitat.github.io/nasser-books/
+I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy: All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library: As of early 2026, the collection hosts 68 volumes (34 in Arabic and 34 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platforms: Main Website: nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+◆  ◆  ◆
+II. Translator’s Note: The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an "extraction of essence." It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.
+For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (Tafsir), and the complete bibliography.
+A Note on Terminology
+The Arabic term riba is deliberately retained rather than automatically replaced by the modern English word interest. The entire methodological purpose of Volume I is to avoid importing a ready-made definition into the Qur’anic text before the textual and structural tests have been completed. English terms such as debt, increase, term, ownership, harm, injustice, sale, profit, and entitlement therefore function as analytic variables or candidate explanations unless the text and the stated test establish a stronger rank.
+The same rule applies to the book’s methodological labels. OPEN means that a question has not been closed by sufficient evidence. RESISTED records that a particular formulation failed a stated test of sufficiency, necessity, exclusivity, or identity. CLOSED is always local to the scope that was actually closed. UNKNOWN concerns missing case data and is not the same thing as an open research question.
+Condensed Contents
+1. Why the Question of Riba Must Be Reopened Methodologically
+2. The Research Discipline: Text, Observation, Hypothesis, Test, and Claim Rank
+3. Part One — Building the Corpus and the Testing Method
+4. Part Two — Why the Familiar Definitions Are Not Sufficient
+5. Part Three — Sale and Riba: Separation Without a Sealed Separator
+6. Part Four — The Engineering of Entitlement and the Balance of Rights
+7. Part Five — The Mathani Network: Riba, Charity, Zakat, Mahq, and Divine Reference
+8. Part Six — From Definition-Seeking to a Qur’anic Audit Model
+9. Part Seven — From the Qur’anic Model to Contemporary Transaction Analysis
+10. What Volume I Establishes, What It Resists, and What It Leaves Open
+11. Bridge to Volume II
+12. Compact Glossary
+1. Why the Question of Riba Must Be Reopened Methodologically
+Volume I does not reopen the subject of riba in order to deny the Qur’an’s explicit prohibition, nor does it begin by asking whether a modern bank, loan, or product is permissible or prohibited. It reopens an earlier question: how does the Qur’an itself construct the semantic and structural field of riba, and how far may a researcher move from that textual field toward a contemporary transaction without silently importing a prior conclusion?
+This distinction is central. A religious or legal tradition may possess a well-known answer, yet the path by which each element of that answer is attributed to the Qur’an may contain different levels of evidence. A ruling can be explicit while the explanatory model surrounding it is interpretive. A later juristic category can be valuable without becoming identical to the Qur’anic term. An economic explanation can illuminate consequences without constituting the lexical definition. Volume I therefore separates the existence of the prohibition from the scientific problem of defining the concept and testing its boundaries.
+The book’s governing concern is epistemic discipline. The Qur’anic text is one level. Observation of recurring patterns is another. Induction, relation-mapping, hypothesis formation, resistant testing, provisional findings, and operational models belong to later levels. Proximity on the page does not collapse these levels. A hypothesis does not become a law because it sounds persuasive. A structural variable does not become a Qur’anic category because it proved useful in a model. A later volume does not become evidence for a new corpus simply because it belongs to the same research project.
+The guiding research path may be summarized as: text → observation and corpus induction → relations → hypothesis → testing → resistant cases → finding or law if warranted → model → application. The book repeatedly returns to this sequence because the main danger is not lack of information but premature promotion: moving from an observed feature to a total definition before testing whether that feature is necessary, sufficient, exclusive, or merely adjacent.
+This method also changes the practical question. Instead of asking first, “What is this contract called?” the book learns to ask: What moved? Who owned it? What right arose? Why did it arise? When did it arise? What is the role of time? What is the object of the claim? What limits the creditor’s right? What right remains to the counterparty? These questions prepare the transition from a Qur’anic semantic investigation to a structural audit of modern finance without pretending that the audit itself has already become a final classifier.
+2. The Research Discipline: Text, Observation, Hypothesis, Test, and Claim Rank
+A distinctive feature of Volume I is its insistence on ranking claims. The book does not treat every sentence beginning with “the Qur’an shows” as equal. It distinguishes direct textual data from observation, tested finding, resisted finding, and open hypothesis. This is not a stylistic preference; it is a protection against the gradual inflation of claims.
+In simplified form, R0 records textual data. R1 records an observation or pattern. R2 records a finding that has passed the relevant test within a stated scope. R2N records a negative or resistant finding: a candidate formula failed a test of sufficiency, necessity, identity, exclusivity, or universality. R3 marks an open hypothesis. Governance rules control how these levels are handled but do not generate Qur’anic meaning by themselves.
+The book uses several forms of resistance. A Reverse Test asks what remains when the preferred label is removed. A Double Reverse tests whether the result survives when direction is reversed or the comparison is reconstructed. Controlled Substitution asks whether replacing one element preserves the function or reveals a loss. A Resistant Set deliberately searches for cases that a proposed definition would wrongly absorb or wrongly exclude. The purpose is not to multiply technical language; it is to make refutation possible.
+A successful test does not necessarily produce a final definition. It may establish only a boundary. Likewise, a failed hypothesis is not wasted work. A negative result becomes a scientific asset because it prevents the same attractive but insufficient formula from being reintroduced later under a new name. This principle becomes crucial in the riba inquiry, where several traditional or intuitive candidates—such as increase, debt, time, injustice, or harmful outcome—turn out to be relevant without being sufficient.
+The method also rejects causal shortcuts. Textual adjacency does not prove causality. Order in a verse does not automatically prove a chronological mechanism. A grammatical relation does not automatically yield a complete semantic law. A contrast such as riba versus charity may be functionally important without becoming a definition by opposition. The method therefore preserves the possibility that a relation is real while its exact semantic function remains open.
+3. Part One — Building the Corpus and the Testing Method
+The first part establishes the research object before attempting to define it. The inquiry begins with the direct Qur’anic occurrences of riba and the root r-b-w, then separates direct riba passages from broader root usage and from contextual comparators. This matters because a root can display a broad directional core—growth, elevation, increase, or expansion—while a particular noun in a financial passage performs a more specific local function. Root continuity does not authorize the researcher to transfer every root sense into every branch.
+The book therefore distinguishes root core from local function. The root candidate remains strong but open rather than sealed. The corpus is frozen before major conclusions are built so that later interpretive preferences cannot silently add or remove evidence. Contextual blocks are also fixed. Once the writing phase begins, new Qur’anic material is not inserted merely to repair a theory. This preserves a basic rule: previous knowledge may generate questions, but it does not count as new evidence for the frozen corpus.
+Four contextual zones are treated as especially important because riba is not studied as an isolated word. The surrounding discourse places it in relation to financial rights, sale, debt, return of capital, injustice, hardship, charity, zakat, and divine reference. These relations generate hypotheses, but the book repeatedly warns against converting a network into a definition.
+The Resistant Set is introduced precisely to prevent convenient definitions. If “increase” is proposed, the method searches for increase outside riba. If “debt” is proposed, it asks whether debt appears outside riba and whether all riba passages require a prior debt in the same way. If “time” is proposed, it asks whether deferred structures can exist without becoming identical to riba. The point is not to deny these variables but to identify the exact claim that each variable can support.
+Part One also introduces MATHANI-NET, the book’s network layer for observing paired, mirrored, or functionally contrasting expressions. In the author’s methodology, this layer is generative rather than dispositive. It expands discovery and can expose relations that deserve testing, but a Mathani relation does not become a semantic law merely because it is elegant or recurrent. The rule is concise: MATHANI expands discovery; QCROS controls promotion.
+By the end of Part One, the study has not produced a definition of riba. It has produced something more fundamental: a controlled corpus, a distinction between root and local function, a resistant-testing protocol, a claim-ranking system, and an explicit firewall preventing previous interpretations from entering the new corpus as if they were fresh textual evidence.
+4. Part Two — Why the Familiar Definitions Are Not Sufficient
+Part Two examines several familiar candidates one by one. The question is never whether a feature is associated with riba. The question is whether that feature can bear the weight of definition: Is it necessary? Is it sufficient? Is it exclusive? Does it survive resistant cases?
+Increase
+The proposal “riba is increase” fails as a sufficient definition. Increase appears in contexts that are not riba, including ordinary sale and positive forms of increase. The result is not that increase is irrelevant. It remains an audit variable. But its sufficiency is resisted: INCREASE SUFFICIENCY = RESISTED. The distinction between relevance and sufficiency is one of the book’s most important methodological lessons.
+Doubling
+The phrase often rendered “doubled and multiplied” in Qur’an 3:130 is treated as a real local descriptor, but not as the universal core of riba. Doubling appears outside riba, and not every direct riba resource depends on a doubled structure. The local presence of a feature does not make it the universal essence.
+Debt
+Debt is central to many discussions of riba, yet “debt = riba” is rejected as an identity statement, and debt alone fails as a sufficient classifier. Debt is broader than riba and appears in lawful or neutral financial relations. The question of whether every direct riba case is universally contained within prior debt remains open rather than assumed.
+Time or Term
+Time and deferment also fail as sufficient definitions. The book emphasizes that the same temporal variable can perform different functions: time can structure payment, delivery, use, investment, performance, or enforcement. To say that time is present does not tell us what time is doing. The composite formula “debt + term” does not become sufficient merely by combining two individually non-exclusive features.
+Principal and Additional Amount
+The Qur’anic phrase concerning the return of principal in 2:279 gives a strong local boundary: the creditor’s principal is recognized in that resource. But the book refuses to universalize “principal + any addition = riba” as a complete formula because that equation generates false positives in other financial structures. Principal therefore functions as a locally supported return boundary, not as a sealed global definition.
+Mahq, Injustice, and Financial Wrongdoing
+The relation between riba and mahq—effacement, loss, or removal of increase—is strong as an outcome relation in the immediate network, but mahq is not established as the lexical core of riba. Likewise, injustice (zulm) is highly relevant to the rights boundary expressed in 2:279, yet injustice is broader than riba and cannot define it by itself. Financial wrongdoing or batil strongly intersects with the field, but the book rejects identity: RIBA ≠ FINANCIAL BATIL.
+Part Two therefore yields a series of negative findings that are positive knowledge about the limits of the model. Increase is not enough. Doubling is not the universal core. Debt is not enough. Time is not enough. Debt plus time is not enough. Principal plus addition is not an established universal formula. Injustice and mahq are important but do not become definitions. These failures narrow the search without forcing a premature replacement.
+5. Part Three — Sale and Riba: Separation Without a Sealed Separator
+The Qur’anic juxtaposition of sale and riba becomes the central pressure point of Part Three. In Qur’an 2:275, the claim that “sale is like riba” is followed by the Qur’anic distinction between the two. The book treats this as decisive evidence of non-identity: sale and riba are not the same concept. What the verse does not automatically provide, however, is the complete exclusive separator explaining every structural difference between them.
+This distinction between established separation and unexplained separation is crucial. It prevents the researcher from smuggling in a preferred theory—risk, ownership, time, debt, profit, or price—and then treating it as the Qur’an’s own stated separator. The book instead constructs a sale corpus around terms of selling, buying, trade, price, consent, exchange, and claim formation.
+Consent, particularly the commercial consent language associated with Qur’an 4:29, is relevant to legitimate exchange but cannot alone function as the missing exclusive separator. A transaction can have consent and still require analysis of what rights arise and why. Likewise, price difference is not identical to riba, because sale can lawfully contain a difference between acquisition cost, price, or deferred amount without collapsing conceptually into riba merely because an increase exists.
+A major turning point occurs when the book tests a candidate centered on the “source of entitlement.” At first glance this appears promising: perhaps sale is distinguishable because a legitimate transaction creates a clear source for the seller’s claim. But the test fails as an exclusive separator. Sale itself satisfies the generic condition that a claim has a source. If the proposed formula identifies sale as riba, the model has generated a false positive.
+The same problem appears in the early composite D + Δ + E*: financial domain, an additional or directional change, and an entitlement-source variable. These elements are useful for auditing, but when treated as a minimum sufficient definition they absorb sale. The result is therefore RESISTED as a definition, not discarded as an audit frame.
+Part Three ends with a deliberately open result: SALE–RIBA NON-IDENTITY is supported, while the exclusive semantic separator remains OPEN. This is one of the most important examples of the book’s refusal to manufacture closure. The text establishes difference. The research has not yet established the complete feature that explains that difference in every relevant case.
+6. Part Four — The Engineering of Entitlement and the Balance of Rights
+After the failure of a generic “source of entitlement” as an exclusive separator, Part Four refines the question. The inquiry moves from source to ground: not merely whether a claim has a source, but why this particular claim is owed, what generates it, and what limits it. This is the beginning of what the book calls the engineering of entitlement.
+The term Ground refers to the structural basis of a claim. A claim may arise from sale, use, service, investment, restitution, performance, or another identified basis. But the presence of a ground is not enough; rights must also be bounded. This produces a second dimension: Boundary. A right has an amount, scope, duration, trigger, object, and counter-right. The book refuses to reduce justice to numerical equality. Bilateral rights do not mean that both parties receive the same amount; they mean that neither party’s right is defined by erasing the legitimate boundary of the other.
+The phrase in Qur’an 2:279 commonly rendered “you do not wrong, nor are you wronged” becomes a strong local indicator of a bilateral rights structure. The book reads this as a rights boundary rather than as a synonym for riba. The result is subtle: zulm is too broad to define riba, yet the verse provides a powerful control on the handling of rights in the local riba context.
+The same passage’s reference to principal is treated as a local return boundary. It identifies what remains due in that context without proving that every amount above principal in every transaction is riba. The book therefore separates the local function of a phrase from an abstract formula that would classify every financial arrangement.
+Hardship and forbearance are also separated from definition. Qur’an 2:280 affects the execution layer: a debtor in hardship changes how enforcement is handled. The existence of a right is not identical to immediate enforcement of that right. Forbearance does not automatically erase the claim, and hardship does not become the definition of riba. This distinction later becomes essential for analysing default, restructuring, and distressed debt in Volume II.
+The distinction between what has already passed and what remains to be performed is another important feature. “What has passed” and “what remains” do not receive identical operational treatment. The book uses this to distinguish historical state from future authorization. A past transaction state cannot be silently used to authorize the continuation of a future claim.
+These threads converge in E*-R2, the refined candidate combining Entitlement Ground with a Bilateral Rights Boundary. It is described as a strong audit candidate but remains OPEN. Its strength comes from its ability to ask better questions across many structures; its openness reflects the fact that usefulness as an audit tool is not the same as proof that it is the final Qur’anic semantic separator.
+7. Part Five — The Mathani Network: Riba, Charity, Zakat, Mahq, and Divine Reference
+Part Five shifts from isolated features to network relations. The aim is not to create a simple binary—riba on one side, zakat or charity on the other—but to observe how the Qur’anic discourse places financial actions within differing references, rights, outcomes, and orientations.
+The relation between “God effaces riba” and “causes charities to grow” in Qur’an 2:276 is treated as a powerful local contrast. Yet the book carefully separates outcome from definition. Mahq is a consequence or outcome relation; it is not the core meaning of riba. Similarly, divine increase associated with charity does not mean that every growth outside charity is suspect, nor that growth itself classifies a transaction.
+The riba–charity and riba–zakat contrasts are therefore described as strong functional and reference contrasts. Charity and zakat introduce a different direction of wealth, a different relation to the other party, and a different divine reference. But neither zakat nor charity becomes an inverse lexical definition of riba. The existence of sale outside that binary is enough to pressure simplistic inversion.
+The network also examines the contrast between what is placed “in people’s wealth” and what is “with God” or directed to the divine countenance, especially in the riba/zakat passage of Qur’an 30:39. The book treats this as a reference-layer distinction: two actions can both involve wealth while differing in orientation, claim structure, and expected outcome. Again, reference is analytically important without becoming a complete definition.
+Purification and growth language around charity and zakat is also brought into the network. These relations help show that Qur’anic financial ethics cannot be reduced to a single arithmetic rule. The network combines reference, right, outcome, and entitlement. But the book’s own methodology prevents the network from becoming a shortcut: MATHANI RELATION ≠ SEMANTIC LAW.
+The result is a layered model rather than an opposition table. Riba, sale, charity, zakat, financial wrongdoing, injustice, debt, and principal interact without becoming synonyms. The network’s value lies in preventing reduction: one term can pressure another, contrast with it, or clarify its limits without supplying a total definition.
+8. Part Six — From Definition-Seeking to a Qur’anic Audit Model
+Part Six pauses the investigation and performs a formal synthesis. It separates three categories: what has been established, what has resisted testing, and what remains open. This separation is one of the most important achievements of Volume I because it prevents later application from treating an unfinished semantic inquiry as a completed definition.
+What Has Been Established
+The direct riba corpus operates within a financial and rights-bearing domain. This defines the field of inquiry, not the final meaning.
+Sale and riba are not identical. Differentiation is supported, while the exclusive separator remains open.
+Increase by itself is not sufficient to identify riba.
+Doubling is not an exclusive or universal core.
+Debt by itself is not sufficient, and debt plus term does not become sufficient merely by combination.
+Time or deferment by itself is not sufficient; the function of time must be identified.
+Principal functions as a locally supported return boundary in the central passage, not as a universal definition.
+The local rights structure is bilateral: the creditor’s right and the counterparty’s right must both be bounded.
+Hardship/forbearance affects enforcement and performance without becoming the definition of riba.
+The distinction between what has passed and what remains is operationally meaningful.
+Riba is not identical to financial batil; zulm is not sufficient; mahq is an outcome relation rather than the core.
+Riba stands in strong functional/reference contrast with charity and zakat, but they are not inverse definitions.
+What Has Resisted
+The following candidate definitions or universal formulas have failed the relevant test: riba = increase; doubling = universal core; debt = riba; time/term = riba; debt + term = sufficient definition; principal + addition = universal formula; financial batil = riba; zulm = riba; mahq = riba core; zakat or charity = inverse definition; generic entitlement source = exclusive separator; and D + Δ + E* = minimum sufficient definition.
+A resisted formula is not deleted. Its surviving component may remain useful. Increase remains an audit variable. Debt remains a structural variable. Time remains essential to map. Principal remains a local return boundary. Zulm remains a rights pressure layer. Mahq remains an outcome relation. The failure concerns the overclaim, not the existence of the feature.
+What Remains Open
+Several questions remain explicitly open: the exact root-core formulation; the exclusive semantic separator between sale and riba; whether Δ is necessary in every direct riba configuration; whether E* or its refined form is necessary; whether universal debt containment can be established; the exact containment relation between riba and financial batil; and whether Mathani relations can be promoted into narrower semantic laws after further testing. Above all, RIBA FINAL DEFINITION = NOT SEALED.
+From Definition to Audit
+Because the definition is not sealed, the book does not authorize an automatic classification machine. Instead, it develops an audit frame. D + Δ + E* survives not as a definition but as a recognition and audit structure. D asks whether the transaction belongs to the relevant financial/rights-bearing domain. Δ records an additional, directional, or extended change without presuming that every increase is riba. E* asks about the ground of the claim and, in the refined E*-R2 form, the bilateral boundary of rights.
+This leads to RIBA-QTAM v0.1, the Qur’anic Transaction Audit Model. Its status is deliberately restricted: QUR’ANIC MODEL GATE = CONDITIONAL PASS — STRUCTURAL AUDIT ONLY. Structural audit readiness passes; riba classification readiness does not. The model is therefore permitted to decompose a transaction, identify variables, locate unsupported assumptions, preserve unknowns, and compare structures. It is not permitted to output a final riba/non-riba verdict merely because a set of variables is present.
+9. Part Seven — From the Qur’anic Model to Contemporary Transaction Analysis
+Part Seven is the bridge from textual-semantic work to modern finance. It does not yet examine the full range of banking products; that belongs to Volume II. Its purpose is to teach the reader how to reconstruct a transaction before allowing labels to influence the analysis.
+The first rule is NAME ≠ STRUCTURE. A contract name, bank name, or product category can help navigation, but it cannot serve as a classifier. The primary unit of analysis is the transaction case, not the institution. One bank can contain many functions, products, and contracts; one product label can hide materially different executions.
+The model therefore decomposes a financial case into distinct elements. Money is not the same as an asset. An asset is not the same as ownership. Ownership is not the same as possession. Possession is not the same as control. A debt is not identical to every claim, and a claim can arise from different grounds. These distinctions are not verbal refinements; they determine what actually moved and what right actually arose.
+Who Owns?
+Ownership must be located in time and separated from possession and control. A party may hold legal title without full operational control, may possess through an agent, or may hold a beneficial interest without direct physical possession. The question “Who owns?” therefore becomes a timeline rather than a single label.
+What Moved?
+Every transfer must identify the object, the parties, the time, and the effect. Money transfer does not prove asset-title transfer. Asset transfer does not automatically create a monetary claim. Claim transfer does not erase the origin of the claim. The book’s broader rule is that final state is not transaction history.
+When Did the Entitlement Arise?
+A due date is not the same as the ground of entitlement. Maturity can activate performance without creating the original right. A claim may exist before it becomes due. A later modification may create a new claim whose ground must be tested separately. This prepares the later analysis of restructuring, late claims, capitalization, and default.
+Why Was the Additional Amount Owed?
+The model does not treat every additional amount as the same phenomenon. It asks what kind of Δ is present, when it arose, on what base it is calculated, who receives it, and what event triggers it. The existence of an increase is therefore recorded before it is interpreted.
+Who Bears the Result of Loss or Failure?
+Risk is mapped but not turned into a Qur’anic classifier. The book distinguishes different forms of risk—asset, credit, market, operational—and asks which party bears which consequence. The statement “the bank bears risk” is too general until the type, duration, object, and consequence of the risk are identified.
+What Is Time Doing?
+Time must be assigned a function. It may define a use period, delivery period, payment term, investment horizon, grace period, maturity threshold, or another operational window. The presence of time is not enough to establish the ground of a claim. The question is whether time is merely a condition of performance or whether a later claim is being justified by a temporal event.
+Profit Versus Additional Claim
+Profit and additional claim are not treated as synonyms. A profit may arise from a sale, use, or investment outcome. An additional claim may arise later and require a distinct ground. The model refuses to infer legitimacy from the word profit or impropriety from the word increase; it reconstructs the structure first.
+Legal Form Versus Economic Structure
+The final chapter of Volume I establishes a dual mapping protocol. Legal form describes how the relationship is drafted; economic and operational structure records how rights, assets, cash, and obligations actually move. The two may converge or diverge. Neither is ignored, and neither is allowed to dominate before comparison. Template ≠ execution. Case ≠ product. Legal form ≠ full economic structure by default.
+With this bridge completed, Volume I closes at the threshold of the banking laboratory. The Qur’anic research has produced a disciplined audit language, but it has not licensed the researcher to classify institutions wholesale. Volume II takes the same questions into specific banking functions, product structures, restructuring events, late-payment claims, debtor states, and composite instruments.
+10. What Volume I Establishes, What It Resists, and What It Leaves Open
+Established Within the Stated Scope
+Riba operates in a financial/rights-bearing domain, but the domain is not the definition.
+Sale and riba are Qur’anically distinguished; their complete exclusive separator is not yet sealed.
+Increase, doubling, debt, and time are non-sufficient features when used alone as definitions.
+Principal is a locally supported return boundary in the central riba passage.
+The phrase “you do not wrong and are not wronged” supports a bilateral rights boundary in that local context.
+Hardship and forbearance affect execution and enforcement without erasing the distinction between a right and its immediate enforcement.
+The past/remnant distinction is operationally relevant.
+Riba strongly intersects with financial wrongdoing and injustice but is not identical to either.
+Mahq is a strong local outcome relation, not the core definition.
+Riba stands in strong functional/reference contrast with charity and zakat without being defined as their opposite.
+QTAM is ready for structural audit only, not automated classification.
+Resisted as Universal Definitions or Sufficient Formulas
+Riba = increase.
+Riba = doubled increase.
+Riba = debt.
+Riba = time or deferment.
+Debt + term = sufficient definition.
+Principal + addition = universal formula.
+Riba = financial batil.
+Riba = zulm.
+Mahq = the semantic core of riba.
+Zakat or charity = inverse definition of riba.
+Generic entitlement source = exclusive separator.
+D + Δ + E* = minimum sufficient definition.
+Formally Open
+The exact root-core formulation.
+The exclusive semantic separator between sale and riba.
+The necessity status of Δ.
+The necessity status of E* and the refined E*-R2 candidate.
+Universal debt containment.
+The exact subset relation, if any, between riba and financial batil.
+Promotion of particular Mathani relations into narrower tested semantic laws.
+The final Qur’anic definition of riba.
+The final line is therefore not a definition but a scientific status: RIBA FINAL DEFINITION = NOT SEALED. This is not presented as a failure of the project. It is the boundary imposed by the current evidence and tests. The book treats that boundary as knowledge.
+11. Bridge to Volume II
+Volume I builds the instrument; Volume II applies it. The transition is methodological rather than rhetorical. The second volume does not begin with the labels “conventional bank” and “Islamic bank” as competing verdicts. It treats them as institutional environments containing multiple transactions that must be reconstructed case by case.
+The same rule governs modern products. Murabaha, leasing, partnership, tawarruq, credit cards, deposits, restructuring, late fees, and sukuk are not classifications by name. Each structure must be mapped through parties, assets, ownership, possession, transfer, claims, debt, time, additional amounts, ground, boundary, risk, debtor state, agency, linkage, settlement, and evidence.
+The foreign reader should therefore read Volume I as a methodological foundation rather than a catalogue of banking rulings. Its principal achievement is not a new one-sentence definition of riba. Its achievement is a disciplined way to know what the Qur’anic evidence supports, what it does not support, and how to carry those limits into the analysis of modern financial structures without allowing contemporary labels to rewrite the text.
+The bridge may be summarized in four sentences. First: do not classify the transaction from its name. Second: do not define riba from one non-exclusive feature. Third: reconstruct the ground and boundary of every material claim. Fourth: preserve OPEN wherever the evidence remains open. Volume II begins from these constraints.
+12. Compact Glossary
+Riba: The Qur’anic term under investigation. It is retained in Arabic transliteration rather than automatically equated with modern interest.
+Corpus: The frozen set of Qur’anic resources used for induction and testing.
+QCROS: The project’s methodological quality-control framework separating text, observation, hypothesis, test, finding, law, and model.
+Reverse Test: A test that removes or masks the preferred label in order to see what structural relation remains.
+Double Reverse: A second reversal designed to prevent one-directional confirmation.
+Resistant Set: Cases selected because they pressure a proposed definition or test its exclusivity, necessity, or sufficiency.
+Controlled Substitution: Replacing one element with another to observe functional loss or preservation.
+MATHANI-NET: A relation-discovery network used to generate hypotheses; it is not itself a semantic law.
+D: The financial/rights-bearing domain in the audit frame.
+Δ (Delta): An additional, directional, or extended change whose type, timing, base, beneficiary, and function must be identified.
+E*: An entitlement-related audit candidate; the generic form was resisted as an exclusive separator.
+E*-R2: The refined candidate: Entitlement Ground + Bilateral Rights Boundary. Strong as an audit question, still OPEN as a final semantic separator.
+Ground: Why a particular claim or right is owed.
+Boundary: The amount, scope, duration, trigger, and counter-right that limit a claim.
+QTAM v0.1: Qur’anic Transaction Audit Model. Authorized for structural audit only, not automated riba classification.
+OPEN: The question has not been closed by sufficient evidence.
+RESISTED: A stated formulation failed a specified test; the surviving variables may still remain useful.
+UNKNOWN: Case data are missing. This is different from an open research question.
+Claim Rank: The scientific status assigned to a proposition: textual datum, observation, tested finding, resisted finding, or open hypothesis.
+Name Firewall: The rule that a contract, product, or institution name cannot classify the underlying structure by itself.
+◆  ◆  ◆
+End of the Condensed Conceptual English Adaptation of Volume I.

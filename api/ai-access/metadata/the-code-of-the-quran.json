@@ -5,13 +5,19 @@
     "ai_compatible": true,
     "last_updated": "2025-08-28",
     "total_books": 32,
-    "languages": ["ar", "en"],
-    "formats": ["html", "pdf", "txt"],
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "formats": [
+      "pdf",
+      "txt"
+    ],
     "license": "CC BY-SA 4.0",
     "author": {
       "name": "ناصر ابن داوود",
       "email": "nasserhabitat@gmail.com",
-      "website": "https://nasserhabitat.github.io/nasser-books/"
+      "website": "https://nasserhabitat.github.io/nasser-books-v2/"
     },
     "description": "مكتبة تحتوي على 32 كتابًا (16 كتابًا باللغة العربية و16 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
   },
@@ -25,27 +31,21 @@
       "ar": "دليل التشغيل لعصر جديد",
       "en": "AN OPERATING MANUAL FOR A NEW AGE"
     },
-    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-code-of-the-quran/ar/cover-ar.png",
+    "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/the-code-of-the-quran/ar/the-code-of-the-quran-cover-ar.png",
     "links": {
       "ar": {
-               "docx": "https://drive.google.com/uc?export=download&id=1DcQyqfzrgFyo4yAnBqFte0y0lJU2k-Uz",
-        "pdf_direct": "https://drive.google.com/uc?export=download&id=18DplqeILB0TPjyI3SleicZl2rkNOLk_L",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=18DplqeILB0TPjyI3SleicZl2rkNOLk_L",
-        "html": "https://drive.google.com/uc?export=download&id=1Qrq2wCg54qU_XZYa3sx9CaJU8GqtYGEE",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1VHl1GET6K2Xlj1PcBWFybKw-VtjqPbMp",
-        "txt_direct": "books/the-code-of-the-quran/ar/content.txt",
-        "cover": "books/the-code-of-the-quran/ar/cover-ar.png",
-        "archive": "https://archive.org/details/content_20251016_1944"
+        "docx": "https://drive.google.com/uc?export=download&id=1DcQyqfzrgFyo4yAnBqFte0y0lJU2k-Uz",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1Qrq2wCg54qU_XZYa3sx9CaJU8GqtYGEE",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1Qrq2wCg54qU_XZYa3sx9CaJU8GqtYGEE",
+        "txt_direct": "books/the-code-of-the-quran/ar/16-the-code-of-the-quran-ar.txt",
+        "cover": "books/the-code-of-the-quran/ar/the-code-of-the-quran-cover-ar.png"
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1MbKQNs4yvRQoY3bH3NoNBM2fKM57gwcn",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=1RaYvaZFNLwWnWZV99eYtkh984kpHZOBU",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1RaYvaZFNLwWnWZV99eYtkh984kpHZOBU",
-        "html": "https://drive.google.com/uc?export=download&id=1tElavrfT-FMNWHFXHlIUXn84bXpamr_a",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1qGGETH0dyGOHvPWJhlygXQw9Lcs-poeU",
-        "txt_direct": "books/the-code-of-the-quran/en/content.txt",
-        "cover": "books/the-code-of-the-quran/en/cover-en.png",
-        "archive": "https://archive.org/stream/content_20251016_1955"
+        "txt_direct": "books/the-code-of-the-quran/en/16-the-code-of-the-quran-en.txt",
+        "cover": "books/the-code-of-the-quran/en/the-code-of-the-quran-cover-en.png"
       }
     },
     "metadata": {
@@ -57,8 +57,63 @@
       "language_en": "english",
       "ai_accessible": true,
       "structured_data": true,
-      "topics_ar": ["نظام التشغيل القرآني", "اللسان العربي القرآني", "فقه السبع المثاني", "المثاني القرآنية", "الرسم العثماني", "تدبر القرآن", "المنظومة القرآنية", "تفعيل النص القرآني", "الاقتران (القران)", "السيمات", "فقه اللسان القرآني", "نظرية الصفر اللغوي", "أسماء الحروف", "دلالات الحروف", "أسرار الحروف العربية", "التشغيل العملي للقرآن", "القرآن في العصر الرقمي", "الذكاء الاصطناعي والقرآن", "منهجية التدبر", "تحطيم الأصنام الفكرية", "التصوير الذاتي", "بناء الرب الداخلي", "الجنة الدنيوية", "ناصر ابن داوود", "مكتبة ناصر ابن داوود", "التدبر"],
-      "topics_en": ["Quranic Code", "Quranic Operating System", "Quranic Arabic Language", "Jurisprudence of the Seven Mathani", "Quranic Mathani", "Ottoman Script", "Quranic Contemplation", "Quranic System", "Quranic Text Activation", "Conjunction (Quran)", "Semantics", "Quranic Language Jurisprudence", "Linguistic Zero Theory", "Letter Names", "Letter Semantics", "Secrets of Arabic Letters", "Practical Operation of the Quran", "Quran in the Digital Age", "Artificial Intelligence and the Quran", "Methodology of Contemplation", "Smashing Intellectual Idols", "Self-Portrait", "Building the Inner Lord", "Earthly Paradise", "Nasser Ibn Dawood", "Nasser Ibn Dawood Library", "Contemplation"]
+      "topics_ar": [
+        "نظام التشغيل القرآني",
+        "اللسان العربي القرآني",
+        "فقه السبع المثاني",
+        "المثاني القرآنية",
+        "الرسم العثماني",
+        "تدبر القرآن",
+        "المنظومة القرآنية",
+        "تفعيل النص القرآني",
+        "الاقتران (القران)",
+        "السيمات",
+        "فقه اللسان القرآني",
+        "نظرية الصفر اللغوي",
+        "أسماء الحروف",
+        "دلالات الحروف",
+        "أسرار الحروف العربية",
+        "التشغيل العملي للقرآن",
+        "القرآن في العصر الرقمي",
+        "الذكاء الاصطناعي والقرآن",
+        "منهجية التدبر",
+        "تحطيم الأصنام الفكرية",
+        "التصوير الذاتي",
+        "بناء الرب الداخلي",
+        "الجنة الدنيوية",
+        "ناصر ابن داوود",
+        "مكتبة ناصر ابن داوود",
+        "التدبر"
+      ],
+      "topics_en": [
+        "Quranic Code",
+        "Quranic Operating System",
+        "Quranic Arabic Language",
+        "Jurisprudence of the Seven Mathani",
+        "Quranic Mathani",
+        "Ottoman Script",
+        "Quranic Contemplation",
+        "Quranic System",
+        "Quranic Text Activation",
+        "Conjunction (Quran)",
+        "Semantics",
+        "Quranic Language Jurisprudence",
+        "Linguistic Zero Theory",
+        "Letter Names",
+        "Letter Semantics",
+        "Secrets of Arabic Letters",
+        "Practical Operation of the Quran",
+        "Quran in the Digital Age",
+        "Artificial Intelligence and the Quran",
+        "Methodology of Contemplation",
+        "Smashing Intellectual Idols",
+        "Self-Portrait",
+        "Building the Inner Lord",
+        "Earthly Paradise",
+        "Nasser Ibn Dawood",
+        "Nasser Ibn Dawood Library",
+        "Contemplation"
+      ]
     },
     "key_features": [
       "فك شفرة المفاهيم القرآنية الكبرى ومخاطبتها لواقعنا المعاصر",

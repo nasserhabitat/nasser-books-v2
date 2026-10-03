@@ -1,0 +1,276 @@
+ENCYCLOPEDIA OF THE ENGINEERING OF RECOMPENSE IN THE QUR’AN
+THE MEASURE OF RECOMPENSE
+Punishment, Correspondence, Proportion, Pardon, and Grace
+Volume Four — Condensed Conceptual English Edition
+──────────────────────────────────────────
+From lexical boundaries to the architecture of response, limit, execution, non-execution, and positive overflow
+NASSER IBN DAWOOD
+2026
+Project: Fiqh al-Lisān al-Qurʾānī (فقه اللسان القرآني) — Engineering of Revelation
+This condensed edition preserves the book’s conceptual architecture and scientific status. It is not a substitute for the 769-page Arabic reference edition.
+I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy: All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library: As of early 2026, the collection hosts 68 volumes (34 in Arabic and 34 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platform — Main Website: nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+The purpose of this publication policy is not merely distribution. It is methodological: a claim that cannot be revisited, tested, compared, and criticized remains weaker than a claim whose evidence and procedure are visible to the reader.
+II. Translator’s Note — The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation. Its task is to carry the architecture of the argument, the hierarchy of claims, the methodological cautions, the principal Qur’anic test cases, and the research status of each major component into readable academic English.
+Qur’anic terms are therefore retained whenever translation alone would flatten the analysis. A term such as Mīzān (ميزان) is rendered with an English equivalent—measure, balance, or calibration—while the Arabic form remains visible. The same principle applies to ʿAdl (عدل), Qisṭ (قسط), Qiṣāṣ (قصاص), ʿAfw (عفو), Ṣafḥ (صفح), Ghufrān (غفران), Faḍl (فضل), Ziyāda (زيادة), and Muḍāʿafa (مضاعفة).
+The edition also preserves the author’s distinction between a useful model and a law. A repeated relation may justify an analytical model without authorizing a universal causal rule. A lexical nucleus may close within a declared corpus while another layer remains open. The condensed form must not strengthen a claim merely because it has fewer pages.
+Verse references are normally given by sūrah name and verse number. Where a passage serves as a test case, the present edition summarizes its analytical function rather than reproducing the Arabic text in full.
+Contents
+1. Orientation — From Lexicon to Architecture
+2. Method — Reading by Corpus, Resistance, and Claim Rank
+3. Section One — From the Word to the Network
+4. Section Two — The Architecture of Correspondence
+5. Section Three — Instruments of the Mīzān
+6. Section Four — The Architecture of the Limit
+7. Section Five — The Architecture of Fulfilment and Execution
+8. Section Six — The Architecture of Non-Fulfilment
+9. Section Seven — The Architecture of Positive Overflow
+10. Section Eight — Governance of Measurement
+11. Seven Conceptual Reversals
+12. A Reusable Reader’s Protocol
+13. Limits: What the Book Does Not Claim
+14. Scientific Status at the Freeze Point
+15. Conclusion — When the Reader Enters the Laboratory
+Glossary of Core Terms
+Condensed target: under 30 pages. This edition selects the conceptual spine rather than reproducing chapter-by-chapter detail.
+1. Orientation — From Lexicon to Architecture
+The fourth volume begins from a deliberate change of scale. Earlier lexical work asks what a term can mean within its Qur’anic corpus. This volume asks a different question: how do rights, acts, harms, benefits, responses, limits, relinquishments, and increments interact within a larger architecture of recompense?
+The central question is therefore not simply, “What does jazāʾ (جزاء, recompense) mean?” Nor does the book construct a theory of punishment from the single word ʿiqāb (عقاب), or a theory of equality from ʿadl (عدل). It asks how the Qur’anic discourse organizes relations among entitlement, correspondence, degree, similarity, limit, execution, pardon, repair, reward, increase, and grace.
+This shift matters because a lexical nucleus does not automatically become a theory. The model must remain inside the boundaries established by the corpus; it may not redefine a word merely because a later theoretical construction needs a broader or narrower meaning.
+The volume’s working map contains eight layers of inquiry. These are not chronological stages in reality. They are layers of questioning:
+From the word to the network — how a term is reconstructed from corpus, form, context, and resistant evidence.
+Architecture of correspondence — what kind of response or output the text constructs.
+Instruments of the mīzān — how measurement, apportionment, calibration, and determination differ.
+Architecture of the limit — where an authorized response must stop.
+Architecture of fulfilment — when a right or relation becomes execution.
+Architecture of non-fulfilment — what happens when execution is not carried through.
+Architecture of positive overflow — how increase, multiplication, reward, and grace form a non-linear positive network.
+Governance of measurement — what may be closed, what remains open, and how a model is prevented from becoming an authority over the text.
+The guiding educational purpose is equally important. The reader is not asked to accept a final interpretation. The reader is shown how a hypothesis is generated, pressured by counter-evidence, narrowed, retained, or rejected. The volume is designed as a laboratory of disciplined tadabbur (تدبر, reflective textual inquiry), not as a catalogue of conclusions.
+2. Method — Reading by Corpus, Resistance, and Claim Rank
+The book repeatedly returns to a simple discipline: text first, observation second, hypothesis third, and test fourth. Only after these layers may a claim acquire a stronger status. A single verse may open a question, but it cannot by itself establish a root-wide definition or a general law.
+2.1 Corpus before definition
+A familiar word often arrives with a ready-made definition. The volume resists that reflex. The immediate question is not “What does this word mean?” but “How does this word function across its textual distribution?” The researcher records form, syntactic role, neighboring words, domain, and local function before collapsing the occurrences into a single gloss.
+The treatment of ʿAdl (عدل) is exemplary. In al-Māʾidah 5:95 the same root appears in two distinct local functions: describing qualified arbiters and naming an equivalent or compensatory relation. Al-Anʿām 6:70 further resists the reduction of ʿadl to the modern ethical gloss “fairness.” The resistant resource does not destroy the root; it forces the proposed nucleus to be wide enough to carry the evidence without becoming vague.
+2.2 The resistant resource
+A supporting example tells the researcher that a hypothesis can work somewhere. A resistant resource tells the researcher where it may break. For that reason, contradiction is not a nuisance to be pushed to a footnote; it is a diagnostic instrument. The researcher must ask in advance what kind of evidence would force the claim to be narrowed or rejected.
+2.3 Generation is not verification
+The volume makes a particularly careful use of the author’s Mathānī system (نظام المثاني). Letter-values and letter-pairs may generate candidate movements or relations. Yet generation does not equal verification, verification does not equal closure, and closure does not equal law. In this volume no pair-nucleus reaches the highest closed status merely because it produced fruitful hypotheses.
+2.4 Claim rank
+The compressed edition retains the principal rank distinctions used in the manuscript:
+[ف] Hypothesis (فرضية): a falsifiable candidate explanation.
+[ا] Inductive support (استقراء): a relation supported across a defined corpus.
+[م] Model (نموذج): an organized architecture useful for analysis within declared limits.
+[ب] Bounded nucleus (نواة مقيدة): a root or semantic nucleus closed only inside a stated test range.
+[ح] Law (قانون): a stronger generalization requiring a level of evidence not automatically supplied by a model or bounded nucleus.
+The rhetorical smoothness of an explanation is never allowed to raise its scientific rank. The book’s governance principle can be condensed as follows: evidence visible, rank declared, resistant resource present, and the door of refutation kept open.
+3. Section One — From the Word to the Network
+The first section is the methodological heart of the volume. Before entering the architecture of recompense, the reader is trained to move from the single expression to a corpus, from the corpus to a candidate semantic movement, from letters and pairs to roots and forms, and from isolated roots to a functional network.
+3.1 The word is not a dictionary card
+The Qur’anic word is treated neither as an isolated label nor as an infinitely fluid sign. The working possibility is that a root may preserve a semantic movement while assuming distinct local functions according to form, syntax, context, and neighboring expressions. This middle position itself remains testable.
+The distinction between ʿadl (عدل) and qisṭ (قسط) is introduced early as a methodological warning: conceptual proximity does not prove membership in the same lexical corpus. The two roots may overlap functionally, differ sharply, or meet only in specific contexts. They must therefore be studied separately before comparison.
+3.2 From letters and pairs to roots
+Letter-level and pair-level analysis is used as a generator of questions, not as a shortcut around the Qur’anic corpus. A candidate generated from letters must survive independent roots, forms, and contexts. If a pair repeatedly fails across independent roots, the pressure rises from a local failure to the pair itself; only then may the generating system require revision.
+3.3 From roots to functional networks
+The section ultimately asks whether the language of recompense can be entered through a set of output families rather than one undifferentiated concept. Its provisional educational map distinguishes four types of output: correspondence, compensatory/repairing output, non-fulfilment or disposition in the claim, and positive overflow. This map is explicitly an instrument for generating questions, not yet a theory of recompense.
+The closure of Section One is therefore methodological rather than doctrinal: the book closes the way of entering the problem, not the problem itself.
+4. Section Two — The Architecture of Correspondence
+The second section moves from tool-building to the field of recompense itself. The reader observes forms of response, reciprocity, adjustment, non-execution, and positive output as they emerge from the corpus, rather than forcing them into a predetermined scheme.
+4.1 Four output families
+The working classification yields four broad families. The first contains reciprocal or corresponding outputs; the second contains compensatory or repairing outputs; the third contains forms in which a claim is not simply executed; and the fourth contains positive outputs in which fulfilment, increase, multiplication, or bounty may occur.
+This classification is useful, but the book repeatedly insists that classification is not causality. A family tells us what sort of output we are looking at. It does not, by itself, explain why the text selected that output.
+4.2 Mithl (مثل) is not identical with Qiṣāṣ (قصاص)
+Al-Baqarah 2:194 speaks of answering aggression with a corresponding measure—mithl—without using the word qiṣāṣ. Conversely, passages of qiṣāṣ can operate without the word mithl. Al-Māʾidah 5:45 also places qiṣāṣ in a passage that opens the possibility of relinquishment through charitable remission. The analytical move is therefore from identity to bridge: the two notions can interact, but neither is reducible to the other.
+4.3 Correspondence is not one-dimensional equality
+Similarity may be quantitative, qualitative, functional, or mediated through another form. The book therefore resists the assumption that every valid response is produced by a single numerical equality. The axis of correspondence has to be specified before a claim of equivalence can be meaningful.
+4.4 The positive output is a network
+By the end of the section, the positive family is already resisting a mirror-image model of negative response. The manuscript finds repeated local asymmetries strong enough for a constrained model but not for a universal law. Positive output includes fulfilment, increase, multiplication, reward-related nodes, and specific appearances of faḍl (فضل) as a source-domain. The family closes provisionally at the level of classification and model—not at the level of universal law.
+5. Section Three — Instruments of the Mīzān
+Once the kind of output is identified, a harder question remains: by what instruments does the text calibrate magnitude, relation, allocation, equivalence, and determination? The section separates wazn (وزن), qisṭ (قسط), ʿadl (عدل), and qadar (قدر) instead of treating them as synonyms or as steps on one scale.
+5.1 Wazn (وزن) — structured weighing
+Wazn is treated as the first strong nucleus of measurement. Its corpus supports a bounded root-nucleus that can be closed within a declared range. Yet this closure does not license a universal quantitative equation for all recompense.
+5.2 Qisṭ (قسط) — apportionment under a norm
+Qisṭ adds a distinct dimension of measured rightness or proper apportionment. The root reaches a bounded closure in the final governance section, while the mechanism of its internal polarity remains open. This is an important example of layered closure: a nucleus can stabilize while a question about its mechanism remains unresolved.
+5.3 ʿAdl (عدل) — calibration and equivalence under pressure
+ʿAdl is analytically powerful but scientifically more difficult. The corpus shows different branches: judgment and testimony, equivalence or compensation, and morphological resources that resist a simple ethical gloss. The book therefore retains a useful operational handle around calibration/equivalence while refusing to seal a complete root-nucleus.
+5.4 Qadar (قدر) — determination, not an internal measuring tool
+Qadar enters the architecture as an external interface of determination rather than an internal node equal to wazn, qisṭ, and ʿadl. It remains a model-level interface, not a closed root law of measurement.
+5.5 Integration without a measuring machine
+The section closes with a methodological result: the Qur’anic architecture of measurement is not a single equation. It contains layers—type of output, authorization, extent, limit, weighing, apportionment, calibration, and determination. Unless these are separated, any proposed “law” becomes reductionist. The section therefore closes at the level of model and classification; law-generation remains closed.
+6. Section Four — The Architecture of the Limit
+A response may have a measurable extent, but the question of limit is different from the question of magnitude. The fourth section therefore separates “How much?” from “How far may the response go?”
+6.1 Extent is not limit
+The distinction prevents a subtle error. A text may authorize a response without authorizing indefinite continuation. The language of mithl can function as a ceiling against excess, while other passages open alternatives that do not negate the prior entitlement.
+6.2 Al-Naḥl 16:126 — response and patient restraint
+Al-Naḥl 16:126 is a central pressure point. It joins a bounded corresponding response with ṣabr (صبر, patient restraint) as another available path. The book reads this not as a denial of entitlement but as evidence that authorization does not automatically become compulsory execution.
+The manuscript also notices a possible bridge to al-Zumar 39:10, where patient endurance is associated with an unbounded description of reward. Yet it refuses to turn this juxtaposition into a law connecting relinquished response to unlimited positive grant. The bridge is a research question, not a completed causal rule.
+6.3 The function of the limit
+The limit is therefore not an afterthought. It is a control layer that prevents entitlement from being converted into unrestricted retaliation. This section prepares the move from authorization to the distinct problem of execution.
+7. Section Five — The Architecture of Fulfilment and Execution
+The fifth section asks when an established right or relation becomes action. Its governing principle is concise: right does not equal execution.
+7.1 A right, an authorization, an extent, and an execution are different layers
+The manuscript develops an execution-state architecture that separates relation or entitlement, authorization, extent, execution, and available outputs or alternatives. The point is not to multiply labels; it is to prevent a single verse from being compressed into one action-state.
+Ash-Shūrā 42:40 is a key example: a corresponding response is available, yet pardon and repair are also opened. Al-Naḥl 16:126 similarly authorizes a bounded response while presenting patient restraint. In both cases, entitlement survives while its use is not reduced to one mandatory path.
+7.2 The RAEO analytical frame
+In the conclusion the author presents a reusable frame, RAEO, for separating: R — the right/relation; A — authorization; E — extent; E — execution; O — output/alternative. The letters are analytical handles, not Qur’anic terminology and not a claim that every passage contains every layer explicitly.
+7.3 Alternatives and mediated fulfilment
+Al-Māʾidah 5:95, al-Nisāʾ 4:92, al-Baqarah 2:196, and al-Mujādilah 58:3–4 show that the Qur’anic architecture can contain multiple routes, conditional transitions, or substitute outputs. The manuscript rejects the temptation to infer a hidden conversion coefficient among these media. Before asking for equivalence, the structure of the alternatives must be identified.
+The section therefore does not produce a universal conversion machine. It produces a disciplined way to ask whether a passage presents parallel alternatives, conditioned transitions, or distinct paths.
+8. Section Six — The Architecture of Non-Fulfilment
+Non-fulfilment is not an empty space where nothing happens. The sixth section treats it as a structured field containing several distinct operations. The modern umbrella word “tolerance” would erase differences that the Qur’anic distribution keeps visible.
+8.1 Five differentiated operations
+The core family stabilizes at model level as a five-branch architecture. The branches are:
+ʿAfw (عفو) — relinquishment/pardon in a relational setting.
+Taṣaddaqa / ṣadaqa in the relevant remedial use (تصدق) — remission as a distinct operation rather than another name for ʿafw.
+Ṣabr (صبر) — bearing or restraint without necessarily transforming the entitlement itself.
+Ṣafḥ (صفح) — a relational disengagement that is not identical with ʿafw.
+Ghufrān (غفران) — a separate operation that must not be collapsed into ṣafḥ or treated as identical with istighfār in every context.
+The five branches are not established as a chronological sequence, a hierarchy, or a universal transition law. Their multiplicity is itself the result: non-fulfilment is a family of differentiated operations.
+8.2 Ash-Shūrā 42:39–43 as a composite test
+The composite passage in ash-Shūrā 42:39–43 pressures the family because it brings response, equivalence, pardon, repair, and patient endurance into a compact relational field. The passage is used to distinguish adjacency from identity and to test whether the model can hold several options without turning them into a fixed ladder.
+8.3 Iṣlāḥ (إصلاح, repair/reform) as an adjacent layer
+Iṣlāḥ repeatedly appears beside the family, especially in ash-Shūrā 42:40, yet the book refuses to make it a sixth member automatically. Additional controls from al-Ḥujurāt 49:9 and Hūd 11:88 show a broader relational profile. The final position is therefore precise: iṣlāḥ is a cross-layer adjacent operation in the present architecture, while the complete root-nucleus of ṣ-l-ḥ remains open.
+Section Six closes at the level of model and classification. It does not produce a law in which pardon necessarily leads to repair, nor a hierarchy ranking the five operations.
+9. Section Seven — The Architecture of Positive Overflow
+The seventh section studies the positive side of outputs: faḍl (فضل), ziyāda (زيادة), muḍāʿafa (مضاعفة), ajr (أجر), ḥasana (حسنة), and ḥusnā (حسنى). Its strongest result is negative in form but constructive in effect: positive overflow is not a three-step ladder.
+9.1 Faḍl and ziyāda
+Across selected passages—including al-Nisāʾ 4:173, al-Nūr 24:38, Fāṭir 35:30, and ash-Shūrā 42:26—the corpus supports a repeated direct bridge from faḍl to ziyāda. This bridge is strong enough for inductive support within the chosen corpus. It is not strong enough to claim that every increase comes from faḍl, that every faḍl produces increase, or that the two words are identical.
+9.2 Ziyāda is not inherently positive
+A critical reverse test shows why root-level generalization is dangerous: ziyāda can also occur in negative or harmful contexts. The positive use studied here is therefore a branch of the root inside the architecture of positive output, not the definition of the entire root.
+9.3 Muḍāʿafa is not merely “more ziyāda”
+Muḍāʿafa marks expansion through multiplication and is kept distinct from simple increase. Al-Nisāʾ 4:40 brings ḥasana, multiplication, and ajr into one positive passage. Al-Ḥadīd 57:18 reinforces the connection between multiplication and reward. Yet the manuscript does not find a repeated direct lexical bridge proving ziyāda → muḍāʿafa as a general sequence.
+9.4 Ajr, ḥasana, and ḥusnā as functional nodes
+Ajr does not function merely as a final endpoint; it can appear as a flexible compensation/reward node before or beside increase and multiplication. Ḥasana can operate as a positively valued input or object within a multiplying structure. Ḥusnā appears in Yūnus 10:26 beside ziyāda, forming a direct positive-output bridge without becoming a mathematical baseline.
+9.5 Local asymmetry is not a universal law
+Al-Anʿām 6:160 sharply contrasts a multiplied positive outcome with a negative outcome answered only by its equivalent. This is a powerful local asymmetry. It does not authorize a universal law stating that the positive side always expands while the negative side never does: other passages show increase or multiplication in negative contexts.
+The section therefore closes a non-symmetrical positive-overflow topology at model level. The proposed linear ladder faḍl → ziyāda → muḍāʿafa is rejected. The network closes; the roots do not all close; no general coefficient or universal law of proportion is authorized.
+10. Section Eight — Governance of Measurement
+The eighth section changes the task once more. After building useful models, the question becomes: how do we prevent those models from gaining authority over the text? The answer is epistemic governance—the disciplined separation of operational handle, root-nucleus, and law.
+10.1 A two-axis architecture
+The manuscript compresses the measurement architecture into two interacting axes. One is operational: scope and governance, trigger or correspondence, measurement and mediation, limit, execution, and output. The other is lexical/root-based: the status of wazn, qisṭ, ʿadl, qadar, and related terms. A strong operational role does not automatically close a complete lexical root.
+10.2 Layered closure
+Wazn provides the clearest example of a bounded root-nucleus that can close within a declared range. Qisṭ also closes at that level while leaving its polarity mechanism open. ʿAdl remains open because its branches, resistant resources, pair-testing, and prediction layer have not yet converged on one non-elastic nucleus. Qadar remains an open model-level external interface.
+The lesson is crucial: scientific closure does not mean that every question about a term has been answered. It means that a specific claim, in a specific range, has passed its declared tests.
+10.3 Model is not law
+The end-state of the volume is intentionally restrained: law-generation remains closed and a general theory of measurement is not yet authorized. This is not presented as failure. It is the very function of governance—to preserve the distance between a useful model and a law for which the evidence is not yet sufficient.
+The deepest rule of the section is therefore reflexive: tadabbur does not monitor the text only; it also monitors itself while reading the text.
+11. Seven Conceptual Reversals
+The conclusion describes the book less as a list of results than as a sequence of changes in the questions the reader is able to ask. Seven reversals summarize that transformation.
+Equality no longer defines ʿadl by itself. The corpus forces a move from a single ethical gloss to a structured inquiry into branches, calibration, equivalence, and resistant resources.
+Mithl no longer equals qiṣāṣ. The relation becomes a bridge or constrained interaction rather than lexical identity.
+Right no longer equals execution. Entitlement, authorization, extent, execution, and alternatives become separable layers.
+Non-fulfilment no longer means one operation. ʿAfw, taṣaddaq, ṣabr, ṣafḥ, and ghufrān form a differentiated family without a proven universal hierarchy.
+Faḍl → ziyāda → muḍāʿafa no longer works as a ladder. The positive field becomes a non-symmetrical network with bridges of unequal strength.
+Mathānī no longer functions as an automatic closing device. It remains a generator and testing instrument; resistance can narrow, postpone, or reject what it generates.
+Closure is no longer a single yes/no state. A bounded root-nucleus may close while another mechanism remains open; a model can stabilize while law-generation stays closed.
+12. A Reusable Reader’s Protocol
+The book is intended to be re-run. Its conclusion offers a practical protocol that can be applied to a new Qur’anic resource.
+Classify the visible output. Ask which family or combination of families is present: reciprocal/corresponding, compensatory/repairing, non-fulfilment/disposition in the claim, or positive overflow.
+Run the execution-state frame. Separate the right or relation from authorization, extent, execution, and available alternatives.
+Specify the axis of correspondence. If a passage contains mithl or another form of matching, ask whether the similarity is quantitative, qualitative, functional, or mediated.
+Build the execution matrix. Record actor, prior relation, normative force, extent, alternative path, type of alternative, execution status, and scope condition.
+Search for the resistant resource. Do not search only for passages that agree with the proposal.
+Run a reverse test. Freeze the claim first, then ask where an overbroad version of it should break.
+Declare the rank. End with a visible status: hypothesis, induction, model, bounded nucleus, or law. Do not let style or confidence raise the rank.
+A researcher who wishes to re-test a result from this volume should identify the exact claim, preserve its original wording and rank, rebuild an independent corpus, mark both supporting and resisting resources, run the appropriate matrix, and then choose among retention, narrowing, reformulation, postponement, rejection, or—only with new evidence—promotion.
+13. Limits — What the Book Does Not Claim
+A condensed edition is especially vulnerable to overstatement, so the manuscript’s negative boundaries must remain visible.
+Recompense is not reduced to numerical equality.
+Pardon is not declared universally higher than fulfilment, nor is fulfilment declared universally lower than pardon.
+Mathānī is not presented as a self-validating closed system.
+Success of a generated relation in some passages does not establish a universal law.
+A local Mathānī failure does not automatically invalidate the whole generating system.
+Wazn, qisṭ, and ʿadl are not synonyms.
+A bounded root-nucleus [ب] is not the same thing as a law [ح].
+A measurement architecture is not yet a theory of measurement.
+A model does not by itself establish causality.
+A network does not imply chronological order or hierarchy.
+A relation that works in one domain—qiṣāṣ, inheritance, positive overflow, or interpersonal relations—may not be transferred to another domain without a new test.
+The book’s general rule is to distinguish more than it generalizes.
+14. Scientific Status at the Freeze Point
+The final manuscript freezes the fourth volume with eight sections plus a conclusion. The following table summarizes the most important statuses without strengthening them.
+Component
+Final status
+Meaning
+Four-family response architecture
+[م] Model
+Stable as a classificatory architecture; not a causal law.
+Wazn (وزن) root nucleus
+[ب] Bounded nucleus — closed
+Closed only within the declared test range.
+Qisṭ (قسط) root nucleus
+[ب] Bounded nucleus — closed
+Nucleus closed; polarity mechanism remains open.
+ʿAdl (عدل) root nucleus
+[ف] Open hypothesis
+Operational handle useful; complete root-nucleus not sealed.
+Qadar (قدر)
+[م] Open model/interface
+External determination interface, not an internal measuring node equivalent to the others.
+Non-fulfilment family
+[م] Model
+Five-branch architecture stable; no universal hierarchy or transition law.
+Positive-overflow architecture
+[م] Closure candidate / model
+Non-symmetrical network closed at architecture level; no three-step ladder.
+Faḍl → ziyāda
+[ا] Inductively supported bridge
+Repeated direct bridge in the selected corpus; not a root-wide law.
+Ziyāda ↔ muḍāʿafa
+Open
+No repeated direct bridge sufficient for a general sequence.
+Mathānī pair nuclei
+Open
+Used for generation/testing; no pair nucleus promoted to bounded closure in this volume.
+General theory of measurement
+Not authorized
+No universal unit, baseline, coefficient, unified scale, or comprehensive law of proportion established.
+Law generation
+Closed
+The volume does not claim a general law of Qur’anic recompense or measurement.
+14.1 Open research programs
+Rebuild a complete root-nucleus for ʿadl that carries the resistant branches without becoming elastic.
+Create a reviewable Mathānī case register: pair, book, frozen hypothesis, independent roots, resistance, result, and rank.
+Test the structural and lexical relation between ziyāda and muḍāʿafa on a wider corpus.
+Test mediated equivalence in al-Māʾidah 5:95 without inventing an unstated conversion coefficient.
+Run predictive testing on the five-branch non-fulfilment family without turning the family into a ladder.
+Clarify the relation between positive overflow and the architecture of measurement.
+Resolve the grammatical pressure of al-Nisāʾ 4:135 and re-run the relevant ʿadl tests.
+15. Conclusion — When the Reader Enters the Laboratory
+The book does not end by handing the reader a formula called “the Qur’anic measure of recompense.” Its more durable achievement is procedural. It changes the reader from someone looking for a ready definition into someone able to distinguish lexical evidence, functional relation, analytical model, resistant resource, and scientific rank.
+The movement of the volume can be stated compactly: from the meaning of the word to the conditions of its operation, and from operation to the governance of what may legitimately be concluded. This is why the final page does not celebrate a universal law. It asks the reader to choose one resource, freeze one hypothesis, and actively search for what could refute it.
+A living reading is not one that never fails. It is one that can identify where it failed, what broke the hypothesis, how the question must be rewritten, and when the responsible action is to stop.
+The measure, in this sense, is not a machine calibrated once for all. It is an architecture repeatedly rebuilt in proximity to the text. What remains open is not discarded material; it is the space in which the next act of research begins.
+Glossary of Core Terms
+Mīzān (ميزان): measure / balance / calibration architecture; not automatically a single numerical scale.
+Jazāʾ (جزاء): recompense or outcome in relation to act/value; the volume studies its architecture rather than reducing it to one equation.
+ʿIqāb (عقاب): punitive consequence; not treated as the sole basis of the entire theory of recompense.
+Mithl (مثل): correspondence by a specified axis of likeness; not identical with qiṣāṣ.
+Qiṣāṣ (قصاص): reciprocal redress within a rights structure; may interact with mithl without being reducible to it.
+Wazn (وزن): weighing; the strongest bounded root-nucleus in the measurement cluster at this freeze point.
+Qisṭ (قسط): proper apportionment / equitable measure; bounded nucleus closed while polarity remains open.
+ʿAdl (عدل): calibration/equivalence as an operational handle; complete root-nucleus remains open.
+Qadar (قدر): determination; treated as an external interface in the present model.
+Ḥadd (حد): limit or boundary of an authorized response; distinct from the amount itself.
+Istīfāʾ (استيفاء): fulfilment/execution of a right or due; analytically separated from the mere existence of entitlement.
+ʿAfw (عفو): relational relinquishment/pardon; one branch within non-fulfilment.
+Ṣabr (صبر): patient bearing/restraint; can coexist with an unexecuted right without being identical with pardon.
+Ṣafḥ (صفح): relational disengagement/turning away; not identical with ʿafw or ghufrān.
+Ghufrān (غفران): forgiveness/covering; a distinct operation in the family.
+Iṣlāḥ (إصلاح): repair/reform; adjacent cross-layer operation, not sealed as a sixth member of the family.
+Faḍl (فضل): bounty/grace; in selected positive-output passages, a source-domain linked repeatedly with ziyāda.
+Ziyāda (زيادة): increase/addition; context-sensitive and not intrinsically positive at the level of the whole root.
+Muḍāʿafa (مضاعفة): multiplication; distinct from simple increase.
+Ajr (أجر): reward/compensation connected to work or action; a flexible node in the positive network.
+Ḥasana (حسنة): positively valued act/state/event; can function as an input into multiplication.
+Ḥusnā (حسنى): the better/best outcome relative to a reference; directly associated with ziyāda in Yūnus 10:26.
+Resistant resource (المورد المقاوم): a passage that pressures or falsifies an overbroad hypothesis; treated as a constructive part of the method.
+Reverse test (الاختبار العكسي): a deliberate attempt to locate where a frozen claim should fail if it is wider than the evidence.
+Mathānī (المثاني): a generative and testing layer; in this volume it is not an automatic path from letter-pair to law.
+──────────────────────────────────────────
+Editorial note: This condensed conceptual edition intentionally omits the full technical registers, chapter-level audit trails, extended corpora, and most internal research IDs of the Arabic reference edition. Its purpose is to transmit the book’s conceptual route and scientific caution without changing the rank of its claims.

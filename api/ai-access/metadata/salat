@@ -8,26 +8,24 @@
       "ar": " نحو هندسة استعادية لوعي "الصلاة" ",
       "en": " Reconstructing the Universal System of Connection through Quranic Philology"
     },
-    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/salat/ar/cover-ar.png",
+    "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/salat/ar/salat-cover-ar.png",
     "ar": {
       "docx": "https://drive.google.com/uc?export=download&id=1FzALoXyjvXgLH4Bo0BLCAfegJIMlihlZ ",
       "pdf_direct": "books/salat/ar/content.pdf",
       "pdf_external": "https://drive.google.com/uc?export=download&id=1EnFORQsiJOJzU1GdS8A1hRzFfJ11cljp ",
-      "html": "https://drive.google.com/uc?export=download&id=1Wu-sS3_Z_5SS3vqSfdtJaKFs7izV0H6G ",
-      "txt_external": "https://drive.google.com/uc?export=download&id=115B6gVIofyfsiet4JPLebpINlQZi6x_g ",
-      "txt_direct": "books/salat/ar/content.txt",
-      "cover": "books/salat/ar/cover-ar.png",
-      "archive": "https://archive.org/details/content_20260310_1937 "
+
+      "txt_direct": "books/salat/ar/35-salat-ar.txt",
+      "cover": "books/salat/ar/salat-cover-ar.png",
+
     },
     "en": {
       "docx": "https://drive.google.com/uc?export=download&id=1g1yoYqyO94OXnnGDYwwth3_64JdmQaqh ",
       "pdf_direct": "books/salat/en/content.pdf",
       "pdf_external": "https://drive.google.com/uc?export=download&id=1TAI7Xq6GYd7-onPTyaoJd1_y-HURfsY-",
-      "html": "https://drive.google.com/uc?export=download&id=11N1AxIowzCb8h8z3H71tEswAMTJBjfjV ",
-      "txt_external": "https://drive.google.com/uc?export=download&id=1NlDU34g7IyuopbZg0wJJX-SEfzrWDgaj ",
-      "txt_direct": "books/salat/en/content.txt",
-      "cover": "books/salat/en/cover-en.png",
-      "archive": "https://archive.org/details/content_20260310_1942 "
+
+      "txt_direct": "books/salat/en/35-salat-en.txt",
+      "cover": "books/salat/en/salat-cover-en.png",
+
     },
     "metadata": {
       "author": "ناصر ابن داوود",

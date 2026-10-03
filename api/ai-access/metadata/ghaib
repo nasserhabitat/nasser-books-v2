@@ -8,26 +8,20 @@
     "ar": "من الغيب المؤجَّل إلى القانون الفاعل",
     "en": "The Shift from Narrative to System"
   },
-  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/ghaib/ar/cover-ar.png",
+  "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/ghaib/ar/ghaib-cover-ar.png",
   "ar": {
     "docx": "https://drive.google.com/uc?export=download&id=1xdEtnyF2bMOBvX2jBpS21dWTXHY_tSS0",
     "pdf_direct": "books/ghaib/ar/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1kVN96TkzagJ_LhSuMX_kBda7tVZwIwWA wiL7o3kKBX2gnBuc",
-    "html": "https://drive.google.com/uc?export=download&id=1Sftrx39kdAfeqHyhgJ5LuPPLo99udaNt",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1TzEZ_uswDrSXMbBbzmSMEOCIkg2xDjwr",
-    "txt_direct": "books/ghaib/ar/content.txt",
-    "cover": "books/ghaib/ar/cover-ar.png",
-    "archive": "https://archive.org/details/content_20260409_1822"
+    "txt_direct": "books/ghaib/ar/46-ghaib-ar.txt",
+    "cover": "books/ghaib/ar/ghaib-cover-ar.png"
   },
   "en": {
     "docx": "https://drive.google.com/uc?export=download&id=1NbA4Fhk4yEhmqK4vWa1YZBt8ybtItLB8",
     "pdf_direct": "books/ghaib/en/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1n3Qkx8Hjv_1Iz6KcJDwz8Dae42GiZts6",
-    "html": "https://drive.google.com/uc?export=download&id=1mgWkncMlsrZGw-_913_e6fSx5R05lpTB",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1SKB_TmP5pEIOYyDpqQDzdcqWVJtt14jy",
-    "txt_direct": "books/ghaib/en/content.txt",
-    "cover": "books/ghaib/en/cover-en.png",
-    "archive": "https://archive.org/details/content_20260416"
+    "txt_direct": "books/ghaib/en/46-ghaib-en.txt",
+    "cover": "books/ghaib/en/ghaib-cover-en.png"
   },
   "metadata": {
     "author": "Nasser Ibn Dawood",

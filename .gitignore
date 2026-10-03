@@ -15,3 +15,16 @@ Desktop.ini
 # Book binaries stay on Google Drive; GitHub keeps text search files and pages.
 /books/**/*.docx
 /books/**/*.pdf
+
+# Local migration inventories include source paths; they are not site resources.
+__pycache__/
+/scripts/drive-new-books.json
+/scripts/new-books-plan.json
+/scripts/updated-archive-review.json
+/scripts/drive-resource-audit.json
+/scripts/pending-drive-review.json
+/scripts/drive-audit-summary.json
+/scripts/monthly-sync-local-inventory.json
+/scripts/monthly-sync-cloud-inventory.json
+/scripts/monthly-sync-plan.json
+/scripts/monthly-sync-legacy-folders.json

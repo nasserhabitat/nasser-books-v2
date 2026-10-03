@@ -1,0 +1,23 @@
+{
+  "pages_checked": 224,
+  "anchors_synchronized": 2,
+  "changes": [
+    {
+      "number": 28,
+      "id": "magog",
+      "language": "en",
+      "field": "docx",
+      "old_url": " https://drive.google.com/uc?export=download&id=1f27NcQHtwl4eK4GppKbvKBG1Atd6WQ5X",
+      "new_url": "https://drive.google.com/uc?export=download&id=1f27NcQHtwl4eK4GppKbvKBG1Atd6WQ5X"
+    },
+    {
+      "number": 29,
+      "id": "human",
+      "language": "en",
+      "field": "docx",
+      "old_url": " https://drive.google.com/uc?export=download&id=1_j10D1Xi7Vle5Ufe3lgmWDBcH39ZFvIb",
+      "new_url": "https://drive.google.com/uc?export=download&id=1_j10D1Xi7Vle5Ufe3lgmWDBcH39ZFvIb"
+    }
+  ],
+  "note": "Catalogue parity only. Drive identity/access issues are separately recorded; no Drive files or sharing were modified."
+}

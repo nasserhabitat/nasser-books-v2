@@ -9,24 +9,22 @@
         "ar": "إعادة بناء المفاهيم القرآنية كأنظمة وظيفية خارم التاريخي",
         "en": "The Operational Catalogue of Consciousness & Reality"
       },
-      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/catalogue-of-consciousness/ar/cover-ar.png",
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/catalogue-of-consciousness/ar/catalogue-of-consciousness-cover-ar.png",
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=12vrq2bKYnWjkaX8d1atvcyQb_yZcfaAP",
         "pdf_direct": "books/catalogue-of-consciousness/ar/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1ovAGk7skrYGePhplWG1oRj0q3z3eNMwg",
-        "html": "https://drive.google.com/uc?export=download&id=1zwaFsGLTQzTwOx82xGCWBqKp3LXrNfUD",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1xK96glXvRV_LnYgPBg-jKeQT9RZ2C2ET",
-        "txt_direct": "books/catalogue-of-consciousness/ar/content.txt",
-        "cover": "books/catalogue-of-consciousness/ar/cover-ar.png"
+
+        "txt_direct": "books/catalogue-of-consciousness/ar/58-catalogue-of-consciousness-ar.txt",
+        "cover": "books/catalogue-of-consciousness/ar/catalogue-of-consciousness-cover-ar.png"
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1-rzbtCbknvSFt2HQApil6_tfO-l351d8",
         "pdf_direct": "books/catalogue-of-consciousness/en/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1R_xI1MGtc_yVZ_hOiUy-5RnyCUXf1pvu",
-        "html": "https://drive.google.com/uc?export=download&id=1BVj42FI27tRISMHR17zZWRpDBX1Vl4jB",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1Z1Eed-JUFONZjg8XKabOMTi9mKbHPgXn",
-        "txt_direct": "books/catalogue-of-consciousness/en/content.txt",
-        "cover": "books/catalogue-of-consciousness/en/cover-en.png"
+
+        "txt_direct": "books/catalogue-of-consciousness/en/58-catalogue-of-consciousness-en.txt",
+        "cover": "books/catalogue-of-consciousness/en/catalogue-of-consciousness-cover-en.png"
       },
       "metadata": {
         "author": "ناصر ابن داوود",

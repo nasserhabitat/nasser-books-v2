@@ -8,25 +8,23 @@ From Physical Ritual to Existential Method and the Architecture of Taqwa "    },
       "ar": " موسوعة الصيام القرآني -قراءة بنيوية مقاصدية في هندسة التقوى",
       "en": " Encyclopedia of Qur’anic Fasting
 From Ritual Practice to Existential Method: A Structural and Maqasid-Based Reading of the Fasting Verses and the Construction of Taqwa as a Way of Life "    },
-    "cover_image": "https://nasserhabitat.github.io/nasser-books/books/fasting/ar/cover-ar.png",
+    "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/fasting/ar/fasting-cover-ar.png",
     "ar": {
       "docx": "https://drive.google.com/uc?export=download&id=1l8Zy_hbpWiKRKbbOeP0XuqXlWxSLOz9K ", 
       "pdf_direct": "books/fasting/ar/content.pdf",
       "pdf_external": "https://drive.google.com/uc?export=download&id=14tjE8BpbvViu7oymIwFwEde7MkGOo4sE ",
-      "html": "https://drive.google.com/uc?export=download&id=15KlDUaOTiWHxztKVsIV7ZzAaUlicftEk ",
-      "txt_external": "https://drive.google.com/uc?export=download&id=1xjAgK_t_2NfyU4V_YYzGPUHNkud_0IDe ",
-      "txt_direct": "books/fasting/ar/content.txt",
-      "cover": "books/fasting/ar/cover-ar.png",
+
+      "txt_direct": "books/fasting/ar/40-fasting-ar.txt",
+      "cover": "books/fasting/ar/fasting-cover-ar.png",
       "archive": " https://archive.org/details/20260310_20260310_2232 "
     },
     "en": {
       "docx": "https://drive.google.com/uc?export=download&id=12Mr5_YQ4-Ti5wel4qU0PDmChOOoK-3Pf ", 
       "pdf_direct": "books/fasting/ar/content.pdf",
       "pdf_external": "https://drive.google.com/uc?export=download&id=1HslqFk5izRKvTxG_9617Xz0W3qGqtM9- ",
-      "html": "https://drive.google.com/uc?export=download&id=1dm-4h4ekVwt1rScyRwcX_BGB4E3zpjdp ",
-      "txt_external": "https://drive.google.com/uc?export=download&id=1UkfR4X17GTIdLnvHk8JgC1SQaQhbSLUg ",
-      "txt_direct": "books/fasting/en/content.txt",
-      "cover": "books/fasting/en/cover-en.png",
+
+      "txt_direct": "books/fasting/en/40-fasting-en.txt",
+      "cover": "books/fasting/en/fasting-cover-en.png",
       "archive": " https://archive.org/details/content_20260310_2236 "
     },
     "metadata": {

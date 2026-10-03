@@ -8,26 +8,20 @@
     "ar": " المجلد الرابع - فقه اللسان القرآني – من المعنى إلى التشغيل ",
     "en": "Volume 2: Practical Applications & Conceptual Deconstruction"
   },
-  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/the-jurisprudence-tome4/ar/cover-ar.png",
+  "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/the-jurisprudence-tome4/ar/the-jurisprudence-tome4-cover-ar.png",
   "ar": {
-    "docx": "https://drive.google.com/uc?export=download&id=1nca3YhKD906lxvokbtvx0mnqC26WZchZ ", 
+    "docx": "https://drive.google.com/uc?export=download&id=1nca3YhKD906lxvokbtvx0mnqC26WZchZ",
     "pdf_direct": "books/the-jurisprudence-tome4/ar/content.pdf",
-    "pdf_external": "https://drive.google.com/uc?export=download&id=13V4EMVUArs77SUQ2WqA_fHTsETm_LzFY ",
-    "html": "https://drive.google.com/uc?export=download&id=1i5o2iJBBVcuTxj0obCLp5FOp9PDkFkJq j",
-    "txt_external": "https://drive.google.com/uc?export=download&id=19zN-aVdayjifiXyHpAnDcrQTWLfJsi_d ",
-    "txt_direct": "books/the-jurisprudence-tome4/ar/content.txt",
-    "cover": "books/the-jurisprudence-tome4/ar/cover-ar.png",
-    "archive": "https://archive.org/details/20260409_20260409_0857 "
+    "pdf_external": "https://drive.google.com/uc?export=download&id=13V4EMVUArs77SUQ2WqA_fHTsETm_LzFY",
+    "txt_direct": "books/the-jurisprudence-tome4/ar/51-the-jurisprudence-tome4-ar.txt",
+    "cover": "books/the-jurisprudence-tome4/ar/the-jurisprudence-tome4-cover-ar.png"
   },
   "en": {
     "docx": "https://drive.google.com/uc?export=download&id=1ofEzm9lsav00I_YFLFbyp0vbRbHUJBc2",
     "pdf_direct": "books/the-jurisprudence-tome4/en/content.pdf",
-    "pdf_external": "https://drive.google.com/uc?export=download&id=1RwG_TpUKqufQiILALwZ-ZdDZA8jh_G_J ",
-    "html": "https://drive.google.com/uc?export=download&id=1MykLvb9nh2VZsicONNBLtKyKk1xY0k4X ",
-    "txt_external": "https://drive.google.com/uc?export=download&id=17bJWfiV3NhCt24qKpjzjSxVWWai1XvkF ",
-    "txt_direct": "books/the-jurisprudence-tome4/en/content.txt",
-    "cover": "books/the-jurisprudence-tome4/en/cover-en.png",
-    "archive": "https://archive.org/details/content_20260409_0900 "
+    "pdf_external": "https://drive.google.com/uc?export=download&id=1RwG_TpUKqufQiILALwZ-ZdDZA8jh_G_J",
+    "txt_direct": "books/the-jurisprudence-tome4/en/51-the-jurisprudence-tome4-en.txt",
+    "cover": "books/the-jurisprudence-tome4/en/the-jurisprudence-tome4-cover-en.png"
   },
   "metadata": {
     "author": "ناصر ابن داوود",

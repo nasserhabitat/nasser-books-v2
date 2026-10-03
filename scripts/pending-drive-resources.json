@@ -1,0 +1,646 @@
+[
+  {
+    "number": 70,
+    "id": "pure-religion",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "70-pure-religion-ar.pdf"
+  },
+  {
+    "number": 70,
+    "id": "pure-religion",
+    "language": "en",
+    "format": "docx",
+    "expected_filename": "70-pure-religion-en.docx"
+  },
+  {
+    "number": 70,
+    "id": "pure-religion",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "70-pure-religion-en.pdf"
+  },
+  {
+    "number": 71,
+    "id": "upright-religion",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "71-upright-religion-ar.pdf"
+  },
+  {
+    "number": 71,
+    "id": "upright-religion",
+    "language": "en",
+    "format": "docx",
+    "expected_filename": "71-upright-religion-en.docx"
+  },
+  {
+    "number": 71,
+    "id": "upright-religion",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "71-upright-religion-en.pdf"
+  },
+  {
+    "number": 72,
+    "id": "religion-of-truth",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "72-religion-of-truth-ar.pdf"
+  },
+  {
+    "number": 72,
+    "id": "religion-of-truth",
+    "language": "en",
+    "format": "docx",
+    "expected_filename": "72-religion-of-truth-en.docx"
+  },
+  {
+    "number": 72,
+    "id": "religion-of-truth",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "72-religion-of-truth-en.pdf"
+  },
+  {
+    "number": 73,
+    "id": "quranic-stewardship-encyclopedia",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "73-quranic-stewardship-encyclopedia-ar.pdf"
+  },
+  {
+    "number": 73,
+    "id": "quranic-stewardship-encyclopedia",
+    "language": "en",
+    "format": "docx",
+    "expected_filename": "73-quranic-stewardship-encyclopedia-en.docx"
+  },
+  {
+    "number": 73,
+    "id": "quranic-stewardship-encyclopedia",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "73-quranic-stewardship-encyclopedia-en.pdf"
+  },
+  {
+    "number": 74,
+    "id": "structural-reading-polygamy-qiwamah",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "74-structural-reading-polygamy-qiwamah-ar.pdf"
+  },
+  {
+    "number": 74,
+    "id": "structural-reading-polygamy-qiwamah",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "74-structural-reading-polygamy-qiwamah-en.pdf"
+  },
+  {
+    "number": 75,
+    "id": "engineering-consciousness-existence",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "75-engineering-consciousness-existence-ar.pdf"
+  },
+  {
+    "number": 75,
+    "id": "engineering-consciousness-existence",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "75-engineering-consciousness-existence-en.pdf"
+  },
+  {
+    "number": 76,
+    "id": "engineering-consciousness-umran",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "76-engineering-consciousness-umran-ar.pdf"
+  },
+  {
+    "number": 76,
+    "id": "engineering-consciousness-umran",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "76-engineering-consciousness-umran-en.pdf"
+  },
+  {
+    "number": 77,
+    "id": "engineering-existence-cosmic-restraint",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "77-engineering-existence-cosmic-restraint-ar.pdf"
+  },
+  {
+    "number": 77,
+    "id": "engineering-existence-cosmic-restraint",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "77-engineering-existence-cosmic-restraint-en.pdf"
+  },
+  {
+    "number": 78,
+    "id": "engineering-presence-epistemic-governance",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "78-engineering-presence-epistemic-governance-ar.pdf"
+  },
+  {
+    "number": 78,
+    "id": "engineering-presence-epistemic-governance",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "78-engineering-presence-epistemic-governance-en.pdf"
+  },
+  {
+    "number": 79,
+    "id": "engineering-quranic-consciousness",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "79-engineering-quranic-consciousness-ar.pdf"
+  },
+  {
+    "number": 79,
+    "id": "engineering-quranic-consciousness",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "79-engineering-quranic-consciousness-en.pdf"
+  },
+  {
+    "number": 80,
+    "id": "fiqh-al-ilm-wal-lisan",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "80-fiqh-al-ilm-wal-lisan-ar.pdf"
+  },
+  {
+    "number": 80,
+    "id": "fiqh-al-ilm-wal-lisan",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "80-fiqh-al-ilm-wal-lisan-en.pdf"
+  },
+  {
+    "number": 81,
+    "id": "governance-quranic-knowledge-production",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "81-governance-quranic-knowledge-production-ar.pdf"
+  },
+  {
+    "number": 81,
+    "id": "governance-quranic-knowledge-production",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "81-governance-quranic-knowledge-production-en.pdf"
+  },
+  {
+    "number": 82,
+    "id": "journey-to-knowing-god",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "82-journey-to-knowing-god-ar.pdf"
+  },
+  {
+    "number": 82,
+    "id": "journey-to-knowing-god",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "82-journey-to-knowing-god-en.pdf"
+  },
+  {
+    "number": 83,
+    "id": "qiblah-in-quran",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "83-qiblah-in-quran-ar.pdf"
+  },
+  {
+    "number": 83,
+    "id": "qiblah-in-quran",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "83-qiblah-in-quran-en.pdf"
+  },
+  {
+    "number": 84,
+    "id": "dignity-of-women-in-quran",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "84-dignity-of-women-in-quran-ar.pdf"
+  },
+  {
+    "number": 84,
+    "id": "dignity-of-women-in-quran",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "84-dignity-of-women-in-quran-en.pdf"
+  },
+  {
+    "number": 85,
+    "id": "forbidden-in-quran",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "85-forbidden-in-quran-ar.pdf"
+  },
+  {
+    "number": 85,
+    "id": "forbidden-in-quran",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "85-forbidden-in-quran-en.pdf"
+  },
+  {
+    "number": 86,
+    "id": "great-encyclopedia-of-knowledge",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "86-great-encyclopedia-of-knowledge-ar.pdf"
+  },
+  {
+    "number": 86,
+    "id": "great-encyclopedia-of-knowledge",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "86-great-encyclopedia-of-knowledge-en.pdf"
+  },
+  {
+    "number": 87,
+    "id": "recompense-engineering-vol1-lexicon",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "87-recompense-engineering-vol1-lexicon-ar.pdf"
+  },
+  {
+    "number": 87,
+    "id": "recompense-engineering-vol1-lexicon",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "87-recompense-engineering-vol1-lexicon-en.pdf"
+  },
+  {
+    "number": 88,
+    "id": "recompense-engineering-vol2-affliction",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "88-recompense-engineering-vol2-affliction-ar.pdf"
+  },
+  {
+    "number": 88,
+    "id": "recompense-engineering-vol2-affliction",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "88-recompense-engineering-vol2-affliction-en.pdf"
+  },
+  {
+    "number": 89,
+    "id": "recompense-engineering-vol3-impact-sunan",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "89-recompense-engineering-vol3-impact-sunan-ar.pdf"
+  },
+  {
+    "number": 89,
+    "id": "recompense-engineering-vol3-impact-sunan",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "89-recompense-engineering-vol3-impact-sunan-en.pdf"
+  },
+  {
+    "number": 90,
+    "id": "recompense-engineering-vol4-measure",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "90-recompense-engineering-vol4-measure-ar.pdf"
+  },
+  {
+    "number": 90,
+    "id": "recompense-engineering-vol4-measure",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "90-recompense-engineering-vol4-measure-en.pdf"
+  },
+  {
+    "number": 91,
+    "id": "recompense-engineering-vol5-veiling-punishment",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "91-recompense-engineering-vol5-veiling-punishment-ar.pdf"
+  },
+  {
+    "number": 91,
+    "id": "recompense-engineering-vol5-veiling-punishment",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "91-recompense-engineering-vol5-veiling-punishment-en.pdf"
+  },
+  {
+    "number": 92,
+    "id": "recompense-engineering-vol6-paradise-fire",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "92-recompense-engineering-vol6-paradise-fire-ar.pdf"
+  },
+  {
+    "number": 92,
+    "id": "recompense-engineering-vol6-paradise-fire",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "92-recompense-engineering-vol6-paradise-fire-en.pdf"
+  },
+  {
+    "number": 93,
+    "id": "recompense-engineering-vol7-return-repentance",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "93-recompense-engineering-vol7-return-repentance-ar.pdf"
+  },
+  {
+    "number": 93,
+    "id": "recompense-engineering-vol7-return-repentance",
+    "language": "en",
+    "format": "docx",
+    "expected_filename": "93-recompense-engineering-vol7-return-repentance-en.docx"
+  },
+  {
+    "number": 93,
+    "id": "recompense-engineering-vol7-return-repentance",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "93-recompense-engineering-vol7-return-repentance-en.pdf"
+  },
+  {
+    "number": 94,
+    "id": "recompense-engineering-vol8-relations",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "94-recompense-engineering-vol8-relations-ar.pdf"
+  },
+  {
+    "number": 94,
+    "id": "recompense-engineering-vol8-relations",
+    "language": "en",
+    "format": "docx",
+    "expected_filename": "94-recompense-engineering-vol8-relations-en.docx"
+  },
+  {
+    "number": 94,
+    "id": "recompense-engineering-vol8-relations",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "94-recompense-engineering-vol8-relations-en.pdf"
+  },
+  {
+    "number": 95,
+    "id": "wine-in-quran",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "95-wine-in-quran-ar.pdf"
+  },
+  {
+    "number": 95,
+    "id": "wine-in-quran",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "95-wine-in-quran-en.pdf"
+  },
+  {
+    "number": 96,
+    "id": "riba-quran-banking-vol1",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "96-riba-quran-banking-vol1-ar.pdf"
+  },
+  {
+    "number": 96,
+    "id": "riba-quran-banking-vol1",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "96-riba-quran-banking-vol1-en.pdf"
+  },
+  {
+    "number": 97,
+    "id": "riba-quran-banking-vol2",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "97-riba-quran-banking-vol2-ar.pdf"
+  },
+  {
+    "number": 97,
+    "id": "riba-quran-banking-vol2",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "97-riba-quran-banking-vol2-en.pdf"
+  },
+  {
+    "number": 98,
+    "id": "shadow-in-quran",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "98-shadow-in-quran-ar.pdf"
+  },
+  {
+    "number": 98,
+    "id": "shadow-in-quran",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "98-shadow-in-quran-en.pdf"
+  },
+  {
+    "number": 99,
+    "id": "cycle-awareness-lesser-punishment",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "99-cycle-awareness-lesser-punishment-ar.pdf"
+  },
+  {
+    "number": 99,
+    "id": "cycle-awareness-lesser-punishment",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "99-cycle-awareness-lesser-punishment-en.pdf"
+  },
+  {
+    "number": 100,
+    "id": "heart-in-quran",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "100-heart-in-quran-ar.pdf"
+  },
+  {
+    "number": 100,
+    "id": "heart-in-quran",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "100-heart-in-quran-en.pdf"
+  },
+  {
+    "number": 101,
+    "id": "architecture-of-karamah",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "101-architecture-of-karamah-ar.pdf"
+  },
+  {
+    "number": 101,
+    "id": "architecture-of-karamah",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "101-architecture-of-karamah-en.pdf"
+  },
+  {
+    "number": 102,
+    "id": "victory-engineering-qcros",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "102-victory-engineering-qcros-ar.pdf"
+  },
+  {
+    "number": 102,
+    "id": "victory-engineering-qcros",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "102-victory-engineering-qcros-en.pdf"
+  },
+  {
+    "number": 103,
+    "id": "nusrah-engineering",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "103-nusrah-engineering-ar.pdf"
+  },
+  {
+    "number": 103,
+    "id": "nusrah-engineering",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "103-nusrah-engineering-en.pdf"
+  },
+  {
+    "number": 104,
+    "id": "preserved-system",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "104-preserved-system-ar.pdf"
+  },
+  {
+    "number": 104,
+    "id": "preserved-system",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "104-preserved-system-en.pdf"
+  },
+  {
+    "number": 105,
+    "id": "surah-al-takwir",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "105-surah-al-takwir-ar.pdf"
+  },
+  {
+    "number": 105,
+    "id": "surah-al-takwir",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "105-surah-al-takwir-en.pdf"
+  },
+  {
+    "number": 106,
+    "id": "death-vocabulary-in-quran",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "106-death-vocabulary-in-quran-ar.pdf"
+  },
+  {
+    "number": 106,
+    "id": "death-vocabulary-in-quran",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "106-death-vocabulary-in-quran-en.pdf"
+  },
+  {
+    "number": 107,
+    "id": "architecture-of-malakoot",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "107-architecture-of-malakoot-ar.pdf"
+  },
+  {
+    "number": 107,
+    "id": "architecture-of-malakoot",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "107-architecture-of-malakoot-en.pdf"
+  },
+  {
+    "number": 108,
+    "id": "meaning-of-ibil-in-quran",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "108-meaning-of-ibil-in-quran-ar.pdf"
+  },
+  {
+    "number": 108,
+    "id": "meaning-of-ibil-in-quran",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "108-meaning-of-ibil-in-quran-en.pdf"
+  },
+  {
+    "number": 109,
+    "id": "engineering-quranic-contemplation",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "109-engineering-quranic-contemplation-ar.pdf"
+  },
+  {
+    "number": 109,
+    "id": "engineering-quranic-contemplation",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "109-engineering-quranic-contemplation-en.pdf"
+  },
+  {
+    "number": 110,
+    "id": "architecture-of-heavens-in-quran",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "110-architecture-of-heavens-in-quran-ar.pdf"
+  },
+  {
+    "number": 110,
+    "id": "architecture-of-heavens-in-quran",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "110-architecture-of-heavens-in-quran-en.pdf"
+  },
+  {
+    "number": 111,
+    "id": "engineering-deception-self-eradication",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "111-engineering-deception-self-eradication-ar.pdf"
+  },
+  {
+    "number": 111,
+    "id": "engineering-deception-self-eradication",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "111-engineering-deception-self-eradication-en.pdf"
+  },
+  {
+    "number": 112,
+    "id": "existence-ascent-engineering",
+    "language": "ar",
+    "format": "pdf",
+    "expected_filename": "112-existence-ascent-engineering-ar.pdf"
+  },
+  {
+    "number": 112,
+    "id": "existence-ascent-engineering",
+    "language": "en",
+    "format": "pdf",
+    "expected_filename": "112-existence-ascent-engineering-en.pdf"
+  }
+]

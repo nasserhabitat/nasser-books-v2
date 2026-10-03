@@ -28,7 +28,7 @@ vm.runInContext(script, context);
     vm.runInContext('bookContentCache.clear()',context);
     failing = true;
     await context.performLocalSearch();
-    assert.ok(elements.localResults.innerHTML.includes('تعذّر تحميل 138'));
+    assert.ok(elements.localResults.innerHTML.includes('تعذّر تحميل 224'));
     failing = false;
     await context.performLocalSearch();
     assert.ok(elements.localResults.innerHTML.includes('class="match-line"'));

@@ -8,26 +8,20 @@
     "ar": "من فقه الأحكام إلى فقه الاستخلاف",
     "en": "The Quranic Operating System - A Conceptual Framework for Rebuilding Human Consciousness and Civilization"
   },
-  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/encyclopedia-of-succession/ar/cover-ar.png",
+  "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/encyclopedia-of-succession/ar/encyclopedia-of-succession-cover-ar.png",
   "ar": {
     "docx": "https://drive.google.com/uc?export=download&id=13dgz3kJMN7agYCQP7gOYXdGWN03G-Yrp",
     "pdf_direct": "books/encyclopedia-of-succession/ar/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1bLZvzQEWvtY-l1YMyGQDPNlM3Izmwppy",
-    "html": "https://drive.google.com/uc?export=download&id=1H28sABCa6wkohszr-e4KsiShDMJYpZDa",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1CNoAovXAGbfO4SELrF45dSNlYmmUi10n",
-    "txt_direct": "books/encyclopedia-of-succession/ar/content.txt",
-    "cover": "books/encyclopedia-of-succession/ar/cover-ar.png",
-    "archive": "https://archive.org/details/content_202604"
+    "txt_direct": "books/encyclopedia-of-succession/ar/52-encyclopedia-of-succession-ar.txt",
+    "cover": "books/encyclopedia-of-succession/ar/encyclopedia-of-succession-cover-ar.png"
   },
   "en": {
     "docx": "https://drive.google.com/uc?export=download&id=13HqD_1DK4J81kY_Jg819BBPjvNeSpykn",
     "pdf_direct": "books/encyclopedia-of-succession/en/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1N-dvV8iTX0CAxKm77CDbTLcLvwYUjGf0",
-    "html": "https://drive.google.com/uc?export=download&id=1emFHTmK7pL77frFTuyJm3ak3CyhbxGZy",
-    "txt_external": "https://drive.google.com/uc?export=download&id=11HleoSidC7g_bx58ZEmZzyaVVf6nJG3x",
-    "txt_direct": "books/encyclopedia-of-succession/en/content.txt",
-    "cover": "books/encyclopedia-of-succession/en/cover-en.png",
-    "archive": "https://archive.org/details/content_20260403"
+    "txt_direct": "books/encyclopedia-of-succession/en/52-encyclopedia-of-succession-en.txt",
+    "cover": "books/encyclopedia-of-succession/en/encyclopedia-of-succession-cover-en.png"
   },
   "metadata": {
     "author": "ناصر ابن داوود",

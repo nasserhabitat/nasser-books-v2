@@ -14,24 +14,22 @@
         "ar": "فقه اللسان القرآني وهندسة النظم الغذائية",
         "en": "The Jurisprudence of the Qur’anic Tongue and the Engineering of Dietary Systems"
       },
-      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/nutrition/ar/cover-ar.png",
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/nutrition/ar/nutrition-cover-ar.png",
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=1UwJBSqi3F_jQWwjROaBA0hv1t_yYhZAT",
         "pdf_direct": "books/nutrition/ar/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1yu1ENGJVdHaNBM_x7FwC8jC_hXIXhUBE",
-        "html": "https://drive.google.com/uc?export=download&id=1hL2iJZxZobCbCOGoNNoRikgn6RPtiC5Z",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1FAFm1kE9ZxYH51YSSsAelIoH0QLr0Hwv",
-        "txt_direct": "books/nutrition/ar/content.txt",
-        "cover": "books/nutrition/ar/cover-ar.png"
+
+        "txt_direct": "books/nutrition/ar/62-nutrition-ar.txt",
+        "cover": "books/nutrition/ar/nutrition-cover-ar.png"
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1FSDSHE3PXe0__slkWQJJh0hZXMK4Mw7W",
         "pdf_direct": "books/nutrition/en/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=13S41SQMOSrl0Hf9kVtc3CMqp_Tbm2lL-",
-        "html": "https://drive.google.com/uc?export=download&id=1Gzqw-PuLruedPvuXPFQyJ476GpHVOf9l",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1vxnRqKonohfaWiT2wdny_zFmfJRbtvaJ",
-        "txt_direct": "books/nutrition/en/content.txt",
-        "cover": "books/nutrition/en/cover-en.png"
+
+        "txt_direct": "books/nutrition/en/62-nutrition-en.txt",
+        "cover": "books/nutrition/en/nutrition-cover-en.png"
       },
       "metadata": {
         "author": "ناصر ابن داوود",
@@ -123,24 +121,22 @@
         "ar": " التأسيس والمنهج — من فقه اللسان إلى هندسة النظم",
         "en": " Foundations & Methodology – From the Linguistics of Revelation to the Engineering of Systems "
       },
-      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/nutrition1/ar/cover-ar.png",
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/nutrition1/ar/nutrition1-cover-ar.png",
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=1B3sB3mFy4ahrKHACiXXHAlfv1-SfOkEn",
         "pdf_direct": "books/nutrition1/ar/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1vAt-zp5OYWJdLhmuGKClMzhT8Fai9TXv",
-        "html": "https://drive.google.com/uc?export=download&id=1or5N4xG8UlooXYwmo06PqDmjaYvFUh6X",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1HrJbZfwJYsbpeYN_Vux-snGvvgX6ZMNQ",
-        "txt_direct": "books/nutrition1/ar/content.txt",
-        "cover": "books/nutrition1/ar/cover-ar.png"
+
+        "txt_direct": "books/nutrition1/ar/63-nutrition1-ar.txt",
+        "cover": "books/nutrition1/ar/nutrition1-cover-ar.png"
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1ticVLNEo3kF3zytqpSaVTPC9K0CKcFdm",
         "pdf_direct": "books/nutrition1/en/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1OO52wkYNljMNHEExnjnAoQX-YEsXIW-z",
-        "html": "https://drive.google.com/uc?export=download&id=1qJaYQ_Ig18K9DkjIz9UWnyrjlPlz1R07",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1oSovqUhYrNKS9cAoiz0osO2a2nzzK1NE",
-        "txt_direct": "books/nutrition1/en/content.txt",
-        "cover": "books/nutrition1/en/cover-en.png"
+
+        "txt_direct": "books/nutrition1/en/63-nutrition1-en.txt",
+        "cover": "books/nutrition1/en/nutrition1-cover-en.png"
       },
       "metadata": {
         "author": "ناصر ابن داوود",
@@ -232,24 +228,22 @@
         "ar": " من الأنعام إلى الشفاء — فقه اللحوم والبروتينات وهندسة الوقاية ",
         "en": " From Livestock to Healing – The Jurisprudence of Meat & Proteins and the Engineering of Prevention "
       },
-      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/nutrition2/ar/cover-ar.png",
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/nutrition2/ar/nutrition2-cover-ar.png",
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=1Ar7HaW9ZXha6lPqwUJZv8m2629HrIK5k",
         "pdf_direct": "books/nutrition2/ar/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1cNVPwEAht5c3aoUpdolQeAb3n8ItzANJ",
-        "html": "https://drive.google.com/uc?export=download&id=1TqINRhFtfVfI4EbmwXNSynBJH7K--lPb",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1bosFd91E0AVSGyXGP_WUH80HGFNHR_5p",
-        "txt_direct": "books/nutrition2/ar/content.txt",
-        "cover": "books/nutrition2/ar/cover-ar.png"
+
+        "txt_direct": "books/nutrition2/ar/64-nutrition2-ar.txt",
+        "cover": "books/nutrition2/ar/nutrition2-cover-ar.png"
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1-pxoRCVsd0o2TDIH9_HI_rif7k7fOWFG",
         "pdf_direct": "books/nutrition2/en/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1gSknQaQ-z6eeNt8wnHk5OEEgwghnZzG_",
-        "html": "https://drive.google.com/uc?export=download&id=1gc9Ju7b5_sjwEABoaTXb7FCgfgwCPbUK",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1vlg91CC90fvI4JX4QLvwrn_vH4yEOHV0",
-        "txt_direct": "books/nutrition2/en/content.txt",
-        "cover": "books/nutrition2/en/cover-en.png"
+
+        "txt_direct": "books/nutrition2/en/64-nutrition2-en.txt",
+        "cover": "books/nutrition2/en/nutrition2-cover-en.png"
       },
       "metadata": {
         "author": "ناصر ابن داوود",
@@ -341,24 +335,22 @@
         "ar": " من علم الساعة إلى الأدوات العملية — الاستشراف والبصيرة التشغيلية",
         "en": " From the Science of the Hour to Practical Tools – The Successor's Map in the Age of Unveiling "
       },
-      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/nutrition3/ar/cover-ar.png",
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/nutrition3/ar/nutrition3-cover-ar.png",
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=1bXhz-FkDZ8hmleVafKcbpKVtV-JHqWKj",
         "pdf_direct": "books/nutrition3/ar/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1ou32KCGnvBQQgnrp_o1E5-Ed2RiD6KRY",
-        "html": "https://drive.google.com/uc?export=download&id=1Athq45PwcUx1Xg7UHqBbSIx5ES1vwmZN",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1QqBd68dPHQYGWBwceaRRfjfvtzwMlub7",
-        "txt_direct": "books/nutrition3/ar/content.txt",
-        "cover": "books/nutrition3/ar/cover-ar.png"
+
+        "txt_direct": "books/nutrition3/ar/65-nutrition3-ar.txt",
+        "cover": "books/nutrition3/ar/nutrition3-cover-ar.png"
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1t_mNWSTlXYmTVPASGXrLsrZQM8AkK6AX",
         "pdf_direct": "books/nutrition3/en/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1MfCHyoDK7hEVJqvcYPG6l0Uc_X02A5Tb",
-        "html": "https://drive.google.com/uc?export=download&id=1etfOrcO8D51vADedk16aeQitdTaash5E",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1izR5lQ_ejzbcKQ5b9Q8F55IfAS0sBDBV",
-        "txt_direct": "books/nutrition3/en/content.txt",
-        "cover": "books/nutrition3/en/cover-en.png"
+
+        "txt_direct": "books/nutrition3/en/65-nutrition3-en.txt",
+        "cover": "books/nutrition3/en/nutrition3-cover-en.png"
       },
       "metadata": {
         "author": "ناصر ابن داوود",

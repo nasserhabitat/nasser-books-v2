@@ -1,0 +1,218 @@
+Riba in the Qur’an and the Contemporary Banking System
+From the Engineering of Entitlement to Testing the Structure of the Transaction
+Volume II — The Banking Laboratory, Product Structures, and the Final Matrices
+A Condensed Conceptual English Adaptation
+Nasser Ibn Dawood
+2026
+◆  ◆  ◆
+nasserhabitat.github.io/nasser-books/
+Source basis: Arabic Volume II, Parts VIII–X, Chapters 66–98, and the General Conclusion.
+I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy: All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library: As of early 2026, the collection hosts 68 volumes (34 in Arabic and 34 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platforms: Main Website: nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+◆  ◆  ◆
+II. Translator’s Note: The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an "extraction of essence." It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.
+For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (Tafsir), and the complete bibliography.
+For Volume II, this adaptation concentrates on the architecture of application: how the method developed in Volume I is brought into contact with contemporary banks, contracts, products, claim states, and documentary evidence without turning a structural audit into an automatic religious verdict.
+A Note on Terminology
+The Arabic term riba is retained rather than automatically replaced by the English word interest. Volume II continues the methodological rule established in Volume I: a modern label cannot be treated as a Qur’anic definition. Likewise, “Islamic bank,” “conventional bank,” “murabaha,” “tawarruq,” “credit card,” or “sukuk” are descriptive entry points, not verdicts.
+OPEN means that the research question has not been closed by sufficient evidence. RESISTED means that a proposed universal formulation failed a stated test. UNKNOWN means that the documents of a particular case do not provide enough information. These statuses must not be strengthened in translation.
+RIBA FINAL DEFINITION = NOT SEALED
+RIBA CLASSIFICATION READINESS = OPEN / NOT PASSED
+Condensed Contents
+1. From the Qur’anic Audit Model to the Banking Laboratory
+2. Part Eight — The Bank Is Not the Unit of Judgment
+3. The Name Firewall: Conventional and Islamic Banks Under the Same Method
+4. Part Nine — The Product Laboratory: What Is Actually Being Tested?
+5. Sale and Lease Structures: Murabaha, Ijarah, and Their Variants
+6. Partnership, Investment, and Deferred-Delivery Structures
+7. Tawarruq and Organized Tawarruq: Path, Agency, Control, and Linkage
+8. Credit Cards, Deposits, and Investment Accounts
+9. Rescheduling, Late Claims, Distress, and Insolvency
+10. Sukuk and Composite Structures
+11. Part Ten — UTVM: A Unified Language for Transaction Audit
+12. Ground and Boundary: The Refined E*-R2 Audit Candidate
+13. Outcome, Claim Rank, and Reproducibility
+14. What Volume II Establishes, Resists, and Leaves Open
+15. How the Foreign Reader Should Use the Two Volumes
+16. Compact Glossary
+This condensed edition deliberately compresses the detailed case registers, regulatory quotations, long matrices, and document-by-document product audits. The Arabic original remains the controlling source for those details.
+1. From the Qur’anic Audit Model to the Banking Laboratory
+Volume II begins where Volume I ends. The first volume constructed a disciplined language for examining riba without pretending that the final Qur’anic definition had already been sealed. The second volume does not reverse that caution. Instead, it asks whether the audit language can survive contact with contemporary finance.
+This transition changes the material under examination. In the Qur’anic phase, the evidence consists of a frozen corpus, lexical relations, contextual blocks, resistant cases, and claim ranks. In the banking phase, the evidence consists of contracts, product terms, transaction events, balances, ownership records, payment schedules, agency arrangements, regulatory definitions, and actual execution. The source layers are therefore different, and the book refuses to let them collapse into one another.
+The key practical question becomes: what happened? What moved? Who owned what, and when? Which claim arose? Why was it owed? What limited it? What role did time play? Did a later event create a new claim or merely activate an old one? Which elements are facts, which are contractual labels, and which are model inferences?
+The governing transition can be stated simply: Volume I builds the instrument; Volume II tests the instrument. But the instrument is an audit model, not a classifier. The Qur’anic Model Gate remains a conditional pass for structural audit only.
+QUR’ANIC MODEL GATE = CONDITIONAL PASS — STRUCTURAL AUDIT ONLY
+STRUCTURAL AUDIT READINESS = PASS
+RIBA CLASSIFICATION READINESS = OPEN / NOT PASSED
+The Central Discipline of Volume II
+No contemporary example is allowed to return retroactively and rewrite the Qur’anic corpus. A bank product may reveal that the audit model needs a new descriptive variable, but it cannot by itself promote an OPEN Qur’anic hypothesis into a law. The direction of authority is controlled: Qur’anic findings constrain the application model; application data test the usability of that model; application data do not become new Qur’anic evidence.
+2. Part Eight — The Bank Is Not the Unit of Judgment
+Part Eight begins with a deceptively simple question: What is a bank? The answer is methodologically decisive. A bank is not one transaction, one contract, or one function. It is an institution that combines deposits, credit, payments, financing, investment, agency, custody, liquidity transformation, and other activities. Therefore, the institution itself cannot be the primary unit of classification.
+The primary unit is the transaction case. This is true whether the institution describes itself as conventional or Islamic. A single bank can contain multiple products; a single product can contain multiple contracts; a single contract can generate multiple events; and a single event can create more than one claim. The book therefore insists on a chain of distinctions: institution ≠ product ≠ case ≠ event ≠ claim.
+This dismantles two opposite shortcuts. The label “conventional bank” does not classify every transaction inside the institution as riba. The label “Islamic bank” does not classify every transaction inside that institution as non-riba. Both institutions enter the same structural laboratory.
+Legal Form and Economic Execution
+Part Eight also develops a dual-mapping protocol. Legal form records how the relationship is drafted. Economic and operational structure records how assets, money, rights, control, and obligations actually move. The two maps may correspond, or they may diverge. Neither map is sufficient by itself.
+This is why similarity in cash flow does not prove identity of contracts, and difference in legal names does not prove difference of structures. The audit must preserve both the documentary form and the executed path.
+3. The Name Firewall: Conventional and Islamic Banks Under the Same Method
+One of Volume II’s strongest operational rules is the Name Firewall. A name can organize the file, but it cannot decide the result. The same rule applies to the institution, the contract family, and the marketed product.
+A conventional bank is decomposed into functions and cases. An Islamic bank is decomposed in exactly the same way. The method asks which assets were present, whether ownership was documented, how claims arose, what the payment schedule did, which party controlled the relevant decision, and what happened at default or restructuring. The analysis does not begin from institutional identity.
+This prevents two forms of nominal bias. The first is protective bias: treating an Islamic label as proof that the executed structure is sound. The second is accusatory bias: treating economic resemblance to a conventional product as proof that two structures are identical. Both shortcuts are rejected.
+Case Result ≠ Product Class ≠ Institution Ruling
+A finding in one executed murabaha does not automatically generalize to every murabaha. A finding about one credit card product does not generalize to all cards. A finding about one product does not become a judgment on the bank as a whole. Volume II repeatedly preserves these levels because the documentary path, agency structure, fees, ownership timeline, counterparty network, and default clauses can differ materially from one case to another.
+4. Part Nine — The Product Laboratory: What Is Actually Being Tested?
+Part Nine applies the model to eighteen product or post-origination domains: murabaha; murabaha to the purchase orderer; ijarah; lease-to-own structures; musharakah; diminishing musharakah; mudarabah; salam; istisna; tawarruq; organized tawarruq; credit cards; accounts and deposits; investment accounts; rescheduling; late-payment claims; default and insolvency; and sukuk or composite structures.
+The purpose is not to compile a catalogue of halal and haram labels. The purpose is to ask whether a common structural language can reconstruct transactions that look very different on the surface.
+Across the laboratory, a stable set of questions reappears: What is the object? Who are the parties? Who owns the object? Who possesses it? Who controls disposition? What transfer occurred? What claim arose? What is its origin? What is the time function? Is there an additional amount Δ? When did it arise? What is its calculation base? What is the Ground of the claim? What is its Boundary? What evidence supports each field?
+The repeated result is methodological rather than classificatory: the same variable can perform different functions in different structures. Time can be a delivery period, use period, payment term, investment horizon, grace period, maturity trigger, or default threshold. Debt can arise from a loan, a deferred sale, a card transaction, or a later modification. An increase can be an original margin, a fee, a realized investment return, a compensation claim, or a post-default addition. The label does not tell us which function is present.
+5. Sale and Lease Structures: Murabaha, Ijarah, and Their Variants
+Murabaha
+The murabaha laboratory demonstrates the book’s method in its clearest form. Contemporary murabaha is commonly described as a cost-plus sale: the institution acquires an asset and sells it to the customer at cost plus an agreed profit, often with deferred payment. Volume II accepts this as a contemporary description, not as a Qur’anic classification.
+The audit therefore separates the asset path from the claim path. It asks whether the institution actually acquired the asset, when ownership changed, whether possession or control existed, what the institution’s cost was, how the profit component was calculated, what deferred claim arose after sale, which fees were separate claims, and what later events occurred at early settlement, default, or rescheduling.
+Several important negative rules emerge. An asset’s presence is not a non-riba classifier. A profit label does not establish the Ground of the claim. A deferred price does not by itself classify the structure. Debt, time, and increase remain non-sufficient variables. The crucial distinction is between a pricing formula and an entitlement ground: knowing how much was charged is not the same as knowing why each amount was owed.
+Murabaha to the Purchase Orderer
+Where a customer first requests that the institution acquire an asset, the audit adds a pre-contract layer: promise, order, agency, supplier selection, binding effect, timing, and the sequence between request, institutional acquisition, and resale. The existence of a preliminary promise does not collapse the later sale into the earlier stage; each event must be timestamped and evidenced.
+Ijarah and Lease-to-Own
+Ijarah makes the distinction between ownership and use explicit. The object of the claim is not necessarily the asset itself but the use of the asset during a defined period. Rent, ownership, maintenance obligations, damage risk, use rights, and eventual transfer must therefore be mapped separately. In lease-to-own structures, present use and future ownership cannot be merged into a single state. A promised or later transfer of title is a separate event.
+6. Partnership, Investment, and Deferred-Delivery Structures
+Musharakah and Diminishing Musharakah
+Partnership structures force the model to distinguish ownership share, capital contribution, management, profit allocation, loss exposure, acquisition of units, and exit. In diminishing musharakah, the customer’s gradual acquisition of the institution’s share creates a changing ownership timeline. The audit must therefore version the ownership state rather than describe the relationship with one static percentage.
+Risk sharing is recorded as an application variable, but it is not promoted into a Qur’anic classifier. The book resists the shortcut “shared risk = non-riba” just as it resists “fixed return = riba” when these formulas are offered without a tested exclusive separator.
+Mudarabah and Investment Participation
+Mudarabah shifts the question toward capital, management, realized profit, agreed distribution ratios, investment loss, negligence, reserves, and the difference between expected and realized return. A projected rate is not a guaranteed entitlement by itself, and a distribution must be traced back to its actual source.
+Salam and Istisna
+Salam and istisna are especially important resistant cases for simplistic theories of time. In salam, payment may occur now while delivery of the commodity occurs later. In istisna, manufacturing or construction unfolds over a performance period that may be separate from the payment schedule. These structures demonstrate why time cannot be treated as one undifferentiated variable. Delivery time, manufacturing time, payment time, and maturity perform different functions.
+The larger methodological lesson is that deferred performance is not identical to money debt, and a future delivery date is not automatically an entitlement ground for a financial addition.
+7. Tawarruq and Organized Tawarruq: Path, Agency, Control, and Linkage
+Tawarruq is treated as a path problem. A typical contemporary sequence may involve a seller or broker, a bank, a customer, and a third-party buyer. Commodity flow, cash flow, and claim flow must be mapped separately. The origin of the customer’s deferred obligation is not the same event as the later liquidity outcome obtained by resale.
+Organized tawarruq adds a second layer: who designed and controlled the resale path? Volume II therefore examines pre-arrangement, agency, broker networks, buyer selection, customer control, delivery options, timestamps, gross versus net settlement, and the possibility of the commodity returning through a related network.
+A central contribution here is the idea that linkage is multidimensional. Two contracts can be legally separate yet operationally dependent. Linkage may be legal, conditional, operational, agency-based, pricing-based, counterparty-based, settlement-based, or technological. A clause stating “no linkage” does not prove that no linkage exists in execution.
+The book uses an Organization Spectrum and round-trip levels as descriptive tools. These are not Qur’anic ranks and do not carry an automatic verdict. Likewise, customer ownership is not the same as customer control, a third-party agent is not automatically independent, and automated execution is not automatically identical to one contract. The laboratory records these variables and preserves UNKNOWN when documents do not resolve them.
+8. Credit Cards, Deposits, and Investment Accounts
+Credit Cards
+The credit-card analysis rejects the idea that “the card” is one claim. A single account may contain purchase transactions, cash advances, foreign-exchange conversions, network settlement, statement balances, grace periods, minimum payments, revolving balances, late fees, and other charges. Each event can generate a distinct claim with its own origin, timing, beneficiary, and Ground.
+Authorization is not final settlement. Merchant payment is not cardholder repayment. A credit limit is not debt until an event creates a claim. A grace period is not the absence of obligation. A late fee is not automatically the same as term cost. These distinctions matter because one account can contain multiple temporal functions and multiple claim types.
+Accounts and Deposits
+The deposit chapters distinguish custody language from the actual balance-sheet relationship. A customer account balance is not necessarily segregated physical cash. The customer may hold a claim against the institution rather than title to the same physical units of money originally deposited. On-demand payment rights, bank use of funds, deposit-protection schemes, and contractual return claims are mapped separately.
+Investment Accounts
+Profit-sharing investment accounts require a different map. The customer’s position may be participatory rather than a fixed deposit claim. The book distinguishes restricted and unrestricted accounts, mudarabah and wakalah forms, pooled performance, distribution policy, reserves, early exit, valuation, and loss allocation. Expected return, historical stability, and smoothing mechanisms are not identical to guaranteed entitlement.
+9. Rescheduling, Late Claims, Distress, and Insolvency
+Rescheduling
+Rescheduling is treated as a change of state, not as a replay of origination. The model separates the original claim from later modification. Time passage, maturity, nonpayment, and modification are four different events. If a later claim is added, it receives its own Claim ID and must be traced to a stated Ground.
+This is where claim versioning becomes essential: C0 → C1 → C2. A later balance can hide the history of how it was formed. If an added amount becomes part of the base on which later additions are calculated, the model records Base Mutation. Capitalization is therefore a structural variable; it does not prove by itself that new cash or new value was transferred.
+Late Fees and Post-Due Claims
+The late-payment chapter creates a taxonomy rather than a verdict. A post-due amount may be described as a late fee, term cost, collection expense, legal expense, compensation claim, donation commitment, capitalized amount, or another post-due claim. These labels must be tested against actual function and evidence.
+One of the chapter’s strongest distinctions is GROUND ≠ BOUNDARY. A regulator may cap a fee without explaining the ultimate Ground of the claim. Conversely, a service or actual expense may have an intelligible Ground while the amount or limit remains disputed. Actual cost must be evidenced; opportunity loss is not the same thing as an actual expense; penalty and compensation are not identical categories.
+Default, Distress, and Insolvency
+The debtor-state chapter rejects a cluster of false synonyms: late ≠ past due ≠ regulatory default ≠ financial distress ≠ illiquidity ≠ insolvency ≠ bankruptcy ≠ procrastination. A claim can be past due while the debtor is solvent; a debtor can be distressed before missing a payment; temporary illiquidity is not identical to balance-sheet insolvency; and legal bankruptcy is not the same state as economic difficulty.
+Debtor State and Claim State are therefore audited separately. Hardship can affect the remedy layer—such as forbearance, restructuring, or enforcement—without becoming the definition of riba. If evidence about the debtor’s ability is missing, the correct state is UNKNOWN, not a moral or legal inference.
+10. Sukuk and Composite Structures
+Sukuk close the product laboratory because they expose the limits of label-based analysis. A single certificate may sit above a Special Purpose Vehicle, an originator, one or more asset pools, leases or sales, servicing arrangements, purchase undertakings, guarantees, liquidity facilities, distribution waterfalls, and redemption mechanisms.
+The book therefore asks what the certificate holder actually holds: an interest in a tangible asset, a usufruct, a receivable, a project, a partnership interest, or another right. Certificate ≠ underlying asset. Underlying asset ≠ cash-flow source by default. SPV legal separation ≠ economic independence by default. Purchase undertaking ≠ original asset transfer. Periodic distribution ≠ one universal return source.
+Composite structures require parallel maps of parties, assets, contracts, cash flows, and claims. They also require multi-state versioning, because asset pools can change, support facilities can activate, servicers can advance funds, and maturity or default can create new events. The final cash flow cannot substitute for transaction history.
+This chapter marks the structural completion of the product laboratory. No product-wide riba or non-riba verdict is issued. The laboratory’s achievement is the ability to reconstruct increasingly complex structures in a common language.
+11. Part Ten — UTVM: A Unified Language for Transaction Audit
+Part Ten turns the lessons of the product laboratory into the Unified Transaction Variable Matrix, UTVM v1.0. Its purpose is not to classify transactions but to make heterogeneous cases describable in the same structural grammar.
+The matrix operates through twelve layers: identity; parties; objects; ownership, possession, and control; transfers; claims and debt; time; additional amounts, fees, and returns; Ground and Boundary; risk, loss, and debtor state; linkage, agency, and execution; and finally evidence, claim rank, and output.
+The strength of UTVM is its insistence on granularity. One contract may require several rows. One event may create several claims. One actor may perform several roles. One case may contain several time functions. One claim may require several items of evidence. Missing information is never silently filled; cells are marked VALUE, UNKNOWN, NOT APPLICABLE, CONTESTED, or DOCUMENT-PENDING.
+The matrix also uses blind structural comparison. Product and institution labels can be masked, cases aligned variable by variable, and differences marked as SAME, PARTIAL, DIFFERENT, or UNKNOWN before labels are restored. Yet no global structural score is authorized, because the model has not established universal weights for the variables.
+UTVM implements D, Δ, and E* as audit fields, not as a definition. The success of a matrix in describing transactions does not prove the final semantic definition of riba.
+The Three Major Specialized Matrices
+Asset–Ownership–Possession–Control Matrix: separates the object from legal ownership, beneficial ownership, possession, control, disposal authority, security rights, and claim holder.
+Debt–Time–Delta Matrix: separates claim origin, time function, maturity, post-origin modification, additional amount, calculation base, capitalization, and Base Mutation.
+Ground–Boundary Matrix: asks why each claim is owed and what limits it, while preserving the counter-right of the other party.
+12. Ground and Boundary: The Refined E*-R2 Audit Candidate
+The strongest conceptual candidate carried into the application stage is E*-R2: Entitlement Ground + Bilateral Rights Boundary. It is powerful because it can be asked across sale, lease, service, agency, investment, fees, compensation, restructuring, and composite structures. Yet its status remains deliberately limited: strong audit candidate, OPEN.
+Ground answers: Why is this amount or right owed? Trigger answers: What event activated the claim? Formula answers: How was the amount calculated? Beneficiary answers: Who receives it? Boundary answers: What limits the right in amount, scope, duration, condition, remedy, and counter-right? Volume II repeatedly shows that these questions are related but non-identical.
+This distinction becomes particularly important for fees, compensation, late-payment claims, and actual-cost arguments. An event such as delay can trigger a claim, but the event is not automatically the Ground. A percentage formula can calculate an amount, but the formula does not explain why the amount is owed. A regulatory cap can limit a claim, but a cap is not the full Ground.
+Bilateral Rights Boundary also prevents the creditor’s right from erasing the obligor’s rights. This does not mean numerical equality. It means that the claim is examined together with its evidentiary basis, limits, counter-rights, dispute mechanisms, and treatment of hardship where relevant.
+The methodological caution remains decisive: audit usefulness is not semantic necessity. E*-R2 may be the strongest question set in the model without yet being the final Qur’anic separator of riba from all non-riba transactions.
+E*-R2 = STRONG AUDIT CANDIDATE / OPEN
+D + Δ + E* = AUDIT FRAME — NOT SEALED DEFINITION
+13. Outcome, Claim Rank, and Reproducibility
+Outcome Is Not Definition
+Volume II prevents another common shortcut: deriving identity from outcome. Profit does not prove non-riba. Loss does not prove riba. Harm does not define riba. Benefit does not negate it. Regulatory breach does not by itself establish Qur’anic identity. Structural defect does not automatically equal riba.
+The relation between riba and mahq remains a meaningful Qur’anic outcome relation, but mahq is not promoted into the semantic core. Likewise, the contrast between riba and charity or zakat remains a strong functional reference contrast rather than a sealed inverse definition.
+Evidence Rank Is Not Claim Rank
+A modern contract can be supported by very strong case evidence while the Qur’anic interpretation connected to it remains OPEN. Volume II therefore distinguishes evidence rank from scientific claim rank. A signed contract, account statement, trade confirmation, title record, or independent corroboration can strengthen an application fact, but it cannot by itself promote an R3 Qur’anic hypothesis to R2.
+Reproducibility
+The final chapter converts the book into a reproducibility protocol. Another researcher should be able to identify the frozen corpus, inspect the claim register, repeat resistant tests, re-run QTAM, populate UTVM, trace every material cell to a source, record differences, and preserve the original result even when a later retest changes it.
+Reproducibility does not mean forced agreement. A replication may reach the same result, a partial result, a different result because the data differ, or a different result because interpretation differs. Data failure is not hypothesis failure. Hypothesis failure is not automatically model failure. Model gaps are not the same as corpus gaps. Every layer must be diagnosed separately.
+Negative results are treated as scientific assets. OPEN residuals are valid end states. Supersession never means silent rewriting of the earlier record.
+14. What Volume II Establishes, Resists, and Leaves Open
+What Volume II Establishes at the Application Level
+The bank is a multi-function institution, not a single transaction.
+The transaction case is the primary application unit; institution, product, case, event, and claim must be distinguished.
+Names do not classify structures. The same method is applied to conventional and Islamic institutions.
+Legal form and economic execution require separate maps.
+Asset, ownership, possession, control, claim, debt, time, and additional amount are non-identical variables.
+A single product can contain multiple claims and multiple time functions.
+Post-origination modifications require claim versioning and separate identification of new amounts.
+Ground and Boundary are related but non-identical audit dimensions.
+Debtor State and Claim State must be kept separate.
+Composite products require parallel maps of parties, assets, contracts, cash flows, and claims.
+UTVM provides a unified description language; QTAM provides a structural audit sequence.
+Another researcher can re-test the method without inheriting the conclusion as a premise.
+What the Laboratory Resists
+Product name = Qur’anic classification.
+Islamic institution = automatic non-riba classification.
+Conventional institution = automatic riba classification.
+Presence of an asset = proof of non-riba.
+Ownership = exclusive separator.
+Risk sharing = exclusive separator.
+Debt = riba.
+Time or term = riba.
+Increase = riba.
+A fixed or determinable return = riba by itself.
+Similarity of final cash flows = identity of transaction structure.
+A good or bad outcome = transaction definition.
+A regulatory rule or external fiqh standard = Qur’anic semantic law.
+What Remains Formally Open
+The final Qur’anic definition of riba.
+The exclusive semantic separator between sale and riba.
+The necessity status of Δ.
+The necessity status of E* and the refined E*-R2 candidate.
+Universal debt containment.
+The exact subset relation, if any, between riba and financial batil.
+Promotion of specific Mathani relations into narrower semantic laws.
+Any product-wide riba/non-riba classification not supported by a separately passed classification gate.
+RIBA FINAL DEFINITION = NOT SEALED
+RIBA CLASSIFICATION READINESS = OPEN / NOT PASSED
+15. How the Foreign Reader Should Use the Two Volumes
+The two volumes form one methodological sequence. Volume I should be read as the epistemic and Qur’anic foundation. It explains why the familiar one-variable definitions are insufficient, how the corpus is frozen, how resistant cases work, how claim ranks are governed, and why the final definition remains unsealed. Volume II should be read as the application laboratory that tests whether this disciplined language can reconstruct contemporary financial structures without collapsing them into names or outcomes.
+A foreign reader should therefore resist the temptation to jump directly to a product chapter and treat the audit questions as a verdict. The product laboratory presupposes the scientific limits established in Volume I. In particular, debt, time, increase, risk, and ownership are retained as variables because they matter structurally, not because any one of them has been established as the universal definition of riba.
+The most productive reading strategy is to follow four steps. First, identify the documentary facts of the case. Second, reconstruct the sequence of assets, money, rights, control, and claims. Third, ask Ground and Boundary questions for each material claim. Fourth, state only the output rank that the evidence supports: identified fact, structural finding, resisted feature, open candidate, unknown, or no classification.
+The work is therefore best understood not as a replacement for legal or juristic scholarship, but as a governance framework for disciplined Qur’anic-semantic and transaction-structural inquiry. Its contribution lies as much in what it refuses to overclaim as in what it positively maps.
+16. Compact Glossary
+Riba: The Qur’anic term under investigation. It is retained in transliteration rather than automatically equated with modern interest.
+QTAM v0.1: Qur’anic Transaction Audit Model. A structural audit sequence; not an automatic riba classifier.
+UTVM v1.0: Unified Transaction Variable Matrix. A common descriptive grammar for heterogeneous transactions.
+Name Firewall: The rule that institution, product, and contract names cannot classify the underlying structure by themselves.
+Case: The executed transaction or sufficiently specified transaction instance used as the primary application unit.
+Claim: A right to money, performance, delivery, or another entitlement that must be given its own origin and evidence.
+Ground: Why a particular claim or right is owed.
+Boundary: The amount, scope, duration, trigger, remedy, and counter-right that limit the claim.
+Δ (Delta): An additional, directional, or extended change whose type, timing, base, beneficiary, and function must be identified.
+E*-R2: The refined audit candidate: Entitlement Ground + Bilateral Rights Boundary. Strong as an audit question; still OPEN as a final semantic separator.
+Ownership Timeline: A time-indexed record of who owns an asset at each relevant event.
+Possession: Physical or constructive control/holding of an asset; not identical to ownership.
+Control: Operational authority over use, sale, delivery, timing, or other decisions; not automatically identical to title.
+Claim Versioning: Tracking C0 → C1 → C2 when an existing claim is modified after origination.
+Base Mutation: A later claim being calculated on a base that already includes a prior added amount.
+Linkage: Legal, conditional, operational, agency, pricing, counterparty, settlement, or technological dependence between transactions.
+Default: A regulatory or contractual non-performance state; not automatically identical to insolvency or procrastination.
+Distress: Documented financial difficulty; not necessarily insolvency.
+Insolvency: A financial or legal inability-to-pay state whose criterion must be explicitly named.
+OPEN: A research question not closed by sufficient evidence.
+RESISTED: A formulation that failed a specified necessity, sufficiency, or exclusivity test.
+UNKNOWN: Case data are missing; distinct from an OPEN research question.
+Source Layer: The provenance category of a claim: Qur’anic, regulatory, accounting, external fiqh, case document, or model inference.
+Reproducibility: The ability of another researcher to trace and repeat the method, not an obligation to reach the same conclusion.
+◆  ◆  ◆
+End of the condensed conceptual adaptation of Volume II.
+For full linguistic analysis, complete case registers, source documentation, detailed matrices, and the original Arabic argumentation, consult the Arabic edition.
+nasserhabitat.github.io/nasser-books/

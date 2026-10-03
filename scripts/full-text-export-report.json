@@ -1,0 +1,604 @@
+[
+  {
+    "number": 70,
+    "language": "ar",
+    "notes": 0,
+    "equations": 8,
+    "text_enriched": true
+  },
+  {
+    "number": 70,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 71,
+    "language": "ar",
+    "notes": 0,
+    "equations": 6,
+    "text_enriched": true
+  },
+  {
+    "number": 71,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 72,
+    "language": "ar",
+    "notes": 0,
+    "equations": 7,
+    "text_enriched": true
+  },
+  {
+    "number": 72,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 73,
+    "language": "ar",
+    "notes": 0,
+    "equations": 2,
+    "text_enriched": true
+  },
+  {
+    "number": 73,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 74,
+    "language": "ar",
+    "notes": 0,
+    "equations": 39,
+    "text_enriched": true
+  },
+  {
+    "number": 74,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 75,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 75,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 76,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 76,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 77,
+    "language": "ar",
+    "notes": 0,
+    "equations": 45,
+    "text_enriched": true
+  },
+  {
+    "number": 77,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 78,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 78,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 79,
+    "language": "ar",
+    "notes": 0,
+    "equations": 142,
+    "text_enriched": true
+  },
+  {
+    "number": 79,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 80,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 80,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 81,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 81,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 82,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 82,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 83,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 83,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 84,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 84,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 85,
+    "language": "ar",
+    "notes": 57,
+    "equations": 0,
+    "text_enriched": true
+  },
+  {
+    "number": 85,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 86,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 86,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 87,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 87,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 88,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 88,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 89,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 89,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 90,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 90,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 91,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 91,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 92,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 92,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 93,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 93,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 94,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 94,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 95,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 95,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 96,
+    "language": "ar",
+    "notes": 31,
+    "equations": 0,
+    "text_enriched": true
+  },
+  {
+    "number": 96,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 97,
+    "language": "ar",
+    "notes": 17,
+    "equations": 0,
+    "text_enriched": true
+  },
+  {
+    "number": 97,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 98,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 98,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 99,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 99,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 100,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 100,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 101,
+    "language": "ar",
+    "notes": 0,
+    "equations": 8,
+    "text_enriched": true
+  },
+  {
+    "number": 101,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 102,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 102,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 103,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 103,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 104,
+    "language": "ar",
+    "notes": 0,
+    "equations": 4,
+    "text_enriched": true
+  },
+  {
+    "number": 104,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 105,
+    "language": "ar",
+    "notes": 0,
+    "equations": 26,
+    "text_enriched": true
+  },
+  {
+    "number": 105,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 106,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 106,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 107,
+    "language": "ar",
+    "notes": 0,
+    "equations": 94,
+    "text_enriched": true
+  },
+  {
+    "number": 107,
+    "language": "en",
+    "notes": 0,
+    "equations": 7,
+    "text_enriched": true
+  },
+  {
+    "number": 108,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 108,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 109,
+    "language": "ar",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 109,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 110,
+    "language": "ar",
+    "notes": 0,
+    "equations": 156,
+    "text_enriched": true
+  },
+  {
+    "number": 110,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  },
+  {
+    "number": 111,
+    "language": "ar",
+    "notes": 0,
+    "equations": 58,
+    "text_enriched": true
+  },
+  {
+    "number": 111,
+    "language": "en",
+    "notes": 0,
+    "equations": 7,
+    "text_enriched": true
+  },
+  {
+    "number": 112,
+    "language": "ar",
+    "notes": 0,
+    "equations": 155,
+    "text_enriched": true
+  },
+  {
+    "number": 112,
+    "language": "en",
+    "notes": 0,
+    "equations": 0,
+    "text_enriched": false
+  }
+]

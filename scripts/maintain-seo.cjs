@@ -11,6 +11,11 @@ const esc = s => String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(
 const catalog = JSON.parse(read('ai-index.json')).books;
 const changes = new Map(), issues = [], bookUrls = [];
 const migrate = s => s.replaceAll('https://nasserhabitat.github.io/nasser-books/',base);
+// Derive downloadable editions solely from the authoritative catalogue.
+function encodings(book,lang) {
+ const r=book[lang], types=[['txt_direct','text/plain'],['docx','application/vnd.openxmlformats-officedocument.wordprocessingml.document'],['pdf_external','application/pdf']];
+ return types.filter(([key])=>r[key]).map(([key,type])=>({'@type':'MediaObject',encodingFormat:type,contentUrl:r[key],inLanguage:lang}));
+}
 function update(file,url,book,lang,alternates) {
  const original=read(file);
  const match=original.match(/<head\b[^>]*>([\s\S]*?)<\/head>/i);
@@ -37,7 +42,8 @@ function update(file,url,book,lang,alternates) {
     }
     if(primary) {
      out.url=url; out['@id']=url+'#book'; out.inLanguage=lang;
-     out.image=base+book[lang].cover.replace(/^.*\/books\//,'books/');
+     out.encoding=encodings(book,lang);
+     if(book[lang].cover) out.image=base+book[lang].cover.replace(/^.*\/books\//,'books/');
      if(!out.name) out.name=book.titles[lang];
      if(!out.description) out.description=book.description[lang];
      if(!out.author) out.author={'@type':'Person',name:lang==='ar'?'ناصر ابن داوود':'Nasser Ibn Dawood'};
@@ -49,9 +55,11 @@ function update(file,url,book,lang,alternates) {
   return `<script${attrs}>\n${JSON.stringify(visit(data),null,2).replace(/</g,'\\u003c')}\n</script>`;
  });
  if(book&&!bookFound) {
-  const data={'@context':'https://schema.org','@type':'Book','@id':url+'#book',url,name:book.titles[lang],description:book.description[lang],inLanguage:lang,author:{'@type':'Person',name:lang==='ar'?'ناصر ابن داوود':'Nasser Ibn Dawood'},image:base+book[lang].cover.replace(/^.*\/books\//,'books/')};
+  const data={'@context':'https://schema.org','@type':'Book','@id':url+'#book',url,name:book.titles[lang],description:book.description[lang],inLanguage:lang,author:{'@type':'Person',name:lang==='ar'?'ناصر ابن داوود':'Nasser Ibn Dawood'}};
+  if(book[lang].cover) data.image=base+book[lang].cover.replace(/^.*\/books\//,'books/');
   data.license='https://creativecommons.org/licenses/by-sa/4.0/';
   data.isAccessibleForFree=true;
+  data.encoding=encodings(book,lang);
   extra+=`    <script type="application/ld+json">${JSON.stringify(data).replace(/</g,'\\u003c')}</script>\n`;
  }
  if(book&&!/<meta\b[^>]*name=["']description["']/i.test(head)) extra+=`    <meta name="description" content="${esc(book.description[lang])}">\n`;
@@ -60,10 +68,10 @@ function update(file,url,book,lang,alternates) {
  changes.set(file,next);
 }
 for(const book of catalog) {
- const folders=Object.fromEntries(['ar','en'].map(lang=>[lang,book[lang].txt_direct.replace(/^.*\/books\//,'books/').replace(/content\.txt$/,'')]));
+ const folders=Object.fromEntries(['ar','en'].map(lang=>[lang,path.posix.dirname(book[lang].txt_direct.replace(/^.*\/books\//,'books/'))+'/']));
  const urls=Object.fromEntries(['ar','en'].map(lang=>[lang,base+folders[lang]]));
  for(const lang of ['ar','en']) {
-  if(!exists(folders[lang]+'index.html')||!exists(book[lang].cover.replace(/^.*\/books\//,'books/'))) throw Error('Missing page/cover: '+book.id+lang);
+  if(!exists(folders[lang]+'index.html')||(book[lang].cover&&!exists(book[lang].cover.replace(/^.*\/books\//,'books/')))) throw Error('Missing page/cover: '+book.id+lang);
   update(folders[lang]+'index.html',urls[lang],book,lang,urls);bookUrls.push(urls[lang]);
  }
 }

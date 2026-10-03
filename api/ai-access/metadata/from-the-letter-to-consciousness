@@ -11,7 +11,7 @@
     "author": {
       "name": "ناصر ابن داوود",
       "email": "nasserhabitat@gmail.com",
-      "website": "https://nasserhabitat.github.io/nasser-books/"
+      "website": "https://nasserhabitat.github.io/nasser-books-v2/"
     },
     "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
   },
@@ -30,21 +30,19 @@
         "docx": "https://drive.google.com/uc?export=download&id=1xNFrqZjsypDd1IqW7yEbc-m72zhNVTyG",
         "pdf_direct": "books/from-the-letter-to-consciousness/ar/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1qdBl4FRtrUkomGObePr6qKY6Y6Qdct6H",
-        "html": "https://drive.google.com/uc?export=download&id=1NNSTSNGxBfwvFSVPJaCygBSh50tbR67S",
-        "txt_external": "https://drive.google.com/uc?export=download&id=11jndZKslD_W5kJ5SrnCtweKqcGVNcU7p",
-        "txt_direct": "books/from-the-letter-to-consciousness/ar/content.txt",
-        "cover": "books/from-the-letter-to-consciousness/ar/cover-ar.png",
-        "archive": "https://archive.org/details/20251111_20251111_2115"
+
+        "txt_direct": "books/from-the-letter-to-consciousness/ar/19-from-the-letter-to-consciousness-ar.txt",
+        "cover": "books/from-the-letter-to-consciousness/ar/from-the-letter-to-consciousness-cover-ar.png",
+
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=13kWSwu6hqkQu_4LrWectTQeDQBZZDi1K",
         "pdf_direct": "books/from-the-letter-to-consciousness/en/content.pdf",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1u0JS2WHY-qzOGMBmMf9HdmqGT66sipqI",
-        "html": "https://drive.google.com/uc?export=download&id=19I2QgKcNKKhOxCWxKKiWzLaBB69CzbC1",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1BcBQNiaX_qi_neit19x26kdLKoqzTPZZ",
-        "txt_direct": "books/from-the-letter-to-consciousness/en/content.txt",
-        "cover": "books/from-the-letter-to-consciousness/en/cover-en.png",
-        "archive": "https://archive.org/details/from-letter-to-consciousness"
+
+        "txt_direct": "books/from-the-letter-to-consciousness/en/19-from-the-letter-to-consciousness-en.txt",
+        "cover": "books/from-the-letter-to-consciousness/en/from-the-letter-to-consciousness-cover-en.png",
+
       },
       "metadata": {
         "author": "ناصر ابن داوود",

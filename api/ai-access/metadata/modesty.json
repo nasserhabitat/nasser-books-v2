@@ -5,66 +5,71 @@
     "ai_compatible": true,
     "last_updated": "2025-08-28",
     "total_books": 24,
-    "languages": ["ar", "en"],
-    "formats": ["html", "pdf", "txt"],
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "formats": [
+      "pdf",
+      "txt"
+    ],
     "license": "CC BY-SA 4.0",
     "author": {
       "name": "ناصر ابن داوود",
       "email": "nasserhabitat@gmail.com",
-      "website": "https://nasserhabitat.github.io/nasser-books/"
+      "website": "https://nasserhabitat.github.io/nasser-books-v2/"
     },
     "description": "مكتبة تحتوي على 24 كتابًا (12 كتابًا باللغة العربية و12 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
   },
   "book": {
-   
-      "id": "modesty",
-      "titles": {
-        "ar": "الحَيَاءُ - سياج الروح وبوصلة الفهم",
-        "en": "Modesty: From the Energy of Modesty to the Key to Knowledge"
-      },
-      "description": {
-        "ar": "دراسة معمقة للحياء كأداة معرفية وأخلاقية في فهم القرآن الكريم",
-        "en": "An in-depth study of modesty as a cognitive and ethical tool in understanding the Quran"
-      },
-      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/modesty/ar/cover-ar.png",
-      "links": {
-        "ar": {
-                  "ar": "دراسة معمقة للحياء كأداة معرفية وأخلاقية في فهم القرآن الكريم",
-        "en": "An in-depth study of modesty as a cognitive and ethical tool in understanding the Quran"
-      },
-      "cover_image": "https://nasserhabitat.github.io/nasser-books/books/modesty/ar/cover-ar.png",
+    "id": "modesty",
+    "titles": {
+      "ar": "الحَيَاءُ - سياج الروح وبوصلة الفهم",
+      "en": "Modesty: From the Energy of Modesty to the Key to Knowledge"
+    },
+    "description": {
+      "ar": "دراسة معمقة للحياء كأداة معرفية وأخلاقية في فهم القرآن الكريم",
+      "en": "An in-depth study of modesty as a cognitive and ethical tool in understanding the Quran"
+    },
+    "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/modesty/ar/modesty-cover-ar.png",
+    "links": {
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=10VgKHsC1lLNPoaOkuvYzdRFVeRsGIiDb",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=1u6AfgQ8cgj-4e3e_zf43p76d6hxnWoXj",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1u6AfgQ8cgj-4e3e_zf43p76d6hxnWoXj",
-        "html": "https://drive.google.com/uc?export=download&id=10D9QpVbrmGP-kDCSp4ZP7rbB-KPdfcn-",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1aRFyozeTPUJz551g9V_mYKIwJDs5a7e_",
-        "txt_direct": "books/modesty/ar/content.txt",
-        "cover": "books/modesty/ar/cover-ar.png",
-        "archive": "https://archive.org/details/20250707_20250707_0929/page/n2/mode/1up"
+        "txt_direct": "books/modesty/ar/10-modesty-ar.txt",
+        "cover": "books/modesty/ar/modesty-cover-ar.png"
       },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/modesty/ar/modesty-cover-ar.png",
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1tK5YW7-FqI5b4OilsA3fxvPl-7VOO-a2",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=1i5__DOFOeEH8XhaL2vKlsK6JIgnQq7Vp",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1i5__DOFOeEH8XhaL2vKlsK6JIgnQq7Vp",
-        "html": "https://drive.google.com/uc?export=download&id=1jEmkYkCaAnwHyz2SBc9OS9d9kFpCqAjo",
-        "txt_external": "https://drive.google.com/uc?export=download&id=1Mz8VUKNtIR0w_ob-1FxrVOFGKK2rFpVY",
-        "txt_direct": "books/modesty/en/content.txt",
-        "cover": "books/modesty/en/cover-en.png",
-        "archive": "https://archive.org/details/modesty-the-fence-of-the-soul-and-the-compass-of-understanding"
+        "txt_direct": "books/modesty/en/10-modesty-en.txt",
+        "cover": "books/modesty/en/modesty-cover-en.png"
       }
-      },
-      "metadata": {
-        "author": "ناصر ابن داوود",
-        "category": "faith_studies",
-        "pages_ar": 46,
-        "pages_en": 40,
-        "language_ar": "arabic",
-        "language_en": "english",
-        "ai_accessible": true,
-        "structured_data": true,
-        "topics_ar": ["الحياء", "الأخلاق الإسلامية", "التربية الروحية", "القرآن الكريم"],
-        "topics_en": ["Modesty", "Islamic Ethics", "Spiritual Education", "The Holy Quran"],
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "faith_studies",
+      "pages_ar": 46,
+      "pages_en": 40,
+      "language_ar": "arabic",
+      "language_en": "english",
+      "ai_accessible": true,
+      "structured_data": true,
+      "topics_ar": [
+        "الحياء",
+        "الأخلاق الإسلامية",
+        "التربية الروحية",
+        "القرآن الكريم"
+      ],
+      "topics_en": [
+        "Modesty",
+        "Islamic Ethics",
+        "Spiritual Education",
+        "The Holy Quran"
+      ],
       "edition": "الأولى - 2025",
       "key_features": [
         "رؤية جديدة للحياء كأداة معرفية وليس فقط فضيلة أخلاقية",

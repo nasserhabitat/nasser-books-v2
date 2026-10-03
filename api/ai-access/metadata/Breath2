@@ -8,26 +8,20 @@
     "ar": "المجلد الثاني- فقه التنفس في اللسان القرآني- من البنية الحيوية إلى هندسة المعنى",
     "en": "Volume II: The Jurisprudence of Breath in Quranic Linguistics"
   },
-  "cover_image": "https://nasserhabitat.github.io/nasser-books/books/Breath1/ar/cover-ar.png",
+  "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Breath1/ar/Breath1-cover-ar.png",
   "ar": {
     "docx": "https://drive.google.com/uc?export=download&id=1XJXW0DMS5bkQIgmkZZyOjg6o-kTmmas6",
     "pdf_direct": "books/Breath2/ar/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1_615bppnm3Fg_OgInuvQ5DgUd2dSwYCd",
-    "html": "https://drive.google.com/uc?export=download&id=1uaJu9W7i4ZhBJLfUN5WEHLDD2cgMMqUP",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1vB8VG2BJ1ORuPKoGrkslEYuw3PaKaw3F",
-    "txt_direct": "books/Breath2/ar/content.txt",
-    "cover": "books/Breath2/ar/cover-ar.png",
-    "archive": "https://archive.org/details/content_20260409_1107"
+    "txt_direct": "books/Breath2/ar/43-Breath2-ar.txt",
+    "cover": "books/Breath2/ar/Breath2-cover-ar.png"
   },
   "en": {
     "docx": "https://drive.google.com/uc?export=download&id=1ZAwwpPum1M2kT44G047SoGo6jKyD6rN0",
     "pdf_direct": "books/Breath2/en/content.pdf",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1wXFzubwkDQipm9DStuS5EwpPlFF0N_Eu",
-    "html": "https://drive.google.com/uc?export=download&id=19qflwN7AmZzcpKadQxEtLs2mmVZ1oHkv",
-    "txt_external": "https://drive.google.com/uc?export=download&id=1ImtlImOEnI9MDC3GUlRkSnAtM44RmZYP",
-    "txt_direct": "books/Breath2/en/content.txt",
-    "cover": "books/Breath2/en/cover-en.png",
-    "archive": "https://archive.org/details/the-architecture-of-breath-consciousness"
+    "txt_direct": "books/Breath2/en/43-Breath2-en.txt",
+    "cover": "books/Breath2/en/Breath2-cover-en.png"
   },
   "metadata": {
     "author": "Nasser Ibn Dawood",

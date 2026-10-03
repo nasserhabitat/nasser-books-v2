@@ -4,13 +4,13 @@
 
 ## حالة المستودع والصيانة
 
-هذا المستودع هو نسخة الصيانة المستقلة **nasser-books-v2**، أُنشئت لتجربة الإصلاح دون استبدال المستودع الأصلي **nasser-books**. يضم الفهرس الحالي **69 كتابًا و138 نسخة لغوية** بالعربية والإنجليزية.
+هذا المستودع هو نسخة الصيانة المستقلة **nasser-books-v2**، أُنشئت لتجربة الإصلاح دون استبدال المستودع الأصلي **nasser-books**. يضم الفهرس المحلي الحالي **112 كتابًا و224 نسخة لغوية** بالعربية والإنجليزية، منها 43 كتابًا جديدًا بترقيم 70–112. إضافة هذه الملفات محليًا لا تعني نشرها على GitHub Pages.
 
 - الكتب داخليًا: نصوص TXT وصفحات عرض الكتاب وصور الأغلفة ومجلدات الصور المساندة.
 - ملفات Word وPDF ليست ضمن نسخة النشر الحالية؛ الوصول إليها عبر الروابط الخارجية المتاحة لكل كتاب.
 - صفحات عرض الكتب باسم index.html محفوظة؛ وهي مختلفة عن ملفات محتوى الكتب المحوّلة إلى HTML التي أُزيلت لتخفيف النشر.
 - بيانات المكتبة الرئيسية في [ai-index.json](ai-index.json)، وفهرس البحث المستقل في [search-index.json](search-index.json). لا ينبغي إعادة إنشاء نسخ متطابقة من الفهرس بأسماء مختلفة.
-- حُدّثت صفحة books.html لتعرض الكتب الـ69 بلغتيها مع فصل النص الداخلي وروابط Google Drive وArchive.org. غياب رابط أرشيف لكتاب لا يعني وجود خطأ.
+- حُدّثت صفحة books.html لتعرض الكتب الـ112 بلغتيها مع فصل النص الداخلي وروابط Google Drive. صفحات الكتب والفهرس والبحث مرتبطة بالنصوص المرقمة الجديدة.
 
 تقرير 28 أغسطس 2026 كان تدقيقًا سابقًا للإصلاح، وليس وصفًا للحالة الحالية. لا تعني مطابقة الروابط للسجل أن صلاحيات المشاركة أو محتويات جميع ملفات Google Drive قد اختُبرت. تبقى مراجعة خرائط الموقع وبيانات المشاركة وحجم الأصول واختبارات الروابط الخارجية أعمالًا مستقلة.
 
@@ -24,10 +24,29 @@
 | ai-index.json | البيانات الوصفية وروابط الموارد |
 | search-index.json | بيانات البحث؛ ليست نسخة زائدة من الفهرس الرئيسي |
 | books/{folder}/{ar أو en}/index.html | صفحة الكتاب |
-| books/{folder}/{ar أو en}/content.txt | النص الداخلي للقراءة والبحث |
+| books/{id}/{ar أو en}/{number}-{id}-{ar أو en}.txt | النص الداخلي الوحيد للقراءة والبحث |
+| books/{id}/{ar أو en}/{id}-cover-{ar أو en}.png | غلاف الكتاب، عندما يكون متاحًا |
 
-مثال: [نص كتاب الملائكة بالعربية](https://nasserhabitat.github.io/nasser-books-v2/books/angels/ar/content.txt).
-يجب مطابقة اسم المجلد وحالة الأحرف مع الملفات الفعلية، وعدم استنتاج وجود PDF أو DOCX من مسار الغلاف. روابط Google Drive وArchive.org قنوات خارجية مستقلة ولا تُفحص بوصفها ملفات محلية.
+مثال: [نص كتاب الملائكة بالعربية](https://nasserhabitat.github.io/nasser-books-v2/books/angels/ar/24-angels-ar.txt).
+يجب مطابقة اسم المجلد وحالة الأحرف مع الملفات الفعلية، وعدم استنتاج وجود PDF أو DOCX من مسار الغلاف. تنزيل ملفات الكتب الخارجية عبر Google Drive فقط. أُزيلت روابط تنزيل الكتب بصيغة HTML وروابط Archive.org؛ صفحات الموقع HTML نفسها محفوظة.
+
+## التحديث الشهري والمحافظة على روابط Google Drive
+
+مجلد العمل اليومي الموحّد: `C:\Users\nasse\OneDrive\Documents\google_books`، ويضم مجلدات الكتب 1–112 مباشرة، ولكل كتاب مجلدا `ar` و`en`. أُخرجت مجلدات 70–112 من `incoming_70-112` دون تغيير المحتوى؛ بقيت فيه تقارير الاستيراد وأصول المراجعة فقط، وحُفظت ملفات ZIP.
+
+سياسة الروابط: Word وPDF خارجيان على Google Drive فقط، وTXT داخلي في الموقع. أُزيلت إحالات TXT الخارجية دون حذف ملفات Drive أو تغيير معرّفات Word وPDF.
+
+فحص Drive بتاريخ 2026-10-03: صُححت 18 إحالة بعد مطابقة مجلد الكتاب واللغة ونوع الملف وإتاحة القراءة العامة. بقيت 9 معرّفات غير متاحة للاتصال الحالي و48 ملفًا دون مشاركة عامة؛ لا تُغيّر الصلاحيات آليًا. للكتب الجديدة يلزم استكمال 6 روابط Word و86 رابط PDF. تقارير Drive التفصيلية محلية ومُستثناة من النشر.
+
+ملفات Word الأصلية تبقى في مجلدات العمل اليومي، وليست في مستودع النشر. الملف المعتمد يسمى `{number}-{id}-{ar أو en}.docx`؛ لا تُنشئ نسخة إضافية باسم `content.docx`.
+
+أعد تسمية ملف Drive الموجود أو حدّث محتواه مع الحفاظ على معرّفه. لا تحذفه ثم ترفع بديلًا، ولا تفترض أن النسخ الشهري يحافظ على المعرّف: تحقّق من رابط الملف بعد المزامنة. لم تنفذ هذه الصيانة أي حذف أو إعادة رفع إلى Drive.
+
+يسجّل `scripts/migration-report.json` ست ترجمات إنجليزية لم يُعثر على روابط Drive لها، وكتبًا تحتاج مراجعة تحريرية قبل النشر. لا تُعرض أزرار تنزيل وهمية لهذه الملفات. أرقام صفحات الكتب الجديدة غير معلومة وتُعرض بشرطة، وليس برقم مُختلق.
+
+في النسخة المحدثة `incoming_70-112.zip` اكتملت أغلفة النسخ الجديدة الـ86: 83 صورة PNG و3 صور JPG في المصدر. حُوّلت الصور الثلاث في نسخة الموقع فقط إلى PNG، دون تغيير الصور الأصلية؛ الأغلفة الداخلية كلها PNG. أصبحت الأغلفة متاحة لجميع النسخ الـ224. فُحصت ملفات Word الـ86؛ نصوصها المستخرجة مطابقة للنصوص الموجودة حاليًا، لذلك لم تُستبدل النصوص بلا تغيير. لم تتغير روابط Google Drive.
+
+عند إعداد صادرات PDF وTXT، استُكمل استخراج 19 ملف TXT بالحواشي والنصوص الرياضية الموجودة أصلًا في Word. تتضمن الصادرات 105 حواشٍ و764 عنصر معادلة ممثلاً نصيًا؛ PDF المرجع للحفاظ على الشكل الرياضي والتنسيق الأصلي. لا يغيّر ذلك ملفات Word أو الروابط الخارجية، ولا يضيف PDF إلى مستودع النشر.
 
 ## التشغيل والنشر
 
@@ -203,7 +222,7 @@ python -m http.server 8000
 
 6.	**Google Drive**
    📍 نمط الروابط: `https://drive.google.com/uc?export=download&id=...`
-   ⬇️ التحميل المباشر لملفات DOCX، PDF، HTML
+   ⬇️ التحميل الخارجي لملفات DOCX وPDF على Google Drive فقط؛ TXT داخلي في الموقع.
 
 7.	**Archive.org**
    📍 نمط الروابط: `https://archive.org/stream/...`
@@ -291,7 +310,7 @@ A comprehensive digital library of  Nasser Ibn Dawood's works on Quranic science
 | 15 | الدم | [العربية](https://nasserhabitat.github.io/nasser-books-v2/books/blood/ar/index.html) | [English](https://nasserhabitat.github.io/nasser-books-v2/books/blood/en/index.html) |
 | 16 | شفرة القرآن | [العربية](https://nasserhabitat.github.io/nasser-books-v2/books/the-code-of-the-quran/ar/index.html) | [English](https://nasserhabitat.github.io/nasser-books-v2/books/the-code-of-the-quran/en/index.html) |
 | 17 | الروح: من عالم الأمر إلى إشراق الإدراك | [العربية](https://nasserhabitat.github.io/nasser-books-v2/books/the-spirit/ar/index.html) | [English](https://nasserhabitat.github.io/nasser-books-v2/books/the-spirit/en/index.html) |
-| 18 | الأعداد في القرآن: من الكم إلى الكيف، ومن الظاهر إلى الوعي | [العربية](https://nasserhabitat.github.io/nasser-books-v2/books/numbers-as-Legislation/ar/index.html) | [English](https://nasserhabitat.github.io/nasser-books-v2/books/numbers-as-Legislation/en/index.html) |
+| 18 | الأعداد في القرآن: من الكم إلى الكيف، ومن الظاهر إلى الوعي | [العربية](https://nasserhabitat.github.io/nasser-books-v2/books/numbers-as-legislation/ar/index.html) | [English](https://nasserhabitat.github.io/nasser-books-v2/books/numbers-as-legislation/en/index.html) |
 | 19 | من الحرف إلى الوعي – رحلة الإنسان في مرآة القرآن | [العربية](https://nasserhabitat.github.io/nasser-books-v2/books/from-the-letter-to-consciousness/ar/index.html) | [English](https://nasserhabitat.github.io/nasser-books-v2/books/from-the-letter-to-consciousness/en/index.html) |
 | 20 | ثالوث الوعي القرآني - التسبيح، الحمد، والشكر | [العربية](https://nasserhabitat.github.io/nasser-books-v2/books/the-quranic-consciousness-trinity-project/ar/index.html) | [English](https://nasserhabitat.github.io/nasser-books-v2/books/the-quranic-consciousness-trinity-project/en/index.html) |
 | 21 | الكون كتاب حي — الموجودات تتكلم بلسان الله | [العربية](https://nasserhabitat.github.io/nasser-books-v2/books/the-universe/ar/index.html) | [English](https://nasserhabitat.github.io/nasser-books-v2/books/the-universe/en/index.html) |
@@ -351,7 +370,7 @@ A comprehensive digital library of  Nasser Ibn Dawood's works on Quranic science
 - **🔗 روابط مباشرة** | Direct Links
 - **📊 تنظيم موضوعي** | Thematic Organization
 - **📝 معلومات كاملة** | Complete Book Info
-- **📄 تنسيقات متعددة** | Multiple Formats (HTML, PDF, TXT)
+- **📄 تنسيقات متعددة** | Multiple Formats (DOCX, PDF, TXT)
 
 ## 🛠 كيفية الاستخدام | How to Use
 

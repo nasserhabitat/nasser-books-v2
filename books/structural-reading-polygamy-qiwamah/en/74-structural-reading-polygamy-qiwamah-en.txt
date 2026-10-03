@@ -1,0 +1,208 @@
+NASSER IBN DAOUD LIBRARY
+Qur’anic Studies • Structural Reading • Operational Modeling
+A Structural Reading of the Verses
+on Polygamy and Qiwamah
+in Surah An-Nisa
+A Condensed Conceptual Adaptation in English
+A Study in Qur’anic Linguistic Hermeneutics
+and Operational Teleological Modeling
+Nasser Ibn Daoud
+Condensed English Edition • 2026
+nasserhabitat.github.io/nasser-books/
+I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy
+All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library
+As of early 2026, the collection hosts 68 volumes (34 in Arabic and 34 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platforms
+Main Website:
+nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+II. Translator’s Note: The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an “extraction of essence.” It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.
+For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (Tafsir), and the complete bibliography.
+The English text therefore preserves the book’s terminology, argumentative architecture, and principal conclusions while reducing technical repetition. Where the Arabic study advances a strong interpretive claim, the English edition presents it as the study’s proposed structural reading rather than as an uncontested scholarly consensus.
+Contents
+III. Extended Abstract
+1. General Introduction
+2. Research Problem, Questions, and Method
+3. Chapter One — Qur’anic Linguistic Hermeneutics and Structural Analysis
+4. Textual Atomism and the Problem of Fragmentation
+5. The Structural Meaning of Key Terms
+6. Chapter Two — Conditional Structure and Morphological Analysis
+7. The Orphans Clause as a Conditional Gate
+8. The Functional Reading of Mathna, Thulatha, and Ruba‘
+9. Chapter Three — Systemic Symmetry and Institutional Safeguards
+10. Qist and ‘Adl: Two Different Functions
+11. The Closed Constraint Loop: Verses 3 and 129
+12. Judicial Authorization and Institutional Governance
+13. Chapter Four — From Permission to Responsibility: Polygamy and Qiwamah
+14. Nushuz, I‘rad, Shiqaq, and Reform
+15. The Limits of Inference and the Open Result
+16. Conclusion and Recommendations
+17. Selected Sources from the Arabic Edition
+III. Extended Abstract
+This study proposes a structural reading of the Qur’anic passages in Surah An-Nisa dealing with plural marriage, family responsibility, financial maintenance, and the protection of vulnerable persons. Its central concern is methodological: what changes when a legal or ethical verse is read as part of a connected textual system rather than as an isolated sentence?
+The study argues that the opening of Surah An-Nisa establishes a broad architecture of human unity, accountability, family ties, protection of vulnerable persons, and responsible management of wealth. Within that architecture, the verse commonly discussed in relation to plural marriage (4:3) is read through its conditional syntax and its immediate concern with justice toward orphans. The study therefore treats the permission as structurally conditioned rather than as an unqualified personal entitlement.
+A second major argument concerns the morphological forms mathna, thulatha, and rubā‘a. The study reads these forms as distributive or categorical patterns rather than as an invitation to add the numbers arithmetically. This linguistic proposal is used to reject cumulative numerical readings and to understand the fourfold reference as an operational ceiling within the study’s model, still subject to the conditions that surround the permission.
+A third argument links verse 3 with verse 129. The study distinguishes qist—understood here as objective, assessable fairness in rights and material treatment—from ‘adl, which the study treats as a broader and ultimately unattainable form of complete equality. Verse 129 is therefore interpreted as a systemic constraint that prevents the permission in verse 3 from becoming detached from the requirement to avoid serious injustice.
+The study then moves from textual analysis to institutional modeling. It proposes that where a modern legal system chooses to regulate plural marriage, the relevant conditions could be translated into prior judicial authorization, financial-capacity assessment, social evidence, notification, and safeguards against harm. These institutional mechanisms are presented as a human regulatory model derived from the study’s reading, not as Qur’anic procedural text itself.
+The final chapter deliberately limits the scope of its claims. The study does not claim that the verses alone provide a complete final theory of qiwamah, a fixed quantitative relationship between spending and marital authority, or an automatic transfer of authority when financial circumstances change. Those questions remain open to further comparison with tafsir, jurisprudence, social research, and different legal systems.
+1. General Introduction
+The structural reading proposed in this book begins with a simple methodological concern: Qur’anic legal passages can lose part of their function when they are detached from the conditions, contrasts, and later constraints that surround them. The issue is particularly visible in discussions of plural marriage in Surah An-Nisa, where a conditional construction, the protection of orphans, numerical forms, and the later statement on justice are often studied separately.
+The purpose of this English edition is not to reproduce every linguistic argument of the Arabic study. It is to make its conceptual architecture accessible to readers who do not read Arabic while preserving the distinctions that the author considers essential.
+A note on interpretive status
+The book itself describes its reading as a proposed structural interpretation, not as a final judgment on every question of plural marriage and qiwamah. It distinguishes between what the text is taken to indicate, what classical or modern interpreters may infer, and what a contemporary institution might design as a regulatory model. This distinction is maintained throughout this condensed edition.
+2. Research Problem, Questions, and Method
+2.1 The central question
+The central question is: how can structural and linguistic analysis reshape the meaning of the permission discussed at the beginning of Surah An-Nisa, and what textual and institutional mechanisms could prevent that permission from being detached from justice toward vulnerable persons?
+2.2 Supporting questions
+What is the relationship between the conditional expression concerning fear of injustice toward orphans and the following permission to marry?
+What functional meaning does the shift from ordinary cardinal numbers to mathna, thulatha, and rubā‘a carry in the study’s linguistic model?
+How can verses 3 and 129 be read together as a system of opening and constraint?
+How far can the mention of financial maintenance in verse 34 be connected to the broader concept of qiwamah without assuming a conclusion that the evidence does not itself establish?
+2.3 Method
+The method combines Qur’anic linguistic hermeneutics (Fiqh al-Lisan al-Qur’ani), structural-systemic analysis, contextual comparison, and simplified logical modeling. The text is treated as an internally connected linguistic structure. Words, morphological forms, conditional clauses, and neighboring passages are therefore examined in relation to one another.
+The book also uses logic-gate and feedback-loop language as an explanatory model. These terms are analytical metaphors: they help visualize conditions, constraints, and outcomes; they do not claim that the Qur’anic text is literally a computer program.
+3. Chapter One — Qur’anic Linguistic Hermeneutics and Structural Analysis
+The first chapter establishes the book’s methodological foundation. It argues that a verse should not automatically be treated as an isolated legal unit when its syntax, vocabulary, and surrounding passages indicate a larger structure.
+3.1 Textual atomism
+The study calls the tendency to isolate a verse or phrase from its surrounding conditions “textual atomism.” In the author’s analysis, this can occur when the conditional clause is separated from its answer, when a word is interpreted primarily through an external historical usage, or when a general linguistic rule is applied without accounting for the structural limitations built into the passage.
+Applied to verse 3, the study argues that the opening conditional expression—“If you fear that you will not deal justly with the orphans…”—should remain connected to the following clause. The phrase “then marry…” is therefore not treated in isolation but as part of a conditional construction.
+3.2 Structural coherence
+The study treats Surah An-Nisa as a coherent architecture concerned with vulnerable persons, wealth, family relations, contracts, and justice. The opening verses are therefore read as establishing principles that inform later passages. This does not mean that every verse becomes the direct cause of every other verse. Rather, it means that their relationships should be tested before conclusions are drawn.
+3.3 Fiqh al-Lisan
+Fiqh al-Lisan al-Qur’ani is presented as an approach that seeks the functional meaning of Qur’anic expressions through their internal relationships. The book emphasizes three ideas: distinguishing the Qur’anic linguistic system from later historical usage; extracting functional meanings from roots and forms; and examining how terms define one another through contrasts within the Qur’anic text.
+The approach is especially important in the book’s treatment of terms such as nisa’, azwaj, imra’ah, nikah, qist, and ‘adl. The author argues that their functional relationships may reveal dimensions that disappear when each word is reduced to a single biological or conventional meaning.
+4. Textual Atomism and the Problem of Fragmentation
+4.1 The opening of verse 3 as a conditional structure
+“If you fear that you will not deal justly with the orphans, then marry such women as are good for you—two, three, or four; but if you fear that you will not be just, then [marry] one…” (meaning-oriented rendering of 4:3)
+The study’s key observation is grammatical and structural: the permission follows a conditional construction. The conditional particle in, the fear of failing to act with qist toward orphans, and the linking particle introducing the following action are treated as one logical unit.
+In the author’s model, the default state is one spouse. The permission to enter a plural arrangement becomes an exceptional branch that requires its surrounding conditions to be satisfied. If the conditions fail, the system returns to the one-spouse state.
+4.2 Three forms of fragmentation
+Separating the answer of a conditional clause from its condition.
+Reducing “women” to a purely biological category and thereby overlooking the institutional function assigned to the term in the author’s structural reading.
+Reading verse 3 without the constraining force of later passages, especially verse 129.
+5. The Structural Meaning of Key Terms
+5.1 Nisa’
+A distinctive claim of the book concerns the root n-s-ʾ. The author connects it with delay, deferment, and what comes later, and from this proposes a functional reading of nisa’ as dependent or later-positioned nodes within a social structure. In this model, the term is not exhausted by a biological definition.
+The book contrasts three terms: azwaj, imra’ah, and nisa’. Azwaj are read as functionally paired entities associated with symmetry, companionship, and mutual fitting. Imra’ah is treated as an individual female entity, sometimes appearing in contexts where functional or ideological compatibility is disrupted. Nisa’ is given a structural, collective meaning associated with dependent or vulnerable sectors.
+This is one of the book’s strongest interpretive proposals and should therefore be understood as the author’s linguistic model, not as a universally established translation of the Arabic term.
+5.2 Nikah
+The book also expands the functional meaning of nikah beyond a narrowly biological or sexual reading. It emphasizes joining, integration, commitment, and institutional responsibility. In the structural model, nikah becomes an act of bringing persons into a protected framework of rights and obligations.
+Accordingly, the imperative in verse 3 is interpreted not simply as an invitation to personal gratification, but as part of an institutional arrangement whose legitimacy depends on responsibility, protection, and justice.
+5.3 Qist and ‘Adl
+The distinction between qist and ‘adl becomes central later in the book. Qist is presented as measurable, objective fairness: giving each person their due share without injustice. ‘Adl is treated more broadly, including dimensions of equality and disposition that are difficult to achieve completely. This distinction allows the author to connect verse 3 with verse 129 without treating the two Arabic terms as interchangeable.
+6. Chapter Two — Conditional Structure and Morphological Analysis
+The second chapter focuses on the conditional architecture of verse 3 and on the morphological forms used for the numbers two, three, and four.
+6.1 The conditional gate
+The author models the opening of verse 3 as a Boolean gate. The condition is the fear of failing to deal with the orphans with qist. The following permission is therefore represented as an output dependent on the condition. In simplified form:
+Condition satisfied → the exceptional permission may be considered.
+Condition absent or required safeguards fail → the permission is closed and the default state remains.
+This model is used to argue that plural marriage should not be interpreted as an unconditioned horizontal permission. The book instead describes it as a regulated and exceptional pathway.
+6.2 From individual privilege to institutional responsibility
+The study proposes that the relevant social context is the protection of orphans and vulnerable dependents. It therefore reframes plural marriage, within its own interpretation, as an institutional or social-care mechanism rather than an individual consumption right.
+The book links verse 3 with the surrounding instructions concerning orphan property and the prohibition of exploiting vulnerable persons. Its argument is that protecting property and protecting persons belong to a connected ethical architecture.
+6.3 The functional reading of the numbers
+The expressions mathna, thulatha, and rubā‘a are analyzed as morphological forms rather than ordinary cardinal numbers. The author argues that these forms convey patterns of distribution or pairing/grouping and should not be treated as three numbers that are simply added together.
+Mathna → a twofold pattern; thulatha → a threefold pattern; rubā‘a → a fourfold pattern.
+The book therefore rejects the cumulative reading that would add 2 + 3 + 4 and produce nine. It interprets the forms as alternative categorical patterns, with four representing the upper operational ceiling in the author’s model.
+6.4 Comparative Qur’anic examples
+The study points to other Qur’anic uses of mathna, thulatha, and rubā‘a, including the description of angels’ wings in 35:1, and the expression mathna wa furada in 34:46. These examples are used to support a functional, distributive understanding rather than a simple arithmetic one.
+The argument is linguistic and structural: the same morphological forms can indicate modes or patterns rather than a cumulative numerical total. The English edition preserves that argument without claiming that the linguistic question is closed for all scholarship.
+9. Chapter Three — Systemic Symmetry and Institutional Safeguards
+The third chapter develops the book’s most important systemic link: the relationship between the beginning of Surah An-Nisa, especially verse 3, and verse 129.
+10. Qist and ‘Adl: Two Different Functions
+In the author’s framework, qist is an objective procedural standard. It concerns rights that can be assessed, such as the fair treatment of orphans, financial maintenance, and the distribution of material resources. ‘Adl, by contrast, is presented as a more comprehensive form of equality that includes material and emotional dimensions.
+Verse 3 is therefore read as requiring the avoidance of injustice, while verse 129 establishes the limitation that complete equality between wives cannot be fully achieved by human effort. The book uses this distinction to construct a system of opening and constraint.
+11. The Closed Constraint Loop: Verses 3 and 129
+“You will never be able to be equal between women, even if you strive.” (meaning-oriented rendering of 4:129)
+The author describes verse 129 as a systemic inhibitor. If verse 3 opens an exceptional permission under conditions of justice, verse 129 prevents that permission from being understood as unrestricted because it explicitly denies complete human ability to achieve absolute equality.
+The resulting model is represented as a closed loop:
+Verse 3 → conditional permission → requirement to avoid injustice
+Verse 129 → recognition of human limitation → constraint on the permission
+Systemic result → one spouse as the stable/default state; plural marriage as an exceptional, tightly constrained case.
+The author also emphasizes the prohibition against “inclining completely” toward one wife and leaving another suspended or neglected. The ethical minimum is therefore not perfection but the prevention of serious abandonment and harm.
+11.1 An important limitation
+The book’s logical language should not be mistaken for a mathematical proof of a legal rule. It is a conceptual model intended to make the relationships between clauses visible. Its conclusions remain interpretive and should be compared with classical tafsir, jurisprudence, and other contemporary readings.
+12. Judicial Authorization and Institutional Governance
+The study then asks how its textual model might be translated into contemporary legal procedures. It proposes that conditions that are otherwise left to individual judgment could, in a modern regulatory setting, be made subject to prior judicial review.
+12.1 The proposed decision pathway
+Application for a plural marriage arrangement.
+Verification of the relevant evidence and conditions.
+If a required condition fails, the application is refused and the default one-spouse state remains.
+If the required safeguards are satisfied, conditional judicial authorization may be issued.
+12.2 Financial capacity
+The study argues that a court should not examine gross income alone. It proposes a broader “net comprehensive capacity” test: whether the new marriage would reduce the existing family’s ability to maintain decent living conditions or fulfill established financial rights.
+If the financial assessment shows that the new arrangement would create material harm, the author’s model directs the institution toward refusal in order to prevent hardship and financial collapse.
+12.3 Evidence of the caregiving need
+The book proposes objective evidence that a genuine caregiving situation exists, such as the presence of widowed mothers or women caring for orphaned children without adequate support. This is presented as a way of distinguishing a socially motivated arrangement from a purely personal claim.
+12.4 Safeguards
+Formal notification and an opportunity for the existing spouse to present evidence of harm.
+Assessment of financial rights and any compensation or separation-related claims where the legal system provides for them.
+Procedural consequences for arrangements entered into outside the required legal framework, depending on the applicable law.
+These safeguards are not presented as verses of the Qur’an. They are a proposed modern institutional translation of the book’s structural reading.
+13. Chapter Four — From Permission to Responsibility: Polygamy and Qiwamah
+The fourth chapter becomes deliberately more cautious. It examines whether the discussion of plural marriage can be directly merged with the discussion of qiwamah, financial maintenance, nushuz, estrangement, and marital conflict.
+13.1 Unity of context does not mean identity of ruling
+Surah An-Nisa repeatedly addresses vulnerable persons, wealth, family organization, justice, and reconciliation. Yet sharing a broad ethical environment does not automatically make every verse the direct cause of every other verse.
+The study therefore asks whether the relationship between plural marriage and qiwamah is causal, mutually constraining, parallel in purpose, or simply part of a larger thematic sequence. It refuses to treat proximity in the surah as sufficient proof of a single legal mechanism.
+13.2 The levels of the qiwamah claim
+Verse 4:34 refers to men’s responsibility in relation to women and mentions spending from their wealth. The book argues that this does not, by itself, establish several stronger propositions automatically: that qiwamah is nothing but financial power, that it disappears after every financial difficulty, that it transfers automatically to whoever pays, or that it grants unlimited authority in every decision.
+Instead, the author separates several questions: the existence of responsibility, the performance of maintenance, the right to demand financial support, methods of reform, consequences of harm, and the scope of decision-making authority.
+13.3 Nushuz, I‘rad, and Shiqaq
+The book reads the references to nushuz, i‘rad, and shiqaq together as a network of marital-problem management. Because nushuz is also discussed in relation to the husband’s conduct in 4:128, the author argues against treating the term as a permanently gendered label.
+The appearance of reconciliation and arbitration in 4:35 is used to show a movement from diagnosis to attempted repair and, when necessary, separation under recognized rules. No party is thereby granted a license to cause harm or violate human dignity.
+13.4 Financial incapacity: four different questions
+The book distinguishes four questions that are often collapsed into one:
+Whether a financial right exists and can be claimed.
+Whether a particular authority or practice should be restricted to protect the harmed party.
+Whether legal or jurisprudential grounds exist for dissolution or separation.
+Whether authority automatically transfers to another person.
+Proving one of these propositions does not automatically prove the others. This distinction is central to the book’s methodological caution.
+15. The Limits of Inference and the Open Result
+One of the most important features of the original study is its explicit limitation of what the evidence establishes. The final chapter does not claim to have produced a definitive theory of qiwamah.
+Within the material analyzed, the book does not establish a final definition of qiwamah, a necessary quantitative formula linking spending to the right of plural marriage, or an automatic transfer of authority when financial conditions change.
+The author instead invites further research: broader comparison of tafsir, jurisprudential schools, linguistic evidence, social-scientific research, and different contemporary legal environments.
+15.1 What the study claims to establish
+Verse 3 has a conditional architecture that must be considered in interpreting the permission it contains.
+The orphans and the requirement of qist are treated as central to the book’s structural reading of that permission.
+The forms mathna, thulatha, and rubā‘a are interpreted as distributive patterns rather than cumulative arithmetic.
+Verse 129 is read as a systemic constraint on the interpretation of verse 3.
+The translation of textual conditions into judicial procedures is presented as a human regulatory model, not as a literal Qur’anic procedure.
+The relationship between qiwamah, spending, and plural marriage remains partly open and requires further evidence.
+16. Conclusion and Recommendations
+The book presents itself as an attempt to connect structural linguistic analysis with the ethical and institutional aims of Qur’anic legislation. Its central move is to read the relevant passages as a system of conditions, safeguards, and responsibilities rather than as isolated permissions.
+Four principal results
+Conditional gate: the opening of verse 3 is interpreted through the conditional concern with qist toward orphans.
+Distributive morphology: mathna, thulatha, and rubā‘a are read as patterned alternatives rather than numbers to be added together.
+Systemic symmetry: verses 3 and 129 are read together as an opening-and-constraint structure, with the one-spouse state treated as the stable default in the author’s model.
+Institutional translation: the proposed modern application includes prior judicial authorization, financial-capacity review, evidence of the relevant social need, and safeguards against harm.
+Recommendations
+Expand structural reading across Qur’anic legal passages rather than treating the method as limited to Surah An-Nisa.
+Encourage interdisciplinary research combining linguistics, systems analysis, jurisprudence, social sciences, and legal studies.
+Where contemporary legislation regulates plural marriage, examine whether objective evidence and prior institutional review can protect vulnerable parties and reduce foreseeable harm.
+Keep a clear distinction between Qur’anic textual evidence, human jurisprudential interpretation, and modern regulatory design.
+The book’s final methodological question is therefore not “How can a predetermined definition be defended?” but “How much does the evidence actually permit us to conclude?” Every conclusion should remain proportionate to its evidence, and every institutional model should remain open to review.
+17. Selected Sources from the Arabic Edition
+Qur’an, Madinah Mushaf.
+Ibn Faris, Ahmad. Mu‘jam Maqayis al-Lughah. Edited by ‘Abd al-Salam Harun. Dar al-Fikr, Beirut, 1979.
+Al-Raghib al-Isfahani, Al-Husayn ibn Muhammad. Mufradat Alfaz al-Qur’an. Edited by Safwan Dawudi. Dar al-Qalam, Damascus, 2009.
+Ibn Manzur, Muhammad ibn Mukarram. Lisan al-‘Arab. Dar Sader, Beirut, 3rd ed., 1994.
+Al-Farahidi, Khalil ibn Ahmad. Kitab al-‘Ayn. Edited by Mahdi al-Makhzumi and Ibrahim al-Samarra’i.
+Ibrahim Anis. Min Asrar al-Lughah. Al-Anjlo al-Misriyyah, Cairo, 5th ed., 1978.
+Ibn Jinni. Al-Khasa’is. Edited by Muhammad ‘Ali al-Najjar. General Egyptian Book Organization.
+Tammam Hassan. Al-Lughah al-‘Arabiyyah: Ma‘naha wa Mabnaha. Dar al-Thaqafah, 1993.
+Mahmoud al-Sa‘ran. ‘Ilm al-Lughah: Muqaddimah lil-Qari’ al-‘Arabi. Dar al-Fikr al-‘Arabi, 1997.
+Muhammad Shahrour. Al-Kitab wa al-Qur’an: Qira’ah Mu‘asirah. Damascus, 1990.
+‘Allal al-Fasi. Maqasid al-Shari‘ah al-Islamiyyah wa Makarimuha. Dar al-Gharb al-Islami, 5th ed., 1993.
+Muhammad al-Tahir Ibn ‘Ashur. Al-Tahrir wa al-Tanwir. Tunisian Publishing House, 1984.
+Ahmad ibn ‘Ali al-Jassas. Ahkam al-Qur’an. Dar al-Kutub al-‘Ilmiyyah, Beirut, 1994.
+Mahmud al-Zamakhshari. Al-Kashshaf. Dar al-Kitab al-‘Arabi, Beirut, 3rd ed., 1407 AH.
+Muhammad ibn Jarir al-Tabari. Jami‘ al-Bayan ‘an Ta’wil Ay al-Qur’an. Mu’assasat al-Risalah, Beirut, 2000.
+Muhammad ibn Ahmad al-Qurtubi. Al-Jami‘ li Ahkam al-Qur’an. Mu’assasat al-Risalah, Beirut, 2006.
+Muhammad Abu Zahrah. Al-Ahwal al-Shakhsiyyah. Dar al-Fikr al-‘Arabi, Cairo, 1957.
+Muhammad ‘Abid al-Jabiri. Al-Din wa al-Dawlah wa Tatbiq al-Shari‘ah. Markaz Dirasat al-Wahdah al-‘Arabiyyah, Beirut, 2001.
+Muhammad Mustafa Shalabi. Ahkam al-Usrah fi al-Islam: Dirasah Muqaranah. Dar al-Nahdah al-‘Arabiyyah, Beirut, 1984.
+Nasr Farid Wasel. Al-Sultah al-Qada’iyyah wa Tatbiq al-Shari‘ah al-Islamiyyah fi al-Qada’ al-Mu‘asir. Al-Maktabah al-Tawfiqiyyah, Cairo, 2003.

@@ -1,0 +1,320 @@
+QIBLAH IN THE QUR’AN
+From Spatial Direction to the Architecture of Orientation in the Qur’anic Tongue
+A Condensed Conceptual Adaptation
+Nasser Ibn Dawood
+Fiqh of the Qur’anic Tongue — Engineering of Revelation
+English Condensed Edition • 2026
+I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy: All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library: As of early 2026, the collection hosts 68 volumes (34 in Arabic and 34 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platforms: Main Website: nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+II. Translator’s Note: The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an "extraction of essence." It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.
+For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (Tafsir), and the complete bibliography.
+How to Read This Edition
+This edition is designed for a reader who may not know Arabic and may not be familiar with the classical vocabulary of Qur’anic studies. It therefore preserves the architecture of the argument rather than the full volume of linguistic documentation. Qur’anic terms are introduced in transliteration, followed by the Arabic term and a short contextual explanation when needed. Technical statuses such as OPEN, CLOSED, CANDIDATE, and NOT ESTABLISHED are kept because they are part of the book’s method, not decorative labels.
+The central discipline of the original work is also preserved: evidence is not the same as interpretation; interpretation is not the same as hypothesis; and a hypothesis is not a law simply because it is attractive or comprehensive. This condensed edition therefore aims to remain intellectually open while still giving the foreign reader a coherent view of the book’s main discovery.
+Contents
+Introduction — Why Reopen the Question of Qiblah?
+1. The Method: From Text to Model
+2. The Direct Qiblah Corpus
+3. The Structural Network Around Qiblah
+4. Five Competing Hypotheses
+5. Verification, Falsification, and the Surviving Models
+6. T-CANDIDATE-01: A Multi-Functional Orientation Model
+7. Local Rules, Not Universal Laws
+8. Cross-System Tests: Prayer, House, Hajj, Ummah, and Witnessing
+9. From Qiblah to the Architecture of Orientation
+10. What This Book Does Not Establish
+Conclusion — A Bounded Theory with an Open Future
+Appendix A — Epistemic Status Vocabulary
+Appendix B — Key Qur’anic Passages in Conceptual Paraphrase
+Introduction — Why Reopen the Question of Qiblah?
+Qiblah (القبلة) is usually presented as one of the clearest concepts in Islamic religious consciousness: the direction toward which Muslims turn in prayer. This is true as far as it goes. The Qur’an itself repeatedly commands the turning of the face toward al-Masjid al-Haram (المسجد الحرام). Yet the book asks whether this spatial description exhausts the Qur’anic function of Qiblah.
+The question arises because the Qur’anic passages do more than identify a direction. In the surrounding textual network, Qiblah appears beside the face, turning, transformation, al-Masjid al-Haram, the house, east and west, righteousness, guidance, following, trial, the middle community, witnessing, and prayer. The existence of such a network does not prove that all these ideas belong to the definition of Qiblah. But it does require the researcher to explain why they appear where they do and what kind of relationship each one has to the concept.
+The book therefore changes the order of inquiry. It does not begin with a definition and then collect confirming verses. It begins with the textual corpus, records observations, maps relationships, formulates several competing hypotheses, and then subjects those hypotheses to falsification and resistant cases. The guiding question is not merely, “Where does one turn?” but, “How does orientation function in the Qur’anic text?”
+This approach rejects two symmetrical reductions. The first is material reduction: treating spatial direction as the whole concept. The second is abstract reduction: dissolving the concrete direction into a purely symbolic, spiritual, or civilizational metaphor. The working principle is that a Qur’anic concept may have a real embodied form and, at the same time, perform functions that cannot be reduced to that form alone.
+The problem is not materiality. The problem begins when the part is made equal to the whole, or when the embodiment is mistaken for the entire concept.
+The project calls its wider research horizon the “architecture of orientation.” This is not claimed to be a Qur’anic expression. It is an analytical model whose legitimacy depends on testing. If the relationships are stable and explanatory, the model may be useful. If they are not, it must remain only a hypothesis.
+1. The Method: From Text to Model
+The methodological foundation of the book belongs to the larger project Fiqh of the Qur’anic Tongue (فقه اللسان القرآني). Here, “fiqh” does not mean producing a new dictionary or replacing inherited meanings with modern ones. It means studying how the Qur’an produces meaning through usage, context, distribution, contrast, co-occurrence, structural relations, and resistant cases.
+The Qur’an is treated as the governing corpus for the question being asked. Historical practice, exegetical tradition, and linguistic dictionaries may be valuable in other layers of study, but they are not allowed to define Qiblah in advance. This prevents circular reasoning: if a researcher defines Qiblah beforehand as “the direction of prayer only,” the subsequent reading will merely rediscover the assumption with which it began. The same problem occurs if one begins by defining Qiblah as an abstract ideological reference.
+The research path is therefore disciplined:
+Research Sequence
+TEXT → CONTEXT → OTHER OCCURRENCES → CLUES → RELATIONS
+HYPOTHESIS → TEST → RESULT → LIMITS → RESEARCH CONTINUATION
+The sequence is procedural, not mechanical. An observation is not automatically an interpretation. A structural relation is not automatically causal. A hypothesis may survive some tests and remain open before others. A repeated textual pattern does not become a general law merely because it is repeated.
+Evidence, Interpretation, Hypothesis
+Layer
+Meaning
+Rule
+Evidence
+What the text directly states or what the documented corpus directly establishes.
+Do not present interpretation as textual fact.
+Interpretation
+The researcher’s reading of a relation or function.
+Must remain revisable.
+Hypothesis
+A proposed explanation that awaits testing.
+Must not be raised to a conclusion before testing.
+QCROS is the audit discipline used to preserve these distinctions. In practice, it asks the researcher to test reverse relations, double-reverse claims, resistant resources, scope, portability, and the exact status of each claim. The book’s scientific language is calibrated accordingly: CLOSED means closed within a declared scope; OPEN means unresolved; CANDIDATE means supported enough to investigate but not established; NOT ESTABLISHED means the available evidence does not justify the claim.
+One rule is especially important across the author’s broader project: Previous Volume ≠ Evidence for New Corpus. Earlier books may provide methods, hypotheses, or models, but their conclusions cannot be silently imported into a new textual field.
+2. The Direct Qiblah Corpus
+The direct corpus adopted in the book contains seven occurrences of the noun Qiblah: six in Surah al-Baqarah and one in Surah Yunus. The numerical fact is modest, but the distribution is conceptually important. Most of the material is concentrated in the intense al-Baqarah passage concerning the change of direction, while Yunus:87 provides a structurally resistant case: houses are to be made qiblah in a context that also commands the establishment of prayer.
+Reference Cluster
+Primary Feature
+Analytical Role
+Al-Baqarah 2:142–145
+Change of Qiblah, following, differing Qiblahs, turning of faces.
+Main transformation cluster.
+Al-Baqarah 2:144, 149, 150
+Turning the face toward al-Masjid al-Haram.
+Strong material/directional constraint.
+Yunus 10:87
+Making houses qiblah and establishing prayer.
+Resistant resource against reducing Qiblah to the al-Baqarah shatr formula alone.
+The material direction is therefore not optional. The repeated commands to turn the face toward al-Masjid al-Haram establish a strong spatial dimension. Any theory that makes space merely symbolic fails to respect the textual data.
+At the same time, the direct corpus contains functions that are not exhausted by geometry. Most importantly, al-Baqarah:143 links the making of the Qiblah in that local passage with distinguishing those who follow the Messenger from those who turn back. The book treats this as an explicit local function, not as a metaphor inferred from later theology.
+Al-Baqarah:145 adds another layer: different parties are associated with distinct qiblahs, and the verse speaks of non-following across those lines. This supports a local function of differentiated orientation, but it does not by itself establish a complete theory of identity, politics, or civilizational independence.
+Yunus:87 is equally important because it resists a definition that would make every Qiblah simply the direction toward al-Masjid al-Haram. It preserves the place-dimension while widening the structural possibilities of the term.
+3. The Structural Network Around Qiblah
+The book maps nine major axes around Qiblah: face, transformation, al-Masjid al-Haram, house, righteousness, community, witnessing, guidance, and testing/following. These axes do not all have the same evidentiary strength. Some are direct, some contextual, and some remain interpretive candidates.
+Axis
+What Is Supported
+What Is Not Established
+Qiblah <-> Face
+Direct relation through turning the face.
+Face = intention or inner consciousness.
+Qiblah <-> al-Masjid al-Haram
+Direct shatr-orientation in al-Baqarah.
+Total semantic identity.
+Qiblah <-> Houses
+Direct in Yunus:87.
+All houses as branches of the Sacred House.
+Qiblah <-> Righteousness
+Contextual anti-reduction constraint.
+Righteousness as a definition of Qiblah.
+Qiblah <-> Ummah
+Strong local co-presence in al-Baqarah:143.
+Qiblah causes the formation of the middle community.
+Qiblah <-> Witnessing
+Strong local architecture in al-Baqarah:143.
+Qiblah grants witnessing authority.
+Qiblah <-> Guidance
+Strong contextual presence.
+Qiblah = guidance, or Qiblah causes guidance.
+Qiblah <-> Following/Test
+Explicit local function in al-Baqarah:143.
+Every Qiblah is universally an ordeal or loyalty test.
+The network is valuable precisely because it prevents two opposite mistakes. It prevents the researcher from isolating Qiblah as a geometrical point with no textual environment. It also prevents the researcher from absorbing every neighboring concept into the definition of Qiblah.
+For example, the “middle community” and witnessing appear in the same verse as the Qiblah test, but the verse contains different grammatical-purpose structures. The community is made “middle” so that it may bear witness to humanity, while the local making of Qiblah is associated with distinguishing following from turning back. The book therefore refuses to collapse these purposes into a single causal chain.
+Similarly, al-Baqarah:177 resists any idea that moral righteousness can be reduced to the physical act of turning east or west. Yet this does not cancel the commands of direction in 2:144, 149, and 150. The point is anti-reduction, not anti-space.
+4. Five Competing Hypotheses
+Instead of moving directly from observations to one preferred explanation, the book constructs five competing hypotheses. The current version deliberately strengthens each of them so that no hypothesis is designed merely to lose.
+Hypothesis
+Core Claim
+Principal Pressure
+H1 — Spatial
+Qiblah is fundamentally a practical spatial direction; wider effects are consequences of obedience or context.
+Yunus:87 and functions beyond direction.
+H2 — Ritual
+Qiblah is primarily a structure of ritual organization, with place serving common worship.
+Following, differentiation, and wider relational functions.
+H3 — Group Reference
+Qiblah primarily marks communal differentiation and shared reference.
+Resources that do not require group identity for explanation.
+H4 — Multi-Layer Orientation
+Qiblah belongs to a multi-functional orientation system combining material direction with additional textual functions.
+Risk of becoming too broad or unfalsifiable.
+H5 — Spiritual Priority
+The deeper core is spiritual orientation, while spatial direction is an embodied enactment.
+The repeated strictness of the material direction and the evidentiary burden of proving spiritual priority.
+The book makes an important correction to an earlier version of its own argument: these five hypotheses are not treated as an exhaustive logical universe, and they are not placed on a ladder from primitive to advanced. They are a working competitive set.
+A hypothesis is required to declare not only what supports it but also what would count against it. This prevents the research from protecting a favored model by changing its definition whenever a resistant verse appears.
+5. Verification, Falsification, and the Surviving Models
+The verification layer applies six filters: systemic consistency, explanatory coverage, parsimony, falsification and competition, contextual sensitivity, and cross-concept consistency. Numerical scores are deliberately avoided because the evidence does not provide a reproducible metric that could justify labels such as “100% match.”
+The results are more modest—and more informative—than a winner-takes-all verdict. None of the five hypotheses is decisively eliminated in its revised form.
+Hypothesis
+Result After Comparative Testing
+H1
+Survives; material direction is strong, but total explanatory coverage is incomplete.
+H2
+Survives; the ritual link is real, but ritual exclusivity is not established.
+H3
+Survives; group differentiation is supported locally, but identity-centrality is open.
+H4
+Survives with the highest current coverage; the necessity of a multi-layer system remains open.
+H5
+Survives, but carries a high evidentiary and parsimony burden.
+This is one of the most significant methodological results of the book. Earlier drafts had treated several hypotheses as falsified and H4 as the winner. The revised study rejects that closure because the hypotheses were reformulated more fairly and because coverage deficit is not the same as decisive falsification.
+The final falsification cycle therefore records: no decisive eliminations, no winner, and no 100% score. H4 is carried forward only because it presently offers the broadest coverage, not because it has become a proven theory.
+End of Verification Layer
+Decisive eliminations: NONE
+Winner: NONE
+H4: HIGHEST CURRENT COVERAGE
+System necessity: OPEN
+Transition to theory: CONDITIONAL PASS
+6. T-CANDIDATE-01: A Multi-Functional Orientation Model
+The theoretical synthesis is therefore named T-CANDIDATE-01 rather than “the final theory.” It proposes that Qiblah, in the studied corpus, is a structure of orientation with an explicit spatial dimension that operates, in specific resources, together with turning, response, differentiated orientation, place organization, ritual links, collective links, and a contextual horizon of guidance.
+Qiblah is treated as a multi-functional orientation structure with a real spatial dimension, without reducing the concept to space alone and without absorbing neighboring concepts into the definition of Qiblah.
+The theory candidate preserves a hard core. The turning of the face toward al-Masjid al-Haram is direct. The transformation of Qiblah in the al-Baqarah cluster is structurally clear. The local function of distinguishing following from turning back is explicit in al-Baqarah:143. Different qiblahs are attributed to different parties in 2:145. Houses can be made qiblah in Yunus:87.
+Around that core lies a second layer of supported but non-causal relations: Qiblah with the face, the middle community, witnessing, guidance, righteousness, prayer, and the house. These relations differ in rank. Some are direct, some contextual, some architectural.
+The model expressly refuses several stronger claims. It does not say that Qiblah is identical with al-Masjid al-Haram, that the face is identical with intention, that the change of Qiblah caused the birth of the middle community, that Qiblah grants civilizational leadership, or that guidance is a direct causal product of spatial turning.
+The theory candidate is falsifiable. If a simpler model explains the same corpus with equal coverage and lower interpretive cost, the multi-functional model must be reduced or replaced.
+7. Local Rules, Not Universal Laws
+The book audits several earlier formulations that had been called laws. The revised result is deliberately narrower. Only one local functional law/rule reaches a high level of closure, one directional rule is strongly supported, and three wider laws remain candidates.
+Identifier
+Content
+Final Status
+QBL-SL-01
+In al-Baqarah:143, the making of the Qiblah is explicitly tied to distinguishing who follows the Messenger from who turns back.
+RATIFIED LOCALLY
+SR-QBL-01
+In the al-Baqarah cluster, the face is directed toward al-Masjid al-Haram.
+SUPPORTED SPECIFIC RULE
+LC-01
+Material embodiment of reference.
+CANDIDATE / OPEN
+LC-03
+Referential differentiation / independence.
+Differentiation supported; causal law OPEN
+LC-05
+Organizational extension from central place to houses.
+CANDIDATE / OPEN
+General Qiblah Law
+A universal cross-system law of Qiblah.
+0 — NOT ESTABLISHED
+This distinction protects the research from legal inflation. A local relation does not become a universal law merely by receiving a name. A contextual relation does not become causal merely because it is theologically meaningful. And a model can remain useful even when it has not reached the status of law.
+8. Cross-System Tests: Prayer, House, Hajj, Ummah, and Witnessing
+The book then tests whether the Qiblah model can travel into other Qur’anic systems. This is the point where earlier versions had claimed complete cross-system confirmation. The revised audit withdraws that claim and replaces it with controlled partial generalization.
+Prayer
+Yunus:87 provides a direct local link between making houses qiblah and establishing prayer. This is real evidence for a ritual relation. Yet the tested prayer passages do not repeat the word Qiblah in every instruction. Absence of mention cannot be used to deny the function, but one local verse cannot establish a universal condition for every prayer. The result is a supported candidate for Qiblah as a spatial-organizational container of prayer, not a universal law.
+The House and al-Masjid al-Haram
+A bounded comparison shows that the House (al-Bayt) carries functions such as return, security, standing for people, blessing, guidance, and circumambulation in its own corpus. By contrast, al-Masjid al-Haram appears in the Qiblah corpus as the target of shatr-orientation. The two concepts may belong to one spatial architecture, but they are not treated as lexical synonyms. The model “center and direction” remains a candidate.
+Hajj
+The strongest direct relation is Hajj <-> the House, not Hajj <-> Qiblah. The Hajj corpus includes coming from distant routes and circumambulating the Ancient House. This supports a wider spatial architecture, but the geometry differs: Qiblah concerns facing a direction, while Hajj includes arrival and movement around the House. The claim that Hajj is simply the embodied movement of Qiblah is therefore not established.
+Ummah and Witnessing
+Al-Baqarah:143 contains two explicit structures: the middle community is made so that it may bear witness to humanity, while the local making of the Qiblah distinguishes following from turning back. Their presence in the same verse justifies a coordinated architecture, but not a causal equation. Other witnessing passages reproduce the Messenger/community/witness structure without mentioning Qiblah. Qiblah is therefore not established as a necessary condition for witnessing.
+Layer A — Generalization Result
+Direct cross-concept links: SUPPORTED in selected resources
+Architecture candidates: FORMULATED
+Cross-system causality: NOT ESTABLISHED
+Generalization ceiling: L4 — ARCHITECTURE CANDIDATE
+Cross-system General Law: 0
+9. From Qiblah to the Architecture of Orientation
+The final synthesis asks whether the patterns around Qiblah justify a wider analytical concept: the Architecture of Orientation. The answer is deliberately cautious. The book allows an architecture candidate, not a universal law.
+An earlier linear model—Qiblah → Face → Intention → Guidance → Balance → Witnessing → Stewardship—has been downgraded to a research map. Only some of its edges have been tested in this book.
+Relation
+Current Status
+Qiblah <-> Face
+DIRECT / CLOSED LOCALLY
+Qiblah <-> Guidance
+CONTEXTUAL / SUPPORTED
+Qiblah <-> Response
+EXPLICIT LOCAL FUNCTION
+Qiblah <-> Ummah/Witnessing
+STRONG LOCAL / CAUSALITY OPEN
+Face <-> Intention
+OPEN / NOT TESTED
+Guidance <-> Balance
+OPEN / NOT TESTED
+Balance <-> Witnessing
+OPEN / identity resisted
+Witnessing <-> Stewardship
+DEFERRED
+The revised architecture is therefore a network rather than a chain. It contains a strong material-orientation layer, an explicit local response layer, a partially supported functional-place layer, local ritual and collective links, and a contextual guidance layer. Cognitive and civilizational extensions remain open.
+Architecture is not causality. Placing concepts in one model does not prove that one produces another or that they form a necessary chronological sequence.
+The book’s highest cross-system output is META-CANDIDATE-A01: spatial orientation can be associated with ritual, spatial, and collective functions, and place can carry function rather than being a silent coordinate. But this does not establish one universal Qiblah law governing all these systems.
+A related candidate, REFERENCE-CANDIDATE-Q01, allows a limited use of the language of reference. Qiblah can function as a practical reference and a marker of differentiated orientation in al-Baqarah:145. The study does not establish an all-encompassing epistemic, political, or civilizational reference system.
+10. What This Book Does Not Establish
+The book closes its scientific architecture by stating its limits explicitly. These limits are not treated as weaknesses. They are part of the result.
+The full lexical law of the root Q-B-L has not been sealed in this edition.
+Qiblah is not established as only a spatial direction, nor as only an inner or spiritual meaning.
+The face is not established as a synonym for intention or inner consciousness.
+Qiblah is not established as the cause of the middle community or as the condition of witnessing.
+Qiblah is not established as a universal condition for every prayer on the basis of this corpus alone.
+Hajj is not established as a direct application or embodiment of Qiblah laws.
+The Sacred House, al-Masjid al-Haram, Qiblah, and private houses are not treated as functionally identical terms.
+The center-to-branches model for the Sacred House and private houses remains open.
+The sequence Qiblah → Face → Intention → Guidance → Balance → Witnessing → Stewardship is not established as a causal chain.
+No general law of Qiblah and no general law of the Architecture of Orientation has been established.
+The strongest theoretical outputs remain candidates. The architecture is closed as a book structure, but the theories remain open to revision. This is a deliberate scientific status: Book Architecture = CLOSED; General Law = 0; Theory Candidates = OPEN.
+Conclusion — A Bounded Theory with an Open Future
+The study began with an apparently simple question: is Qiblah only a spatial direction, or does the Qur’an place it within a wider architecture of orientation? The inductive result refuses both extremes.
+The material direction is strongly established. The Qur’anic text repeatedly directs the face toward al-Masjid al-Haram, and no serious reading of the corpus can erase this spatial dimension. Yet the geometrical dimension does not exhaust the concept’s textual work. The Qiblah also appears in a local function of distinguishing response, in the making of houses qiblah alongside prayer, and in strong local or contextual relations with community, witnessing, and guidance.
+The decisive methodological insight is that a wider function does not automatically become a universal law. The study therefore stops short of claims it cannot reproduce through declared tests. It does not present Qiblah as the cause of community, witnessing, guidance, civilizational independence, or stewardship.
+The highest currently permitted statement is this: within the studied Qur’anic corpus, Qiblah is a structure of orientation with an explicit material dimension. In specific resources it operates with turning, differentiated response, place organization, ritual links, collective links, and a contextual horizon of guidance. These relations can be represented through a multi-layer functional architecture, but they must not be converted into a single causal chain or a universal Qur’anic law.
+The deeper value of the book is therefore methodological. It demonstrates a way to study a Qur’anic concept without inserting the conclusion into the premise. It shows how attractive claims can be downgraded when evidence is insufficient, how resistant verses can remain visible instead of being neutralized, and how a theory can be useful without pretending to be final.
+The book does not end with “Qiblah is …” It ends with a status register: what is established, what is structurally supported, what remains a candidate, and what has not yet been tested.
+FINAL SCIENTIFIC STATUS
+Book Architecture: CLOSED
+General Qiblah Law: 0
+General Directional Law: 0
+Theory Candidates: OPEN
+Research Continuation: AUTHORIZED UNDER QCROS
+Appendix A — Epistemic Status Vocabulary
+Term
+Arabic Equivalent
+Meaning in This Book
+Evidence
+الدليل
+Direct textual or corpus-based support.
+Interpretation
+التفسير / الاستنتاج
+A researcher’s reading of a relation or function.
+Hypothesis
+الفرضية
+An explanation proposed for testing.
+CANDIDATE
+مرشح
+Supported enough to investigate, not established.
+OPEN
+مفتوح
+Not resolved by the current test.
+CLOSED
+مغلق
+Closed within a declared scope, not necessarily universal.
+SUPPORTED
+مدعوم
+Evidence favors the claim within stated limits.
+NOT ESTABLISHED
+لم يثبت
+Evidence does not justify closure.
+DEFERRED
+مؤجل
+Requires another corpus or a separate research stage.
+General Law = 0
+القانون العام = 0
+No general law has been established at that rank.
+The status vocabulary is part of the scientific architecture. Translating or editing the book must not silently strengthen a claim. OPEN does not mean “false,” and CANDIDATE does not mean “established.”
+Appendix B — Key Qur’anic Passages in Conceptual Paraphrase
+The following are conceptual paraphrases for orientation only, not a substitute for consulting the Arabic Qur’anic text.
+Reference
+Conceptual Paraphrase
+Role in the Study
+Al-Baqarah 2:143
+The local making of the Qiblah is associated with distinguishing who follows the Messenger from who turns back; the verse also presents the middle community in relation to witnessing.
+Explicit local function + collective architecture.
+Al-Baqarah 2:144
+The face is directed toward al-Masjid al-Haram; the community is likewise commanded to turn toward it.
+Strong material/directional constraint.
+Al-Baqarah 2:145
+Different parties are associated with different qiblahs, and mutual following is denied.
+Differentiated orientation.
+Al-Baqarah 2:149–150
+The command to turn toward al-Masjid al-Haram is repeated.
+Specific directional rule.
+Yunus 10:87
+Houses are to be established and made qiblah, together with the command to establish prayer.
+Resistant resource + prayer link.
+Al-Baqarah 2:177
+Righteousness is not reducible to merely turning faces toward east or west.
+Anti-reduction constraint.
+Al-Baqarah 2:142, 150
+Guidance appears in the wider Qiblah passage.
+Contextual guidance link, not causal identity.
+Open Access and Research Continuation
+This condensed English edition is intended as an entry point. Researchers who wish to examine the full corpus tables, QCROS audit trail, detailed hypothesis matrices, Arabic linguistic distinctions, and complete structural argument should consult the original Arabic edition.
+The project remains committed to open access. The purpose of the library is not only to distribute conclusions, but also to make research materials available so that readers can re-open the corpus, challenge classifications, test hypotheses, and continue the investigation.
