@@ -1,0 +1,1764 @@
+{
+  "updated_at": "2026-10-03",
+  "summary": {
+    "ready": 184,
+    "pending": 0,
+    "private": 24,
+    "review": 12,
+    "unavailable": 4
+  },
+  "editions": [
+    {
+      "number": 1,
+      "book_id": "conscious-contemplation",
+      "language": "ar",
+      "title": "نحو تدبر واعٍ",
+      "status": "review"
+    },
+    {
+      "number": 1,
+      "book_id": "conscious-contemplation",
+      "language": "en",
+      "title": "Towards Conscious Contemplation",
+      "status": "ready",
+      "drive_id": "1yKPdEMoAMHXLmKlhaSVhy61tjWoVEVbv"
+    },
+    {
+      "number": 2,
+      "book_id": "anwar-al-bayan",
+      "language": "ar",
+      "title": "أنوار البيان في رسم المصحف العثماني: الكشف عن أسرار اللسان",
+      "status": "review"
+    },
+    {
+      "number": 2,
+      "book_id": "anwar-al-bayan",
+      "language": "en",
+      "title": "Anwar Al-Bayan in the Drawing of the Ottoman Quran: Unveiling the Secrets of the Tongue",
+      "status": "ready",
+      "drive_id": "1kyDrHDpYAWA1G0KE8Ow5e5VIk-lbM6zZ"
+    },
+    {
+      "number": 3,
+      "book_id": "changing-the-concepts",
+      "language": "ar",
+      "title": "تغيير المفاهيم",
+      "status": "ready",
+      "drive_id": "1xws8rEosYU6dbjPrI8wLxubBOCXMqiwZ"
+    },
+    {
+      "number": 3,
+      "book_id": "changing-the-concepts",
+      "language": "en",
+      "title": "Changing the Concepts",
+      "status": "ready",
+      "drive_id": "1JdG4UcH_EYjHDKcM7fvJqh_FlYKAhBEU"
+    },
+    {
+      "number": 4,
+      "book_id": "editing-the-quranic-terminology-tome1",
+      "language": "ar",
+      "title": "تحرير المصطلح القرآني: دراسة تطبيقية في فقه اللسان القرآني - المجلد 1",
+      "status": "ready",
+      "drive_id": "1kPbpmqAYpnGQj4gaxuBQqtxUABCYlEAq"
+    },
+    {
+      "number": 4,
+      "book_id": "editing-the-quranic-terminology-tome1",
+      "language": "en",
+      "title": "Clarifying the Qur'anic Terminology: An Applied Study in the Jurisprudence of the Qur'anic Tongue - Tome 1",
+      "status": "ready",
+      "drive_id": "1p56FRilL8WZ8x_sRgwY_IIUJzbkfekmh"
+    },
+    {
+      "number": 5,
+      "book_id": "editing-the-quranic-terminology-tome2",
+      "language": "ar",
+      "title": "تحرير المصطلح القرآني: دراسة تطبيقية في فقه اللسان القرآني - المجلد 2",
+      "status": "ready",
+      "drive_id": "1FB_k6Gr-zoqJhlt8t5ZaN8DWuhnHmJrW"
+    },
+    {
+      "number": 5,
+      "book_id": "editing-the-quranic-terminology-tome2",
+      "language": "en",
+      "title": "Clarifying the Qur'anic Terminology: An Applied Study in the Jurisprudence of the Qur'anic Tongue - Tome 2",
+      "status": "ready",
+      "drive_id": "1OZjyDOBnxQoeahD1P7D-BCjqbuDnKS53"
+    },
+    {
+      "number": 6,
+      "book_id": "editing-the-quranic-terminology-tome3",
+      "language": "ar",
+      "title": "تحرير المصطلح القرآني: دراسة تطبيقية في فقه اللسان القرآني - المجلد 3",
+      "status": "ready",
+      "drive_id": "1AxcDCaF3eko71MMh9DFvWMkXACEBRIyh"
+    },
+    {
+      "number": 6,
+      "book_id": "editing-the-quranic-terminology-tome3",
+      "language": "en",
+      "title": "Clarifying the Qur'anic Terminology: An Applied Study in the Jurisprudence of the Qur'anic Tongue - Tome 3",
+      "status": "ready",
+      "drive_id": "1kkyCPmhapQytzAwWB3LnCVmekxSgb4-K"
+    },
+    {
+      "number": 7,
+      "book_id": "contemplation-in-the-mirror",
+      "language": "ar",
+      "title": "التدبر في مرآة الرسوم",
+      "status": "ready",
+      "drive_id": "1Ag4-dwddc2EqVV8ijZBmvOiLc_pmZPGZ"
+    },
+    {
+      "number": 7,
+      "book_id": "contemplation-in-the-mirror",
+      "language": "en",
+      "title": "Contemplation in the Mirror of Drawings",
+      "status": "ready",
+      "drive_id": "1bz3GlhzT-arP_5hsu_EUMJfksSQ5AOGc"
+    },
+    {
+      "number": 8,
+      "book_id": "digitizing",
+      "language": "ar",
+      "title": "رقمنة المخطوطات القرآنية",
+      "status": "ready",
+      "drive_id": "1IJ2FneZK2jB3ur5ZYrTU08EXFwWw9hvs"
+    },
+    {
+      "number": 8,
+      "book_id": "digitizing",
+      "language": "en",
+      "title": "Digitization of Quranic Manuscripts",
+      "status": "ready",
+      "drive_id": "1zIw6MTJcOa2wEhbmTngwFTcxIBcbcLYS"
+    },
+    {
+      "number": 9,
+      "book_id": "the-jurisprudence",
+      "language": "ar",
+      "title": "فقه اللسان القرآني",
+      "status": "ready",
+      "drive_id": "1_kXmO-UwpEflBx3VQsuH2DOhkYgxE0pk"
+    },
+    {
+      "number": 9,
+      "book_id": "the-jurisprudence",
+      "language": "en",
+      "title": "The Jurisprudence of the Quranic Tongue",
+      "status": "ready",
+      "drive_id": "1Ac2pctiufnAzN2-0yCLLrNA9gBsYC-lB"
+    },
+    {
+      "number": 10,
+      "book_id": "modesty",
+      "language": "ar",
+      "title": "الحَيَاءُ - سياج الروح وبوصلة الفهم",
+      "status": "ready",
+      "drive_id": "1u6AfgQ8cgj-4e3e_zf43p76d6hxnWoXj"
+    },
+    {
+      "number": 10,
+      "book_id": "modesty",
+      "language": "en",
+      "title": "Modesty: From the Energy of Modesty to the Key to Knowledge",
+      "status": "ready",
+      "drive_id": "1i5__DOFOeEH8XhaL2vKlsK6JIgnQq7Vp"
+    },
+    {
+      "number": 11,
+      "book_id": "malakoot",
+      "language": "ar",
+      "title": "وَلِيَكُونَ مِنَ الْمُوقِنِينَ: رحلة برهانية في ملكوت السماوات والأرض وما بينهما",
+      "status": "unavailable"
+    },
+    {
+      "number": 11,
+      "book_id": "malakoot",
+      "language": "en",
+      "title": "And So That He May Be of the Certain Ones: A Demonstrative Journey in the Kingdom of the Heavens and the Earth and What is Between Them",
+      "status": "unavailable"
+    },
+    {
+      "number": 12,
+      "book_id": "prostration-and-glorification-in-the-quran",
+      "language": "ar",
+      "title": "السجود والتسبيح في القرآن: من التنزيه القلبي إلى الخضوع العملي",
+      "status": "ready",
+      "drive_id": "1SMFzP3qbsclWGaYJH_idtBPC2HOlZBuB"
+    },
+    {
+      "number": 12,
+      "book_id": "prostration-and-glorification-in-the-quran",
+      "language": "en",
+      "title": "Prostration and Glorification in the Qur'an: From Heartfelt Purification to Practical Submission",
+      "status": "ready",
+      "drive_id": "1LgKEAcmmtIql5jFdRF4kZc0Xow-dPWjd"
+    },
+    {
+      "number": 13,
+      "book_id": "christ-and-mary-in-the-quran",
+      "language": "ar",
+      "title": "المسيح ومريم في القرآن: من الرمز الباطني إلى النموذج الإنساني",
+      "status": "unavailable"
+    },
+    {
+      "number": 13,
+      "book_id": "christ-and-mary-in-the-quran",
+      "language": "en",
+      "title": "Christ and Mary in the Qur'an: From the Esoteric Symbol to the Human Model",
+      "status": "unavailable"
+    },
+    {
+      "number": 14,
+      "book_id": "names-in-the-holy",
+      "language": "ar",
+      "title": "الأسماء الحسنى الوظيفية في القرآن الكريم: دراسة توقيفية تحليلية لدلالات التدبير الإلهي",
+      "status": "ready",
+      "drive_id": "1hX1pyjB-AMZipBO7goySnXLAO1Yb5j0o"
+    },
+    {
+      "number": 14,
+      "book_id": "names-in-the-holy",
+      "language": "en",
+      "title": "The Functional Beautiful Names in the Holy Quran: An Analytical Discretionary Study of the Connotations of Divine Management",
+      "status": "ready",
+      "drive_id": "1UiOYSda3JvMBzHqoX9B3Tg5dzU56A9nu"
+    },
+    {
+      "number": 15,
+      "book_id": "blood",
+      "language": "ar",
+      "title": "الدم",
+      "status": "ready",
+      "drive_id": "1k0iB4fd-UntvLN1ilgBTzwYNm0_K7uwx"
+    },
+    {
+      "number": 15,
+      "book_id": "blood",
+      "language": "en",
+      "title": "Blood - the code of existence that we neglected",
+      "status": "ready",
+      "drive_id": "1EpQqqHX01DlWCi45KX5fijZkV7JU0sq6"
+    },
+    {
+      "number": 16,
+      "book_id": "the-code-of-the-quran",
+      "language": "ar",
+      "title": "شفرة القرآن",
+      "status": "ready",
+      "drive_id": "1Qrq2wCg54qU_XZYa3sx9CaJU8GqtYGEE"
+    },
+    {
+      "number": 16,
+      "book_id": "the-code-of-the-quran",
+      "language": "en",
+      "title": "THE CODE OF THE QUR'AN",
+      "status": "review"
+    },
+    {
+      "number": 17,
+      "book_id": "the-spirit",
+      "language": "ar",
+      "title": "الروح: من عالم الأمر إلى إشراق الإدراك",
+      "status": "ready",
+      "drive_id": "1AKUAeYHs_cB-U58WAPUSmmqMdarIgiRj"
+    },
+    {
+      "number": 17,
+      "book_id": "the-spirit",
+      "language": "en",
+      "title": "The Spirit: From the Realm of Command to the Illumination of Perception",
+      "status": "review"
+    },
+    {
+      "number": 18,
+      "book_id": "numbers-as-legislation",
+      "language": "ar",
+      "title": "الأعداد في القرآن: من الكم إلى الكيف، ومن الظاهر إلى الوعي",
+      "status": "review"
+    },
+    {
+      "number": 18,
+      "book_id": "numbers-as-legislation",
+      "language": "en",
+      "title": "Numbers in the Quran: From Quantity to Quality, and from the Apparent to the Conscious",
+      "status": "review"
+    },
+    {
+      "number": 19,
+      "book_id": "from-the-letter-to-consciousness",
+      "language": "ar",
+      "title": "من الحرف إلى الوعي – رحلة الإنسان في مرآة القرآن",
+      "status": "ready",
+      "drive_id": "1qdBl4FRtrUkomGObePr6qKY6Y6Qdct6H"
+    },
+    {
+      "number": 19,
+      "book_id": "from-the-letter-to-consciousness",
+      "language": "en",
+      "title": "From letter to consciousness The human journey in the mirror of the Qur'an Between the soul, the spirit, and the statement - a symbolic reading of the jurisprudence of the Quranic language",
+      "status": "ready",
+      "drive_id": "1u0JS2WHY-qzOGMBmMf9HdmqGT66sipqI"
+    },
+    {
+      "number": 20,
+      "book_id": "the-quranic-consciousness-trinity-project",
+      "language": "ar",
+      "title": "ثالوث الوعي القرآني - التسبيح، الحمد، والشكر",
+      "status": "ready",
+      "drive_id": "1GZmBrOshDqi2bOiJT18u0ZF8pJ-XouNb"
+    },
+    {
+      "number": 20,
+      "book_id": "the-quranic-consciousness-trinity-project",
+      "language": "en",
+      "title": "The Quranic Consciousness Trinity Project From the Cosmic Order to Human Consciousness",
+      "status": "ready",
+      "drive_id": "1zRPEPuL7gdC46YYIMiSXMCmjGSZ3124C"
+    },
+    {
+      "number": 21,
+      "book_id": "the-universe",
+      "language": "ar",
+      "title": "الكون كتاب حي — الموجودات تتكلم بلسان الله",
+      "status": "ready",
+      "drive_id": "1PmIKdoRkn0iIJZNmjTnRBIeS7oufaY9Z"
+    },
+    {
+      "number": 21,
+      "book_id": "the-universe",
+      "language": "en",
+      "title": "THE UNIVERSE IS A LIVING BOOK — ALL BEINGS SPEAK WITH THE VOICE OF GOD",
+      "status": "ready",
+      "drive_id": "1FNkEgRLOPW-WfX8sL2H7svz4yNwUTZ20"
+    },
+    {
+      "number": 22,
+      "book_id": "the-self",
+      "language": "ar",
+      "title": "النفس: من الحرف إلى الوعي",
+      "status": "ready",
+      "drive_id": "1MeHXwXpiCMmIN9esbfTvAyEF8io5ONM-"
+    },
+    {
+      "number": 22,
+      "book_id": "the-self",
+      "language": "en",
+      "title": "The Self: From Letter to Consciousness",
+      "status": "ready",
+      "drive_id": "1mogwIkCylozFP_QDv8PpmEbsAlx5dv_Z"
+    },
+    {
+      "number": 23,
+      "book_id": "the-seven-mathani",
+      "language": "ar",
+      "title": "السبع المثاني في ضوء البنية اللغوية والبنية العددية: نحو وحدة الهندسة والمعنى",
+      "status": "ready",
+      "drive_id": "1yHWJTLsModUU_Yr5XNhEU4AXzCKVX-3H"
+    },
+    {
+      "number": 23,
+      "book_id": "the-seven-mathani",
+      "language": "en",
+      "title": "The Seven Mathani in Light of Linguistic and Numerical Structure: Towards a Unity of Geometry and Meaning",
+      "status": "ready",
+      "drive_id": "1_oBA1fBJFfzt87X7SKTT8crEWhv5Pz9p"
+    },
+    {
+      "number": 24,
+      "book_id": "angels",
+      "language": "ar",
+      "title": "الملائكة: البنية الخفية التي تُدير الوجود",
+      "status": "ready",
+      "drive_id": "1qCWn7efKbImHAOIgcoy6SJ8X_IGEvuGC"
+    },
+    {
+      "number": 24,
+      "book_id": "angels",
+      "language": "en",
+      "title": "Angels: The Hidden Structure That Governs Existence",
+      "status": "ready",
+      "drive_id": "1f1aU1XZOAgqS_XEEFO5VX1K_XUwd8IP-"
+    },
+    {
+      "number": 25,
+      "book_id": "shattering-the-false-mountains",
+      "language": "ar",
+      "title": "نسف الجبال الضالة: رحلة الرضا من ليلة القدر إلى يوم الكشف",
+      "status": "ready",
+      "drive_id": "1Ik4w0sYBWoy1x2nExT0r5jMgsegwvRiD"
+    },
+    {
+      "number": 25,
+      "book_id": "shattering-the-false-mountains",
+      "language": "en",
+      "title": "Shattering the False Mountains: A Qur'anic Unmasking of Sacred Illusions",
+      "status": "ready",
+      "drive_id": "17zNYP48FHbxDpWCmkQD9bONmSPBzlv2i"
+    },
+    {
+      "number": 26,
+      "book_id": "tasbeeh",
+      "language": "ar",
+      "title": "التسبيح: السباحة في المسار الموجَّه من حفظ النظام الكوني إلى منع سفك الدماء",
+      "status": "ready",
+      "drive_id": "1Ybpue0ZDlhR7AgTDabQP2fXkOjE5SyvO"
+    },
+    {
+      "number": 26,
+      "book_id": "tasbeeh",
+      "language": "en",
+      "title": "Tasbeeh: Swimming in the Guided Path: From Inner Transcendence to Lived Submission",
+      "status": "review"
+    },
+    {
+      "number": 27,
+      "book_id": "prophets",
+      "language": "ar",
+      "title": "الأنبياء من شخوص التاريخ إلى برامج الاستخلاف",
+      "status": "ready",
+      "drive_id": "1TZlVIN7WwQCVubfTf2IICxm5m3wIsnzv"
+    },
+    {
+      "number": 27,
+      "book_id": "prophets",
+      "language": "en",
+      "title": "From Prophets as Historical Figures to Programs of Human Stewardship",
+      "status": "ready",
+      "drive_id": "1bbVbYl_KKEHUqFTCX_R1XWbT70W53-Ui"
+    },
+    {
+      "number": 28,
+      "book_id": "magog",
+      "language": "ar",
+      "title": "يأجوج ومأجوج - من قانون الدم إلى سنن الفساد",
+      "status": "ready",
+      "drive_id": "1A06d-es2hU46qJtWsffNRbf3rUMD5cHP"
+    },
+    {
+      "number": 28,
+      "book_id": "magog",
+      "language": "en",
+      "title": "Gog and Magog - From the Law of Blood to the Patterns of Corruption",
+      "status": "review"
+    },
+    {
+      "number": 29,
+      "book_id": "human",
+      "language": "ar",
+      "title": "كتاب الإنسان والاستخلاف",
+      "status": "ready",
+      "drive_id": "15gTIDov_n2qUtB5q9aGntvbcVCmkePoq"
+    },
+    {
+      "number": 29,
+      "book_id": "human",
+      "language": "en",
+      "title": "The Book of Human and Stewardship",
+      "status": "ready",
+      "drive_id": "1ivTyHcbSxTB01CpweFpXpkKFtqkyEqTA"
+    },
+    {
+      "number": 30,
+      "book_id": "malakoot1",
+      "language": "ar",
+      "title": "وَلِيَكُونَ مِنَ الْمُوقِنِينَ: رحلة برهانية في ملكوت السماوات والأرض وما بينهما - المجلد الأول",
+      "status": "ready",
+      "drive_id": "1TUTOEHZPs0Guq02ZN7jhUasl9S6sM5nS"
+    },
+    {
+      "number": 30,
+      "book_id": "malakoot1",
+      "language": "en",
+      "title": "So That He May Be Among the Certain - A Demonstrative Journey in the Kingdom of the Heavens and the Earth and What is Between Them",
+      "status": "ready",
+      "drive_id": "1s9F5WVVBjjRYsI0zdfCBawa1EhU2FqSA"
+    },
+    {
+      "number": 31,
+      "book_id": "malakoot2",
+      "language": "ar",
+      "title": "وَلِيَكُونَ مِنَ الْمُوقِنِينَ: رحلة برهانية في ملكوت السماوات والأرض وما بينهما - المجلد الثاني",
+      "status": "review"
+    },
+    {
+      "number": 31,
+      "book_id": "malakoot2",
+      "language": "en",
+      "title": "And So That He May Be of the Certain Ones: A Demonstrative Journey in the Kingdom of the Heavens and the Earth and What is Between Them",
+      "status": "ready",
+      "drive_id": "16FSLEaHnPyk2XYKWfqFeK5gvqaVKmT2e"
+    },
+    {
+      "number": 32,
+      "book_id": "faith",
+      "language": "ar",
+      "title": "الإسلام والإيمان: نحو هندسة للأمن الوجودي ونقد صنمية التراث",
+      "status": "ready",
+      "drive_id": "12NUJmmmg1y8YrulZzTrq8rKcUq5js3qH"
+    },
+    {
+      "number": 32,
+      "book_id": "faith",
+      "language": "en",
+      "title": "Faith Between Text and Contemporary Interpretation: A Conceptual Reading of Belief, Meaning, and Responsibility",
+      "status": "ready",
+      "drive_id": "1UcAzm4hQord8ZF_0lYtB235FyuLY8LAy"
+    },
+    {
+      "number": 33,
+      "book_id": "jinn",
+      "language": "ar",
+      "title": "الجن والشياطين في القرآن: من الخرافة إلى الوعي المعقلن",
+      "status": "ready",
+      "drive_id": "16x-e2mmmL_wHaCiOxhHT8omq7GQDAv9A"
+    },
+    {
+      "number": 33,
+      "book_id": "jinn",
+      "language": "en",
+      "title": "Jinn and Demons in the Quran: From Myth to Rational Awareness",
+      "status": "ready",
+      "drive_id": "1bj6jTUjK09000JqA5xtZFB-3JxfAADUZ"
+    },
+    {
+      "number": 34,
+      "book_id": "adultery",
+      "language": "ar",
+      "title": "الزنا في ضوء الميزان الإلهي",
+      "status": "review"
+    },
+    {
+      "number": 34,
+      "book_id": "adultery",
+      "language": "en",
+      "title": "Adultery in the Light of Divine Balance",
+      "status": "ready",
+      "drive_id": "1VFt3KraPevozhteH4TMBKOk6SyQETV_b"
+    },
+    {
+      "number": 35,
+      "book_id": "salat",
+      "language": "ar",
+      "title": " موسوعة الصلاة -(الصلوة): نظام وصل سيادي مستمر ",
+      "status": "ready",
+      "drive_id": "1EnFORQsiJOJzU1GdS8A1hRzFfJ11cljp"
+    },
+    {
+      "number": 35,
+      "book_id": "salat",
+      "language": "en",
+      "title": "The Encyclopedia of Salah - (Al-Salāt) - A Sovereign and Continuous System of Interconnectivity",
+      "status": "ready",
+      "drive_id": "1TAI7Xq6GYd7-onPTyaoJd1_y-HURfsY-"
+    },
+    {
+      "number": 36,
+      "book_id": "earth",
+      "language": "ar",
+      "title": " الأرض في القرآن ",
+      "status": "ready",
+      "drive_id": "1-W6n4PmTo3MVlKjblZS7k2p_PvxkFKN-"
+    },
+    {
+      "number": 36,
+      "book_id": "earth",
+      "language": "en",
+      "title": " The Earth in the Quran ",
+      "status": "ready",
+      "drive_id": "1GpfXA9b4DKAoKRY9PXpBvhhRCtdetINe"
+    },
+    {
+      "number": 37,
+      "book_id": "cave",
+      "language": "ar",
+      "title": " مرايا الكهف: الهندسة القرآنية لقانون الفتن ومسار الاستخلاف ",
+      "status": "ready",
+      "drive_id": "1G7BEY364kRhXPgEkRJR7kdwDujHFRdZa"
+    },
+    {
+      "number": 37,
+      "book_id": "cave",
+      "language": "en",
+      "title": "Mirrors of the Cave - A Conceptual Journey into the Soul, Language, and the Sanctuary of the Word ",
+      "status": "review"
+    },
+    {
+      "number": 38,
+      "book_id": "salawat",
+      "language": "ar",
+      "title": " الصلاة على النبي من الترديد الآلي إلى النصرة الوجودية ",
+      "status": "ready",
+      "drive_id": "1W_CWrU2jtISMoJnNPD2D5yWQKVcZpwQD"
+    },
+    {
+      "number": 38,
+      "book_id": "salawat",
+      "language": "en",
+      "title": " Salawat: From Automatic Ritual to Existential Presence ",
+      "status": "review"
+    },
+    {
+      "number": 39,
+      "book_id": "shadaows-of-heaving",
+      "language": "ar",
+      "title": " ظلال الجنة والنار وجهنم: رحلة من الدنو المعرفي إلى اليقين الأخروي ",
+      "status": "ready",
+      "drive_id": "1Boln7l_L3m4WIjU-GAEdZ04Zq_LhAt0i"
+    },
+    {
+      "number": 39,
+      "book_id": "shadaows-of-heaving",
+      "language": "en",
+      "title": " The Comprehensive Conceptual Adaptation: Shadows of Heaven, Hell, and Jahannam ",
+      "status": "ready",
+      "drive_id": "1eaLMMxePGSV9EZ46fletvfUMb1_pVTkX"
+    },
+    {
+      "number": 40,
+      "book_id": "fasting",
+      "language": "ar",
+      "title": " موسوعة الصيام القرآني -من النُسك الجسدي إلى المنهج الوجودي ",
+      "status": "ready",
+      "drive_id": "14tjE8BpbvViu7oymIwFwEde7MkGOo4sE"
+    },
+    {
+      "number": 40,
+      "book_id": "fasting",
+      "language": "en",
+      "title": " Encyclopedia of Qur’anic Fasting - From Physical Ritual to Existential Method and the Architecture of Taqwa ",
+      "status": "ready",
+      "drive_id": "1HslqFk5izRKvTxG_9617Xz0W3qGqtM9-"
+    },
+    {
+      "number": 41,
+      "book_id": "youssef",
+      "language": "ar",
+      "title": " كتاب: يوسف فينا - رحلة الوعي من الكيد والفساد إلى التمكين",
+      "status": "ready",
+      "drive_id": "1BZ37nOMsIoK6Zl3tHiyqVDWOlF5Odwyc"
+    },
+    {
+      "number": 41,
+      "book_id": "youssef",
+      "language": "en",
+      "title": " YUSUF WITHIN US - From Conspiracy and Corruption to Empowerment ",
+      "status": "ready",
+      "drive_id": "1eYw4hM-AJDI3EqIj10TJAx68vuiK6Mz3"
+    },
+    {
+      "number": 42,
+      "book_id": "Breath1",
+      "language": "ar",
+      "title": "موسوعة التنفس البنيوي: من ميكانيكا الجسد إلى هندسة البصيرة",
+      "status": "ready",
+      "drive_id": "1PrXhw6EiresL3_0hWJE7gUleeAvRvUJ0"
+    },
+    {
+      "number": 42,
+      "book_id": "Breath1",
+      "language": "en",
+      "title": "The Architecture of Breath & Consciousness - A Structural Approach to Human Perception & Quranic Linguistics",
+      "status": "ready",
+      "drive_id": "1-udhka_Xe0BjdB4B2GPthVNify0q2k2r"
+    },
+    {
+      "number": 43,
+      "book_id": "Breath2",
+      "language": "ar",
+      "title": "موسوعة التنفس البنيوي: من ميكانيكا الجسد إلى هندسة البصيرة",
+      "status": "ready",
+      "drive_id": "1_615bppnm3Fg_OgInuvQ5DgUd2dSwYCd"
+    },
+    {
+      "number": 43,
+      "book_id": "Breath2",
+      "language": "en",
+      "title": "The Architecture of Breath & Consciousness - A Structural Approach to Human Perception & Quranic Linguistics",
+      "status": "ready",
+      "drive_id": "1wXFzubwkDQipm9DStuS5EwpPlFF0N_Eu"
+    },
+    {
+      "number": 44,
+      "book_id": "linguistic-engineering",
+      "language": "ar",
+      "title": "هندسة اللسان والارتقاء بالإنسان - دراسة تدبرية في سور (المسد، العصر، الفلق، الناس...)",
+      "status": "ready",
+      "drive_id": "1-GH-46pVJslSac5-wiL7o3kKBX2gnBuc"
+    },
+    {
+      "number": 44,
+      "book_id": "linguistic-engineering",
+      "language": "en",
+      "title": "Linguistic Engineering and Human Elevation: A Strategic Concept for Self-Development",
+      "status": "ready",
+      "drive_id": "1ZY3vGG06G8ZMjhlGs8zzpiOmwIF72I5Z"
+    },
+    {
+      "number": 45,
+      "book_id": "Inheritance",
+      "language": "ar",
+      "title": " الميراث في القرآن: قراءة بنيوية في ضوء فقه اللسان القرآني",
+      "status": "ready",
+      "drive_id": "1r3oy9RbcdKWDAQDOZP8fD5rAPirSzRk7"
+    },
+    {
+      "number": 45,
+      "book_id": "Inheritance",
+      "language": "en",
+      "title": " From Inheritance to Continuity: A Structural Reading Through Qur’anic Linguistic Jurisprudence and Reality",
+      "status": "ready",
+      "drive_id": "1tICsze2sYrMU6uydN83jzcDD5hOTLzjz"
+    },
+    {
+      "number": 46,
+      "book_id": "ghaib",
+      "language": "ar",
+      "title": "إعادة تعريف \"أحداث الغيب\" بوصفها قوانين بنيوية فاعلة في الوعي والواقع",
+      "status": "ready",
+      "drive_id": "1kVN96TkzagJ_LhSuMX_kBda7tVZwIwWA"
+    },
+    {
+      "number": 46,
+      "book_id": "ghaib",
+      "language": "en",
+      "title": "Redefining \"Ghaib Events\" as Functional Structural Laws in Consciousness and Reality",
+      "status": "ready",
+      "drive_id": "1n3Qkx8Hjv_1Iz6KcJDwz8Dae42GiZts6"
+    },
+    {
+      "number": 47,
+      "book_id": "engineering-of-trials",
+      "language": "ar",
+      "title": "هندسة الابتلاء: دليل المُشغّل للإنسان القرآني",
+      "status": "ready",
+      "drive_id": "1At2p7HgavB9BtaDI8VMLC9q-aZlU8XM-"
+    },
+    {
+      "number": 47,
+      "book_id": "engineering-of-trials",
+      "language": "en",
+      "title": "Engineering of Trials: The System Operator's Guide for the Quranic Human",
+      "status": "ready",
+      "drive_id": "17a2GS8rw9eG_Xw38lfQngdjirCQwLrJZ"
+    },
+    {
+      "number": 48,
+      "book_id": "the-jurisprudence-tome1",
+      "language": "ar",
+      "title": "فقه اللسان القرآني -- هندسة الوحي: مشروع إعادة بناء الفهم القرآني: من الحرف الأولي إلى التشغيل الوجودي",
+      "status": "ready",
+      "drive_id": "1EXl8CBU_FqNWf_q1fQfQym_PT4IqcLy9"
+    },
+    {
+      "number": 48,
+      "book_id": "the-jurisprudence-tome1",
+      "language": "en",
+      "title": "Encyclopedia: Fiqh Al-Lissan Al-Qur'ani -- The Engineering of Revelation",
+      "status": "ready",
+      "drive_id": "1svHXLTmJScgo6JBMw3ZqFdnNB5sv2DIj"
+    },
+    {
+      "number": 49,
+      "book_id": "the-jurisprudence-tome2",
+      "language": "ar",
+      "title": "فقه اللسان القرآني -- هندسة الوحي: مشروع إعادة بناء الفهم القرآني: من الحرف الأولي إلى التشغيل الوجودي",
+      "status": "ready",
+      "drive_id": "1OkY8t4vSX_e71G5VbkPW8aATx8ngyHdo"
+    },
+    {
+      "number": 49,
+      "book_id": "the-jurisprudence-tome2",
+      "language": "en",
+      "title": "Encyclopedia: Fiqh Al-Lissan Al-Qur'ani -- The Engineering of Revelation",
+      "status": "ready",
+      "drive_id": "1A6lZfmse2IsuPt5hnFGid85eD73-bObN"
+    },
+    {
+      "number": 50,
+      "book_id": "the-jurisprudence-tome3",
+      "language": "ar",
+      "title": "فقه اللسان القرآني -- هندسة الوحي: مشروع إعادة بناء الفهم القرآني: من الحرف الأولي إلى التشغيل الوجودي",
+      "status": "ready",
+      "drive_id": "1_HKR0GiOJNBPaxpSDR4ALLtUOuGlEW_p"
+    },
+    {
+      "number": 50,
+      "book_id": "the-jurisprudence-tome3",
+      "language": "en",
+      "title": "Encyclopedia: Fiqh Al-Lissan Al-Qur'ani -- The Engineering of Revelation",
+      "status": "ready",
+      "drive_id": "1Y5YHFxlQ8k928HaVR13SXmn0vmsGaTgM"
+    },
+    {
+      "number": 51,
+      "book_id": "the-jurisprudence-tome4",
+      "language": "ar",
+      "title": "فقه اللسان القرآني -- هندسة الوحي: مشروع إعادة بناء الفهم القرآني: من الحرف الأولي إلى التشغيل الوجودي",
+      "status": "ready",
+      "drive_id": "13V4EMVUArs77SUQ2WqA_fHTsETm_LzFY"
+    },
+    {
+      "number": 51,
+      "book_id": "the-jurisprudence-tome4",
+      "language": "en",
+      "title": "Encyclopedia: Fiqh Al-Lissan Al-Qur'ani -- The Engineering of Revelation",
+      "status": "ready",
+      "drive_id": "1RwG_TpUKqufQiILALwZ-ZdDZA8jh_G_J"
+    },
+    {
+      "number": 52,
+      "book_id": "encyclopedia-of-succession",
+      "language": "ar",
+      "title": "موسوعة الاستخلاف: هندسة العبادات في اللسان القرآني",
+      "status": "ready",
+      "drive_id": "1bLZvzQEWvtY-l1YMyGQDPNlM3Izmwppy"
+    },
+    {
+      "number": 52,
+      "book_id": "encyclopedia-of-succession",
+      "language": "en",
+      "title": "Encyclopedia of Succession: The Design of Devotion in the Quranic Language",
+      "status": "ready",
+      "drive_id": "1N-dvV8iTX0CAxKm77CDbTLcLvwYUjGf0"
+    },
+    {
+      "number": 53,
+      "book_id": "the-Balance-of-the-Tongue",
+      "language": "ar",
+      "title": "هندسة التصنيف الوجودي في النظام القرآني",
+      "status": "ready",
+      "drive_id": "1l2fajhIAqwDpzuKK610x8PNJO3PqbxCB"
+    },
+    {
+      "number": 53,
+      "book_id": "the-Balance-of-the-Tongue",
+      "language": "en",
+      "title": "The Balance of the Tongue: Existential Classification Engineering in the Quranic System",
+      "status": "ready",
+      "drive_id": "15aotXWXhpGtb1GvqOhmdCiJZld-GYvR1"
+    },
+    {
+      "number": 54,
+      "book_id": "alaq-al-qalam",
+      "language": "ar",
+      "title": " سورة العلق والقلم - خوارزمية الوعي ومنهاج التحرر المعرفي (قراءة نظمية في فقه اللسان)",
+      "status": "ready",
+      "drive_id": "1lQpeksvOFxfiBTOi_KrUim42IOuEcRVb"
+    },
+    {
+      "number": 54,
+      "book_id": "alaq-al-qalam",
+      "language": "en",
+      "title": " The Algorithm of Consciousness: A conceptual reading of Surah Al-Alaq and Al-Qalam",
+      "status": "ready",
+      "drive_id": "1qA-1w4XDXYdUbBNtDmJEg17jaJBREtF-"
+    },
+    {
+      "number": 55,
+      "book_id": "the-structure-of-guidance",
+      "language": "ar",
+      "title": " بنية الهداية - من الفوضى الإدراكية إلى الفرقان العمراني",
+      "status": "ready",
+      "drive_id": "1g_Jstu4EspM7j3HuAAsjMt6imDsblI-K"
+    },
+    {
+      "number": 55,
+      "book_id": "the-structure-of-guidance",
+      "language": "en",
+      "title": " The Structure of Guidance: From Cognitive Chaos to Civilizational Criterion",
+      "status": "ready",
+      "drive_id": "1CCzQV4zpBD2nMiRlYt0JLSZSlzCvtD1H"
+    },
+    {
+      "number": 56,
+      "book_id": "sultan-of-insight",
+      "language": "ar",
+      "title": "سلطان البصيرة - بين القرآن المسطور والمنشور",
+      "status": "ready",
+      "drive_id": "1WMMFYwxnz75YeF0L9HZspEVDr7kQKpN3"
+    },
+    {
+      "number": 56,
+      "book_id": "sultan-of-insight",
+      "language": "en",
+      "title": "Sultan of Insight: Between the Written Qur'an and the Manifest Universe",
+      "status": "ready",
+      "drive_id": "1tZaWC-pvo7DUftt4UbKh1RTnOjgXBH0Q"
+    },
+    {
+      "number": 57,
+      "book_id": "how-to-understand-the-quran",
+      "language": "ar",
+      "title": " كيف تفهم القرآن… فيتغير كل شيء -دليل عملي لاكتشاف المعنى وتفعيل الحياة",
+      "status": "ready",
+      "drive_id": "1tS4F9hYc0sXIRCJpFHj5hnTIFbT5arS_"
+    },
+    {
+      "number": 57,
+      "book_id": "how-to-understand-the-quran",
+      "language": "en",
+      "title": " How to Understand the Qur’an… So Everything Changes",
+      "status": "ready",
+      "drive_id": "1eef3dBV77JpSh91HLhiOP1tjGLo1_j-R"
+    },
+    {
+      "number": 58,
+      "book_id": "catalogue-of-consciousness",
+      "language": "ar",
+      "title": "هندسة اللسان المبين: الكتالوج التشغيلي للوعي والواقع",
+      "status": "private"
+    },
+    {
+      "number": 58,
+      "book_id": "catalogue-of-consciousness",
+      "language": "en",
+      "title": "THE SULTAN OF INSIGHT:  The Operational Catalogue of Consciousness & Reality",
+      "status": "private"
+    },
+    {
+      "number": 59,
+      "book_id": "system-of-truth",
+      "language": "ar",
+      "title": "منظومة الحق: من ليلة التقدير إلى هندسة البلاء ",
+      "status": "private"
+    },
+    {
+      "number": 59,
+      "book_id": "system-of-truth",
+      "language": "en",
+      "title": "System Of Truth: From Appreciation Night to Disaster Engineering",
+      "status": "private"
+    },
+    {
+      "number": 60,
+      "book_id": "eid-al-adha",
+      "language": "ar",
+      "title": "عيد الأضحى - قراءة بنيوية في مقاصد الذبح والتضحية",
+      "status": "private"
+    },
+    {
+      "number": 60,
+      "book_id": "eid-al-adha",
+      "language": "en",
+      "title": "EID AL-ADHAM: The Structural Theology of Sacrifice",
+      "status": "private"
+    },
+    {
+      "number": 61,
+      "book_id": "the-living-quran",
+      "language": "ar",
+      "title": "القرآن الحيّ: هندسة الذكر وتوليد البصيرة",
+      "status": "private"
+    },
+    {
+      "number": 61,
+      "book_id": "the-living-quran",
+      "language": "en",
+      "title": "The Living Qur’an: The Architecture of Remembrance and the Generation of Insight",
+      "status": "private"
+    },
+    {
+      "number": 62,
+      "book_id": "nutrition",
+      "language": "ar",
+      "title": "رحلة في علم التغذية القرآنية من الطيبات إلى نظام الحماية ",
+      "status": "private"
+    },
+    {
+      "number": 62,
+      "book_id": "nutrition",
+      "language": "en",
+      "title": "A Journey into Qur’anic Nutrition: From Sacred Provisions to the Divine Protection System",
+      "status": "private"
+    },
+    {
+      "number": 63,
+      "book_id": "nutrition1",
+      "language": "ar",
+      "title": " رحلة في علم التغذية القرآنية- المجلد الأول: بناء الميزان",
+      "status": "private"
+    },
+    {
+      "number": 63,
+      "book_id": "nutrition1",
+      "language": "en",
+      "title": " A Journey into Quranic Nutrition - Volume I: Building the Balance",
+      "status": "private"
+    },
+    {
+      "number": 64,
+      "book_id": "nutrition2",
+      "language": "ar",
+      "title": " رحلة في علم التغذية القرآنية المجلد الثاني: تشغيل النظام",
+      "status": "private"
+    },
+    {
+      "number": 64,
+      "book_id": "nutrition2",
+      "language": "en",
+      "title": " A Journey into Quranic Nutrition-  Volume II: Operating the System ",
+      "status": "private"
+    },
+    {
+      "number": 65,
+      "book_id": "nutrition3",
+      "language": "ar",
+      "title": " رحلة في علم التغذية القرآنية - المجلد الثالث: خريطة المستخلف",
+      "status": "private"
+    },
+    {
+      "number": 65,
+      "book_id": "nutrition3",
+      "language": "en",
+      "title": " A Journey into Quranic Nutrition -Volume III: The Successor's Map",
+      "status": "private"
+    },
+    {
+      "number": 66,
+      "book_id": "resurrection",
+      "language": "ar",
+      "title": " هندسة الانبعاث: فقه الموت والإحياء في المنظومة القرآنية",
+      "status": "private"
+    },
+    {
+      "number": 66,
+      "book_id": "resurrection",
+      "language": "en",
+      "title": " ENGINEERING OF RESURRECTION: The Jurisprudence of Death and Revival in the Quranic System",
+      "status": "private"
+    },
+    {
+      "number": 67,
+      "book_id": "the-cow",
+      "language": "ar",
+      "title": " البقرة: من الرمز إلى البروتوكول ",
+      "status": "private"
+    },
+    {
+      "number": 67,
+      "book_id": "the-cow",
+      "language": "en",
+      "title": " The Cow: From Symbol to Protocol ",
+      "status": "private"
+    },
+    {
+      "number": 68,
+      "book_id": "hajj",
+      "language": "ar",
+      "title": " الحج: من الشعيرة إلى هندسة الوعي في القرآن",
+      "status": "private"
+    },
+    {
+      "number": 68,
+      "book_id": "hajj",
+      "language": "en",
+      "title": " Al-Hajj: From Ritual to Consciousness Engineering in the Quran ",
+      "status": "private"
+    },
+    {
+      "number": 69,
+      "book_id": "divorce",
+      "language": "ar",
+      "title": "لطلاق في اللسان القرآني: من حلِّ عقدة النكاح إلى قانون إعادة التموضع الوجودي",
+      "status": "private"
+    },
+    {
+      "number": 69,
+      "book_id": "divorce",
+      "language": "en",
+      "title": " Divorce in the Quranic Tongue: From the Dissolution of Marriage to the Law of Existential Repositioning ",
+      "status": "private"
+    },
+    {
+      "number": 70,
+      "book_id": "pure-religion",
+      "language": "ar",
+      "title": "المجلد الأول - الدين الخالص (معمارية الروح والتوجه)",
+      "status": "ready",
+      "drive_id": "1qVOu9cIJH4NR9YvVE8x87sOa5uPTxAfk"
+    },
+    {
+      "number": 70,
+      "book_id": "pure-religion",
+      "language": "en",
+      "title": "Pure Religion: The Architecture of the Spirit and Orientation",
+      "status": "ready",
+      "drive_id": "1z0HRIxbLaUJLVAvGdFX5weanNbdzxx4_"
+    },
+    {
+      "number": 71,
+      "book_id": "upright-religion",
+      "language": "ar",
+      "title": "المجلد الثاني - الدين القيم (معمارية الوعي والميزان)",
+      "status": "ready",
+      "drive_id": "1JgbUve8M-7zyY_gWO2bE8ExFvBYBQdHb"
+    },
+    {
+      "number": 71,
+      "book_id": "upright-religion",
+      "language": "en",
+      "title": "The Upright and Sustaining Religion: The Architecture of Awareness and Balance",
+      "status": "ready",
+      "drive_id": "1bOXg3_d3l0awVOjaGHQFefwp_TuckpIF"
+    },
+    {
+      "number": 72,
+      "book_id": "religion-of-truth",
+      "language": "ar",
+      "title": "المجلد الثالث - دين الحق (معمارية السنن والعمران)",
+      "status": "ready",
+      "drive_id": "1B-HITrCU1_wL_ju_SBsA1V6O8JX0qJZb"
+    },
+    {
+      "number": 72,
+      "book_id": "religion-of-truth",
+      "language": "en",
+      "title": "The Religion of Truth: The Architecture of Divine Laws and Civilization",
+      "status": "ready",
+      "drive_id": "10HgSxAy1enWzKoK0EyzRAWWZ314VA7HG"
+    },
+    {
+      "number": 73,
+      "book_id": "quranic-stewardship-encyclopedia",
+      "language": "ar",
+      "title": "المنظومة الثلاثية للاستخلاف: من الهدى إلى العمران",
+      "status": "ready",
+      "drive_id": "1H2-phSl0udqZKMsOjUJWS8JKzMu7Phtn"
+    },
+    {
+      "number": 73,
+      "book_id": "quranic-stewardship-encyclopedia",
+      "language": "en",
+      "title": "The Qur’anic Stewardship Encyclopedia: From Human Nature to Civilizational Responsibility",
+      "status": "ready",
+      "drive_id": "1mbKoFFQwQS7lYGguq_EBJYl1iYg47L_O"
+    },
+    {
+      "number": 74,
+      "book_id": "structural-reading-polygamy-qiwamah",
+      "language": "ar",
+      "title": "القراءة البنائية لآيات التعدد والقوامة في سورة النساء",
+      "status": "ready",
+      "drive_id": "1qdaOclYh_Me2TU2pAgAvmHoHiuoZsYMD"
+    },
+    {
+      "number": 74,
+      "book_id": "structural-reading-polygamy-qiwamah",
+      "language": "en",
+      "title": "A Structural Reading of the Verses on Polygamy and Qiwamah in Surah An-Nisa",
+      "status": "ready",
+      "drive_id": "1IwH8HG8Y6Ayhp04s3DyfwcAeioiv0wry"
+    },
+    {
+      "number": 75,
+      "book_id": "engineering-consciousness-existence",
+      "language": "ar",
+      "title": "هندسة الوعي والوجود: السماء والأرض في فقه اللسان القرآني",
+      "status": "ready",
+      "drive_id": "1H6aDm-x1eLz09xYMp8jTc5vJVsf-xYyt"
+    },
+    {
+      "number": 75,
+      "book_id": "engineering-consciousness-existence",
+      "language": "en",
+      "title": "Engineering Consciousness and Existence",
+      "status": "ready",
+      "drive_id": "1fh-wJquUeBaf32FuEs4ezjluL8VmHWtx"
+    },
+    {
+      "number": 76,
+      "book_id": "engineering-consciousness-umran",
+      "language": "ar",
+      "title": "كتاب هندسة الوعي والعمران: ثنائية السماء والأرض في فقه اللسان القرآني",
+      "status": "ready",
+      "drive_id": "1lVZHiWnaeLKk1fLjXjNFkFIMgu9zu2KA"
+    },
+    {
+      "number": 76,
+      "book_id": "engineering-consciousness-umran",
+      "language": "en",
+      "title": "Engineering Consciousness and Umran",
+      "status": "ready",
+      "drive_id": "1-jlChe04fhEYhT-zLGRJRiZ20biPsVUT"
+    },
+    {
+      "number": 77,
+      "book_id": "engineering-existence-cosmic-restraint",
+      "language": "ar",
+      "title": "هندسة الوجود والردع الكوني: تفكيك البنية الفيزيائية للأشهر الحرم ونظام المثاني",
+      "status": "ready",
+      "drive_id": "156PTq4w2dJ8znaBeynvgq0o5UW3OM_EO"
+    },
+    {
+      "number": 77,
+      "book_id": "engineering-existence-cosmic-restraint",
+      "language": "en",
+      "title": "Engineering Existence and Cosmic Restraint",
+      "status": "ready",
+      "drive_id": "1K87CMZEyhzporJrplMQ76nDHlHYkKeDQ"
+    },
+    {
+      "number": 78,
+      "book_id": "engineering-presence-epistemic-governance",
+      "language": "ar",
+      "title": "هندسة الحضور والحوكمة المعرفية",
+      "status": "ready",
+      "drive_id": "1PvU8SpvQf82YBECryBL7BqA41vGF-fuQ"
+    },
+    {
+      "number": 78,
+      "book_id": "engineering-presence-epistemic-governance",
+      "language": "en",
+      "title": "ENGINEERING PRESENCE AND EPISTEMIC GOVERNANCE",
+      "status": "ready",
+      "drive_id": "1GXZa5INCHqMgw8yC4FOLIZMsp11Aoz5C"
+    },
+    {
+      "number": 79,
+      "book_id": "engineering-quranic-consciousness",
+      "language": "ar",
+      "title": "هندسة الوعي القرآني بين الهداية والسلطة: قراءة بنيوية في النموذج المحمدي",
+      "status": "ready",
+      "drive_id": "1B6mN66_MF8rtDJrsOc0jn_rNMKJBxWPZ"
+    },
+    {
+      "number": 79,
+      "book_id": "engineering-quranic-consciousness",
+      "language": "en",
+      "title": "Engineering Qur’anic Consciousness: Between Guidance and Authority",
+      "status": "ready",
+      "drive_id": "1aZZVrIyc05DZN9D13RezADmfylb6qRF6"
+    },
+    {
+      "number": 80,
+      "book_id": "fiqh-al-ilm-wal-lisan",
+      "language": "ar",
+      "title": "فقه العلم واللسان القرآني: نحو هندسة الوعي المعرفي",
+      "status": "ready",
+      "drive_id": "1q8XXBR5jdoWVrfS_ckTXBhyO2NHU6J4c"
+    },
+    {
+      "number": 80,
+      "book_id": "fiqh-al-ilm-wal-lisan",
+      "language": "en",
+      "title": "Fiqh al-Ilm wal Lisan al-Qur'ani: Towards the Engineering of Cognitive Consciousness",
+      "status": "ready",
+      "drive_id": "1VtkaeHbI4JUMTAIMqIs-XP-Ujgf6kXBL"
+    },
+    {
+      "number": 81,
+      "book_id": "governance-quranic-knowledge-production",
+      "language": "ar",
+      "title": "QCROS V1.2 — الدستور المعياري الموحد لحوكمة إنتاج المعرفة القرآنية",
+      "status": "ready",
+      "drive_id": "1nU2UtC7zh7yOgJCyIejWk7jMAZa9kxjH"
+    },
+    {
+      "number": 81,
+      "book_id": "governance-quranic-knowledge-production",
+      "language": "en",
+      "title": "QCROS — Governance of Qur’anic Knowledge Production",
+      "status": "ready",
+      "drive_id": "195moDVlTKyTEti6bmXnk1HaeaYyeeSSK"
+    },
+    {
+      "number": 82,
+      "book_id": "journey-to-knowing-god",
+      "language": "ar",
+      "title": "رحلة إلى معرفة الله",
+      "status": "ready",
+      "drive_id": "1di3DfwNHy7ZWW_LdIRIcniI37-ZebbYL"
+    },
+    {
+      "number": 82,
+      "book_id": "journey-to-knowing-god",
+      "language": "en",
+      "title": "JOURNEY TO KNOWING GOD",
+      "status": "ready",
+      "drive_id": "1fx4zllgRva5EPU2QsxbBM6N-tcb2635c"
+    },
+    {
+      "number": 83,
+      "book_id": "qiblah-in-quran",
+      "language": "ar",
+      "title": "القبلة في القرآن الكريم",
+      "status": "ready",
+      "drive_id": "13Yi8Hq75S285zQACeT-5cKxc9wkPDXcG"
+    },
+    {
+      "number": 83,
+      "book_id": "qiblah-in-quran",
+      "language": "en",
+      "title": "QIBLAH IN THE QUR’AN",
+      "status": "ready",
+      "drive_id": "1yGeEnVwDShpjn_e6z1LIKfpNrh-Ci41H"
+    },
+    {
+      "number": 84,
+      "book_id": "dignity-of-women-in-quran",
+      "language": "ar",
+      "title": "كرامة المرأة في القرآن",
+      "status": "ready",
+      "drive_id": "1e-IceMBMx02N2lKA-4JslOSHO8LxVUWW"
+    },
+    {
+      "number": 84,
+      "book_id": "dignity-of-women-in-quran",
+      "language": "en",
+      "title": "The Dignity of Women in the Qur’an",
+      "status": "ready",
+      "drive_id": "1kbXrDmBwyLy5WSDtqltFhF0c1rmkcIeF"
+    },
+    {
+      "number": 85,
+      "book_id": "forbidden-in-quran",
+      "language": "ar",
+      "title": "الحرام في القرآن الكريم",
+      "status": "ready",
+      "drive_id": "1Ud07mlYkESRMhwOq0kIMQVrUrm6xXORi"
+    },
+    {
+      "number": 85,
+      "book_id": "forbidden-in-quran",
+      "language": "en",
+      "title": "The Forbidden in the Qur’an",
+      "status": "ready",
+      "drive_id": "1Cl9-RhK77FUBQ-FR1Q2vUeeugHT_jd4S"
+    },
+    {
+      "number": 86,
+      "book_id": "great-encyclopedia-of-knowledge",
+      "language": "ar",
+      "title": "الموسوعة المعرفية الكبرى: من تيه الظنون إلى بصر الحديد",
+      "status": "ready",
+      "drive_id": "13RyqwbTFwOtcWsJFjkTu9suZwcng2HlR"
+    },
+    {
+      "number": 86,
+      "book_id": "great-encyclopedia-of-knowledge",
+      "language": "en",
+      "title": "The Great Encyclopedia of Knowledge",
+      "status": "ready",
+      "drive_id": "12ljL49PV8QeTcbQtGHpUnPpLqfwUfug2"
+    },
+    {
+      "number": 87,
+      "book_id": "recompense-engineering-vol1-lexicon",
+      "language": "ar",
+      "title": "موسوعة هندسة الجزاء في القرآن — المجلد الأول: معجم الجزاء",
+      "status": "ready",
+      "drive_id": "14ujdgr6Pd0paPI5rh6vGeQzyNM9qTn1X"
+    },
+    {
+      "number": 87,
+      "book_id": "recompense-engineering-vol1-lexicon",
+      "language": "en",
+      "title": "Quranic Penalty Engineering — The Lexical Control Layer (Volume I)",
+      "status": "ready",
+      "drive_id": "1PeQGSjJmHp4cPq2H-YGLRQQuY9kl-AUK"
+    },
+    {
+      "number": 88,
+      "book_id": "recompense-engineering-vol2-affliction",
+      "language": "ar",
+      "title": "موسوعة هندسة الجزاء في القرآن — المجلد الثاني: هندسة الابتلاء",
+      "status": "ready",
+      "drive_id": "1VqDbJiZidhLW9-fXSPHqfsnF9Mxgaa6X"
+    },
+    {
+      "number": 88,
+      "book_id": "recompense-engineering-vol2-affliction",
+      "language": "en",
+      "title": "The Engineering of Affliction: The Operator's Manual for the Quranic Human",
+      "status": "ready",
+      "drive_id": "1ieAo0oPlTBPptit6sZIcb03cmKux0fLD"
+    },
+    {
+      "number": 89,
+      "book_id": "recompense-engineering-vol3-impact-sunan",
+      "language": "ar",
+      "title": "موسوعة هندسة الجزاء في القرآن — المجلد الثالث: هندسة الأثر والسنن",
+      "status": "ready",
+      "drive_id": "1y30ob3kjPSYF1fsvfgYUp_NiPjxO4Mfl"
+    },
+    {
+      "number": 89,
+      "book_id": "recompense-engineering-vol3-impact-sunan",
+      "language": "en",
+      "title": "The Engineering of Recompense in the Quran — Volume III: Impact and Divine Laws (Sunan)",
+      "status": "ready",
+      "drive_id": "1sTct0rJux_ZDipBLAAXud0q70yffUGMi"
+    },
+    {
+      "number": 90,
+      "book_id": "recompense-engineering-vol4-measure",
+      "language": "ar",
+      "title": "موسوعة هندسة الجزاء في القرآن — المجلد الرابع: ميزان الجزاء",
+      "status": "ready",
+      "drive_id": "1St1LGlBC0OzIX56qU0-Je4PE7nfeJYox"
+    },
+    {
+      "number": 90,
+      "book_id": "recompense-engineering-vol4-measure",
+      "language": "en",
+      "title": "The Engineering of Recompense in the Qur’an — Volume IV: The Measure of Recompense",
+      "status": "ready",
+      "drive_id": "1wnLN09RfK9oa5vbkBF-gkukHyBlVMYWn"
+    },
+    {
+      "number": 91,
+      "book_id": "recompense-engineering-vol5-veiling-punishment",
+      "language": "ar",
+      "title": "هندسة الجزاء في القرآن — المجلد الخامس: هندسة الحجب والعذاب",
+      "status": "ready",
+      "drive_id": "1V2GedtUuLHSpJ16KP-qCweqlWSsOrXW7"
+    },
+    {
+      "number": 91,
+      "book_id": "recompense-engineering-vol5-veiling-punishment",
+      "language": "en",
+      "title": "The Engineering of Veiling and ʿAdhāb — Volume V",
+      "status": "ready",
+      "drive_id": "1AIVblawY8u702cDpgjyvSPN9hm2IalCs"
+    },
+    {
+      "number": 92,
+      "book_id": "recompense-engineering-vol6-paradise-fire",
+      "language": "ar",
+      "title": "موسوعة هندسة الجزاء في القرآن — المجلد السادس: الجنة والنار بين الحضور والمآل",
+      "status": "ready",
+      "drive_id": "1PJfWhwf_tNf2mogRbzAsRCBFZ6PcT5QQ"
+    },
+    {
+      "number": 92,
+      "book_id": "recompense-engineering-vol6-paradise-fire",
+      "language": "en",
+      "title": "The Architecture of Recompense in the Qur’an — Volume VI: Paradise and Fire",
+      "status": "ready",
+      "drive_id": "123awoiRt8SPK-PL5aso3whPetzOis0xk"
+    },
+    {
+      "number": 93,
+      "book_id": "recompense-engineering-vol7-return-repentance",
+      "language": "ar",
+      "title": "موسوعة هندسة الجزاء في القرآن — المجلد السابع: الرجوع والتوبة واستعادة الميزان",
+      "status": "ready",
+      "drive_id": "1VaJpQEPoy4yyKB-bkNnKlUSOQoOwGbgb"
+    },
+    {
+      "number": 93,
+      "book_id": "recompense-engineering-vol7-return-repentance",
+      "language": "en",
+      "title": "The Engineering of Recompense in the Qur’an — Volume VII: Return, Repentance, and the Restoration of Balance",
+      "status": "ready",
+      "drive_id": "1V03r6kxZdLOZMObZqNLYhD4q00PwLgk9"
+    },
+    {
+      "number": 94,
+      "book_id": "recompense-engineering-vol8-relations",
+      "language": "ar",
+      "title": "موسوعة هندسة الجزاء في القرآن — المجلد الثامن: هندسة العلاقات في منظومة الجزاء",
+      "status": "ready",
+      "drive_id": "1tuTGdtd-ydFqeGXa3BEBx51y5TkRNygy"
+    },
+    {
+      "number": 94,
+      "book_id": "recompense-engineering-vol8-relations",
+      "language": "en",
+      "title": "The Engineering of Recompense in the Qur’an — Volume VIII: The Engineering of Relations",
+      "status": "ready",
+      "drive_id": "1izsLL4UPVGN2Vha866e_QeUd5dgMo_EW"
+    },
+    {
+      "number": 95,
+      "book_id": "wine-in-quran",
+      "language": "ar",
+      "title": "الخمر في القرآن: بين التحريم المادي والتغطية الإدراكية",
+      "status": "ready",
+      "drive_id": "1YhsgLby8AfqzsEj9NpcU_y-XlqPLsiAu"
+    },
+    {
+      "number": 95,
+      "book_id": "wine-in-quran",
+      "language": "en",
+      "title": "Wine in the Quran: Between Material Prohibition and Perceptual Covering",
+      "status": "ready",
+      "drive_id": "14pMrJA9mcphu9xD_ZHfsFoZPC4jdF-Lb"
+    },
+    {
+      "number": 96,
+      "book_id": "riba-quran-banking-vol1",
+      "language": "ar",
+      "title": "الربا في القرآن والنظام المصرفي المعاصر — المجلد الأول",
+      "status": "ready",
+      "drive_id": "1SJMS7VP4tNSu57wzht9jvAOoq1kFhaBH"
+    },
+    {
+      "number": 96,
+      "book_id": "riba-quran-banking-vol1",
+      "language": "en",
+      "title": "Riba in the Qur’an and the Contemporary Banking System — Volume I",
+      "status": "ready",
+      "drive_id": "1L3hpB-5Is0otj6GIKQQv0R_c4wGSHFES"
+    },
+    {
+      "number": 97,
+      "book_id": "riba-quran-banking-vol2",
+      "language": "ar",
+      "title": "الربا في القرآن والنظام المصرفي المعاصر — المجلد الثاني: البنك التقليدي والبنك الإسلامي كمختبرين",
+      "status": "ready",
+      "drive_id": "1NMIWBcjuVHy-6z5cj54o7_kcEtP9zQqB"
+    },
+    {
+      "number": 97,
+      "book_id": "riba-quran-banking-vol2",
+      "language": "en",
+      "title": "Riba in the Qur’an and the Contemporary Banking System — Volume II",
+      "status": "ready",
+      "drive_id": "10UAacGlE6NWEFvYi_Wp3dLrKaOJhPyiv"
+    },
+    {
+      "number": 98,
+      "book_id": "shadow-in-quran",
+      "language": "ar",
+      "title": "الظل في القرآن الكريم",
+      "status": "ready",
+      "drive_id": "10-AsTkEMbwiXTprJP975hGJFHsLjq3cq"
+    },
+    {
+      "number": 98,
+      "book_id": "shadow-in-quran",
+      "language": "en",
+      "title": "Shadow in the Qur’an",
+      "status": "ready",
+      "drive_id": "1baEe4d-uznpxS1ZHskFjpcpeX5P5pvIG"
+    },
+    {
+      "number": 99,
+      "book_id": "cycle-awareness-lesser-punishment",
+      "language": "ar",
+      "title": "دورة الوعي والعذاب الأدنى",
+      "status": "ready",
+      "drive_id": "1iNX3VBmwCPjjwkQdaHQflTUZ76gTljnr"
+    },
+    {
+      "number": 99,
+      "book_id": "cycle-awareness-lesser-punishment",
+      "language": "en",
+      "title": "The Cycle of Awareness and the Lesser Punishment",
+      "status": "ready",
+      "drive_id": "1U5BwwOH1WJoHhkZAG_MhsL2tc8xReuOy"
+    },
+    {
+      "number": 100,
+      "book_id": "heart-in-quran",
+      "language": "ar",
+      "title": "القلب في القرآن",
+      "status": "ready",
+      "drive_id": "1OkKApogY5WjLa41q-DY0z3EQYd5ghHCQ"
+    },
+    {
+      "number": 100,
+      "book_id": "heart-in-quran",
+      "language": "en",
+      "title": "The Heart in the Qur'an",
+      "status": "ready",
+      "drive_id": "1wEDXea0kAIY3jO-BuAwJleMNJxh4-Wmd"
+    },
+    {
+      "number": 101,
+      "book_id": "architecture-of-karamah",
+      "language": "ar",
+      "title": "معمارية الكرامة",
+      "status": "ready",
+      "drive_id": "1weNIK0T5iScaE10kyNulTUq-bAkDET0Z"
+    },
+    {
+      "number": 101,
+      "book_id": "architecture-of-karamah",
+      "language": "en",
+      "title": "The Architecture of Karamah",
+      "status": "ready",
+      "drive_id": "15GveUD8-DDelxuTAr9R8BmZehfhOZbok"
+    },
+    {
+      "number": 102,
+      "book_id": "victory-engineering-qcros",
+      "language": "ar",
+      "title": "سلسلة هندسة النصر — المجلد الأول: QCROS — حوكمة إنتاج المعرفة القرآنية",
+      "status": "ready",
+      "drive_id": "1tXhaCv4cNy-SUQGWW9kdoSeTnUi0r84J"
+    },
+    {
+      "number": 102,
+      "book_id": "victory-engineering-qcros",
+      "language": "en",
+      "title": "The Victory Engineering Series — Volume One: QCROS",
+      "status": "ready",
+      "drive_id": "1UMXDddymtOMRsGde9L-pm64eZ1N3_FvR"
+    },
+    {
+      "number": 103,
+      "book_id": "nusrah-engineering",
+      "language": "ar",
+      "title": "سلسلة هندسة النصر — المجلد الثاني: هندسة النصرة",
+      "status": "ready",
+      "drive_id": "12S5Rz6Y3pYxkNc14pThNxUJjjtrjZyML"
+    },
+    {
+      "number": 103,
+      "book_id": "nusrah-engineering",
+      "language": "en",
+      "title": "The Victory Engineering Series — Volume Two: Nusrah Engineering",
+      "status": "ready",
+      "drive_id": "10fZlUaza0ifyDKbg4sCkoopW2rcwAvBV"
+    },
+    {
+      "number": 104,
+      "book_id": "preserved-system",
+      "language": "ar",
+      "title": "النظام المحفوظ",
+      "status": "ready",
+      "drive_id": "1T6luM70fUjrjKMnHvBY0yzg5vqthhHyM"
+    },
+    {
+      "number": 104,
+      "book_id": "preserved-system",
+      "language": "en",
+      "title": "THE PRESERVED SYSTEM",
+      "status": "ready",
+      "drive_id": "1hf5J66ubx-myti-ELDDiVMbIf-Ptamtq"
+    },
+    {
+      "number": 105,
+      "book_id": "surah-al-takwir",
+      "language": "ar",
+      "title": "سورة التكوير: قراءة بنيوية في هندسة الوعي والكون",
+      "status": "ready",
+      "drive_id": "1-obb6OoJ2nLQDJd1wsWd0q7XZy_QphFk"
+    },
+    {
+      "number": 105,
+      "book_id": "surah-al-takwir",
+      "language": "en",
+      "title": "Surah Al-Takwir: A Structural Reading in the Engineering of Consciousness and the Cosmos",
+      "status": "ready",
+      "drive_id": "1HQJTIFUVxBOZf78YXKM8kVC4n6O3GCwx"
+    },
+    {
+      "number": 106,
+      "book_id": "death-vocabulary-in-quran",
+      "language": "ar",
+      "title": "الموت والميتة والأموات والموتى في القرآن",
+      "status": "ready",
+      "drive_id": "17KZyjEeAkHodomPFGE6Qy7ylRfafuGIm"
+    },
+    {
+      "number": 106,
+      "book_id": "death-vocabulary-in-quran",
+      "language": "en",
+      "title": "DEATH AND THE QUR’ANIC VOCABULARY OF THE DEAD",
+      "status": "ready",
+      "drive_id": "1yP9WYd1Pz2yUCVbxzTzj30MXK7ZaAurT"
+    },
+    {
+      "number": 107,
+      "book_id": "architecture-of-malakoot",
+      "language": "ar",
+      "title": "معمارية الملكوت",
+      "status": "ready",
+      "drive_id": "1oi3JQf1eitPrPBB9-2nddYWhV4Wdb5MT"
+    },
+    {
+      "number": 107,
+      "book_id": "architecture-of-malakoot",
+      "language": "en",
+      "title": "ARCHITECTURE OF THE KINGDOM",
+      "status": "ready",
+      "drive_id": "1HhFjk-iOmpS0cbHrDsg8LXzDvhiyPxsI"
+    },
+    {
+      "number": 108,
+      "book_id": "meaning-of-ibil-in-quran",
+      "language": "ar",
+      "title": "معنى الإبل في القرآن",
+      "status": "ready",
+      "drive_id": "1bcYMZsk9dsRT64zvtvHvRm0-b7Qv5R7i"
+    },
+    {
+      "number": 108,
+      "book_id": "meaning-of-ibil-in-quran",
+      "language": "en",
+      "title": "The Meaning of Ibil in the Qur’an",
+      "status": "ready",
+      "drive_id": "1sWtCiSDM7RceiX9BxuKBXIUutp_UNElj"
+    },
+    {
+      "number": 109,
+      "book_id": "engineering-quranic-contemplation",
+      "language": "ar",
+      "title": "هندسة التدبر القرآني — آدم نموذجًا",
+      "status": "ready",
+      "drive_id": "1vlzihJho9BQgSEG0is-crAXOAAlovPPA"
+    },
+    {
+      "number": 109,
+      "book_id": "engineering-quranic-contemplation",
+      "language": "en",
+      "title": "Engineering Quranic Contemplation — Adam as a Case Study",
+      "status": "ready",
+      "drive_id": "1K1BT1l7eG_jhz1E4lDa4MqOBP5gl6jSg"
+    },
+    {
+      "number": 110,
+      "book_id": "architecture-of-heavens-in-quran",
+      "language": "ar",
+      "title": "هندسة السماوات في القرآن",
+      "status": "ready",
+      "drive_id": "1HF4olChxaUTfM3IDvylexT5HUHytThYG"
+    },
+    {
+      "number": 110,
+      "book_id": "architecture-of-heavens-in-quran",
+      "language": "en",
+      "title": "The Architecture of the Heavens in the Qur'an",
+      "status": "ready",
+      "drive_id": "1m9PrCh_p1MBx-YpXYlzZmuoMYGfgv9KO"
+    },
+    {
+      "number": 111,
+      "book_id": "engineering-deception-self-eradication",
+      "language": "ar",
+      "title": "هندسة المكر وسنن الإبادة الذاتية في النظام القرآني",
+      "status": "ready",
+      "drive_id": "1fHusTJp47lDm896QVXm7ZHGald1AB5z5"
+    },
+    {
+      "number": 111,
+      "book_id": "engineering-deception-self-eradication",
+      "language": "en",
+      "title": "Engineering of Deception and Self-Eradication Sunnah in the Quranic System",
+      "status": "ready",
+      "drive_id": "12TaSjQvTOvm6TSktO0Zcgx3v2zPYzydV"
+    },
+    {
+      "number": 112,
+      "book_id": "existence-ascent-engineering",
+      "language": "ar",
+      "title": "هندسة الوجود والارتقاء: تحرير مصطلحي \"الدنيا\" و\"الآخرة\" في البنية القرآنية",
+      "status": "ready",
+      "drive_id": "1ZFrSib0MP0sID6KvlrJljWMxOYXn7_GF"
+    },
+    {
+      "number": 112,
+      "book_id": "existence-ascent-engineering",
+      "language": "en",
+      "title": "Existence & Ascent Engineering",
+      "status": "ready",
+      "drive_id": "1h2hQqW4_eEH3tNof-G0c5nvz80A49gin"
+    }
+  ]
+}

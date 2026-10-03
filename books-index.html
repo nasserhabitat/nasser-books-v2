@@ -100,6 +100,12 @@
 
 
 
+
+
+
+
+
+
     <link rel="canonical" href="https://nasserhabitat.github.io/nasser-books-v2/books-index.html">
     <meta property="og:url" content="https://nasserhabitat.github.io/nasser-books-v2/books-index.html">
 </head>
@@ -249,10 +255,10 @@
 
     function renderResourceLinks(resources, isArabic) {
         const labels = isArabic ? {
-            pdf_direct: 'PDF داخلي', pdf_external: 'PDF خارجي', txt_direct: 'نص داخلي',
+            pdf_direct: 'PDF — Google Drive', pdf_external: 'PDF — Google Drive', txt_direct: 'نص داخلي',
             docx: 'Word — Google Drive'
         } : {
-            pdf_direct: 'Local PDF', pdf_external: 'External PDF', txt_direct: 'Local text',
+            pdf_direct: 'PDF — Google Drive', pdf_external: 'PDF — Google Drive', txt_direct: 'Local text',
             docx: 'Word — Google Drive'
         };
         const classes = { pdf_direct: 'pdf', pdf_external: 'pdf', txt_direct: 'txt', docx: 'drive' };
@@ -298,6 +304,7 @@
                         </div>` : ''}
                         <div class="book-links">
                             ${renderResourceLinks(book.resources, isArabic)}
+                            <a href="reader.html?book=${encodeURIComponent(book.originalId)}&amp;lang=${book.language}" class="book-link pdf">${isArabic ? 'قراءة PDF داخل الموقع' : 'Read PDF on this website'}</a>
                         </div>
                     </div>
                 </div>

@@ -75,7 +75,7 @@ for(const book of catalog) {
   update(folders[lang]+'index.html',urls[lang],book,lang,urls);bookUrls.push(urls[lang]);
  }
 }
-const main=['index.html','books.html','books-index.html','arabic-books.html','english-books.html','search.html','ai-recommendations.html'];
+const main=['index.html','books.html','books-index.html','arabic-books.html','english-books.html','search.html','ai-recommendations.html','reader.html'];
 const mainUrls=[];
 for(const file of main) if(exists(file)){const url=base+(file==='index.html'?'':file);update(file,url);mainUrls.push(url);}
 const xml=urls=>'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+urls.map(url=>`  <url><loc>${esc(url)}</loc></url>`).join('\n')+'\n</urlset>\n';
