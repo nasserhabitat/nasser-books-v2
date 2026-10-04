@@ -28,3 +28,7 @@ __pycache__/
 /scripts/monthly-sync-cloud-inventory.json
 /scripts/monthly-sync-plan.json
 /scripts/monthly-sync-legacy-folders.json
+/scripts/legacy-drive-rename-report.json
+/scripts/remaining-drive-repairs.json
+/scripts/google-books-layout-report.json
+/scripts/four-file-cleanup-report.json
