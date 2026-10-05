@@ -13,10 +13,9 @@ except FileNotFoundError:
     print(f"❌ لم يتم العثور على الملف: {file_path}. تأكد من أنه في نفس المجلد مع السكربت.")
     exit()
 
-# استخراج جميع روابط Google Drive من النص مباشرة
 drive_links = list(set(re.findall(r'https://drive\.google\.com/uc\?export=download&id=[\w-]+', data)))
 
-print(f"🔍 تم العثور على {len(drive_links)} رابط Google Drive مميز. جاري الفحص...\n")
+print(f"🔍 تم العثور على {len(drive_links)} رابط Google Drive مميز. جاري الفحص بوقت انتظار أطول (60 ثانية)...\n")
 
 broken_links = []
 working_links = 0
@@ -24,8 +23,9 @@ working_links = 0
 # دالة فحص الرابط (تستخدم HEAD لسرعة الفحص دون تحميل الملف)
 def check_url(url):
     try:
-        response = requests.head(url, allow_redirects=True, timeout=15)
-        # 200 = يعمل بشكل مثالي، 302/303 = تحويل سليم من جوجل
+        # زيادة وقت الانتظار إلى 60 ثانية لتجنب رسالة (Read timed out) مع الملفات الضخمة
+        response = requests.head(url, allow_redirects=True, timeout=60)
+
         if response.status_code in [200, 302, 303]:
             return (True, url, response.status_code)
         else:
@@ -33,8 +33,8 @@ def check_url(url):
     except Exception as e:
         return (False, url, str(e))
 
-# استخدام ThreadPool لتسريع الفحص (فحص 10 روابط في نفس الوقت بدلاً من واحد تلو الآخر)
-with ThreadPoolExecutor(max_workers=10) as executor:
+# استخدام ThreadPool لتسريع الفحص مع عدد عمال معتدل لتجنب الحظر المؤقت
+with ThreadPoolExecutor(max_workers=5) as executor:
     results = executor.map(check_url, drive_links)
 
 for is_working, url, status in results:
@@ -50,7 +50,7 @@ print(f"✅ الروابط السليمة: {working_links} من أصل {len(driv
 if not broken_links:
     print("🎉 جميع روابط جوجل درايف تعمل بشكل مثالي ومفتوحة الصلاحيات!")
 else:
-    print(f"⚠️ يوجد {len(broken_links)} رابط معطوب أو مقفل الصلاحيات. يرجى مراجعتها:")
+    print(f"⚠️ يوجد {len(broken_links)} رابط معطوب أو لم ينجح الفحص. يرجى مراجعتها:")
     # إنشاء ملف نصي يحتوي على الروابط المعطوبة ليسهل عليك تعديلها
     with open('broken_links_report.txt', 'w', encoding='utf-8') as f:
         for url, status in broken_links:
