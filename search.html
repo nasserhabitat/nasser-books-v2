@@ -326,6 +326,26 @@
                 <button class="search-btn" onclick="performLocalSearch()">بحث محلي</button>
             </div>
 
+            <div class="advanced-search-panel" style="background:white;padding:15px;border-radius:10px;border:1px solid #e1e8ed;margin-bottom:15px;display:flex;gap:15px;flex-wrap:wrap;">
+                <div style="flex:1;min-width:200px;">
+                    <label for="categoryFilter">📑 التصنيف المعرفي:</label>
+                    <select id="categoryFilter" class="search-input" style="width:100%;">
+                        <option value="all">جميع التصنيفات</option>
+                        <option value="quranic_studies">دراسات قرآنية</option>
+                        <option value="faith_studies">دراسات عقدية وإيمانية</option>
+                        <option value="digital_projects">مشاريع رقمية</option>
+                    </select>
+                </div>
+                <div style="flex:1;min-width:200px;">
+                    <label for="scopeFilter">🎯 نطاق البحث:</label>
+                    <select id="scopeFilter" class="search-input" style="width:100%;" onchange="updateSearchScope()">
+                        <option value="all">شامل: العناوين والوصف والكلمات المفتاحية والنص</option>
+                        <option value="title_only">العناوين فقط</option>
+                        <option value="topics_only">الكلمات المفتاحية فقط</option>
+                        <option value="content_only">النص الكامل فقط</option>
+                    </select>
+                </div>
+            </div>
             <div style="margin: 10px 0; display: flex; gap: 10px; flex-wrap: wrap;">
                 <label style="display: flex; align-items: center; gap: 8px;">
                     <input type="checkbox" id="fastSearch"> 🔍 البحث السريع دون مقتطفات (العناوين والوصف والكلمات المفتاحية فقط)
@@ -8451,11 +8471,23 @@ const booksData = [
             alert('✅ تم تنظيف الذاكرة المؤقتة');
         }
 
+        function updateSearchScope() {
+            const scope = document.getElementById('scopeFilter').value;
+            const fast = document.getElementById('fastSearch');
+            if (scope === 'content_only') fast.checked = false;
+            fast.disabled = scope !== 'all';
+        }
+
         // البحث المحلي المُحسَّن
         async function performLocalSearch() {
             const query = document.getElementById('localSearch').value.trim();
             const normalizedQuery = normalizeSearchText(query);
             const fastSearch = document.getElementById('fastSearch').checked;
+            const category = document.getElementById('categoryFilter')?.value || 'all';
+            const scope = document.getElementById('scopeFilter')?.value || 'all';
+            const checkAll = scope === 'all';
+            const searchText = scope === 'content_only' || (checkAll && !fastSearch);
+            const filteredBooks = booksData.filter(book => category === 'all' || book.metadata.category === category);
             const resultsDiv = document.getElementById('localResults');
             const progressDiv = document.getElementById('searchProgress');
 
@@ -8466,34 +8498,34 @@ const booksData = [
 
             // إظهار مؤشر التقدم
             progressDiv.style.display = 'block';
-            progressDiv.innerHTML = `<div style="background:#e8f4fd;padding:8px;border-radius:10px;">🔍 جاري البحث ${fastSearch ? 'السريع' : 'في النص الكامل'}... (0/${booksData.length})</div>`;
+            progressDiv.innerHTML = `<div style="background:#e8f4fd;padding:8px;border-radius:10px;">🔍 جاري البحث... (0/${filteredBooks.length})</div>`;
             resultsDiv.innerHTML = ''; // مسح النتائج القديمة
 
             const searchResults = [];
             let failedTexts = 0;
             const failedTextLinks = [];
             // البحث في كل كتاب
-            for (let i = 0; i < booksData.length; i++) {
-                const book = booksData[i];
+            for (let i = 0; i < filteredBooks.length; i++) {
+                const book = filteredBooks[i];
                 // تحديث التقدم
-                progressDiv.innerHTML = `<div style="background:#e8f4fd;padding:8px;border-radius:10px;">🔍 جاري البحث... (${i+1}/${booksData.length})</div>`;
+                progressDiv.innerHTML = `<div style="background:#e8f4fd;padding:8px;border-radius:10px;">🔍 جاري البحث... (${i+1}/${filteredBooks.length})</div>`;
 
                 let inTitle = false, inDesc = false, inTopics = false, inEnTopics = false;
 
                 // البحث في العناوين والوصف والمواضيع (المحلي)
                 if (currentSearchLanguage === 'both' || currentSearchLanguage === 'ar') {
-                    inTitle = normalizeSearchText(book.titles.ar).includes(normalizedQuery);
-                    inDesc = normalizeSearchText(book.description.ar).includes(normalizedQuery);
-                    inTopics = book.metadata.topics_ar.some(t => normalizeSearchText(t).includes(normalizedQuery));
+                    if (checkAll || scope === 'title_only') inTitle = normalizeSearchText(book.titles.ar).includes(normalizedQuery);
+                    if (checkAll) inDesc = normalizeSearchText(book.description.ar).includes(normalizedQuery);
+                    if (checkAll || scope === 'topics_only') inTopics = book.metadata.topics_ar.some(t => normalizeSearchText(t).includes(normalizedQuery));
                 }
                 if (currentSearchLanguage === 'both' || currentSearchLanguage === 'en') {
-                    inTitle = inTitle || normalizeSearchText(book.titles.en).includes(normalizedQuery);
-                    inDesc = inDesc || normalizeSearchText(book.description.en).includes(normalizedQuery);
-                    inEnTopics = book.metadata.topics_en.some(t => normalizeSearchText(t).includes(normalizedQuery));
+                    if (checkAll || scope === 'title_only') inTitle = inTitle || normalizeSearchText(book.titles.en).includes(normalizedQuery);
+                    if (checkAll) inDesc = inDesc || normalizeSearchText(book.description.en).includes(normalizedQuery);
+                    if (checkAll || scope === 'topics_only') inEnTopics = book.metadata.topics_en.some(t => normalizeSearchText(t).includes(normalizedQuery));
                 }
 
                 let textMatches = [];
-                if (!fastSearch) {
+                if (searchText) {
                     // تحميل النص الكامل إذا كان مطلوباً
                     if (currentSearchLanguage === 'both' || currentSearchLanguage === 'ar') {
                         const content = await loadBookContent(book.id + '_ar', book.links.ar.text);
@@ -8519,7 +8551,7 @@ const booksData = [
                         inArabicTopics: inTopics,
                         inEnglishTopics: inEnTopics,
                         textMatches,
-                        score: (inTitle ? 3 : 0) + (inDesc ? 2 : 0) + ((inTopics || inEnTopics) ? 1 : 0) + (textMatches.length * 2)
+                        score: (inTitle ? 5 : 0) + (inDesc ? 2 : 0) + ((inTopics || inEnTopics) ? 3 : 0) + (textMatches.length * 4)
                     });
                 }
             }
@@ -8530,9 +8562,11 @@ const booksData = [
             // ترتيب النتائج حسب الأهمية
             searchResults.sort((a, b) => b.score - a.score);
             const failureDetails = failedTextLinks.length ? '<details><summary>عرض الملفات التي تعذّر تحميلها</summary><ul>' + failedTextLinks.map(f => `<li><a href="${escapeSearchHtml(f.url)}" target="_blank" rel="noopener noreferrer">${escapeSearchHtml(f.label)}</a></li>`).join('') + '</ul></details>' : '';
-            const modeNotice = fastSearch
-                ? '<p role="status">البحث السريع لا يفحص النصوص ولا يعرض مقتطفات. ألغِ تحديده ثم أعد البحث لعرض السطور.</p>'
-                : `<p role="status">بحث في النص الكامل؛ نعرض حتى ثلاثة مقتطفات لكل لغة من كل كتاب. ${failedTexts ? `⚠️ تعذّر تحميل ${failedTexts} ملفًا نصيًا؛ النتائج غير مكتملة. أعد البحث للمحاولة مجددًا.` : ''}</p>${failureDetails}`;
+            const scopeLabels = {all:'شامل',title_only:'العناوين فقط',topics_only:'الكلمات المفتاحية فقط',content_only:'النص الكامل فقط'};
+            const categoryLabels = {all:'جميع التصنيفات',quranic_studies:'دراسات قرآنية',faith_studies:'دراسات عقدية وإيمانية',digital_projects:'مشاريع رقمية'};
+            const modeNotice = `<p>نطاق البحث: ${scopeLabels[scope]} · التصنيف: ${escapeSearchHtml(categoryLabels[category] || category)}</p>` + (searchText
+                ? `<p role="status">بحث في النص الكامل؛ نعرض حتى ثلاثة مقتطفات لكل لغة من كل كتاب. ${failedTexts ? `⚠️ تعذّر تحميل ${failedTexts} ملفًا نصيًا؛ النتائج غير مكتملة. أعد البحث للمحاولة مجددًا.` : ''}</p>${failureDetails}`
+                : '<p role="status">بحث في بيانات الكتب فقط؛ لا تُحمَّل النصوص ولا تُعرض مقتطفات في هذا النطاق.</p>');
 
             if (searchResults.length === 0) {
                 resultsDiv.innerHTML = modeNotice + `<div style="text-align:center;padding:2rem;">⚠️ لم يتم العثور على نتائج لـ "<strong>${escapeSearchHtml(query)}</strong>"<br>جرب استخدام كلمات أخرى أو تغيير لغة البحث.</div>`;
