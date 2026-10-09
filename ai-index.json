@@ -8560,17 +8560,17 @@
       },
       "ar": {
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Fiqh_al-Wijdan/ar/114-Fiqh_al-Wijdan-ar.txt",
-        "cover": "books/Fiqh_al-Wijdan/ar/114-Fiqh_al-Wijdan-ar-cover.png",
+        "cover": "books/Fiqh_al-Wijdan/ar/Fiqh_al-Wijdan-ar-cover.png",
         "docx": "https://drive.google.com/uc?export=download&id=13A75uXXW4peYL1V3WSBvE2h2qoRe15FS",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1kvAYbtqKe3vearLbD2TE5ihyKK75BKI9"
       },
       "en": {
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Fiqh_al-Wijdan/en/114-Fiqh_al-Wijdan-en.txt",
-        "cover": "books/Fiqh_al-Wijdan/en/114-Fiqh_al-Wijdan-en-cover.png",
+        "cover": "books/Fiqh_al-Wijdan/en/Fiqh_al-Wijdan-en-cover.png",
         "docx": "https://drive.google.com/uc?export=download&id=1HsVPgLaWxnP2PcBKpNOrF206VnH7yEjU",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1oMq2lhTVxOVpgNMsR1kaEyRX7ffMawPD"
       },
-      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Fiqh_al-Wijdan/ar/114-Fiqh_al-Wijdan-ar-cover.png"
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Fiqh_al-Wijdan/ar/Fiqh_al-Wijdan-ar-cover.png"
     },
     {
       "id": "SHIRK_Engineering_of_Illusion",

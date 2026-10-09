@@ -18,7 +18,7 @@ DATE = '2026-10-09'
 EXPECTED_COUNT = 112
 SOURCE_FOLDERS = {}
 SOURCE_TEXT_NAMES = {}
-COVER_NAMES = {}
+COVER_NAMES = {(114, lang): f'Fiqh_al-Wijdan-{lang}-cover.png' for lang in ('ar', 'en')}
 EDITION_NOTES = {}
 SPECS = [
     (113, 'Engineering_Transgression_Temptation_and_the_Tree',
