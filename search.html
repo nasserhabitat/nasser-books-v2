@@ -294,20 +294,20 @@
             <div class="search-tab" data-tab="all-books">📖 جميع الكتب</div>
         </div>
 
-        <!-- تبويب البحث في جوجل (بديل بسيط يعمل) -->
+        <!-- بحث Google مستقل عن البحث الداخلي؛ يُحمّل عند فتح التبويب فقط. -->
         <section class="search-section tab-content" id="google-search">
-            <h2>البحث في جوجل</h2>
-            <p>ابحث في محتوى المكتبة أو في الويب بالكامل باستخدام محرك جوجل.</p>
+            <h2>بحث Google المخصّص للمكتبة</h2>
+            <p>محرك «مكتبة ناصر ابن داوود» — تُعرض نتائجه هنا بصورة مستقلة عن البحث الداخلي.</p>
             <div class="info-box">
-                <strong>💡 معلومة:</strong> يمكنك كتابة استعلامك ثم النقر على "بحث في جوجل" للانتقال إلى نتائج البحث.
-                <br>للبحث داخل موقع المكتبة فقط، أضف <code>site:nasserhabitat.github.io</code> قبل كلمات البحث.
+                نتائج Google تعتمد على فهرسته وإعدادات المحرك، وقد لا تشمل الكتب الجديدة فورًا.
+                للبحث في جميع النصوص مع المقتطفات وأرقام الأسطر، استخدم تبويب «البحث المحلي».
+                <br>عند فتح هذا التبويب يُحمَّل مكوّن خارجي من Google، وتُرسل إليه استعلامات هذا البحث.
             </div>
-            <div class="search-box">
-                <form action="https://www.google.com/search" method="GET" target="_blank" style="display: flex; gap: 10px; width: 100%;">
-                    <input type="text" name="q" class="search-input" placeholder="أدخل كلمات البحث... (مثال: تدبر القرآن)">
-                    <button type="submit" class="search-btn">🔍 بحث في جوجل</button>
-                </form>
-            </div>
+            <p id="google-search-status" role="status" aria-live="polite">يُحمّل بحث Google عند فتح هذا التبويب.</p>
+            <button id="google-search-retry" type="button" class="search-btn" hidden>إعادة تحميل بحث Google</button>
+            <div id="google-search-widget"></div>
+            <p><a href="https://cse.google.com/cse?cx=87a2ea74c56054f92" target="_blank" rel="noopener noreferrer">فتح المحرك نفسه في نافذة مستقلة</a></p>
+            <noscript><p>فعّل JavaScript لعرض بحث Google داخل الصفحة، أو استخدم الرابط أعلاه. البحث الداخلي لم يُستبدل.</p></noscript>
         </section>
 
         <!-- تبويب البحث المحلي (النشط) -->
@@ -370,6 +370,7 @@
             <div id="allBooksList"></div>
         </section>
     </div>
+    <script defer src="assets/google-search.js"></script>
     <script>
         //بيانات الكتب مع الروابط الداخلية فقط
 const booksData = [
