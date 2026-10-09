@@ -7,7 +7,8 @@ for(const b of books)for(const l of ['ar','en']){
  assert(b[l].cover,`${b.id}/${l}: missing cover`);
  const p=b[l].cover;assert(fs.existsSync(path.join(root,p)),p);covers++;
  if(b.book_number>=70){
-  assert(new RegExp(`^${b.id}-cover-${l}\\.(png|jpg)$`).test(path.basename(p)));
+  const name=path.basename(p);
+  assert([`${b.id}-cover-${l}.png`,`${b.id}-cover-${l}.jpg`,`${b.book_number}-${b.id}-${l}-cover.png`,`${b.id}-${l}-cover.png`].includes(name));
   assert.equal(search.find(s=>s.id===b.id).links[l].cover,p);
   const page=read(`books/${b.id}/${l}/index.html`);
   assert(page.includes(`src="${path.basename(p)}"`),`${b.id}/${l}: image element missing`);
@@ -22,4 +23,4 @@ if(fs.existsSync(reviewFile))for(const r of JSON.parse(fs.readFileSync(reviewFil
  const converted=conversions.find(c=>c.Cover===b[r.language].cover);
  assert.equal(crypto.createHash('sha256').update(raw).digest('hex'),converted?.Sha256||r.cover_sha256,`${r.id}/${r.language}: source image changed`);
 }
-assert.equal(covers,224);console.log('PASS: 224 covers, new edition image elements, metadata, and supplied-image checksums');
+assert.equal(covers,books.length*2);console.log(`PASS: ${covers} covers, new edition image elements, metadata, and supplied-image checksums`);

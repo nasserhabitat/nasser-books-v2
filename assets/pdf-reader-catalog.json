@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-03",
+  "updated_at": "2026-10-09",
   "summary": {
-    "ready": 184,
-    "pending": 0,
-    "private": 24,
     "review": 12,
-    "unavailable": 4
+    "ready": 194,
+    "unavailable": 4,
+    "private": 24,
+    "pending": 0
   },
   "editions": [
     {
@@ -1759,6 +1759,86 @@
       "title": "Existence & Ascent Engineering",
       "status": "ready",
       "drive_id": "1h2hQqW4_eEH3tNof-G0c5nvz80A49gin"
+    },
+    {
+      "number": 113,
+      "book_id": "Engineering_Transgression_Temptation_and_the_Tree",
+      "language": "ar",
+      "title": "هندسة المخالفة والإغواء والشجرة في القرآن",
+      "status": "ready",
+      "drive_id": "1plDwIheeqLsravNDSNicMy0SGJykkw4m"
+    },
+    {
+      "number": 113,
+      "book_id": "Engineering_Transgression_Temptation_and_the_Tree",
+      "language": "en",
+      "title": "Engineering Transgression, Temptation, and the Tree in the Qur'an",
+      "status": "ready",
+      "drive_id": "10tN7_xImyOox7oRNLdD1UdV8C6y82vxW"
+    },
+    {
+      "number": 114,
+      "book_id": "Fiqh_al-Wijdan",
+      "language": "ar",
+      "title": "فقه الوجدان في اللسان القرآني",
+      "status": "ready",
+      "drive_id": "1kvAYbtqKe3vearLbD2TE5ihyKK75BKI9"
+    },
+    {
+      "number": 114,
+      "book_id": "Fiqh_al-Wijdan",
+      "language": "en",
+      "title": "The Jurisprudence of Human Consciousness in the Qur’anic Language",
+      "status": "ready",
+      "drive_id": "1oMq2lhTVxOVpgNMsR1kaEyRX7ffMawPD"
+    },
+    {
+      "number": 115,
+      "book_id": "SHIRK_Engineering_of_Illusion",
+      "language": "ar",
+      "title": "الشِّرْك: هندسة الوهم وتحرير الوعي الإنساني",
+      "status": "ready",
+      "drive_id": "1o5IpKPHhQwAYtTwda3cLkF_sOA_a2M0G"
+    },
+    {
+      "number": 115,
+      "book_id": "SHIRK_Engineering_of_Illusion",
+      "language": "en",
+      "title": "SHIRK: The Engineering of Illusion and the Liberation of Human Awareness",
+      "status": "ready",
+      "drive_id": "1FEo2HIuVgryIsudhsE6j9UFOjVvOghTO"
+    },
+    {
+      "number": 116,
+      "book_id": "SHIRK_Engineering_of_Illusion_simplified",
+      "language": "ar",
+      "title": "الشِّرْك: كيف أحفظ قلبي لله؟ — الطبعة الميسّرة",
+      "status": "ready",
+      "drive_id": "10dcNJcZHrlkICUgOmRF4Sfxk_dwclj6-"
+    },
+    {
+      "number": 116,
+      "book_id": "SHIRK_Engineering_of_Illusion_simplified",
+      "language": "en",
+      "title": "SHIRK — Companion English Adaptation of the Original Study",
+      "status": "ready",
+      "drive_id": "1v1pIByP-83l7vTud-y5EqRBTodOSv2yn"
+    },
+    {
+      "number": 117,
+      "book_id": "THE_BOOK_AS_WITNESS",
+      "language": "ar",
+      "title": "الكِتَابُ الشَّاهِد",
+      "status": "ready",
+      "drive_id": "1pvauQqwtIcmxP__OfIFrWM4R5ekF9T1F"
+    },
+    {
+      "number": 117,
+      "book_id": "THE_BOOK_AS_WITNESS",
+      "language": "en",
+      "title": "The Book as Witness",
+      "status": "ready",
+      "drive_id": "1wQ1uZgoSJCEu56610DbxeBicJQHpjbtC"
     }
   ]
 }

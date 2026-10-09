@@ -3,10 +3,10 @@
     "name": "مكتبة ناصر ابن داوود",
     "version": "2.0",
     "ai_compatible": true,
-    "last_updated": "2026-10-03",
-    "total_books_arabic": 112,
-    "total_books_english": 112,
-    "total_books": 224,
+    "last_updated": "2026-10-09",
+    "total_books_arabic": 117,
+    "total_books_english": 117,
+    "total_books": 234,
     "languages": [
       "ar",
       "en"
@@ -33,7 +33,7 @@
       ]
     }
   },
-  "last_updated": "2026-10-03",
+  "last_updated": "2026-10-09",
   "books": [
     {
       "id": "conscious-contemplation",
@@ -6868,7 +6868,7 @@
       },
       "en": {
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/pure-religion/en/70-pure-religion-en.txt",
-         "docx": "https://drive.google.com/uc?export=download&id=1YPv0X4yTQvkC0iqbHhYQNQoUdxBvp1uF",
+        "docx": "https://drive.google.com/uc?export=download&id=1YPv0X4yTQvkC0iqbHhYQNQoUdxBvp1uF",
         "cover": "books/pure-religion/en/pure-religion-cover-en.png",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1z0HRIxbLaUJLVAvGdFX5weanNbdzxx4_"
       },
@@ -6944,7 +6944,7 @@
       },
       "en": {
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/religion-of-truth/en/72-religion-of-truth-en.txt",
-         "docx": "https://drive.google.com/uc?export=download&id=1MQ2ayCctPJ4WYmFF2MTrvXsSVQwtMIuw",
+        "docx": "https://drive.google.com/uc?export=download&id=1MQ2ayCctPJ4WYmFF2MTrvXsSVQwtMIuw",
         "cover": "books/religion-of-truth/en/religion-of-truth-cover-en.png",
         "pdf_external": "https://drive.google.com/uc?export=download&id=10HgSxAy1enWzKoK0EyzRAWWZ314VA7HG"
       },
@@ -6982,7 +6982,7 @@
       },
       "en": {
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/quranic-stewardship-encyclopedia/en/73-quranic-stewardship-encyclopedia-en.txt",
-       "docx": "https://drive.google.com/uc?export=download&id=1Hl9GfHpiUpk-Y21YnuRdvTTGL-FagXmq",
+        "docx": "https://drive.google.com/uc?export=download&id=1Hl9GfHpiUpk-Y21YnuRdvTTGL-FagXmq",
         "cover": "books/quranic-stewardship-encyclopedia/en/quranic-stewardship-encyclopedia-cover-en.png",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1mbKoFFQwQS7lYGguq_EBJYl1iYg47L_O"
       },
@@ -7742,7 +7742,7 @@
       },
       "en": {
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/recompense-engineering-vol7-return-repentance/en/93-recompense-engineering-vol7-return-repentance-en.txt",
-       "docx": "https://drive.google.com/uc?export=download&id=1vmdI5o5IEUBXzcln78jc6vknMLsWWGMl",
+        "docx": "https://drive.google.com/uc?export=download&id=1vmdI5o5IEUBXzcln78jc6vknMLsWWGMl",
         "cover": "books/recompense-engineering-vol7-return-repentance/en/recompense-engineering-vol7-return-repentance-cover-en.png",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1V03r6kxZdLOZMObZqNLYhD4q00PwLgk9"
       },
@@ -7780,7 +7780,7 @@
       },
       "en": {
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/recompense-engineering-vol8-relations/en/94-recompense-engineering-vol8-relations-en.txt",
-         "docx": "https://drive.google.com/uc?export=download&id=1c3A66WYEJhKga2r1yj-43_Z9bX7QwvAP",
+        "docx": "https://drive.google.com/uc?export=download&id=1c3A66WYEJhKga2r1yj-43_Z9bX7QwvAP",
         "cover": "books/recompense-engineering-vol8-relations/en/recompense-engineering-vol8-relations-cover-en.png",
         "pdf_external": "https://drive.google.com/uc?export=download&id=1izsLL4UPVGN2Vha866e_QeUd5dgMo_EW"
       },
@@ -8469,6 +8469,265 @@
         "pdf_external": "https://drive.google.com/uc?export=download&id=1h2hQqW4_eEH3tNof-G0c5nvz80A49gin"
       },
       "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/existence-ascent-engineering/ar/existence-ascent-engineering-cover-ar.png"
+    },
+    {
+      "id": "Engineering_Transgression_Temptation_and_the_Tree",
+      "book_number": 113,
+      "titles": {
+        "ar": "هندسة المخالفة والإغواء والشجرة في القرآن",
+        "en": "Engineering Transgression, Temptation, and the Tree in the Qur'an"
+      },
+      "description": {
+        "ar": "دراسة بنيوية في قصة آدم وإبليس: من الأمر والحد إلى الخلد والسوءة واللباس، مع تمييز الاستنباط والفرضيات عن النص القرآني.",
+        "en": "A structural study of Adam and Iblis, from command and boundary to immortality, exposure, and garment, distinguishing textual evidence from hypotheses."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "آدم",
+          "إبليس",
+          "الشجرة",
+          "الإغواء",
+          "اللباس"
+        ],
+        "topics_en": [
+          "Adam",
+          "Iblis",
+          "Tree",
+          "Temptation",
+          "Garment"
+        ]
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Engineering_Transgression_Temptation_and_the_Tree/ar/113-Engineering_Transgression_Temptation_and_the_Tree-ar.txt",
+        "cover": "books/Engineering_Transgression_Temptation_and_the_Tree/ar/Engineering_Transgression_Temptation_and_the_Tree-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=15Rk5F-tU0tSTDhRXsf4C3_zbVdnghpk2",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1plDwIheeqLsravNDSNicMy0SGJykkw4m"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Engineering_Transgression_Temptation_and_the_Tree/en/113-Engineering_Transgression_Temptation_and_the_Tree-en.txt",
+        "cover": "books/Engineering_Transgression_Temptation_and_the_Tree/en/Engineering_Transgression_Temptation_and_the_Tree-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1sfih_LkbvFmRIRjDvWgssLeq7gIFsJBT",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=10tN7_xImyOox7oRNLdD1UdV8C6y82vxW"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Engineering_Transgression_Temptation_and_the_Tree/ar/Engineering_Transgression_Temptation_and_the_Tree-ar-cover.png"
+    },
+    {
+      "id": "Fiqh_al-Wijdan",
+      "book_number": 114,
+      "titles": {
+        "ar": "فقه الوجدان في اللسان القرآني",
+        "en": "The Jurisprudence of Human Consciousness in the Qur’anic Language"
+      },
+      "description": {
+        "ar": "هندسة المودة والسكن والكرامة في العلاقة الإنسانية؛ دراسة بنيوية وفق QCROS ونظام المثاني، تعرض نموذج الكرامة الوجدانية بوصفه مرشحًا قابلًا للاختبار لا قانونًا قرآنيًا نهائيًا.",
+        "en": "The architecture of affection, tranquility, and dignity in human relationships: a structural study using QCROS and the Mathani system, presenting testable models rather than final Qur’anic laws."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "الوجدان",
+          "المودة",
+          "السكن",
+          "الكرامة",
+          "الميزان",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Consciousness",
+          "Affection",
+          "Tranquility",
+          "Dignity",
+          "QCROS",
+          "Mathani"
+        ]
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Fiqh_al-Wijdan/ar/114-Fiqh_al-Wijdan-ar.txt",
+        "cover": "books/Fiqh_al-Wijdan/ar/114-Fiqh_al-Wijdan-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=13A75uXXW4peYL1V3WSBvE2h2qoRe15FS",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1kvAYbtqKe3vearLbD2TE5ihyKK75BKI9"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Fiqh_al-Wijdan/en/114-Fiqh_al-Wijdan-en.txt",
+        "cover": "books/Fiqh_al-Wijdan/en/114-Fiqh_al-Wijdan-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1HsVPgLaWxnP2PcBKpNOrF206VnH7yEjU",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1oMq2lhTVxOVpgNMsR1kaEyRX7ffMawPD"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Fiqh_al-Wijdan/ar/114-Fiqh_al-Wijdan-ar-cover.png"
+    },
+    {
+      "id": "SHIRK_Engineering_of_Illusion",
+      "book_number": 115,
+      "titles": {
+        "ar": "الشِّرْك: هندسة الوهم وتحرير الوعي الإنساني",
+        "en": "SHIRK: The Engineering of Illusion and the Liberation of Human Awareness"
+      },
+      "description": {
+        "ar": "دراسة بنيوية لشبكة الشرك والمرجعية والولاء والتوجه، وفق فقه اللسان القرآني ومنهج QCROS ونظام المثاني، مع فصل النماذج النفسية والحضارية عن الخبر القرآني.",
+        "en": "A structural study of shirk, reference, allegiance, and orientation using Qur’anic linguistic jurisprudence, QCROS, and Mathani, separating contemporary models from Qur’anic statements."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "الشرك",
+          "التوحيد",
+          "الوعي",
+          "المرجعية",
+          "QCROS",
+          "المثاني"
+        ],
+        "topics_en": [
+          "Shirk",
+          "Tawhid",
+          "Awareness",
+          "Reference",
+          "QCROS",
+          "Mathani"
+        ]
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/SHIRK_Engineering_of_Illusion/ar/115-SHIRK_Engineering_of_Illusion-ar.txt",
+        "cover": "books/SHIRK_Engineering_of_Illusion/ar/115-SHIRK_Engineering_of_Illusion-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1LWPnPCsXavJc6RVO7Oht8ahRLfdvXIR6",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1o5IpKPHhQwAYtTwda3cLkF_sOA_a2M0G"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/SHIRK_Engineering_of_Illusion/en/115-SHIRK_Engineering_of_Illusion-en.txt",
+        "cover": "books/SHIRK_Engineering_of_Illusion/en/115-SHIRK_Engineering_of_Illusion-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1lzGr87t_9KV3scngQUk4VG_ZKPLRd-QS",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1FEo2HIuVgryIsudhsE6j9UFOjVvOghTO"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/SHIRK_Engineering_of_Illusion/ar/115-SHIRK_Engineering_of_Illusion-ar-cover.png"
+    },
+    {
+      "id": "SHIRK_Engineering_of_Illusion_simplified",
+      "book_number": 116,
+      "titles": {
+        "ar": "الشِّرْك: كيف أحفظ قلبي لله؟ — الطبعة الميسّرة",
+        "en": "SHIRK — Companion English Adaptation of the Original Study"
+      },
+      "description": {
+        "ar": "من هندسة الوهم إلى التحرر والتزكية: دليل عملي لفهم الشرك وحفظ القلب، مبني على دراسة الشرك الأصلية. المورد الإنجليزي تكييف للدراسة الأصلية وليس ترجمة مطابقة للطبعة الميسّرة.",
+        "en": "Companion adaptation of the original study on shirk, illusion, and human awareness. The Arabic text in this entry is a separate simplified practical edition; this English resource is not its matching translation."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "الشرك",
+          "التزكية",
+          "القلب",
+          "التوبة",
+          "الطبعة الميسّرة"
+        ],
+        "topics_en": [
+          "Shirk",
+          "Awareness",
+          "Illusion",
+          "Companion adaptation"
+        ],
+        "edition_notes": {
+          "ar": "النسخة العربية طبعة ميسّرة. الملف الإنجليزي المرفق تكييف للدراسة الأصلية، وليس ترجمة مطابقة لهذه الطبعة الميسّرة.",
+          "en": "Edition warning: this supplied English file adapts the original research study (book 115). It is a companion resource, not a matching translation of the simplified Arabic edition (book 116)."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/SHIRK_Engineering_of_Illusion_simplified/ar/116-SHIRK_Engineering_of_Illusion_simplified-ar.txt",
+        "cover": "books/SHIRK_Engineering_of_Illusion_simplified/ar/SHIRK_Engineering_of_Illusion_simplified-cover-ar.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1GW-LsVuqJ-Ts7UFFC8zloNdXPsMgxXbn",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=10dcNJcZHrlkICUgOmRF4Sfxk_dwclj6-"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/SHIRK_Engineering_of_Illusion_simplified/en/116-SHIRK_Engineering_of_Illusion_simplified-en.txt",
+        "cover": "books/SHIRK_Engineering_of_Illusion_simplified/en/SHIRK_Engineering_of_Illusion_simplified-cover-en.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1MSMaZ2mRvc1nLdd4f_pzMcTMJL3ASsYv",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1v1pIByP-83l7vTud-y5EqRBTodOSv2yn"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/SHIRK_Engineering_of_Illusion_simplified/ar/SHIRK_Engineering_of_Illusion_simplified-cover-ar.png"
+    },
+    {
+      "id": "THE_BOOK_AS_WITNESS",
+      "book_number": 117,
+      "titles": {
+        "ar": "الكِتَابُ الشَّاهِد",
+        "en": "The Book as Witness"
+      },
+      "description": {
+        "ar": "مقاربة نسقية لحضور الوحي في شبكة المساءلة والإثبات يوم الحساب. لفظ الشاهد في العنوان اصطلاح تحليلي وظيفي، لا دعوى بأن الكتاب المنزل هو سجل الأعمال الأخروي.",
+        "en": "A systemic study of revelation, accountability, and evidence in Qur’anic discourse. Witness is an analytical term in the title, not a claim that revealed scripture is identical to the record of deeds."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "الكتاب",
+          "الشهادة",
+          "الوحي",
+          "المساءلة",
+          "الإثبات",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Book",
+          "Witness",
+          "Revelation",
+          "Accountability",
+          "Evidence",
+          "QCROS"
+        ]
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/THE_BOOK_AS_WITNESS/ar/117-THE_BOOK_AS_WITNESS-ar.txt",
+        "cover": "books/THE_BOOK_AS_WITNESS/ar/THE_BOOK_AS_WITNESS-cover-ar.png",
+        "docx": "https://drive.google.com/uc?export=download&id=169W3KTM-0qbpz_c__fOhRZ5PJNXyY72x",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1pvauQqwtIcmxP__OfIFrWM4R5ekF9T1F"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/THE_BOOK_AS_WITNESS/en/117-THE_BOOK_AS_WITNESS-en.txt",
+        "cover": "books/THE_BOOK_AS_WITNESS/en/THE_BOOK_AS_WITNESS-cover-en.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1xmizNdq6jIe86L8mjy4OmxT79aqkdd0G",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1wQ1uZgoSJCEu56610DbxeBicJQHpjbtC"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/THE_BOOK_AS_WITNESS/ar/THE_BOOK_AS_WITNESS-cover-ar.png"
     }
   ]
 }

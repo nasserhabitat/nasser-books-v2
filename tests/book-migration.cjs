@@ -5,8 +5,8 @@ const cat=JSON.parse(read('ai-index.json'));
 const search=JSON.parse(read('search-index.json')).books;
 const old=JSON.parse(cp.execFileSync('git',['show','HEAD:ai-index.json'],{cwd:root,encoding:'utf8',maxBuffer:10e6})).books;
 const corrections=JSON.parse(read('scripts/drive-link-corrections.json'));
-assert.equal(cat.books.length,112);assert.equal(search.length,112);
-assert.equal(new Set(cat.books.map(b=>b.id)).size,112);
+assert.equal(search.length,cat.books.length);
+assert.equal(new Set(cat.books.map(b=>b.id)).size,cat.books.length);
 let texts=0,covers=0;
 for(const b of cat.books) for(const lang of ['ar','en']) {
  const p=`books/${b.id}/${lang}/`,name=`${b.book_number}-${b.id}-${lang}.txt`;
@@ -28,7 +28,7 @@ for(const b of cat.books) for(const lang of ['ar','en']) {
 const page=read('search.html'),scripts=[...page.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)].filter(m=>!m[1].includes('application/ld+json')&&!m[1].includes('src='));
 const context=vm.createContext({document:{addEventListener(){}},Map,console,setTimeout,clearTimeout,AbortController});
 scripts.forEach((m,i)=>{new vm.Script(m[2],{filename:`search-${i}`}).runInContext(context)});
-assert.equal(vm.runInContext('booksData.length',context),112);
+assert.equal(vm.runInContext('booksData.length',context),cat.books.length);
 assert.equal(vm.runInContext("normalizeSearchText('الإسلام') === normalizeSearchText('الاسلام')",context),true);
 assert.equal(vm.runInContext("searchInText('سطر سابق\\nالأعداد في القرآن\\nسطر لاحق','الاعداد')[0].lineNumber",context),2);
 assert.equal(vm.runInContext("searchInText('سطر سابق\\nالأعداد في القرآن\\nسطر لاحق','الاعداد')[0].context.length",context),3);
@@ -43,4 +43,4 @@ function checkTextPolicy(dir){for(const e of fs.readdirSync(dir,{withFileTypes:t
 checkTextPolicy(root);
 function walk(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true})){if(['.git','content.files'].includes(entry.name))continue;const p=path.join(dir,entry.name);if(entry.isDirectory()){walk(p);continue;}if(!p.endsWith('.html'))continue;let i=0;for(const m of fs.readFileSync(p,'utf8').matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)){if(m[1].includes('application/ld+json')){JSON.parse(m[2]);continue;}if(!m[1].includes('src=')){new vm.Script(m[2],{filename:p+':'+i++});syntax++;}}}}
 walk(root);
-console.log(JSON.stringify({books:112,textFiles:texts,availableCovers:covers,inlineScriptsChecked:syntax,oldDriveLinksPreserved:true,searchNormalizationAndSnippets:'passed'},null,2));
+console.log(JSON.stringify({books:cat.books.length,textFiles:texts,availableCovers:covers,inlineScriptsChecked:syntax,oldDriveLinksPreserved:true,searchNormalizationAndSnippets:'passed'},null,2));

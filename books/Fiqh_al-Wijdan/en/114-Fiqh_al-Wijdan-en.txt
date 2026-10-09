@@ -1,0 +1,224 @@
+﻿
+
+THE JURISPRUDENCE OF HUMAN CONSCIOUSNESS
+IN THE QUR’ANIC LANGUAGE
+The Architecture of Affection, Tranquility, and Dignity
+in Human Relationships
+A Structural Study According to QCROS
+(Induction, Control, and Testing) and the Mathani System
+NASSER IBN DAWOOD
+2026
+Condensed Conceptual English Edition
+
+
+I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy: All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library: As of early 2026, the collection hosts 68 volumes (34 in Arabic and 34 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platforms: Main Website: nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+This manifesto is reproduced here as supplied by the author for this condensed edition.
+II. Translator’s Note: The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an "extraction of essence." It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.
+For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (Tafsir), and the complete bibliography.
+This adaptation also preserves the methodological status of the Arabic edition. A claim marked OPEN remains open; a CANDIDATE remains a candidate; a RESISTED or STRONGLY RESISTED claim is not revived through simplification; and a CLOSED result remains closed only within its declared scope. The aim is clarity without scientific inflation.
+Key Qur’anic terms are sometimes retained in transliteration—such as nafs, tawaffī, barzakh, and baʿth—when a single English equivalent would prematurely narrow the field under study.
+How to Read This Condensed Edition
+This book is not designed to deliver conclusions without showing the route by which they were reached. Its operating sequence is: READ → COLLECT → COMPARE → HYPOTHESIZE → TEST → JUDGE → CONTINUE. The reader is therefore invited to distinguish evidence from observation, interpretation, hypothesis, result, model, and law.
+• Co-occurrence is not causality. Two terms appearing together do not prove that one causes the other.
+• Textual order is not automatically a universal chronological or developmental sequence.
+• A necessary condition is not automatically a sufficient cause.
+• A previous volume may generate questions or methods, but it is not evidence for a new corpus.
+• A model or diagram represents established relations; it does not create new evidence.
+• OPEN does not mean false. NOT ESTABLISHED does not mean nonexistent. CANDIDATE does not mean canonical.
+• No claim may rise above the weakest unresolved dimension on which it depends.
+Core rule: Evidence → Record → Model, not Model → selective evidence.
+Executive Summary
+This study begins with a deceptively simple question: how does the Qur’an present the human being inside a relationship? The question quickly becomes linguistic, structural, ethical, and civilizational. The book does not assume that “wijdān” (human affect, inward experience, or consciousness) is a complete Qur’anic technical term. Instead, it uses the expression Fiqh al-Wijdan as an analytical container through which a network of Qur’anic terms can be tested: love, affection, tranquility, mercy, fear, grief, aversion, contentment, speech, will, mutual consent, covenant, balance, equity, justice, protection, proof, and dignity.
+The inquiry moves through six interconnected parts. It first constructs the textual corpus and separates Qur’anic terms from modern analytical categories. It then studies the human agent inside the relationship, especially women as speakers, decision-makers, complainants, negotiators, and moral agents. Next it investigates balance, deprivation, short-measure, equity, and justice. It then turns to sexual boundaries, accusation, proof, rumor, privacy, verification, backbiting, and social dignity. The fifth part synthesizes these results into a model of affective dignity. The final part asks how textual findings may responsibly inspire family, institutional, educational, and civic models without converting human policy into sacred revelation.
+The principal achievement is therefore not a final dictionary definition of “human consciousness,” nor a universal closed law. It is a disciplined map of relations: feeling is not behavior; an act is not an accusation; accusation is not proof; protection is not confiscation of agency; functional difference is not automatically difference in human worth; and a human operating model is not the Qur’anic text itself.
+AFFECTIVE DIGNITY MODEL = CANDIDATE STRONG, not a final sealed Qur’anic law.
+
+
+Introduction — From Jurisprudence of Rules to Jurisprudence of Human Consciousness
+The Qur’an does not address the human being merely as a body around which rules move, nor only as a legal party defined by contracts, duties, and entitlements. Its discourse also addresses a being who loves and dislikes, fears and grieves, hopes and becomes tranquil, accepts and resists, reconciles and separates, forgives and withholds. This study therefore asks what becomes visible when human relationships are read not only through legal procedure, but through the architecture that makes law livable within a person endowed with inward experience, dignity, will, and responsibility.
+This move does not establish a false opposition between legal jurisprudence and affective jurisprudence, and it does not claim that the entire inherited legal tradition ignored human experience. Such a historical judgment would require an independent corpus. The claim here is narrower: when relational questions are read primarily through procedural categories, a wider Qur’anic network—mawadda, sakīna, raḥma, mutual consent, maʿrūf, iḥsān, prevention of harm, and protection against coercion—may receive insufficient structural attention.
+The book is equally cautious about modern categories. Autonomy, self-determination, liberal individualism, patriarchy, emotional labor, consent theory, and institutional governance can all be useful comparative concepts, but none is allowed to enter the Qur’anic corpus as though it were native Qur’anic terminology. Comparison comes after textual construction, not before it.
+Method: QCROS and the Mathani Network
+QCROS governs the production of claims rather than guaranteeing their truth. Its epistemic path is: TEXT → OBSERVATION → INDUCTION → RELATIONS → HYPOTHESIS → TEST → STABILITY → POSSIBLE LAW → MODEL. The purpose is to prevent the leap from an attractive verse or structural analogy to a universal law.
+The Mathani system (MATHANI-NET) functions as a discovery engine. It brings pairs, contrasts, mirrors, parallels, and recurring structures into view: love/aversion, affection/hostility, holding/releasing, harm/maʿrūf, equity/deprivation. Yet Mathani does not prove what it discovers. It opens a question; context controls the local meaning; the corpus tests recurrence; counter-evidence exerts pressure; the Qur’anic system judges coherence; reality tests operational usefulness; and QCROS assigns the final epistemic rank.
+MATHANI-NET = DISCOVERY ENGINE, NOT AUTOMATIC PROOF.
+A multi-layer reading is permitted, but the material or direct meaning cannot be erased by a functional model. The direct wording, persons, objects, and events remain intact. A functional layer may be added only when it survives context, corpus, resistance, and system-level testing.
+Material meaning + functional layer ≠ functional model replaces material meaning.
+Part One — Building the Qur’anic Corpus of Human Consciousness
+1. “Wijdan” as an Analytical Container
+The first methodological result is negative but foundational: the book does not establish wijdān as a Qur’anic technical name for the total field of emotion, inward consciousness, and relationship. The Qur’anic root w-j-d operates in several functions—finding, encountering, possessing, capacity—and cannot by itself support a modern psychological theory of “the affective.” The title therefore remains an analytical container, subordinate to the text.
+This permits the study to preserve the independence of several lexical fields rather than forcing them into a single modern category. Fear and grief may describe inward states; love, aversion, approval, and hope may operate as orientations; mawadda, raḥma, and sakīna may participate in relational structures; mutual consent, maʿrūf, iḥsān, restraint from harm, and equity regulate what happens between persons. These layers are research tools, not final Qur’anic taxonomy.
+WIJDAN AS QUR’ANIC TECHNICAL TERM = NOT ESTABLISHED. WIJDAN AS ANALYTICAL CONTAINER = methodological CANDIDATE.
+2. Love (ḥubb): Direction, Preference, and Moral Limits
+The root ḥ-b-b must first be separated morphologically and functionally: ḥubb (love) is not automatically identical with ḥabb (grain) or ḥabba (seed), despite the shared root. The book resists the temptation to derive one universal semantic essence merely from root identity.
+More importantly, love is not treated as a self-authenticating moral good. People may love what is not good for them, and Divine love in the Qur’an often functions in evaluative contexts rather than as a simple description of emotional warmth. Love can orient a person toward an object or value; it does not by itself prove mutuality, justice, guidance, or ethical legitimacy.
+This distinction becomes crucial for relationships. A bond may contain love without reciprocal structure, and moral obligations may remain even when love weakens. The later chapters therefore test whether maʿrūf and iḥsān function independently of fluctuating affect.
+LOVE = MAWADDA → NOT ESTABLISHED. LOVE AS AUTOMATIC MORAL GOOD → RESISTED.
+3. Mawadda: From Feeling to Relational Structure
+The corpus of w-d-d suggests that mawadda has a pronounced relational function, but the book refuses several simplifications. Mawadda is not proven to be synonymous with love; it is not confined to marriage; it is not intrinsically ethically positive in every occurrence; and the text does not require that every instance be symmetrical or reciprocal.
+The phrase “between you affection and mercy” in Qur’an 30:21 gives the preposition “between” structural importance. It allows the inquiry to ask whether mawadda belongs not merely to a private interior state but to a relational field. Yet even here, the word “between” does not close a full theory of reciprocity. It establishes relational placement, while the exact mechanism remains under testing.
+The title therefore uses “affection” as a conceptual approximation rather than a definitive lexical substitute. In this condensed edition, mawadda is retained when the English term would imply more than the corpus has established.
+MAWADDA AS RELATIONAL FIELD = strongly supported within scope; MAWADDA = LOVE → rejected as simple synonymy.
+4. Mawadda and al-Maw’ūda: A Structural Contrast, Not an Etymology
+One of the book’s important safeguards concerns the temptation to connect mawadda (w-d-d) with al-maw’ūda, the buried girl (w-ʾ-d). The roots are distinct. Any conceptual contrast between building a bond and destroying the possibility of a life or voice is therefore metaphorical and structural, not etymological.
+Expressions such as “burying the voice,” “emotional burial,” or “burying affection” may sometimes serve as contemporary metaphors, but they cannot be presented as Qur’anic lexical meanings. The book prefers to analyze the woman’s voice through direct textual resources—speech, complaint, consultation, proposal, pledge, choice—rather than importing the imagery of burial where the text does not.
+W-D-D ≠ W-ʾ-D. “Spiritual/emotional burial” = OPEN as metaphorical model only.
+5. Sakīna, Mawadda, and Raḥma in Qur’an 30:21
+Qur’an 30:21 is a central gateway, but not a license for a ready-made theory of marriage. The verse brings together dwelling/tranquility (li-taskunū ilayhā), mawadda, and raḥma. Their textual co-presence is certain; their causal order is not.
+The study therefore rejects claims such as “tranquility produces affection which then produces mercy,” unless independently established. Sakana has spatial, temporal, bodily, and relational uses across the corpus; it cannot be reduced in advance to “psychological comfort.” Raḥma likewise has a vast field extending far beyond conjugal emotion. The Qur’anic formulation is richer than a romantic slogan precisely because it does not collapse these terms into one another.
+CO-OCCURRENCE IN 30:21 = CLOSED TEXTUALLY. GLOBAL CAUSAL SEQUENCE = NOT ESTABLISHED.
+Part Two — The Relationship and the Human Agent
+6. Woman as a Qur’anic Agent
+The book shifts the question from “what rights are assigned?” to “who is the human agent who bears, exercises, disputes, or relinquishes a right?” Across different passages, women appear as speakers, evaluators, proposers, disputants, complainants, mothers, rulers, believers, and participants in public covenant.
+The women of Midian are especially useful because the text combines modest conduct with speech, evaluation, and proposal. The woman walks “with modesty” and then speaks; another speech recommends hiring Moses. At minimum, the text resists an absolute equation between modesty and silence. It does not, however, automatically define modesty as “behavioral regulation”; that broader definition requires its own corpus.
+The Queen of Sheba, the woman who disputes, the mother of Moses, the wife of Pharaoh, the woman of ʿImrān, and women participating in pledge or consultation broaden this picture. The cumulative result is not an ideological slogan but a structural observation: female agency is distributed across diverse Qur’anic scenes.
+HAYA = SILENCE → REJECTED. FEMALE AGENCY = CANDIDATE STRONG across the tested network.
+7. Will, Consent, and the Architecture of Choice
+The Qur’anic materials do not collapse will, consent, capacity, consultation, and absence of coercion into one word. The study therefore distinguishes several layers. Qur’an 4:4 establishes financial entitlement and then permits relinquishment only through willing disposition; 2:232 blocks third-party obstruction when the directly concerned parties mutually agree; 2:233 joins mutual consent and consultation in the decision about weaning; 4:6 separates reaching marriageable age from observed sound judgment before property is handed over.
+These resources can inform modern discussions of consent, but they do not authorize the translator to relabel the Qur’anic vocabulary as a completed doctrine of “informed consent.” A modern concept may be a legitimate operating model if its transformations are declared.
+Likewise, coercion is treated through direct textual evidence rather than generalized ideology. The prohibition on compelling women in Qur’an 24:33 closes the presence of coercive action in that resource; it does not license the claim that every use of baghy means coercive exploitation.
+PROTECTIVE CONTROL ≠ OWNERSHIP = structurally CLOSED. UNIVERSAL MODERN CONSENT FORMULA = NOT ESTABLISHED.
+8. The Solemn Covenant (Mīthāqan Ghalīẓan)
+Marriage is not reduced to emotion, nor to possession, nor to an exchange of material services. The expression “solemn covenant” places the relationship within a field of commitment that survives fluctuations in inward feeling. Yet the covenant is not treated as a magical label that erases agency or makes every existing relationship ethically functional.
+The book is careful with modern institutional analogies. Comparing marriage to a corporate merger, or divorce to corporate dissolution, may occasionally illuminate structural questions, but it is not a Qur’anic lexical definition. The text must remain prior to the analogy.
+NIKĀḤ/TALĀQ = CORPORATE MERGER/DISSOLUTION AS LEXICAL MEANING → NOT ESTABLISHED.
+9. When the Covenant Loses Its Function
+The Qur’an’s relational ethics are tested most rigorously when affection weakens and the covenant is under strain. The paired formulations “retention in maʿrūf or release with iḥsān” and the prohibition on retaining a woman in order to harm her establish that continuation is not a value at any cost.
+The book distinguishes ṭalāq, tasrīḥ, iftidāʾ, and firāq rather than collapsing them into one technical action. Iftidāʾ provides a clear textual locus for female agency in seeking release, but this does not by itself establish a universal unilateral power detached from every procedural relation. Firāq is strongly supported as a general field of separation; tasrīḥ appears as a strong candidate for a broader release/letting-go field.
+A major ethical conclusion emerges: if continuation becomes a mechanism of suspension, harm, or confiscation of agency, the moral architecture shifts toward repair, release, or separation. Exit itself remains morally evaluable.
+FEMALE AGENCY IN IFTIDĀʾ = CLOSED TEXTUALLY. DIGNIFIED EXIT ARCHITECTURE = CANDIDATE STRONG.
+Part Three — The Measure of Human Relationships
+10. Mīzān: More Than a Market Instrument
+The Qur’anic field of mīzān resists reduction to a weighing tool used in commerce. Its appearances open a broader structural question about proportion, right measure, and normative calibration. The study therefore treats “balance” as a strong candidate for a comprehensive structural standard, while refusing to seal that conclusion beyond the evidence.
+This creates an opening for the phrase “affective short-measure,” but only as a tested metaphor. The Qur’an does not lexically define taṭfīf as emotional neglect. The transfer becomes legitimate only when a shared structure is demonstrated: a party exacts full recognition, care, or benefit while systematically diminishing a comparable right of the other party.
+MĪZĀN = MARKET TOOL ONLY → RESISTED. AFFECTIVE TAṬFĪF = MODEL CANDIDATE, NOT QUR’ANIC LEXICAL MEANING.
+11. Deprivation, Short-Measure, Harm, and Withholding
+The book separates several fields commonly fused into a general idea of relational injustice. Bakhs concerns diminution or deprivation; taṭfīf concerns short measure in a structure of comparable exchange; ḍarar/ḍirār names observable harm in the relevant resources; shuḥḥ points toward an inward disposition of withholding or self-interest but does not simply mean absence of generosity.
+This differentiation matters because inner states cannot be weighed as identical quantities. The book resists a doctrine of complete inner symmetry between partners. Instead, responsibility becomes clearer at the point where inward preference produces externally observable deprivation, harmful retention, abandonment, or discriminatory conduct.
+AFFECTIVE EQUALITY AS FULL INNER SYMMETRY → RESISTED. OBSERVABLE HARM FIELD → STRONGLY SUPPORTED.
+12. Qisṭ and ʿAdl: Justice Without Mechanical Identity
+Qisṭ and ʿadl are not treated as perfect synonyms, and equality is not reduced to mechanical sameness. Qur’an 4:3 and 4:129, read together, resist the idea that one undifferentiated form of “justice” governs every dimension in exactly the same way. The latter passage recognizes a domain of inner inclination that cannot be perfectly equalized while still restricting total outward inclination that leaves another person suspended.
+The text therefore supports a distinction between what cannot be mechanically equalized inside the person and what remains morally governable in conduct. “Functional proportionality” emerges as a strong analytical candidate: fairness may require equal human worth while allowing different functions, burdens, or forms of response according to context. This is a model, not a new Qur’anic term.
+The word daraja in Qur’an 2:228 is textually present, but its transformation into a universal hierarchy of male human worth is not established. Likewise, defining it as a fixed administrative office remains open.
+MECHANICAL EQUALITY AS EXHAUSTIVE QUR’ANIC MODEL → RESISTED. FUNCTIONAL PROPORTIONALITY → CANDIDATE STRONG.
+Part Four — Boundaries, Deviation, Proof, and Social Protection
+13. Zinā and the Discipline of Terminology
+The inquiry begins by refusing synonymic inflation. Zinā, fāḥisha, baghy, and sūʾ are not interchangeable names for one act. Each belongs to a distinct lexical field that may overlap in specific contexts without collapsing into identity.
+Qur’an 24:2 names the woman and the man involved in zinā and prescribes the same stated sanction to each named party in that verse. This textual symmetry is closed within the verse, but it does not prove equal agency in every imaginable scenario of coercion, vulnerability, or incapacity. Nor does the order of naming establish a universal hierarchy of blame.
+The requirement of four witnesses is textually explicit in the context of accusation in Qur’an 24:4. The book refuses to universalize that single resource into an exhaustive evidentiary code for every possible zinā case without further testing.
+SAME PRESCRIBED SANCTION FOR EACH NAMED PARTY IN 24:2 = CLOSED TEXTUALLY. FOUR WITNESSES AS UNIVERSAL RULE FOR EVERY CASE = NOT ESTABLISHED.
+14. Zinā, Fāḥisha, Baghy, and Sūʾ Are Not Synonyms
+The root b-gh-y cannot simply be equated with zinā. In the relevant resources, transgression is strongly supported as a broad functional field, while coercion and bighāʾ co-occur in Qur’an 24:33 without becoming lexically identical. Similarly, s-w-ʾ functions as a broad negative or evaluative root rather than as the technical name of a single sexual offense.
+The methodological gain is larger than the lexical result: moral analysis becomes more precise when each term is allowed to perform its own function. A broad word for wrong, an act of sexual violation, coercion, an accusation, and a procedural failure must not be merged into one moral category before the text does so.
+B-GH-Y = ZINĀ → REJECTED. S-W-ʾ = SPECIFIC SEXUAL OFFENSE → REJECTED.
+15. Sūrat al-Nūr: Protection and Proof
+The book’s most important structural equation in this part is: ACT ≠ ACCUSATION ≠ PROOF. The Qur’an’s regulation of accusation shows that a moral judgment about an act cannot be transferred to a person merely because a claim has been made.
+The direct Qur’anic term in 24:4 and 24:6 is “ramy” (casting/accusing), while “qadhf” belongs to later juristic terminology. Preserving this distinction prevents the legal label from being retrojected into the Qur’anic wording. Liʿān is treated as a special spousal procedure; the woman’s counter-testimony has an explicit procedural effect. This is a powerful example of female voice functioning inside an evidentiary structure.
+The broader conclusion is domain sensitivity: evidentiary architecture changes with the type of claim. Procedural difference does not establish difference in human worth.
+ACT ≠ ACCUSATION ≠ PROOF = methodological structural result. EVIDENCE ARCHITECTURE IS DOMAIN-SENSITIVE = STRONGLY SUPPORTED.
+16. Ifk, Rumor, and the Weight of Speech
+The passage of al-ifk shows how social dignity can be damaged by circulation of speech detached from knowledge. The text distinguishes collective participation from identical culpability: many may be involved in transmission while responsibility varies. The perception that a statement is “small” does not determine its moral weight.
+This leads to a strong operating model for high-impact speech: before repeating a claim with consequences for another person, the speaker must ask what is known, what is merely heard, and what the act of transmission itself will do. Yet the book does not convert the passage into a complete modern media law dictated directly by the Qur’an.
+PERCEIVED TRIVIALITY ≠ MORAL WEIGHT = CLOSED TEXTUALLY in 24:15. UNIVERSAL MODERN MEDIA LAW = NOT ESTABLISHED.
+17. Muḥṣanāt and the Field of Protection
+The root ḥ-ṣ-n appears in material and relational contexts: fortification, protection, guardedness, and protected persons. For this reason, neither “married women” nor “chaste women” can function as a universal lexical substitute in every occurrence without contextual analysis.
+In Qur’an 24:23, muḥṣanāt, ghāfilāt, and muʾmināt appear as distinct attributes. The study therefore rejects their synonymization. A multi-layer protected subject becomes a strong model candidate, while the exact core of iḥṣān remains sensitive to context. The metaphor of the fortress may be heuristically useful, but it is not itself the lexical definition.
+H-Ṣ-N AS PROTECTION/FORTIFICATION NUCLEUS = CANDIDATE STRONG. FORTRESS METAPHOR = LEXICAL DEFINITION → REJECTED.
+18. Backbiting, Spying, Verification, and Information Ethics
+Qur’an 49 places suspicion, spying, and backbiting within a dense network of social ethics, but the book refuses to turn their co-occurrence into a necessary causal chain. Not every suspicion is sinful; the verse regulates some suspicion. Spying is prohibited as an act in the passage, yet the root does not yield an entire lexical theory from a single resource.
+The most productive distinction is between verification and intrusion. Qur’an 49:6 commands verification in a specific information context; 49:12 prohibits spying. Verification of a consequential claim does not require opening the total private life of the person to investigation. A bounded operational rule therefore emerges: verify what affects rights; do not invade what is irrelevant to the claim.
+This supports an information ethic that is neither gullible nor surveillance-based. Evidence-seeking must remain proportionate to the claim.
+TAJASSUS = VERIFICATION → REJECTED. NECESSITY-BOUNDED INFORMATION GATHERING = OPERATIONAL MODEL CANDIDATE.
+19. A Multi-Gate Architecture of Social Dignity
+The prohibitions of ridicule, defamation, offensive naming, harmful suspicion, spying, and backbiting are not one offense and not a proven chronological chain. They are different gates through which dignity can be injured. Together with rules concerning accusation, proof, rumor, and correction, they permit the construction of a multi-gate architecture of dignity protection.
+This architecture allows collective dynamics and individual responsibility to coexist. A social environment may amplify harm without erasing personal accountability. It also allows the possibility of repair, correction, and review without automatically importing a modern “right to be forgotten” as a direct Qur’anic rule.
+DIGNITY PROTECTION ARCHITECTURE = OPERATIONAL MODEL CANDIDATE STRONG.
+Part Five — Woman and Affective Dignity
+20. Original Human Honor and Moral Evaluation
+The book distinguishes original human honor from moral evaluation and from procedural difference. To say that human beings share a basic dignity does not mean that every role, responsibility, entitlement, or procedure must be identical. Conversely, procedural difference does not establish a hierarchy of human worth.
+Women and men appear as moral agents under conditions of work, faith, and reward. Daraja in Qur’an 2:228 is textually present, but its conversion into a universal male superiority over all women is resisted by scope. Likewise, the presence of faḍl in the structure of qiwāma does not establish a universal sex-based hierarchy of human value.
+BASE HUMAN HONOR + MORAL EVALUATION CAN COEXIST = CANDIDATE STRONG.
+21. Protection Without Erasure of Agency
+Protection and agency are not opposites. A person may require care, financial guardianship, physical safety, or procedural support in a particular condition without becoming ontologically incapable. The book rejects the equation “woman = vulnerable class” and insists that any limitation on capacity must be resource-specific.
+This leads to the model of supported agency: where vulnerability is real, support should preserve a channel for speech, objection, review, and restoration of control. Care is distributed responsibility, not ownership. Protection becomes illegitimate when it transforms into permanent confiscation of the person’s voice.
+WOMAN = VULNERABLE CLASS AS ONTOLOGICAL IDENTITY → REJECTED. SUPPORTED AGENCY = MODEL CANDIDATE STRONG.
+22. Difficult Feelings Do Not Authorize Harm
+The Qur’an does not imagine relationships without aversion, fear, withdrawal, nushūz, or inclination. It recognizes difficult inward states. Yet recognition is not authorization. Qur’an 4:19 keeps maʿrūf operative even in the presence of aversion; 4:128 opens negotiation and reconciliation when a woman fears nushūz or iʿrāḍ from her husband; 4:129 restricts total inclination that leaves another suspended.
+The book rejects the claim that nushūz is a female-only condition. Its final root-wide definition remains open and requires a dedicated corpus. Nushūz and iʿrāḍ are also not lexically identical.
+A crucial ethical line is therefore established: negative affect ≠ license to withhold maʿrūf. One may not control every inner preference, but one remains responsible for the conduct that preference generates.
+NUSHŪZ = FEMALE-ONLY CONDITION → REJECTED. ROOT-WIDE FINAL DEFINITION → OPEN.
+23. Suspension, Reconciliation, and Separation
+Reconciliation (ṣulḥ) is treated as negotiated repair in context, not as one-sided sacrifice by the more vulnerable party. A formally existing union can become ethically defective when one person is left suspended—neither fully held nor honorably released.
+The textual order of repair, restraint, or separation in a given passage must not be converted automatically into a universal stage theory for all relationships. What is strongly supported is that exit conduct itself is morally evaluable. Separation can preserve dignity when continuation has become harm or suspension.
+DIGNIFIED EXIT ARCHITECTURE = OPERATIONAL MODEL CANDIDATE STRONG. UNIVERSAL PHASE ORDER = NOT ESTABLISHED.
+24. The Affective Dignity Model
+By the end of Part Five, the book synthesizes a model of affective dignity. It is not a new Qur’anic noun, and it is not presented as a final sealed law. It is a strong analytical candidate built from recurring relations across the tested corpus.
+• Human worth is not erased by conflict, weakness, accusation, or relational breakdown.
+• Voice must remain audible even when a claim still requires verification.
+• Will may be constrained only within a justified and resource-specific structure; protection is not ownership.
+• Capacity is tested where relevant rather than assumed absent by category.
+• Care responds to real vulnerability without making vulnerability a permanent identity.
+• Internal feeling is recognized, but harmful conduct remains governable.
+• Accusation requires proof appropriate to its domain.
+• Privacy is protected against open-ended intrusion while consequential claims may still require bounded verification.
+• Repair remains possible, but continuation is not an absolute value.
+• Exit can be ethical when it is conducted with maʿrūf, iḥsān, and restraint from harm.
+AFFECTIVE DIGNITY MODEL = CANDIDATE STRONG. PART FIVE ARCHITECTURE = CLOSED.
+Part Six — From Text to Civilizational Models
+25. The Barrier Between Revelation and Human Design
+The final part changes the question. It no longer asks only what the text establishes; it asks how an institution may responsibly learn from what has been established. This transition is dangerous because a human policy can easily be presented as though it were revelation.
+The book therefore installs a strict transformation barrier: SOURCE PRESERVED; TRANSFORMATION DECLARED; MODEL TESTABLE. Between text and policy must stand an explicit chain of reasoning. A school procedure, family protocol, complaints system, privacy rule, review board, or exit process may be inspired by Qur’anic values, but its technical details remain human design.
+TEXT → POLICY WITHOUT INTERMEDIATE JUSTIFICATION = REJECTED.
+26. A Civilizational Model of Dignity
+At the institutional level, the tested findings suggest several design principles: prevent humiliation, hear the affected person, verify claims in a claim-focused manner, protect privacy against irrelevant intrusion, separate decision power from review power where conflicts of interest arise, preserve correction channels, and allow dignified exit where continuation becomes abusive or structurally harmful.
+No single universal institutional blueprint is claimed. The same textual principles may generate different procedures in a family, school, workplace, community, or digital platform. The validity of the model depends on declared transformation, measurable outcomes, and willingness to revise the design when reality exposes harm.
+ONE UNIVERSAL INSTITUTIONAL BLUEPRINT = NOT ESTABLISHED.
+27. The Family and the Dignified Institution as Laboratories
+A dignified family is not defined by the absence of disagreement. It is defined by the way disagreement is governed without erasing right, voice, or responsibility. Hearing a complaint does not prove it; verification does not require humiliation; immediate protection can sometimes be justified while an independent inquiry proceeds.
+The same logic extends to institutions. When the person accused, the reviewer, and the decision-maker are structurally entangled, review loses credibility. Separating review from power becomes a strong operating candidate. Yet this is institutional design derived from tested principles, not a new verse.
+PROTECTION WHILE VERIFYING = OPERATIONAL MODEL CANDIDATE. POWER CONFLICT REQUIRES REVIEW SEPARATION = MODEL CANDIDATE STRONG.
+28. Reality as Test, Not Lexical Authority
+Reality can expose failure, reveal unintended consequences, and help compare alternative designs. It does not rewrite the Qur’anic lexicon. A model may fail in practice even when its underlying textual principle remains intact; conversely, a successful policy does not become Qur’anic merely because it works.
+This preserves both humility and usefulness. Mathani opens the model; QCROS ranks the claim; reality tests the operational design. Civilizational models therefore remain open to revision.
+PART SIX ARCHITECTURE = CLOSED. CIVILIZATIONAL MODELS = OPEN TO TESTING.
+Conclusion — What This Book Establishes, and What It Leaves Open
+The central result is not a final definition of “human consciousness.” The study produces a relational map. It preserves distinctions between inner feeling and outward conduct; act and accusation; accusation and proof; protection and confiscation; original human worth and contextual function; Qur’anic text and human operating model.
+Love, Affection, Tranquility, and Mercy
+Love does not equal mawadda; mawadda is not confined to marriage; sakīna cannot be reduced to psychological comfort; and raḥma is wider than conjugal tenderness. Qur’an 30:21 establishes their textual co-presence in the marital sign, but not a universal causal sequence between them.
+The Relationship Requires an Agent
+Women appear as speaking, choosing, proposing, consulting, disputing, believing, caring, and ruling agents. Protection and agency can coexist. From this arises the model of supported agency rather than comprehensive guardianship.
+Will and Capacity Are Layered
+Mutual consent, willing relinquishment, sound judgment, consultation, absence of coercion, and an audible complaint are distinct resources. Modern concepts may draw on them, but they should not replace the Qur’anic vocabulary.
+Balance Moves from Value to Conduct
+Inner preference is not reducible to measurable symmetry. Moral evaluation becomes more definite when preference becomes deprivation, harm, suspension, discriminatory treatment, or denial of a comparable right. This is why the book resists both sentimentalism and mechanical equality.
+Protection Requires Epistemic Discipline
+The architecture of dignity depends on the separation of act, accusation, and proof. Rumor is not knowledge. Verification is not spying. Hearing a complaint is not declaring it true. Procedural difference is not human-worth difference.
+The Affective Dignity Model
+Affective dignity combines preserved value, an audible voice, non-confiscated will, capacity tested where relevant, care proportionate to need, prevention of harm, review, and the possibility of dignified exit. This model remains CANDIDATE STRONG. It has not been sealed as a final Qur’anic law.
+Difficult Feelings Are Real; Harm Is Still Governed
+The Qur’an recognizes aversion, fear, withdrawal, nushūz, and inclination without building an idealized relationship free from disturbance. Yet difficult feeling does not automatically authorize harm. Repair may be good; in some cases separation may preserve dignity better than suspended continuation.
+From Text to Civilization
+Human institutions can learn from Qur’anic principles only if the transformation is declared. The family, school, workplace, community, or digital platform may design complaint channels, privacy safeguards, review mechanisms, and dignified exit procedures. These are testable human models, not sacred procedures.
+Final Answer to the Book’s Central Question
+How does the Qur’an shape the humanity of the parties inside a relationship? This study’s answer is not a slogan. The human being in relationship is neither a body governed only by rules, nor a feeling liberated from every boundary, nor a social function that consumes personal worth. The human being is an agent with inclination, voice, choice, and responsibility, entering bonds that have rights and limits. A person may require protection without being erased, may make mistakes without losing humanity, and may perform a different function without that difference becoming a universal measure of worth.
+A dignified relationship is therefore not one that never knows conflict. It is one that does not turn love into ownership, protection into confiscation, accusation into proof, feeling into permission for harm, continuation into a justification for suspension, or a human model into sacred text.
+Open Fields
+• The final root-wide definition of nushūz.
+• The precise limits and function of iʿrāḍ in the wider corpus.
+• The exact scope of daraja in Qur’an 2:228.
+• The limits of preference and qiwāma in Qur’an 4:34.
+• The final semantic nucleus of iḥṣān/muḥṣanāt across all contexts.
+• Some relations among mawadda, sakīna, and raḥma beyond Qur’an 30:21.
+• The real-world performance of the civilizational models proposed in Part Six.
+Near-closure ≠ Closure. Architectural completion does not upgrade unresolved claims.
+Condensed Epistemic Status Register
+ClaimStatusMeaning in this edition“Wijdan” is a comprehensive Qur’anic technical termNOT ESTABLISHEDUsed only as an analytical container.Love = mawaddaREJECTED / NOT ESTABLISHEDThe fields are kept distinct.Mawadda has a significant relational functionSTRONGLY SUPPORTED within scopeNot restricted to marriage and not always ethically positive.Sakīna = psychological comfortNOT ESTABLISHEDThe root requires broader contextual analysis.Mawadda → mercy → tranquility as a causal chainNOT ESTABLISHEDCo-occurrence does not prove causality.Haya = silenceREJECTEDModesty and female speech coexist in the Midian resource.Female agency in Qur’anic relational scenesCANDIDATE STRONGSpeech, proposal, complaint, consultation, pledge, rule, care.Female agency in iftidāʾCLOSED TEXTUALLYDoes not itself prove an unlimited unilateral procedural power.Mīzān = market tool onlyRESISTEDBroader structural uses are evidenced.Affective short-measure as Qur’anic lexical meaningNOT ESTABLISHEDMay be used only as an analytical model.Mechanical equality as the total Qur’anic modelRESISTEDFunctional proportionality is a stronger analytical candidate.Zinā = fāḥisha = baghy = sūʾREJECTEDTerms remain lexically distinct.Act = accusation = proofREJECTEDThe study establishes separation between them.Verification = spyingREJECTEDClaim-focused verification is distinguished from intrusion.Woman = vulnerable classREJECTEDVulnerability must be resource-specific.Nushūz = female-only conditionREJECTEDRoot-wide final definition remains OPEN.Affective dignity modelCANDIDATE STRONGNot a final sealed Qur’anic law.Civilizational modelsOPEN TO TESTINGOperational, revisable human designs.Source and Edition Note
+This condensed English edition is based on the compiled Arabic master edition of Fiqh al-Wijdan fi al-Lisan al-Qur’ani: Handasat al-Mawadda wa al-Sakan wa al-Karama fi al-‘Alaqa al-Insaniyya (2026). It preserves the book’s six-part architecture, its principal conceptual results, and the epistemic rank of its major claims while omitting the exhaustive verse-by-verse lexical registers, extended tables, full counter-test logs, and technical appendices. For detailed linguistic argumentation and complete evidence trails, the Arabic master edition remains the primary research source.
+Fiqh al-Wijdan — Condensed English Edition   •   1
+
