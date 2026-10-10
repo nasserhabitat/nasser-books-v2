@@ -1,8 +1,8 @@
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),vm=require('node:vm');
 const root=path.resolve(__dirname,'..'),read=p=>fs.readFileSync(path.join(root,p),'utf8');
 const cat=JSON.parse(read('ai-index.json')).books,search=JSON.parse(read('search-index.json')).books;
-assert.equal(cat.length,117);assert.equal(new Set(cat.map(b=>b.id)).size,117);
-assert.equal(new Set(cat.map(b=>b.book_number)).size,117);
+assert(cat.length>=117);assert.equal(new Set(cat.map(b=>b.id)).size,cat.length);
+assert.equal(new Set(cat.map(b=>b.book_number)).size,cat.length);
 for(const number of [116,117])for(const lang of ['ar','en']){
  const b=cat.find(b=>b.book_number===number),s=search.find(s=>s.id===b.id);
  const folder=number===116?'116-SHIRK_Engineering_of_Illusion':'117-THE_BOOK_AS_WITNESS';

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-09",
+  "updated_at": "2026-10-10",
   "summary": {
     "review": 12,
-    "ready": 194,
+    "ready": 196,
     "unavailable": 4,
     "private": 24,
     "pending": 0
@@ -1839,6 +1839,22 @@
       "title": "The Book as Witness",
       "status": "ready",
       "drive_id": "1wQ1uZgoSJCEu56610DbxeBicJQHpjbtC"
+    },
+    {
+      "number": 118,
+      "book_id": "Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19",
+      "language": "ar",
+      "title": "هندسة التدبر: فقه اللسان والختم السيبراني للوحي",
+      "status": "ready",
+      "drive_id": "1CKB_JYyuMTO81Zo3H90qF017zC8xZFfl"
+    },
+    {
+      "number": 118,
+      "book_id": "Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19",
+      "language": "en",
+      "title": "Engineering Reflection: Qur’anic Linguistic Inquiry and the Numerical Measure 19",
+      "status": "ready",
+      "drive_id": "1eoxFy4bQBsOCOTanGk-wzRQ9OKg9jUN8"
     }
   ]
 }

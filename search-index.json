@@ -8207,6 +8207,60 @@
           "cover": "books/THE_BOOK_AS_WITNESS/en/THE_BOOK_AS_WITNESS-cover-en.png"
         }
       }
+    },
+    {
+      "id": "Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19",
+      "book_number": 118,
+      "titles": {
+        "ar": "هندسة التدبر: فقه اللسان والختم السيبراني للوحي",
+        "en": "Engineering Reflection: Qur’anic Linguistic Inquiry and the Numerical Measure 19"
+      },
+      "description": {
+        "ar": "منظومة التشغيل بين الكود اللغوي والميزان العددي 19؛ دراسة تجمع فقه اللسان القرآني والقراءة البنيوية والحساب وفق قاعدة معلنة، مع التمييز بين النص والبيان والنتيجة الحسابية واستنباط المؤلف. النسخة الإنجليزية تكييف معنوي مختصر.",
+        "en": "A meaning-centered condensed adaptation connecting Qur’anic linguistic inquiry, structural reading, and the numerical measure 19. It distinguishes Qur’anic text, linguistic explanation, arithmetic results, and the author’s interpretive models; the Arabic manuscript remains the primary source."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "التدبر",
+          "فقه اللسان القرآني",
+          "المثاني",
+          "الرسم القرآني",
+          "الميزان العددي",
+          "19",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Reflection",
+          "Qur’anic linguistic inquiry",
+          "Numerical measure 19",
+          "Rasm",
+          "Mathani",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف معنوي مختصر؛ يبقى النص العربي المرجع الأساسي للتحليل التفصيلي.",
+          "en": "This English edition is a meaning-centered condensed adaptation. The complete Arabic manuscript remains the primary source for detailed analysis."
+        }
+      },
+      "links": {
+        "ar": {
+          "text": "books/Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19/ar/118-Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19-ar.txt",
+          "cover": "books/Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19/ar/Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19-cover-ar.png"
+        },
+        "en": {
+          "text": "books/Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19/en/118-Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19-en.txt",
+          "cover": "books/Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19/en/Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19-cover-en.png"
+        }
+      }
     }
   ]
 }
