@@ -1,0 +1,235 @@
+﻿
+
+
+Understanding Knowledge
+and the Qurʾanic Language
+Part Two
+Knowledge Networks Stewardship
+Civilization and Ethics
+Nasser Ibn Dawood
+Condensed conceptual English edition
+2026
+
+
+Contents
+I The Global Knowledge Manifesto
+II Translator’s Note
+Introduction
+Part One
+Chapter 1 How Knowledge Takes Shape
+Chapter 2 From the Pen to the Algorithm
+Chapter 3 Epistemic Provision and Better Research
+Part Two
+Chapter 4 Knowledge Forms the Responsible Human Being
+Chapter 5 Wisdom and the Balance of Capability
+Chapter 6 Regularities Resources and Sound Civilization
+Part Three
+Chapter 7 The Architecture of Shared Knowledge
+Chapter 8 Artificial Intelligence Within the Network
+Chapter 9 Turning Knowledge Into Practical Service
+Part Four
+Chapter 10 Ethics Throughout Inquiry
+Chapter 11 Governing Knowledge and Correcting Its Course
+Chapter 12 A Practical Programme for Stewardship
+Conclusion
+Questions for Further Research
+A Proposed Charter for Knowledge Networks
+Key Terms
+Research Material and Source Guide
+
+
+I The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy: All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library: As of early 2026, the collection hosts 236 volumes (118 in Arabic and 118 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platforms: Main Website: nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+This manifesto is reproduced here as supplied by the author for this condensed edition.
+
+
+II Translator’s Note
+The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an “extraction of essence.” It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.
+For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (Tafsir), and the complete bibliography.
+This adaptation also preserves the methodological status of the Arabic edition. A claim marked OPEN remains open; a CANDIDATE remains a candidate; a RESISTED or STRONGLY RESISTED claim is not revived through simplification; and a CLOSED result remains closed only within its declared scope. The aim is clarity without scientific inflation.
+Key Qur’anic terms are sometimes retained in transliteration—such as nafs, tawaffī, barzakh, and baʿth—when a single English equivalent would prematurely narrow the field under study.
+In this volume, the main retained terms are ʿilm, rizq, istikhlāf, amānah, mīzān, and ʿumrān. The terms named above express the wider translation policy; they are not all subjects of Part Two. No formal status is assigned to a proposition merely by translating it. Interpretive proposals remain proposals, and illustrative applications remain hypothetical.
+
+
+Introduction
+How Knowledge Becomes a Shared Capacity
+In the name of God, the Most Merciful, the Compassionate.
+Part One explored knowledge, intellectual awareness, and the relationship between reading the written revelation and studying the world. Part Two asks how understanding becomes a shared capacity to serve people and cultivate the earth. Books, databases, and qualifications may accumulate while a society still struggles to recognize its needs or improve its services. The difficulty can lie in the connections between questions and evidence, specialists and communities, or capability and purpose.
+We call the structure that maintains these connections a knowledge network. It links sources, researchers, teachers, institutions, tools, and applications. It also returns the consequences of application to researchers so that they can revise what they know. Its strength depends on accurate attribution, freedom to question, fair participation, and the possibility of correction.
+The argument follows four relationships. Knowledge develops understanding and capability. Stewardship places capability within responsibility. Civilization gives it enduring institutional form. Ethics guides its purpose, methods, and effects. These relationships form a framework offered for examination through Qurʾanic study, observation, and the reader’s criticism.
+Badr al-Tārīkh’s video, “Did the Qurʾan Precede Artificial Intelligence? The Journey of Knowledge from the Pen to the Algorithm,” enters this discussion as research material. We consider its functional readings of verses and develop the author’s further proposal of epistemic provision, or rizq. The reader is invited to assess the connections and continue the inquiry. Technical descriptions of AI require their own specialist evidence. [V1; T1]
+
+
+Part One
+The Formation of Knowledge and Its Tools
+Chapter 1 How Knowledge Takes Shape
+Knowledge begins when something calls for understanding: a recurring symptom, a failure in a building, a disputed word, or an observation that challenges an earlier explanation. Attention becomes research when it produces a sufficiently clear question. “Education is weak” names a concern; asking why a particular group struggles to read identifies a field of inquiry and possible comparisons.
+Information acquires meaning through its conditions and relationships. A temperature measurement needs a time, place, instrument, and comparison. A quotation needs an identifiable source and context. More material does not necessarily mean stronger evidence. Qurʾan 17:36 gives this inquiry an ethical orientation: one must not pursue what one lacks knowledge of. Here we apply that orientation to the duty to state sources and the limits of conclusions. [Q1]
+A researcher offers a possible explanation and asks what would support or weaken it. Methods differ across fields: experiments compare conditions, historians examine documents, and linguistic researchers study usage, context, and counterevidence. Internal consistency alone does not establish a proposal. The route from evidence to conclusion must be visible.
+Knowledge also has a social history. Researchers inherit languages, instruments, records, and the work of others. Recording mistakes, unsuccessful investigations, and revisions preserves the memory on which later inquiry depends. Useful research may deepen understanding or prevent error long before it produces an immediate product.
+
+Figure 1 From attention to revisable knowledge
+
+
+Chapter 2 From the Pen to the Algorithm
+Qurʾan 96:4–5 brings teaching and the pen into a shared passage. Writing preserves knowledge beyond the moment of speech and makes it available for comparison, transmission, and review. Books, records, diagrams, databases, and computer code can be compared in terms of these functions. Such a comparison does not, by itself, establish that a modern device is the lexical meaning intended by a Qurʾanic word. That further claim needs linguistic and contextual evidence. [Q2]
+The video offers a productive cycle: knowledge becomes a tool, and the tool expands what can be known. A microscope, a measuring device, or a searchable archive makes previously inaccessible questions approachable. Yet instruments require calibration, data require sound categories, and observations require interpretation. Improving tools includes improving our ability to detect the errors they can introduce. [V1]
+An algorithm specifies a procedure. Machine learning adjusts aspects of a model through training. Language models learn patterns used to estimate probabilities over text units and generate sequences. This helps explain fluent writing, but fluency does not certify truth or establish a source. Research use therefore begins with a defined task and an appropriate means of checking its output. [T1]
+The video’s question about Qurʾanic precedence concerns a vision of knowledge, capability, and human limits. Ethical orientation, historical priority, and a detailed technical prediction are distinct claims. Readers can investigate the proposed functional relationships without treating every analogy as proof of technical identity.
+
+Figure 2 Knowledge and tools in a continuing cycle
+
+
+Chapter 3 Epistemic Provision and Better Research
+We use epistemic provision, or rizq, for the beneficial understanding, tools, teachers, collaborators, and opportunities that become available to a person. A book may open a question; a teacher may resolve confusion; a new skill may make an investigation possible. Knowledge received in this way carries a responsibility to pursue, use, and share it well.
+Qurʾan 51:22 connects provision with heaven. The author places beside this verse an interpretive question: how might the pursuit of knowledge relate to awareness of the source of giving and to advancement in the instruments of understanding? The verse does not explicitly name epistemic provision or define a research procedure. The proposed connection remains an inquiry to be examined through usage, context, and related passages. [Q3]
+In this functional reading, “ascent” suggests a widening horizon: better questions, more accurate tools, and greater integrity of judgment. It does not replace every Qurʾanic meaning of heaven. The shared image of elevation cannot establish the connection on its own.
+Learning a language, improving statistical understanding, or mastering textual verification can open sources previously inaccessible. Such effort creates conditions for further knowledge, but it guarantees neither discovery nor the truth of a preferred view. Learning that a hypothesis is mistaken can itself be a benefit. Textual study and empirical investigation should test their respective parts of this proposal without confusing their kinds of evidence.
+
+Figure 3 A proposed relationship between research and epistemic provision
+
+
+Part Two
+Knowledge and the Responsibility of Stewardship
+Chapter 4 Knowledge Forms the Responsible Human Being
+The passage about teaching Adam the names appears within the Qurʾanic account of a khalīfah on earth. We examine the connection between the ability to understand and identify things, the capacity to communicate, and responsibility in action. This is a point of departure for studying human capability; it is not a ready-made catalogue of modern disciplines. [Q4]
+The author’s work on istikhlāf distinguishes the horizon of entrusted capability from stewardship actually fulfilled. A society cannot meet a practical responsibility merely by announcing a worthy intention. It must recognize the need, learn what the work requires, and accept examination of the result. [A2]
+Specialization makes shared responsibility possible. An engineer studies structures, another specialist examines social consequences, and those affected identify needs that experts may overlook. Expertise is strongest when its boundaries are stated and appropriate help is sought. Institutions must sustain independence and make review possible, so that cooperation becomes a real practice.
+Beneficial knowledge addresses needs such as food, water, health, education, housing, and dignity. Its value also includes preserving languages, supporting basic inquiry, and developing the ability to make sound decisions over time. In the author’s Religion of Truth, the obligation of knowledge connects learning to resources and civilization. This volume asks what expertise and institutional support each need requires, and what benefits have actually been achieved. [A3]
+
+
+Chapter 5 Wisdom and the Balance of Capability
+Knowing what can be done does not settle what should be done. Different choices distribute benefits, costs, risks, and rights differently. A technically accurate system may be used in ways that exclude people or expose their private lives. A responsible decision therefore considers purposes, conditions, alternatives, and the experience of those affected.
+We use wisdom for placing understanding appropriately in action. Intelligent tools may support comparison, but identifiable people and institutions remain responsible for adopting a decision and explaining it. An answer becomes useful when those affected can understand its basis and seek its review.
+The author’s functional treatment of mīzān, the balance, brings judgment into relation with evidence and proportion. Does the strength of a conclusion match the strength of its support? Who receives the benefit and who bears the burden? Can the application be corrected if it defeats its stated purpose? These are questions developed from the author’s framework; they are not detailed regulations established by an analogy alone. [A2]
+Qurʾan 20:114 associates learning with a request for increase. We draw from it an educational orientation toward continued inquiry. Intellectual humility means that confidence remains proportionate to evidence. A result may be reliable within declared conditions while remaining open to revision elsewhere. The desire for more knowledge helps keep personal identity from becoming an obstacle to correction. [Q5]
+
+
+Chapter 6 Regularities Resources and Sound Civilization
+Understanding patterns in nature and society allows action to take account of its conditions. A proposed regularity needs evidence appropriate to its field. Repeated events do not become a universal law simply because they are given a name. Social outcomes usually involve several interacting conditions; a single cause should not be made to explain every civilization’s rise or decline.
+Resources become useful through the knowledge and institutions that sustain their use. Water requires quality control, distribution, and maintenance. Energy requires systems of production and delivery. Understanding itself requires education, records, and ways of communicating results. A knowledge network makes these relationships visible and helps capabilities endure.
+Increasing capability raises questions about people whose lives depend on a resource and about the conditions future users will inherit. Detailed technical limits must be established through specialist study. Ethical responsibility asks that benefits, burdens, and consequences enter the decision rather than being left outside it.
+Sound civilization, or ʿumrān, joins orientation, understanding, effectiveness, and institutions. We examine it through changes in people’s lives: improved services, access to learning, fair opportunities to question decisions, and the ability to continue after an initiative ends. Institutions learn when they record outcomes, distinguish causes of failure, preserve what worked, and assign correction to someone responsible. [A2; A3]
+
+Figure 4 From understanding to responsible institutions
+
+
+Part Three
+Building a Knowledge Network
+Chapter 7 The Architecture of Shared Knowledge
+A knowledge network connects reliable sources, competent people, appropriate tools, institutions, and fields of application. Its essential questions concern the connections: how does a need reach a researcher, how does a finding become usable, and how does an objection return to someone able to correct the result?
+These relationships require agreed responsibilities and a shared language. Specialists may use the same word differently. Before combining their work, they should explain what they mean, what they measure, and what their conclusions can support. The aim is enough mutual understanding for sound cooperation, while preserving the precision of each discipline.
+Access broadens participation and reduces unnecessary duplication, but sharing must respect privacy and the rights attached to material. A public finding may be shared without exposing individual records. Attribution helps readers retrace an idea and gives contributors due recognition. In this book, Badr al-Tārīkh’s argument, the author’s additional proposal, and the author’s earlier work are identified separately.
+Funding can come from different institutions. Where support may influence a question or publication, the relationship should be declared and independence protected. Fair recognition includes the work of assistants and technicians whose contributions make research possible. A network also needs a way to resolve disagreement and protect reasoned criticism. Its capacity to learn depends on those practical arrangements.
+
+Figure 5 People sources and institutions in a knowledge network
+
+
+Chapter 8 Artificial Intelligence Within the Network
+AI can help propose search terms, organize documents, extract preliminary information, summarize defined material, or support analysis. The task determines the checks. In Qurʾanic research, a tool may suggest related passages or possible conceptual connections; the researcher must still compare them with the authoritative text and examine context and counterexamples.
+Language models can produce convincing statements and references that have not been established. We therefore distinguish a plausible draft from a verified quotation or attribution. When a source cannot be found, uncertainty should remain visible rather than being filled by invention. Faster production benefits inquiry when the resulting material can still be examined. [T1]
+The author’s work on the pen and digital domination raises the possibility of dependence on what a tool supplies. We develop this concern as epistemic agency: the user’s ability to define the purpose, understand evidence, recognize limits, and change course. Training should preserve basic skills and establish a route for objection and correction. [A4]
+The video also raises questions of understanding, consciousness, and wisdom. These require their own definitions and investigations; successful performance in a task does not by itself settle them. The immediate institutional questions are more concrete: who approved the output, who checked it, who can correct it, and who answers for its consequences? [V1]
+
+
+Chapter 9 Turning Knowledge Into Practical Service
+The following applications are hypothetical models for investigation. They do not report completed projects or measured successes.
+In education, a team might investigate recurring difficulties in reading. It would define the question, gather appropriate information, listen to teachers, learners, and families, and compare explanations. Digital tools might organize observations or suggest preliminary exercises. The teacher remains responsible for their suitability. Evaluation would examine actual learning, differences between groups, access to material, and privacy.
+In water services, a network might connect knowledge of demand, quality, cost, reliability, and faults. Engineering, administration, measurement, and community experience would all contribute. Digital analysis could help identify patterns, but its value would depend on measurements and on someone able to respond. Justice would enter through the distribution of service, cost, and long-term burdens.
+In textual research, a project might gather lawfully available texts, images, and lexical material, recording sources and layers of transmission. Search tools could suggest relationships; each interpretation would retain its evidence and reasoning. A reader should be able to retrace the inquiry. The same principle applies to public information: comparison of sources, versions, and context supports verification. Honest correction connects a revised finding to the earlier claim and explains what changed.
+
+
+Part Four
+Ethics Governance and Continuing Work
+Chapter 10 Ethics Throughout Inquiry
+Truthfulness begins in defining the question, selecting evidence, and reporting what was found. Researchers should not attribute words or meanings that a source does not support. Quotation, summary, interpretation, and conjecture serve different purposes and should be distinguishable. Correcting an error sustains trust when its discovery becomes part of a reliable procedure.
+Qurʾan 4:58 gives the return of trusts to their rightful holders a central place. In this framework, amānah includes responsibility toward sources, contributors, entrusted material, and the people affected by a finding. Justice examines participation and the distribution of benefit and risk. A system’s average performance may hide disadvantages experienced by a particular group. [Q6]
+The author’s Architecture of Dignity connects honor, responsibility, stewardship, and justice. We apply this concern to keeping people from being reduced to a score, record, or assessment. Those affected need understandable information, privacy, and a route to correct errors or challenge decisions. Accessible, comprehensible service is part of this responsibility. [A7]
+Disagreement can strengthen inquiry when it examines sources, context, reasoning, and contrary evidence. It neither proves nor disproves a view by association with its author. Freedom to question needs protection from humiliation or retaliation, alongside responsibility for evidence and fair attribution. A learning network must be capable of hearing criticism from both within and outside its institutions.
+
+
+Chapter 11 Governing Knowledge and Correcting Its Course
+The author’s Governance of Knowledge distinguishes text, explanation, patterns of usage, inference, models, and hypotheses. A concise adaptation must preserve those distinctions. What is reported from a source differs from what is derived through a stated argument; a proposed model differs from a tested result. Clear verbs and declared scope can communicate the status of a conclusion without burdening every sentence with a formal label. [A6]
+An influential result needs a record of its sources, procedures, instruments, and changes. Relevant information about a digital tool should be retained where it affects reproducibility. Earlier findings should remain traceable when they are revised. Protected information need not be publicly exposed in order to describe a procedure responsibly.
+Research should actively seek evidence that might weaken its proposal and explanations that might account for the result differently. For epistemic provision, that includes studying usages that narrow or resist the suggested connection. For AI, evaluation should include failures and conditions where the tool becomes less reliable. Criticism may refine a proposal, restrict its scope, or justify setting it aside.
+Those who assess knowledge also require assessment. Transparent criteria, suitable expertise, declared interests, and an appeal route keep review open to scrutiny. The depth of checking should match the consequence of a decision. Such proportionality allows inquiry to proceed while making influential judgments accountable.
+
+Figure 6 A traceable path from source to correction
+
+
+Chapter 12 A Practical Programme for Stewardship
+Begin with a need that can be described and examined: a difficulty in learning, an unreliable service, an undocumented collection, or a barrier to access. State who is affected, what is known and unknown, and what would count as improvement. Map the expertise, resources, and people needed. This may reveal that training or a better procedure would help more than acquiring a new system.
+Build capability that survives the first team. Education, documentation, supervised participation, and transfer of skills allow an institution to understand, operate, maintain, and correct its work. Training includes reading sources, defining terms, using tools, examining results, giving credit, and communicating findings clearly.
+Test a proposal within a suitable, limited scope. Declare the expected benefit, possible harm, and conditions for stopping or changing course. Compare outcomes with an appropriate earlier situation or alternative where possible. Record both measured results and users’ experiences. If a favorable indicator accompanies a worse human experience, investigate that divergence before expanding the project.
+An initiative becomes durable when it has a responsible institution, adequate resources, maintenance, procedures for updating knowledge, and a route for objection. It also needs people able to continue when its founders leave. Epistemic agency allows cooperation with others while retaining the capacity to understand, choose, adapt, and contribute. Stewardship becomes visible through useful work that can be examined and improved.
+
+
+Conclusion
+Knowledge Entrusted and Shared
+The journey begins with a question. Learning, testing, and revision develop understanding; writing and instruments preserve and extend it. Its civilizational effect depends on the relationships that carry it between researchers, institutions, communities, disciplines, and applications.
+We propose epistemic provision as a way of understanding the opportunities and responsibilities of learning. Its connection to Qurʾanic passages about provision and heaven remains available for further textual examination. Stewardship places capability within responsibility, civilization sustains it through institutions, and ethics keeps purpose and consequences open to judgment.
+This volume invites a shared workshop of inquiry. Readers can examine evidence, offer alternatives, and test applications. New understanding then returns to the network, improving its questions and tools. The hoped-for outcome is a society more capable of learning and of showing the benefit and justice of its knowledge in practice.
+
+
+Questions for Further Research
+1. What textual evidence connects knowledge, teaching, wisdom, insight, and provision? Which usages resist or narrow the proposed connections?
+2. Which elements of the heaven–provision relationship can be established through textual study, and which remain a proposed functional reading?
+3. How can we distinguish more information from better knowledge, tool performance from sound judgment, and individual achievement from lasting institutional capability?
+4. How should AI’s contribution to research and learning be assessed alongside error, dependence, retained skills, privacy, and fair access?
+5. What arrangements allow specialists to cooperate without claiming authority over fields beyond their competence?
+6. How can researchers be protected from retaliation while remaining answerable for evidence and attribution? Who reviews the reviewers?
+
+
+A Proposed Charter for Knowledge Networks
+1. Purpose. Develop reliable, beneficial understanding and human and institutional capability, with review of the effects.
+2. Sources. Preserve originals and references. Distinguish quotation, summary, interpretation, hypothesis, and generated output.
+3. Inquiry. Protect questions and reasoned criticism from retaliation.
+4. Participation. Credit contributions, disclose relevant funding and interests, and provide a way to resolve disagreement.
+5. Privacy. Collect material for a defined purpose and establish access, retention, and correction procedures.
+6. Intelligent tools. Define their tasks and limits, verify influential outputs, and retain identifiable human responsibility.
+7. Justice and dignity. Examine benefits and risks, provide assistance and objection routes, and avoid humiliating or unexplained judgments.
+8. Correction. Record errors and revisions, inform those affected, and retain enough evidence for renewed examination.
+9. Continuity. Document operation and maintenance, train successors, and review resources.
+10. Review. Revise the charter through experience and criticism, stating the reasons and consequences of changes.
+
+
+Key Terms
+Knowledge network. Relationships connecting sources, methods, people, institutions, application, and review so that learning becomes a shared capacity.
+ʿIlm. Knowledge or learning; its precise sense depends on the passage or field under discussion.
+Epistemic provision or rizq. The author’s proposed description of beneficial understanding, tools, opportunities, and scholarly relationships that become available, together with responsibility for their pursuit and use.
+Istikhlāf. Entrusted human capability and responsibility; rendered here as stewardship, with fulfillment examined through actual practice.
+Amānah. Trust and responsibility toward what is entrusted and those concerned by it.
+Mīzān. Balance; used in the author’s functional framework to examine proportion, evidence, purpose, and judgment.
+ʿUmrān. The cultivation of human life through work and institutions; “sound civilization” describes the proposed combination of benefit, effectiveness, justice, dignity, continuity, and correction.
+Epistemic agency. The ability to understand purposes, tools, and evidence, and to choose, revise, cooperate, and contribute.
+Knowledge governance. Procedures preserving sources, the status and scope of claims, reasoning, testing, objection, and revision.
+
+
+Research Material and Source Guide
+The Arabic Part Two is the primary source for this adaptation and its full references. The following guide retains the principal routes back to the materials. English titles for the author’s Arabic works are descriptive renderings.
+Arabic Part Two
+https://docs.google.com/document/d/10D_nlD0TNRrXzzzAVu9hZWTbYF1TSw37/edit
+A2. Nasser Ibn Dawood. Encyclopaedia of Qurʾanic Stewardship. Conceptual framework and the discussion of sound civilization.
+https://drive.google.com/file/d/1MjAqLqqiKILZ9vUA73_v1o5grfM6KGIS/view
+A3. Nasser Ibn Dawood. Religion of Truth The Architecture of Regularities and Civilization. Part Three, the obligation of knowledge.
+https://nasserhabitat.github.io/nasser-books-v2/books/religion-of-truth/ar/
+A4. Nasser Ibn Dawood. Sūrat al-ʿAlaq and the Pen. Chapter Seven, AI and digital domination.
+https://drive.google.com/file/d/1-SNkmAm4qcmTYe5_LdyT05aLNmWCmP72/view
+A6. Nasser Ibn Dawood. Presence and the Governance of Knowledge. Levels of claim, inference, testing, and review.
+https://drive.google.com/file/d/100zW0IJzkpeZ9iMqfjJTbFa2CM-v4uYy/view
+A7. Nasser Ibn Dawood. The Architecture of Dignity. Dignity, responsibility, justice, and stewardship.
+https://drive.google.com/file/d/1UAJL07nfvOhlzG49Q1wJUMQyMLIz7dD6/view
+V1. Badr al-Tārīkh. “Did the Qurʾan Precede Artificial Intelligence? The Journey of Knowledge from the Pen to the Algorithm.” Author-supplied transcript. Approximate markers: 3:40–4:18, knowledge and tools; 7:06–8:59, orientation and specific scientific descriptions; 11:21–17:51, resources and civilization; 26:35–30:32, simulation, wisdom, and ethics; 30:40–32:56, the meaning of precedence and continued inquiry. These markers derive from the supplied transcript; they do not certify an audio or visual review. The developed proposal of epistemic provision is the author’s addition to this discussion.
+https://drive.google.com/file/d/1O3d7WYhwtoUV9Ft4mIzSCRDKBX275GMZ/view
+T1. Google for Developers. Machine Learning Crash Course. Introduction to Large Language Models and the explanation of transformers. Consulted for the Arabic edition on 11 October 2026.
+https://developers.google.com/machine-learning/crash-course/llm
+https://developers.google.com/machine-learning/crash-course/llm/transformers
+Qurʾanic passages: Q1 17:36; Q2 96:4–5; Q3 51:22; Q4 2:30–31; Q5 20:114; Q6 4:58. Their meanings are summarized here in context; this edition does not substitute a new verse translation for the Arabic text.
+All six figures summarize the relationships discussed in this volume. They illustrate the argument rather than establish the proposed textual connections or report measured outcomes.
+1
+

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-11",
   "summary": {
     "review": 12,
-    "ready": 196,
+    "ready": 198,
     "unavailable": 4,
     "private": 24,
     "pending": 0
@@ -1855,6 +1855,22 @@
       "title": "Engineering Reflection: Qur’anic Linguistic Inquiry and the Numerical Measure 19",
       "status": "ready",
       "drive_id": "1eoxFy4bQBsOCOTanGk-wzRQ9OKg9jUN8"
+    },
+    {
+      "number": 119,
+      "book_id": "fiqh-al-ilm-wal-lisan-part2",
+      "language": "ar",
+      "title": "فقه العلم واللسان القرآني — الجزء الثاني: شبكة العلم والاستخلاف والحضارة والأخلاق",
+      "status": "ready",
+      "drive_id": "14sZWmJFpnTFdPj2LCqsEu9G4a2VTcTK-"
+    },
+    {
+      "number": 119,
+      "book_id": "fiqh-al-ilm-wal-lisan-part2",
+      "language": "en",
+      "title": "Understanding Knowledge and the Qurʾanic Language — Part Two: Knowledge Networks, Stewardship, Civilization and Ethics",
+      "status": "ready",
+      "drive_id": "1UWV8drx60jAH-8GhUwACfW6sfDB94Z3Z"
     }
   ]
 }

@@ -3,10 +3,10 @@
     "name": "مكتبة ناصر ابن داوود",
     "version": "2.0",
     "ai_compatible": true,
-    "last_updated": "2026-10-10",
-    "total_books_arabic": 118,
-    "total_books_english": 118,
-    "total_books": 236,
+    "last_updated": "2026-10-11",
+    "total_books_arabic": 119,
+    "total_books_english": 119,
+    "total_books": 238,
     "languages": [
       "ar",
       "en"
@@ -33,7 +33,7 @@
       ]
     }
   },
-  "last_updated": "2026-10-10",
+  "last_updated": "2026-10-11",
   "books": [
     {
       "id": "conscious-contemplation",
@@ -8785,6 +8785,67 @@
         "pdf_external": "https://drive.google.com/uc?export=download&id=1eoxFy4bQBsOCOTanGk-wzRQ9OKg9jUN8"
       },
       "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19/ar/Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19-cover-ar.png"
+    },
+    {
+      "id": "fiqh-al-ilm-wal-lisan-part2",
+      "book_number": 119,
+      "titles": {
+        "ar": "فقه العلم واللسان القرآني — الجزء الثاني: شبكة العلم والاستخلاف والحضارة والأخلاق",
+        "en": "Understanding Knowledge and the Qurʾanic Language — Part Two: Knowledge Networks, Stewardship, Civilization and Ethics"
+      },
+      "description": {
+        "ar": "دراسة في بناء شبكة العلم وصلاتها بالاستخلاف والحضارة والأخلاق، تتناول الرزق المعرفي والذكاء الاصطناعي وحوكمة المعرفة وميثاقًا مقترحًا لشبكة العلم، مع التمييز بين الشواهد القرآنية والمقترحات التفسيرية والتطبيقات الافتراضية. النسخة الإنجليزية تكييف مفاهيمي مختصر.",
+        "en": "A condensed conceptual adaptation exploring knowledge networks, stewardship, civilization and ethics, epistemic provision, artificial intelligence, knowledge governance, and a proposed network charter. It distinguishes Qurʾanic evidence from interpretive proposals and hypothetical applications; the Arabic edition remains the primary source."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "فقه العلم",
+          "اللسان القرآني",
+          "شبكة العلم",
+          "الاستخلاف",
+          "الحضارة",
+          "الأخلاق",
+          "الرزق المعرفي",
+          "الذكاء الاصطناعي",
+          "حوكمة المعرفة"
+        ],
+        "topics_en": [
+          "Knowledge networks",
+          "Qurʾanic language",
+          "Stewardship",
+          "Civilization",
+          "Ethics",
+          "Epistemic provision",
+          "Artificial intelligence",
+          "Knowledge governance"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر، وليست ترجمة حرفية؛ يبقى النص العربي المرجع الأساسي للتحليل التفصيلي والإحالات.",
+          "en": "This is a condensed conceptual English adaptation, not a word-for-word translation. The Arabic edition remains the primary source for detailed analysis and references."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/fiqh-al-ilm-wal-lisan-part2/ar/119-fiqh-al-ilm-wal-lisan-part2-ar.txt",
+        "cover": "books/fiqh-al-ilm-wal-lisan-part2/ar/119-fiqh-al-ilm-wal-lisan-part2-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1txg0IarnXFM19OXd19q5jvQqAnVPjbMI",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=14sZWmJFpnTFdPj2LCqsEu9G4a2VTcTK-"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/fiqh-al-ilm-wal-lisan-part2/en/119-fiqh-al-ilm-wal-lisan-part2-en.txt",
+        "cover": "books/fiqh-al-ilm-wal-lisan-part2/en/119-fiqh-al-ilm-wal-lisan-part2-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1kSyl7OL9Wxv9Qu-dqg94vCvToNXiidmE",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1UWV8drx60jAH-8GhUwACfW6sfDB94Z3Z"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/fiqh-al-ilm-wal-lisan-part2/ar/119-fiqh-al-ilm-wal-lisan-part2-ar-cover.png"
     }
   ]
 }

@@ -3,8 +3,8 @@ const root=path.resolve(__dirname,'..'),read=p=>fs.readFileSync(path.join(root,p
 const cat=JSON.parse(read('ai-index.json')).books,search=JSON.parse(read('search-index.json')).books;
 const id='Engineering_Reflection_Qur’anic_Linguistic_Inquiry_and_the_Numerical_Measure_19';
 const b=cat.find(b=>b.book_number===118),s=search.find(s=>s.id===id);
-assert.equal(b.id,id);assert.equal(cat.length,118);assert.equal(search.length,118);
-assert.equal(new Set(cat.map(b=>b.id)).size,118);
+assert.equal(b.id,id);assert(cat.length>=118);assert.equal(search.length,cat.length);
+assert.equal(new Set(cat.map(b=>b.id)).size,cat.length);
 const baseline=JSON.parse(cp.execFileSync('git',['show','HEAD:ai-index.json'],{cwd:root,encoding:'utf8',maxBuffer:20e6})).books;
 for(const old of baseline)assert.deepEqual(cat.find(n=>n.id===old.id),old);
 const ids={ar:['1W_PY9DRfFFVoMYsmMZaMYGgzkoRltz3X','1CKB_JYyuMTO81Zo3H90qF017zC8xZFfl'],en:['1gndWasrjTXo9gPNpmxwu0CCTl064ds6C','1eoxFy4bQBsOCOTanGk-wzRQ9OKg9jUN8']};
@@ -12,7 +12,15 @@ for(const lang of ['ar','en']){
  const source=path.resolve(root,'../../google_books','118-'+id,lang);
  assert(b[lang].docx.endsWith(ids[lang][0]));assert(b[lang].pdf_external.endsWith(ids[lang][1]));
  assert.deepEqual(fs.readFileSync(path.join(root,b[lang].cover)),fs.readFileSync(path.join(source,fs.readdirSync(source).find(n=>n.endsWith('.png')))));
- if(lang==='en')assert.deepEqual(fs.readFileSync(path.join(root,s.links.en.text)),fs.readFileSync(path.join(source,'118_'+id+'-en.txt')));
+ if(lang==='en'){
+  // Later author revisions are not silently imported by an unrelated book addition.
+  const expected=baseline.some(old=>old.id===id)
+   ?cp.execFileSync('git',['show',`HEAD:${s.links.en.text}`],{cwd:root,maxBuffer:20e6})
+   :fs.readFileSync(path.join(source,'118_'+id+'-en.txt'));
+  const actual=fs.readFileSync(path.join(root,s.links.en.text));
+  if(baseline.some(old=>old.id===id))assert.equal(actual.toString('utf8').replace(/\r\n/g,'\n'),expected.toString('utf8').replace(/\r\n/g,'\n'));
+  else assert.deepEqual(actual,expected);
+ }
  const page=read(`books/${id}/${lang}/index.html`);
  assert(page.includes(b[lang].docx.replaceAll('&','&amp;')));assert(page.includes(b[lang].pdf_external.replaceAll('&','&amp;')));
  assert(page.includes('role="note"'));assert(b.metadata.edition_notes[lang]);
