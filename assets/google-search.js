@@ -57,10 +57,35 @@
         document.head.appendChild(script);
     }
 
-    document.addEventListener('DOMContentLoaded', () => {
+    function activateGoogleTabFromHash() {
+        // Match Google parameters, not arbitrary anchors containing "gsc".
+        const hash = window.location.hash.slice(1);
+        if (!/(?:^|&)gsc\.[^=&]+(?:=|&|$)/.test(hash)) return;
+        const tab = document.querySelector('.search-tab[data-tab="google-search"]');
+        if (!tab) return;
+        // Activate explicitly: tab click handlers may not be registered yet.
+        document.querySelectorAll('.search-tab, .tab-content').forEach(node => {
+            node.classList.remove('active');
+        });
+        tab.classList.add('active');
+        const section = document.getElementById('google-search');
+        if (section) section.classList.add('active');
+        loadGoogleSearch();
+    }
+
+    function init() {
         const tab = document.querySelector('.search-tab[data-tab="google-search"]');
         const retry = document.getElementById('google-search-retry');
         if (tab) tab.addEventListener('click', loadGoogleSearch);
         if (retry) retry.addEventListener('click', loadGoogleSearch);
-    });
+        window.addEventListener('hashchange', activateGoogleTabFromHash);
+        activateGoogleTabFromHash();
+        if (tab && tab.classList.contains('active')) loadGoogleSearch();
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
+    }
 })();
