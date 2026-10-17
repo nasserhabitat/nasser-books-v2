@@ -1,8 +1,8 @@
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),cp=require('node:child_process'),vm=require('node:vm');
 const root=path.resolve(__dirname,'..'),read=p=>fs.readFileSync(path.join(root,p),'utf8');
 const cat=JSON.parse(read('ai-index.json')).books,search=JSON.parse(read('search-index.json')).books,id='fiqh-al-ilm-wal-lisan-part2';
-assert.equal(cat.length,119);assert.equal(search.length,119);assert.equal(new Set(cat.map(b=>b.id)).size,119);
-assert.equal(new Set(cat.map(b=>b.book_number)).size,119);
+assert(cat.length>=119);assert.equal(search.length,cat.length);assert.equal(new Set(cat.map(b=>b.id)).size,cat.length);
+assert.equal(new Set(cat.map(b=>b.book_number)).size,cat.length);
 const baseline=JSON.parse(cp.execFileSync('git',['show','HEAD:ai-index.json'],{cwd:root,encoding:'utf8',maxBuffer:20e6})).books;
 for(const old of baseline)assert.deepEqual(cat.find(b=>b.id===old.id),old,'Prior metadata changed');
 const b=cat.find(b=>b.book_number===119),s=search.find(b=>b.id===id);assert.equal(b.id,id);

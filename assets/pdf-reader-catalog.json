@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-11",
+  "updated_at": "2026-10-17",
   "summary": {
     "review": 12,
-    "ready": 198,
+    "ready": 210,
     "unavailable": 4,
     "private": 24,
     "pending": 0
@@ -1871,6 +1871,102 @@
       "title": "Understanding Knowledge and the Qurʾanic Language — Part Two: Knowledge Networks, Stewardship, Civilization and Ethics",
       "status": "ready",
       "drive_id": "1UWV8drx60jAH-8GhUwACfW6sfDB94Z3Z"
+    },
+    {
+      "number": 120,
+      "book_id": "the_function_of_the_messenger",
+      "language": "ar",
+      "title": "وظيفة الرسول في اللسان القرآني — قراءة بنيوية في شبكة البعث والإرسال والبلاغ والبيان",
+      "status": "ready",
+      "drive_id": "1X1gkg3wqK4ZbwQQZyKRTsy3lnCHVAxm_"
+    },
+    {
+      "number": 120,
+      "book_id": "the_function_of_the_messenger",
+      "language": "en",
+      "title": "The Function of the Messenger in the Qur’anic Tongue — A Structural Analysis of Commission, Dispatch, Proclamation, and Clarification",
+      "status": "ready",
+      "drive_id": "1St_sQYZdAxVdWpkfWmPiPqzbQbzv76Q0"
+    },
+    {
+      "number": 121,
+      "book_id": "is-knowledge-sold",
+      "language": "ar",
+      "title": "هل يُباع العلم أم يُباع الحق؟ — هندسة الشراء والثمن والكتمان في اللسان القرآني",
+      "status": "ready",
+      "drive_id": "1dMHEJ1IfuFOde8yWygIclGBZy0eJF0Ko"
+    },
+    {
+      "number": 121,
+      "book_id": "is-knowledge-sold",
+      "language": "en",
+      "title": "Is Knowledge Sold, or Is Truth Sold? — The Qur’anic Language of Exchange, Price, Concealment, and Disclosure",
+      "status": "ready",
+      "drive_id": "1UAu-381v26jaAQSQm-O2v9ncIfvCUWcY"
+    },
+    {
+      "number": 122,
+      "book_id": "The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports",
+      "language": "ar",
+      "title": "القرآن والبيان النبوي والمرويات — مساءلة المرجعية واختبار اللسان",
+      "status": "ready",
+      "drive_id": "1F0glsZiO_Bjiu9fHhogfzV2FazWwqqfO"
+    },
+    {
+      "number": 122,
+      "book_id": "The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports",
+      "language": "en",
+      "title": "The Qur'an, the Prophetic Elucidation, and the Narrated Reports",
+      "status": "ready",
+      "drive_id": "1YcFO0RmBfUC4-FpOfPI7gVW2lOiv9-hh"
+    },
+    {
+      "number": 123,
+      "book_id": "Dhikr_in_the_Quranic",
+      "language": "ar",
+      "title": "الذِّكْر في اللسان القرآني — هندسة الحضور والوعي والرجوع إلى الله",
+      "status": "ready",
+      "drive_id": "1ytNo64TwC97frZqUKr2DQNh8tw8IDnm5"
+    },
+    {
+      "number": 123,
+      "book_id": "Dhikr_in_the_Quranic",
+      "language": "en",
+      "title": "Dhikr in the Qur’anic Language — The Architecture of Presence, Awareness, and Returning to God",
+      "status": "ready",
+      "drive_id": "1PEiqKwmI_XXDIJEM1MAHiPoKE04T63GI"
+    },
+    {
+      "number": 124,
+      "book_id": "Istighfar_in_the_Quranic",
+      "language": "ar",
+      "title": "الاستغفار في اللسان القرآني — دراسة في الطلب والمغفرة والتوبة وإصلاح النفس والعمران",
+      "status": "ready",
+      "drive_id": "11DlJu1BIHQD3JX4ut_uBgU_yOML2bgWn"
+    },
+    {
+      "number": 124,
+      "book_id": "Istighfar_in_the_Quranic",
+      "language": "en",
+      "title": "Istighfār in the Qur’anic Language — A Study of Seeking Forgiveness, Divine Forgiveness, Repentance, and the Renewal of Self and Society",
+      "status": "ready",
+      "drive_id": "1dYKC1HbXJSKSA-hDWdfIkK5zoE6Qn_bU"
+    },
+    {
+      "number": 125,
+      "book_id": "The-Messiah-and-the-Dajjal",
+      "language": "ar",
+      "title": "المسيح والدجال: من البيان القرآني إلى صناعة الأسطورة",
+      "status": "ready",
+      "drive_id": "1i083QM4oPZQuly1BYdKwHlOUiLp0PBxO"
+    },
+    {
+      "number": 125,
+      "book_id": "The-Messiah-and-the-Dajjal",
+      "language": "en",
+      "title": "The Messiah and the Dajjal — From Qur’anic Discourse to the Making of Myth",
+      "status": "ready",
+      "drive_id": "1F1bkOGq7KLj82xqQEWVrhnV5-U5_a5Rb"
     }
   ]
 }

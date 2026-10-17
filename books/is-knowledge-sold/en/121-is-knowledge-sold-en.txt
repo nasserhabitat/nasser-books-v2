@@ -1,0 +1,126 @@
+﻿
+IS KNOWLEDGE SOLD,
+OR IS TRUTH SOLD?
+The Qur’anic Language of Exchange, Price, Concealment, and Disclosure
+A condensed conceptual adaptation of the Arabic study
+NASSER IBN DAWOOD
+QCROS: contextual inquiry, corpus review, and reverse testing
+Conceptual English edition • 2026
+
+
+Contents
+● I. The Global Knowledge Manifesto
+● II. Translator’s Note: The Bridge of Meaning
+● A Note on Evidence and Status Labels
+● 1. The Question: What Is Being Sold?
+● 2. Read the Whole Relation, Not One Word
+● 3. Buying, Price, and the Moral Exchange
+● 4. Concealment, Disclosure, and Verification
+● 5. Prophetic Proclamation and Human Work
+● 6. Authorship, Access, and Researchers’ Rights
+● 7. Is There a Religious Profession?
+● 8. Writing as Peaceful Intellectual Struggle
+● 9. A Practical Review of a Publishing Agreement
+● Conclusion: A Bounded Finding
+● Selected References
+● Compact Glossary
+This contents page lists sections; it is not a page-number index.
+
+
+I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy: All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library: As of early 2026, the collection hosts 236 volumes (118 in Arabic and 118 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platforms: Main Website: nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+This manifesto is reproduced here as supplied by the author for this condensed edition.
+Editorial note: The collection figures and platform description above are author-supplied statements reproduced for this edition; this adaptation does not independently audit them.
+II. Translator’s Note: The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an “extraction of essence.” It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.
+For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (tafsir), and the complete bibliography.
+This adaptation also preserves the methodological status of the Arabic edition. A claim marked OPEN remains open; a CANDIDATE remains a candidate; a RESISTED or STRONGLY RESISTED claim is not revived through simplification; and a CLOSED result remains closed only within its declared scope. The aim is clarity without scientific inflation.
+Key Qur’anic terms may be retained in transliteration—such as nafs, tawaffī, barzakh, and baʿth—when a single English equivalent would prematurely narrow the field under study. These are examples of the wider method, not all central topics in this book.
+A Note on Evidence and Status Labels
+The book separates four layers: (1) Qur’anic text; (2) direct observation about wording and context; (3) the researcher’s inference, hypothesis, or operational model; and (4) a modern legal, institutional, or contractual application. Similarity between two layers does not by itself prove that a ruling transfers from one to the other.
+● CLOSED: established only for the stated question and evidence. A closed corpus count is not a closed interpretation.
+● CANDIDATE: a proposed explanation that remains under testing.
+● OPEN: the available inquiry does not settle the question.
+● RESISTED / STRONGLY RESISTED: significant counter-evidence exists in the tested scope.
+● REJECTED: a specified generalization failed a stated test; narrower claims may still require review.
+The Arabic edition includes larger occurrence tables and a fuller audit trail. This short edition keeps the conclusions and limits needed to read them responsibly.
+1. The Question: What Is Being Sold?
+The title asks whether a person who sells a book about the Qur’an is thereby “selling God’s signs for a small price.” The question joins scripture, scholarship, livelihood, and public trust. A quick answer in either direction can erase distinctions that the text requires us to examine.
+A publication may contain revealed verses, a researcher’s explanation, edited source material, translation, indexing, design, and distribution services. These are related parts of a book, but not the same object. The Qur’anic text is not authored by the researcher. A study of that text is a human intellectual work; preparing and distributing it are further human activities.
+The precise questions are: What is the payment for? What is represented to the reader? What has the seller done? A transaction involving honest authorship and a stated price is not automatically identical to fabricating words and attributing them to God, concealing a known truth for gain, or manipulating testimony. Yet calling money “compensation for effort” cannot excuse deception, concealment, or exploitation if those are established.
+The study begins neither from a blanket prohibition nor a blanket permission. It examines relevant Qur’anic passages, their relations and counterexamples, then marks which conclusions are supported, provisional, or unsettled.
+2. Read the Whole Relation, Not One Word
+QCROS is the author’s protocol for contextual inquiry, corpus review, comparison, and reverse testing. It is a research method, not a revealed sequence or a substitute for the Qur’an: state the verse and context; record direct observations; gather related and resistant passages; formulate an inference; test it against counterexamples; and state its scope.
+TEXT
+verse + contextOBSERVATION
+what is presentCOMPARISON
+related + resistantTEST
+reverse testSTATUS
+scope statedFigure 1. A researcher’s workflow, not a Qur’anic diagram or proof by itself.
+Reverse testing asks what follows if a proposed rule is applied consistently. If every occurrence of “price” meant a forbidden monetary payment, would that reading fit all passages? If every mention of “reward” meant a wage, would it fit passages about divine recompense or prophetic proclamation? A proposal that fails such checks must be narrowed or left open.
+Lexical counts help locate passages, but do not settle meaning. The same root may occur with different actors, objects, and purposes. A corpus index is a finding aid; the verse and its discourse remain the evidence to interpret.
+3. Buying, Price, and the Moral Exchange
+Several passages condemn a morally charged exchange involving God’s signs. Al-Baqarah 2:79 speaks of people writing something with their own hands, claiming it is from God, and seeking a price. In 2:174, concealment of what God sent down is joined to consuming a price. Āl ʿImrān 3:187 contrasts a covenant to make the Book clear with concealing it. These passages place the problem in a relation among truth, representation, concealment, and gain.
+Other passages use exchange language in distinct settings. Al-Tawbah 9:9, al-Māʾidah 5:44, and al-Naḥl 16:95 belong in the comparison. They resist reducing every condemned exchange to written fabrication alone. They do not establish that every sale of a book containing Qur’anic discussion falls under condemnation.
+“A small price” should not become a universal price ceiling or a rule that any payment is spiritually small. In some contexts the contrast is between temporary gain and what endures; elsewhere a paltry price describes a particular exchange. Whether “small” describes amount, the object surrendered, or the moral quality of the bargain must be tested in context. The broader theory that “small” always means betrayal of truth remains a CANDIDATE, not a settled lexical law.
+Calling payment a price, fee, salary, gift, honorarium, or reimbursement does not decide its moral status. The facts matter: Was the work honestly described? Was evidence hidden? Was human interpretation presented as revelation? Were the terms clear and consensual?
+4. Concealment, Disclosure, and Verification
+The Qur’an criticizes concealment of clear signs in specified contexts and connects disclosure with repentance and reform (al-Baqarah 2:159–160; Āl ʿImrān 3:187). These passages make intellectual honesty central. A researcher should not suppress evidence that materially changes a claim, misstate a source, or present a disputed interpretation as settled.
+Disclosure and verification are related but different responsibilities. Al-Ḥujurāt 49:6 and al-Nisāʾ 4:94 direct attention to verification before acting on reports. This supports a research ethic of checking, context, and correction. It does not mean that every unverified thought must be published immediately or that privacy and safety never matter.
+The book proposes a publication checklist: identify sources; separate quotation from commentary; disclose uncertainty and contrary evidence; correct errors; and make the method visible enough for readers to inspect. This is an author-designed model, not a list of modern publishing rules stated verbatim in the Qur’an.
+The hard question is not simply whether to publish everything. It is whether a truth is established, whether disclosure is required in that setting, whether publication without context would mislead, and whether the information belongs to another person. A general rule for publishing all potentially useful human knowledge remains OPEN.
+5. Prophetic Proclamation and Human Work
+Many prophetic passages state that the messenger does not ask the addressed people for payment for the message (for example, Yūsuf 12:104; al-Anʿām 6:90; and repeated statements in Sūrat al-Shuʿarāʾ). These texts concern proclamation. They cannot automatically be transferred to every later activity connected with religious learning without an argument showing why the cases are equivalent.
+The Qur’an also recognizes human work and hiring. In al-Qaṣaṣ 28:26–27, hiring and agreed work appear in the narrative. Al-Nisāʾ 4:29 refers to trade by mutual consent while forbidding wrongful consumption of wealth. These passages do not by themselves issue a comprehensive modern ruling about royalties, tuition, editing, printing, or subscriptions. They do show why “all payment is forbidden” cannot be inferred merely from the word “reward” or from prophetic refusal of payment in proclamation passages.
+The Arabic study reviews disagreement in the legal tradition about compensation for teaching Qur’an. It treats reports and juristic arguments as separate evidence steps: the event described, the report’s wording, the jurist’s reasoning, and an analogy to a modern service. A report about healing or recitation is not automatically a direct description of a publishing contract.
+The bounded result is two-sided: the examined passages do not establish that every paid copy of a human research book is “selling God’s signs”; and the label “payment for effort” does not validate every contract. The general ruling across forms of teaching and authorship compensation remains OPEN.
+6. Authorship, Access, and Researchers’ Rights
+The author distinguishes revealed text from a human work that studies it. A researcher does not own Qur’anic verses. A researcher may have created an original arrangement, explanation, translation, critical edition, index, or digital tool. Legal protection for such contributions depends on applicable law, originality, and the license or contract governing reuse.
+Access and recognition can coexist. A free digital edition can preserve attribution. An open license can permit broad reuse under stated conditions. A paid print edition or a fee for editing, teaching, or commissioned research may be considered as a distinct arrangement. These contemporary legal categories should not be presented as detailed Qur’anic rules unless the text supports that claim.
+The Arabic manuscript refers to Article 27(2) of the Universal Declaration of Human Rights, WIPO copyright guidance, UNESCO’s 2017 Recommendation on Science and Scientific Researchers, and Creative Commons licenses. These are modern rights and policy references, not Qur’anic exegesis. Their effect depends on jurisdiction and license; consult the Arabic edition for the full bibliography.
+The author’s wider work, *Fiqh al-ʿIlm wa-l-Lisān al-Qurʾānī* (catalogue item 80 in the author’s library), calls for social recognition, material and moral support, and protection against plagiarism or distortion. Here it is cited as the author’s ethical and civilizational position, not as an independent Qur’anic proof or universal legal ruling.
+7. Is There a Religious Profession?
+The author raises a social question: do religious institutions provide salaries and time for some official scholars while independent researchers struggle to publish, receive payment, or gain recognition? The issue deserves investigation, but it is empirical. A salary does not by itself prove that an employee conducts no research; an independent scholar’s difficulty does not establish that every institution suppresses outside work.
+A responsible study would define a place and period, and define “official” and “independent.” It would examine job descriptions, funding and salary data, publication records, grant access, documented refusals, and comparable cases. It would distinguish employment, patronage, censorship, lack of funding, weak distribution, and scholarly disagreement. These causes may overlap, but are not interchangeable.
+The normative concern remains: society benefits when qualified researchers can work, publish, receive fair recognition, and face criticism based on evidence. Funded research should have transparent terms and public purpose. If independent work is excluded or misrepresented, document the evidence case by case.
+This edition therefore treats “institutional scholars are paid while independent scholars are systematically blocked” as an OPEN social hypothesis requiring comparative evidence. It does not use that proposition to decide the Qur’anic or legal status of authors’ fees.
+8. Writing as Peaceful Intellectual Struggle
+The author presents writing about the Qur’an as a means of reflection, explanation, and response to challenges. Al-Furqān 25:52 describes striving through the revelation. Read alongside the call to invite with wisdom and argue in the best manner (al-Naḥl 16:125), this supports a model of peaceful intellectual effort: evidence, careful speech, patient reply, and correction.
+“Jihad through argument” or “intellectual striving” is used here as an operational description of disciplined, nonviolent work. It does not redefine every Qur’anic use of fighting or killing as metaphor, and a theory about letter sounds does not prove such a meaning. The wider Arabic project explores structural hypotheses; this condensed book does not present them as established lexical definitions.
+Writing and publishing books on Qur’anic sciences can be a serious response to need when the writer has knowledge, method, and capacity. The Arabic manuscript infers this from reflection, warning, and striving through the Qur’an. Whether a particular work is obligatory, whether the duty is individual or communal, and whether compensation is permissible are separate questions. Need alone does not settle the funding contract.
+The purpose is to defend knowledge and public understanding without hostility toward people. Intellectual disagreement should test claims and evidence. A peaceful book can challenge an idea firmly while honoring the reader’s right to inspect sources and reject the argument.
+9. A Practical Review of a Publishing Agreement
+This review card translates the book’s distinctions into questions for authors, publishers, teachers, and readers. It is an operational model, not a fatwa and not a direct quotation from the Qur’an.
+1. What exactly is being paid for: a copy, license, teaching time, editing, translation, research, printing, or distribution?
+2. Does the publication distinguish Qur’anic text, quotation, translation, commentary, and hypothesis?
+3. Are price, access, reuse rights, attribution, and restrictions stated clearly before agreement?
+4. Is evidence, uncertainty, conflict of interest, or a contrary source concealed in a way that changes the reader’s understanding?
+5. Does the author claim ownership over revealed text, or only original human contributions within the relevant law and license?
+6. Can the fee or restriction be justified by the service and contract without deception or exploitation?
+7. What counterexample would change the conclusion? Have relevant passages and the whole contract been checked?
+A sound agreement describes the object and obligations rather than relying on labels. “Religious book,” “free knowledge,” “copyright,” and “salary” are starting points for factual analysis, not conclusions.
+Conclusion: A Bounded Finding
+The book does not prove that every payment for a book about the Qur’an is forbidden, nor that every fee is permissible. The examined passages condemn particular forms of false attribution, concealment, or compromised trust. They do not establish a direct, universal equation between the price of any human-authored study and the condemned exchange. Payment also cannot cleanse a transaction involving misrepresentation, concealment, or abuse.
+Revelation is not owned by the researcher; human research about revelation remains human work. A researcher may seek recognition and enter a transparent agreement for services or original expression, subject to relevant legal and ethical conditions. Open access and fair attribution can coexist. Institutional pay and independent publication should be examined with evidence, not assumed from labels.
+The broad ruling on compensation for teaching, authorship, and publication is OPEN. The hypothesis that “small price” can describe a moral exchange rather than a numerical threshold remains a CANDIDATE where context supports it. Corpus counts are CLOSED only as counts within a stated index and search method. The conclusion is methodological as well as substantive: identify the act, read context, compare resistant evidence, state the inference, and claim no more than the evidence bears.
+Writing about Qur’anic knowledge can serve reflection, public clarification, and peaceful intellectual struggle. It should be done with accuracy, humility about uncertainty, respect for the text, and respect for the human labor that makes careful research possible.
+Selected Qur’anic References and Further Reading
+References are given by sūrah and verse. Consult the full Arabic text and surrounding context. English renderings here are explanatory paraphrases unless identified as quotations.
+● Exchange, attribution, concealment: al-Baqarah 2:79, 2:159–160, 2:174; Āl ʿImrān 3:187; al-Māʾidah 5:44; al-Tawbah 9:9; al-Naḥl 16:95–96.
+● Verification and inquiry: al-Nisāʾ 4:83, 4:94; al-Ḥujurāt 49:6; al-Tawbah 9:122.
+● Prophetic proclamation and human work: al-Anʿām 6:90; Yūsuf 12:104; al-Shuʿarāʾ (repeated statements); al-Nisāʾ 4:29; al-Qaṣaṣ 28:26–27.
+● Peaceful argument and striving through the Qur’an: al-Naḥl 16:125; al-Furqān 25:52.
+● Quranic Arabic Corpus, root and morphology index: corpus.quran.com. Counts should be checked against query scope and verse context.
+● Al-Ṭabarī, al-Qurṭubī, and other commentators on the cited passages. Exegetical interpretations are human scholarly sources and should be tied to specific works and editions.
+● Universal Declaration of Human Rights, Article 27(2); WIPO copyright resources; UNESCO Recommendation on Science and Scientific Researchers (2017); Creative Commons Attribution-ShareAlike 4.0 where applicable. These concern modern rights and policy, not Qur’anic rulings.
+This is a selected reading list, not the complete bibliography. Consult the Arabic v5.1 manuscript for the full source and verification registers.
+Compact Glossary
+BayānMaking an explanation or evidence clear; precise meaning depends on context.TabayyunVerification or clarification before acting on a report in relevant contexts.TafsīrExegesis or interpretation of the Qur’an, a human scholarly discipline.QCROSThe author’s protocol for contextual inquiry, corpus review, comparison, and reverse testing.Operational modelA practical framework proposed by the researcher, not a revealed rule by virtue of being proposed.Open accessA mode of access or licensing; it does not erase attribution or settle every question about compensation.Reverse testApplying a proposed interpretation to counterexamples to see whether it remains coherent.Small priceA Qur’anic expression whose force is read in context, not assumed here to be one fixed monetary amount.
+IS KNOWLEDGE SOLD, OR IS TRUTH SOLD?  •  CONCEPTUAL ENGLISH EDITION
+
+Nasser Ibn Dawood  |  1
+

@@ -8,7 +8,7 @@ for(const b of books)for(const l of ['ar','en']){
  const p=b[l].cover;assert(fs.existsSync(path.join(root,p)),p);covers++;
  if(b.book_number>=70){
   const name=path.basename(p);
-  assert([`${b.id}-cover-${l}.png`,`${b.id}-cover-${l}.jpg`,`${b.book_number}-${b.id}-${l}-cover.png`,`${b.id}-${l}-cover.png`].includes(name));
+  assert([`${b.id}-cover-${l}.png`,`${b.id}-cover-${l}.jpg`,`${b.book_number}-${b.id}-${l}-cover.png`,`${b.book_number}-${b.id}-${l}-cover.jpg`,`${b.id}-${l}-cover.png`].includes(name));
   assert.equal(search.find(s=>s.id===b.id).links[l].cover,p);
   const page=read(`books/${b.id}/${l}/index.html`);
   assert(page.includes(`src="${path.basename(p)}"`),`${b.id}/${l}: image element missing`);

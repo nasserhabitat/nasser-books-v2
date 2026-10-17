@@ -1,0 +1,7 @@
+# Preserve the exact bytes of the author-supplied Drive text downloads.
+books/the_function_of_the_messenger/*/*.txt -text
+books/is-knowledge-sold/*/*.txt -text
+books/The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports/*/*.txt -text
+books/Dhikr_in_the_Quranic/*/*.txt -text
+books/Istighfar_in_the_Quranic/*/*.txt -text
+books/The-Messiah-and-the-Dajjal/*/*.txt -text

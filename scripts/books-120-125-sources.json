@@ -1,0 +1,541 @@
+{
+  "checked_at": "2026-10-17",
+  "source_folder_id": "1YyhiNeosqxLYfxxFHX2Dfs9yJBgkgMbv",
+  "verification": "Drive metadata anyone/reader; downloaded TXT sizes and SHA-256; local DOCX matched by size; local cover SHA-256. No sharing or source changes.",
+  "books": [
+    {
+      "number": 120,
+      "id": "the_function_of_the_messenger",
+      "source_folder": "120-the_function_of_the_messenger",
+      "editions": {
+        "ar": {
+          "files": [
+            {
+              "id": "1xbHz6OMJSgX_9T5sxZ4GA-xdIaQSslpX",
+              "name": "120-the_function_of_the_messenger-ar.txt",
+              "mime_type": "text/plain",
+              "size": 265006,
+              "anyone_reader": true
+            },
+            {
+              "id": "1X1gkg3wqK4ZbwQQZyKRTsy3lnCHVAxm_",
+              "name": "120-the_function_of_the_messenger-ar.pdf",
+              "mime_type": "application/pdf",
+              "size": 6790559,
+              "anyone_reader": true
+            },
+            {
+              "id": "18ICRhuhtilx1h4aacDGLlcyWRF_ybfDy",
+              "name": "120-the_function_of_the_messenger-ar.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 16796254,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "120-the_function_of_the_messenger-ar.txt",
+            "size": 265006,
+            "sha256": "3cdd3180476f7a025052afb4266e603c72116d90a3b39a06450fcb8c009c3b15"
+          },
+          "cover": {
+            "source_name": "120-the_function_of_the_messenger-ar-cover.png",
+            "site_name": "120-the_function_of_the_messenger-ar-cover.png",
+            "size": 6483021,
+            "sha256": "3043801ababc952b9765a86db541989f61c3eb575e70584a9ca29d688b458211"
+          },
+          "local_docx": {
+            "name": "120-the_function_of_the_messenger-ar.docx",
+            "size": 16796254,
+            "sha256": "ddfd71e5c9152141bfb854b8adfab5871b0b88876bc0246860a9d9db6ed07f0b"
+          }
+        },
+        "en": {
+          "files": [
+            {
+              "id": "1-KuECZPAW42NqPscZZJMdZCjCreF5Ohe",
+              "name": "120-the_function_of_the_messenger-en.txt",
+              "mime_type": "text/plain",
+              "size": 21589,
+              "anyone_reader": true
+            },
+            {
+              "id": "1St_sQYZdAxVdWpkfWmPiPqzbQbzv76Q0",
+              "name": "120-the_function_of_the_messenger-en.pdf",
+              "mime_type": "application/pdf",
+              "size": 569929,
+              "anyone_reader": true
+            },
+            {
+              "id": "1nyigzXDsop8VON6daL5bCJfZKw4IZ9rA",
+              "name": "120-the_function_of_the_messenger-en.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 7257081,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "120-the_function_of_the_messenger-en.txt",
+            "size": 21589,
+            "sha256": "18d2acc36338278eaa1eee377aad4e8e0ae295fd45157736b4dae59756add5fd"
+          },
+          "cover": {
+            "source_name": "120-the_function_of_the_messenger-en-cover.png",
+            "site_name": "120-the_function_of_the_messenger-en-cover.png",
+            "size": 5281452,
+            "sha256": "0c0e00e36cfb79024e794627c3600fe4a64b414484ab3c4ea76c63cf6c2122ef"
+          },
+          "local_docx": {
+            "name": "120-the_function_of_the_messenger-en.docx",
+            "size": 7257081,
+            "sha256": "c36e5d6b25efa90dc3010e1fbd495efdaa9f29821f768435acf3dcbcfd5f23a8"
+          }
+        }
+      }
+    },
+    {
+      "number": 121,
+      "id": "is-knowledge-sold",
+      "source_folder": "121-is-knowledge-sold-ar",
+      "editions": {
+        "ar": {
+          "files": [
+            {
+              "id": "1m-V2hoR4BJO6w3WkH4pnG_eMbPqDzx9G",
+              "name": "121-is-knowledge-sold-ar.txt",
+              "mime_type": "text/plain",
+              "size": 289221,
+              "anyone_reader": true
+            },
+            {
+              "id": "1dMHEJ1IfuFOde8yWygIclGBZy0eJF0Ko",
+              "name": "121-is-knowledge-sold-ar.pdf",
+              "mime_type": "application/pdf",
+              "size": 6851354,
+              "anyone_reader": true
+            },
+            {
+              "id": "1JpvWWnjwNBv2Vz5q1H8m95CP2r3Qosrm",
+              "name": "121-is-knowledge-sold-ar.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 16284603,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "121-is-knowledge-sold-ar.txt",
+            "size": 289221,
+            "sha256": "e099db4b8d2214c17dee7262619bec22a9d6b5b46de52c8479c0913928c13b42"
+          },
+          "cover": {
+            "source_name": "121-is-knowledge-sold-ar-cover.png",
+            "site_name": "121-is-knowledge-sold-ar-cover.png",
+            "size": 2729973,
+            "sha256": "752f357d9ce15c5da92a712ac0e45ed4f4b3c0aa5ea69ee249ddfa1c0d12e05a"
+          },
+          "local_docx": {
+            "name": "121-is-knowledge-sold-ar.docx",
+            "size": 16284603,
+            "sha256": "db403d85462b1c19dd1670516ff62290dda148ed16ea89b163eb7653487160eb"
+          }
+        },
+        "en": {
+          "files": [
+            {
+              "id": "1cG14Fpg9GwKGGZCiwdUrwVlNJUctQnl0",
+              "name": "121-is-knowledge-sold-en.txt",
+              "mime_type": "text/plain",
+              "size": 21232,
+              "anyone_reader": true
+            },
+            {
+              "id": "1UAu-381v26jaAQSQm-O2v9ncIfvCUWcY",
+              "name": "121-is-knowledge-sold-en.pdf",
+              "mime_type": "application/pdf",
+              "size": 522503,
+              "anyone_reader": true
+            },
+            {
+              "id": "1Nn9IiDCOD3KKpX49ReTZyzSscRqpdu4_",
+              "name": "121-is-knowledge-sold-en.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 11513290,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "121-is-knowledge-sold-en.txt",
+            "size": 21232,
+            "sha256": "5f3191afa6eb6a1349026418fa214d3b2960f2bc34effdd6a0e016021846849b"
+          },
+          "cover": {
+            "source_name": "121-is-knowledge-sold-en-cover.png",
+            "site_name": "121-is-knowledge-sold-en-cover.png",
+            "size": 2537679,
+            "sha256": "0ca64b4927bb0cb35c391d7b1374b006135fe81ded3c29395130faed344d7688"
+          },
+          "local_docx": {
+            "name": "121-is-knowledge-sold-en.docx",
+            "size": 11513290,
+            "sha256": "eae21d7f3746668293b063f9af302b59f4148aebb3b30df0adf23a485c1fd3cc"
+          }
+        }
+      }
+    },
+    {
+      "number": 122,
+      "id": "The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports",
+      "source_folder": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports",
+      "editions": {
+        "ar": {
+          "files": [
+            {
+              "id": "1xR7FZDGn-ZPB66E9zTuYQLLFQB8FOuUp",
+              "name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-ar.txt",
+              "mime_type": "text/plain",
+              "size": 66072,
+              "anyone_reader": true
+            },
+            {
+              "id": "1F0glsZiO_Bjiu9fHhogfzV2FazWwqqfO",
+              "name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-ar.pdf",
+              "mime_type": "application/pdf",
+              "size": 881687,
+              "anyone_reader": true
+            },
+            {
+              "id": "1bPpFNwyGbt4AotAkg5C7Ge9L1EoL2iYs",
+              "name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-ar.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 7228446,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-ar.txt",
+            "size": 66072,
+            "sha256": "8294820258c8db03f7aa2b21387feca08111e936498bc953bfc095d66bb6e9f5"
+          },
+          "cover": {
+            "source_name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-ar-cover.png",
+            "site_name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-ar-cover.png",
+            "size": 2221036,
+            "sha256": "5569c083b63a560a564942499e17f40d9d0f224fab06e2a4e746933310793c65"
+          },
+          "local_docx": {
+            "name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-ar.docx",
+            "size": 7228446,
+            "sha256": "211c33954a9a9c173f37cd1dd1641a347516f695d76c085f7201598a346ed283"
+          }
+        },
+        "en": {
+          "files": [
+            {
+              "id": "1x8r6l89DI_1ZEzHm7lWYXuHAP2Oej5dP",
+              "name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-en.txt",
+              "mime_type": "text/plain",
+              "size": 50465,
+              "anyone_reader": true
+            },
+            {
+              "id": "1YcFO0RmBfUC4-FpOfPI7gVW2lOiv9-hh",
+              "name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-en.pdf",
+              "mime_type": "application/pdf",
+              "size": 574044,
+              "anyone_reader": true
+            },
+            {
+              "id": "1sZhqsrVZKmmSDV71j39HF650DsD5cmSG",
+              "name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-en.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 5152819,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-en.txt",
+            "size": 50465,
+            "sha256": "cf1de557e7497fe954f78b0b3114ee73404b2ff68a8871ffa5bf74f56a3a15fe"
+          },
+          "cover": {
+            "source_name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-en-cover.png",
+            "site_name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-en-cover.png",
+            "size": 2050829,
+            "sha256": "f39349db4c72f0216cf69b43e25891520532334adc90cae66661eb3b4f635e57"
+          },
+          "local_docx": {
+            "name": "122-The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports-en.docx",
+            "size": 5152819,
+            "sha256": "4e22b524564297e97e891b8389ff847f7b7dec5b11463e269393dec00d4a6772"
+          }
+        }
+      }
+    },
+    {
+      "number": 123,
+      "id": "Dhikr_in_the_Quranic",
+      "source_folder": "123-Dhikr_in_the_Quranic",
+      "editions": {
+        "ar": {
+          "files": [
+            {
+              "id": "15OoyGA-fKecdo6XXtYK9AG9D-8Nsdhap",
+              "name": "123-Dhikr_in_the_Quranic-ar.txt",
+              "mime_type": "text/plain",
+              "size": 479042,
+              "anyone_reader": true
+            },
+            {
+              "id": "1ytNo64TwC97frZqUKr2DQNh8tw8IDnm5",
+              "name": "123-Dhikr_in_the_Quranic-ar.pdf",
+              "mime_type": "application/pdf",
+              "size": 7125306,
+              "anyone_reader": true
+            },
+            {
+              "id": "1BuzdUfLGbvUrlyzWR9ZLMqUAdYKCCB0H",
+              "name": "123-Dhikr_in_the_Quranic-ar.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 22524958,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "123-Dhikr_in_the_Quranic-ar.txt",
+            "size": 479042,
+            "sha256": "7d7c5af9dbb857ccc349094c9aca8f16659845966ddf293e598ca0412190a98b"
+          },
+          "cover": {
+            "source_name": "123-Dhikr_in_the_Quranic-ar-cover.png",
+            "site_name": "123-Dhikr_in_the_Quranic-ar-cover.png",
+            "size": 2108955,
+            "sha256": "cb7535f5f03116fb11071bd04aca411fc51efd67191c7b4fa7549a56467b2a7c"
+          },
+          "local_docx": {
+            "name": "123-Dhikr_in_the_Quranic-ar.docx",
+            "size": 22524958,
+            "sha256": "14d52f6a532843039d0c81ba24167e4b1530a82cdde06097249232f201d9b3fe"
+          }
+        },
+        "en": {
+          "files": [
+            {
+              "id": "1r3PiZ8CBtpLgf3EF7BzqLs4EVWlp83rr",
+              "name": "123-Dhikr_in_the_Quranic-en.txt",
+              "mime_type": "text/plain",
+              "size": 42278,
+              "anyone_reader": true
+            },
+            {
+              "id": "1PEiqKwmI_XXDIJEM1MAHiPoKE04T63GI",
+              "name": "123-Dhikr_in_the_Quranic-en.pdf",
+              "mime_type": "application/pdf",
+              "size": 362292,
+              "anyone_reader": true
+            },
+            {
+              "id": "1Sgls4tSfdqFl_KAdAHo1EFo9fmDArGL4",
+              "name": "123-Dhikr_in_the_Quranic-en.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 32442,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "123-Dhikr_in_the_Quranic-en.txt",
+            "size": 42278,
+            "sha256": "af4b969ffdf6765fec1e39cb0c5460d12a5c7d7874f4b294db266800fc12753e"
+          },
+          "cover": {
+            "source_name": "123-Dhikr_in_the_Quranic-en-cover.png",
+            "site_name": "123-Dhikr_in_the_Quranic-en-cover.png",
+            "size": 2028690,
+            "sha256": "ad765848b3c2c510da4663a9c43546f09a71e0bc298f1bbda2dc303b0e9a3b70"
+          },
+          "local_docx": {
+            "name": "123-Dhikr_in_the_Quranic-en.docx",
+            "size": 32442,
+            "sha256": "b7fb94d065e6eb532534c375d49734820f3a671fd63af5b18398a7850e559e7e"
+          }
+        }
+      }
+    },
+    {
+      "number": 124,
+      "id": "Istighfar_in_the_Quranic",
+      "source_folder": "124-Istighfar_in_the_Quranic",
+      "editions": {
+        "ar": {
+          "files": [
+            {
+              "id": "1agPLNPYSoHfwzPVInDUDWCkdt7aD8LP0",
+              "name": "124-Istighfar_in_the_Quranic-ar.txt",
+              "mime_type": "text/plain",
+              "size": 620809,
+              "anyone_reader": true
+            },
+            {
+              "id": "11DlJu1BIHQD3JX4ut_uBgU_yOML2bgWn",
+              "name": "124-Istighfar_in_the_Quranic-ar.pdf",
+              "mime_type": "application/pdf",
+              "size": 7044880,
+              "anyone_reader": true
+            },
+            {
+              "id": "1Uner461RkgOIEouCecW1c8vqwtD4BOYh",
+              "name": "124-Istighfar_in_the_Quranic-ar.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 13919994,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "124-Istighfar_in_the_Quranic-ar.txt",
+            "size": 620809,
+            "sha256": "7f7d99db6d5526a62d86fdf997d5df3f22f9405453dbb159f2cb1dd448d1d9fa"
+          },
+          "cover": {
+            "source_name": "124-Istighfar_in_the_Quranic-ar-cover.png",
+            "site_name": "124-Istighfar_in_the_Quranic-ar-cover.png",
+            "size": 2464296,
+            "sha256": "3c8d7fe1f12ec6be747ab22d52db12882df958d853a73a8d96c7a3cbd67e858b"
+          },
+          "local_docx": {
+            "name": "124-Istighfar_in_the_Quranic-ar.docx",
+            "size": 13919994,
+            "sha256": "3aef2af4e0d0da95c9b1384ff653879294267c5427a95d57e471e83fb3b056ac"
+          }
+        },
+        "en": {
+          "files": [
+            {
+              "id": "1se1Hb2dUGCUnxfka3eR1l1TcPQY5g9ax",
+              "name": "124-Istighfar_in_the_Quranic-en.txt",
+              "mime_type": "text/plain",
+              "size": 44823,
+              "anyone_reader": true
+            },
+            {
+              "id": "1dYKC1HbXJSKSA-hDWdfIkK5zoE6Qn_bU",
+              "name": "124-Istighfar_in_the_Quranic-en.pdf",
+              "mime_type": "application/pdf",
+              "size": 839692,
+              "anyone_reader": true
+            },
+            {
+              "id": "1fYQHRHsisCylNWX-ePXdbAkn8gZO0WUp",
+              "name": "124-Istighfar_in_the_Quranic-en.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 6308605,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "124-Istighfar_in_the_Quranic-en.txt",
+            "size": 44823,
+            "sha256": "eeb0c953938481af2722af1274073be34120aec3da288946c951b091f184f199"
+          },
+          "cover": {
+            "source_name": "124-Istighfar_in_the_Quranic-en -cover.png",
+            "site_name": "124-Istighfar_in_the_Quranic-en-cover.png",
+            "size": 2704092,
+            "sha256": "7ec0304b4795b104fe1088201b5bd3293351195da3a3f5b9a0c5bc2d1ff3a0df"
+          },
+          "local_docx": {
+            "name": "124-Istighfar_in_the_Quranic-en.docx",
+            "size": 6308605,
+            "sha256": "cc8f6d80555b9f5a6f98d4a2cc6ec9705bf299ca5e3ae8bb4464a7913550eeb0"
+          }
+        }
+      }
+    },
+    {
+      "number": 125,
+      "id": "The-Messiah-and-the-Dajjal",
+      "source_folder": "125-The-Messiah-and-the-Dajjal",
+      "editions": {
+        "ar": {
+          "files": [
+            {
+              "id": "1q2J5d2eddD94WQ7E6JhSPfd8IoaOk-pk",
+              "name": "125-The-Messiah-and-the-Dajjal-ar.txt",
+              "mime_type": "text/plain",
+              "size": 218480,
+              "anyone_reader": true
+            },
+            {
+              "id": "1i083QM4oPZQuly1BYdKwHlOUiLp0PBxO",
+              "name": "125-The-Messiah-and-the-Dajjal-ar.pdf",
+              "mime_type": "application/pdf",
+              "size": 3061772,
+              "anyone_reader": true
+            },
+            {
+              "id": "1mA76EDyZouwXlpfltSIfDjZJ1Yp1UXBC",
+              "name": "125-The-Messiah-and-the-Dajjal-ar.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 15769785,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "125-The-Messiah-and-the-Dajjal-ar.txt",
+            "size": 218480,
+            "sha256": "40057ec89bef8722535ef5bf048a54427fbcbaf44bf8c6c93035ef0d991d4990"
+          },
+          "cover": {
+            "source_name": "125-The-Messiah-and-the-Dajjal-ar-cover.jpg",
+            "site_name": "125-The-Messiah-and-the-Dajjal-ar-cover.jpg",
+            "size": 2876333,
+            "sha256": "a93301445015b9f3b9966cd7063d0e39f1c7f92fab14fe79bb80813496726896"
+          },
+          "local_docx": {
+            "name": "125-The-Messiah-and-the-Dajjal-ar.docx",
+            "size": 15769785,
+            "sha256": "25c90182f87de302fe6ec4c13893ad0fdc305d939a4aa0fe3ad1d3930819ccb0"
+          }
+        },
+        "en": {
+          "files": [
+            {
+              "id": "1zf_scS7PiUlingw3PB5fpsquSy7v8xHR",
+              "name": "125-The-Messiah-and-the-Dajjal-en.txt",
+              "mime_type": "text/plain",
+              "size": 49140,
+              "anyone_reader": true
+            },
+            {
+              "id": "1F1bkOGq7KLj82xqQEWVrhnV5-U5_a5Rb",
+              "name": "125-The-Messiah-and-the-Dajjal-en.pdf",
+              "mime_type": "application/pdf",
+              "size": 467742,
+              "anyone_reader": true
+            },
+            {
+              "id": "18adZ2N4ubK3uL2QHzuACyWqNAngX6tM_",
+              "name": "125-The-Messiah-and-the-Dajjal-en.docx",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size": 2919193,
+              "anyone_reader": true
+            }
+          ],
+          "text": {
+            "name": "125-The-Messiah-and-the-Dajjal-en.txt",
+            "size": 49140,
+            "sha256": "06b6dbf09b950856e3e8ed0dc32417fbf205eeb05d09d45bc7c5105279e378ce"
+          },
+          "cover": {
+            "source_name": "125-The-Messiah-and-the-Dajjal-en-cover.jpg",
+            "site_name": "125-The-Messiah-and-the-Dajjal-en-cover.jpg",
+            "size": 2862202,
+            "sha256": "a6ff27002fc394524bda2498590d09d9853e521fce29380a640c4bb7cae1c6b4"
+          },
+          "local_docx": {
+            "name": "The_Messiah_and_the_Dajjal_Condensed_Conceptual_English_Edition_2026.docx",
+            "size": 2919193,
+            "sha256": "96bc974b60dad98e6631b3b0e9024cd5b7d7d7b0a38cd8e31ef74a9f73283801"
+          }
+        }
+      }
+    }
+  ]
+}

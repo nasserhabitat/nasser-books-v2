@@ -18,6 +18,7 @@ DATE = '2026-10-09'
 EXPECTED_COUNT = 112
 SOURCE_FOLDERS = {}
 SOURCE_TEXT_NAMES = {}
+SOURCE_COVER_NAMES = {}
 COVER_NAMES = {(114, lang): f'Fiqh_al-Wijdan-{lang}-cover.png' for lang in ('ar', 'en')}
 EDITION_NOTES = {}
 SPECS = [
@@ -61,6 +62,16 @@ def write(name, text):
 
 def dump(name, obj):
     write(name, json.dumps(obj, ensure_ascii=False, indent=2) + '\n')
+
+
+def source_cover(folder, number, lang):
+    if (number, lang) in SOURCE_COVER_NAMES:
+        cover = folder / SOURCE_COVER_NAMES[(number, lang)]
+        assert cover.suffix.lower() in ('.png', '.jpg', '.jpeg') and cover.stat().st_size > 0
+        return cover
+    covers = list(folder.glob('*.png'))
+    assert len(covers) == 1, folder
+    return covers[0]
 
 
 def links(book, lang):
@@ -113,7 +124,7 @@ def main():
         for lang in ('ar', 'en'):
             folder = SOURCE / SOURCE_FOLDERS.get(number, f'{number}-{bid}') / lang
             assert (folder / SOURCE_TEXT_NAMES.get((number, lang), f'{number}-{bid}-{lang}.txt')).stat().st_size > 0
-            assert len(list(folder.glob('*.png'))) == 1, folder
+            source_cover(folder, number, lang)
     for number, bid, ar, en, da, de, ta, te, ids in SPECS:
         b = {'id': bid, 'book_number': number, 'titles': {'ar': ar, 'en': en},
              'description': {'ar': da, 'en': de},
@@ -126,7 +137,7 @@ def main():
             dest = ROOT / 'books' / bid / lang
             dest.mkdir(parents=True, exist_ok=True)
             name = f'{number}-{bid}-{lang}.txt'
-            cover = next(source.glob('*.png'))
+            cover = source_cover(source, number, lang)
             source_text = source / SOURCE_TEXT_NAMES.get((number, lang), name)
             # Book 113 already has identical covers under an earlier filename.
             existing_cover = dest / f'{bid}-{lang}-cover.png'
