@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-17",
+  "updated_at": "2026-10-26",
   "summary": {
     "review": 12,
-    "ready": 210,
+    "ready": 226,
     "unavailable": 4,
     "private": 24,
     "pending": 0
@@ -1967,6 +1967,134 @@
       "title": "The Messiah and the Dajjal — From Qur’anic Discourse to the Making of Myth",
       "status": "ready",
       "drive_id": "1F1bkOGq7KLj82xqQEWVrhnV5-U5_a5Rb"
+    },
+    {
+      "number": 126,
+      "book_id": "Jinn_and_Devils_Quran_Volume_II",
+      "language": "ar",
+      "title": "الجن والشياطين في القرآن — الجزء الثاني",
+      "status": "ready",
+      "drive_id": "1HRciQ52BVEhhvKA3JwYa5QvaaSjjVhk4"
+    },
+    {
+      "number": 126,
+      "book_id": "Jinn_and_Devils_Quran_Volume_II",
+      "language": "en",
+      "title": "Jinn and Devils in the Qur’an — Volume Two",
+      "status": "ready",
+      "drive_id": "13oNH7ormdD5NfROjLysykwpbynnYlsxC"
+    },
+    {
+      "number": 127,
+      "book_id": "The_Mosque_and_the_House_in_Quranic",
+      "language": "ar",
+      "title": "المسجد والبيت في اللسان القرآني",
+      "status": "ready",
+      "drive_id": "1GiwcnGFo6pujWZvfPq0Cys3ZC3nsp0nA"
+    },
+    {
+      "number": 127,
+      "book_id": "The_Mosque_and_the_House_in_Quranic",
+      "language": "en",
+      "title": "The Mosque and the House in Quranic Language",
+      "status": "ready",
+      "drive_id": "13eh6wQZHG4nn77yss7DX1BIwmfUwC9J8"
+    },
+    {
+      "number": 128,
+      "book_id": "Rabb_al_Alamin",
+      "language": "ar",
+      "title": "رَبُّ الْعَالَمِينَ وَرَبُّ «الْعَلِمِينَ»؟",
+      "status": "ready",
+      "drive_id": "1840Hl858cbMaMq7l5Rmq4rBnp1PBPCpz"
+    },
+    {
+      "number": 128,
+      "book_id": "Rabb_al_Alamin",
+      "language": "en",
+      "title": "Lord of the Worlds, and Lord of “Al-ʿIlmīn”?",
+      "status": "ready",
+      "drive_id": "1iKYpOMSBpYgZbyxqN4AtZAFmAXJ_kY0H"
+    },
+    {
+      "number": 129,
+      "book_id": "Isfar_AlSubh",
+      "language": "ar",
+      "title": "إسفار الصبح المعرفي — قراءة لسانية روحية في هندسة الوعي القرآني",
+      "status": "ready",
+      "drive_id": "18vQTb1n1Hsa_qWA3R_B1L_MWSe2k9JWL"
+    },
+    {
+      "number": 129,
+      "book_id": "Isfar_AlSubh",
+      "language": "en",
+      "title": "The Dawning of Understanding",
+      "status": "ready",
+      "drive_id": "1eKgJVPCsbNX8hju97G-XP9MybxQazoPD"
+    },
+    {
+      "number": 130,
+      "book_id": "death-vocabulary-in-quran-part2-106-B",
+      "language": "ar",
+      "title": "الموت والميتة والأموات والموتى في القرآن — الجزء الثاني (106-B)",
+      "status": "ready",
+      "drive_id": "1-HsvBpi1GWz3p-1wn6TwFqHLXmcmDDxj"
+    },
+    {
+      "number": 130,
+      "book_id": "death-vocabulary-in-quran-part2-106-B",
+      "language": "en",
+      "title": "Death, the Dead, and Mortality in the Quran — Part II (106-B)",
+      "status": "ready",
+      "drive_id": "1nqzaIPA9ALEvfZEmbcAlNsC-JBe6J9Cs"
+    },
+    {
+      "number": 131,
+      "book_id": "riba-quran-banking-vol3-96",
+      "language": "ar",
+      "title": "الربا في القرآن والنظام المصرفي المعاصر — المجلد الثالث",
+      "status": "ready",
+      "drive_id": "1OfdXgH_n9hrwR3d_WXT5RsOPItovoyC3"
+    },
+    {
+      "number": 131,
+      "book_id": "riba-quran-banking-vol3-96",
+      "language": "en",
+      "title": "Riba in the Qur’an and the Contemporary Banking System — Volume Three",
+      "status": "ready",
+      "drive_id": "1LKLMMtOmI2s2Km8nD5WOYXJ-7ah-cqbf"
+    },
+    {
+      "number": 132,
+      "book_id": "riba-quran-banking-vol4-96",
+      "language": "ar",
+      "title": "الربا في القرآن والنظام المصرفي المعاصر — المجلد الرابع",
+      "status": "ready",
+      "drive_id": "1dihROehHG3erB2IHM69YZnS8xj_fMz8f"
+    },
+    {
+      "number": 132,
+      "book_id": "riba-quran-banking-vol4-96",
+      "language": "en",
+      "title": "Riba in the Qur’an and the Contemporary Banking System — Volume Four",
+      "status": "ready",
+      "drive_id": "1LzS_jkxOIoFiIHIKGXvpZCkrzrzg98by"
+    },
+    {
+      "number": 133,
+      "book_id": "Al-Muddaththir-in-the-Qurani",
+      "language": "ar",
+      "title": "المُدَّثِّر في اللسان القرآني — هندسة الإنذار والتطهير والتذكرة",
+      "status": "ready",
+      "drive_id": "153IbE8HjIrysWYti17nmeTPH38gJvn6D"
+    },
+    {
+      "number": 133,
+      "book_id": "Al-Muddaththir-in-the-Qurani",
+      "language": "en",
+      "title": "Al-Muddaththir in the Qur’anic Language",
+      "status": "ready",
+      "drive_id": "1KL1zU4dTlPhTQlaREvV9ohAoTd-CkPlE"
     }
   ]
 }

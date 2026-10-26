@@ -1,0 +1,156 @@
+﻿
+
+
+Al-Muddaththir in the Qur’anic Language
+The Architecture of Warning, Purification, and Reminder
+From “Rise and warn” to “Every soul is held by what it has earned”
+Nasser Ibn Dawood
+Meaning-centered condensed adaptation · English edition
+
+
+Contents
+
+
+
+
+I. The Global Knowledge Manifesto
+Knowledge is a universal right. The author firmly believes that wisdom should not be locked behind paywalls or language barriers.
+Global Access Policy
+All books in this library are available for free in multiple digital formats (PDF, HTML, DOCX, TXT).
+The Digital Library
+As of early 2026, the collection hosts 236 volumes (118 in Arabic and 118 in English), fully optimized for AI-assisted research and digital archiving.
+Official Platforms
+Main Website: nasserhabitat.github.io/nasser-books/
+GitHub: nasserhabitat/nasser-books
+This manifesto is reproduced here as supplied by the author for this condensed edition.
+Catalog-status note: the supplied figure is retained as an early-2026 statement. The current v2 library catalogue displays 119 volumes in each language, while the legacy site displays 69 in each language; these counts refer to different catalogue versions and dates.
+II. Translator’s Note: The Bridge of Meaning
+This English edition is a condensed conceptual adaptation. It is not a word-for-word translation, but rather an "extraction of essence." It presents the core philosophical framework in accessible English, omitting the exhaustive linguistic debates and classical references found in the original Arabic text.
+For the academic researcher: The original Arabic version remains the primary source for comprehensive linguistic analysis, detailed exegesis (Tafsir), and the complete bibliography.
+This adaptation also preserves the methodological status of the Arabic edition. A claim marked OPEN remains open; a CANDIDATE remains a candidate; a RESISTED or STRONGLY RESISTED claim is not revived through simplification; and a CLOSED result remains closed only within its declared scope. The aim is clarity without scientific inflation.
+Key Qur’anic terms are sometimes retained in transliteration—such as nafs, tawaffī, barzakh, and baʿth—when a single English equivalent would prematurely narrow the field under study.
+Book at a Glance
+This study reads Sūrat al-Muddaththir as a connected discourse: a call to rise and warn; commands that orient the messenger’s work; a scene of a denier who calculates and then rejects; an oath that frames warning and human choice; and a final account of responsibility, reminder, and mercy. Its central proposal is structural: the surah’s units can be read together without erasing the distinct work of each passage.
+The book distinguishes Qur’anic wording from linguistic explanation, contextual observation, inference, hypothesis, and operational model. It asks how nearby passages and wider Qur’anic parallels illuminate one another, while refusing to treat textual adjacency as proof of causation or canonical order as a timeline of historical events.
+The study tests two interpretive pressure points: the relation between rajz and rijs, and the readings and grammatical constructions of wa-lā tamnun tastakthir. Numerical proposals concerning nineteen and the written rasm are presented with their assumptions and limits. Arithmetic that works under stated inputs does not, by itself, prove that a cipher was intended or that the text is protected by that cipher.
+How to Read This Adaptation
+Read the five parts in sequence, but keep the evidentiary labels in view. When a passage is quoted, ask what the verse states. When the author explains a form or construction, ask what linguistic evidence supports that explanation. When the author proposes a network or a modern application, treat it as a model to be tested, not as the verse’s own wording.
+Use the reverse-test questions to look for evidence that could narrow or defeat a claim. Check whether a comparison rests on a shared root, form, function, or only a surface resemblance. In numerical discussions, identify the textual edition, rasm, counting unit, treatment of the basmala and diacritics, and the rule by which a passage was selected.
+● OPEN means unresolved within the present evidence.
+● CANDIDATE means plausible but not yet established.
+● RESISTED marks a claim that faces substantial counter-evidence.
+● STRONGLY RESISTED marks a claim rejected in its exclusive form by the present reading.
+● CLOSED means the stated operation is complete within a declared corpus or scope.
+These labels do not rank people or their faith.
+A Map of the Surah’s Movement
+PassageRole in this reading74:1–7Address, warning, and the commands that orient the task.74:8–10A severe day is set before the reader.74:11–25A denier’s abundance, deliberation, rejection, and declared accusation.74:26–31Saqar, its description, the number nineteen, and the stated effects of the number.74:32–37Moon, night, dawn, warning to humanity, and the possibility of advancing or turning back.74:38–48Accountability, the People of the Right, and the answers given about Saqar.74:49–56Turning away, the image of flight, human willing, divine willing, piety, and forgiveness.
+A Simple Reading Path
+TextExplanationComparisonReverse testStatusIdentify the passageState the linguistic claimGather relevant counterpartsAsk what could disconfirm itRecord the limit
+The arrows represent the order of analysis used here. They do not establish a causal chain or a historical sequence.
+Method and Evidence
+The author calls his approach Qur’anic language jurisprudence: an inquiry into how forms, constructions, local contexts, and networks of related passages contribute to meaning. It rejects functional synonymy as a default. Words that appear close in a dictionary are not treated as interchangeable until their forms and uses have been tested across the corpus.
+The Mathani system serves as a way to generate comparisons and questions across paired or recurring passages. A comparison is a research lead, not proof on its own. QCROS is used here as an operational discipline: define the claim, identify its evidence, state its status, test relevant counter-evidence, and record what the test does and does not establish.
+A previous volume may explain the author’s terminology or show how a hypothesis developed, but it is not independent evidence for a new reading of al-Muddaththir. The Qur’anic corpus remains the controlling field of test.
+LayerMeaning in this editionQur’anic textThe wording and construction at a cited surah and verse.ExplanationA linguistic, grammatical, or contextual account, with premises made visible.Observation / inductionA pattern gathered from a stated set of passages or forms.InferenceA human conclusion drawn from evidence; not a Qur’anic quotation.Hypothesis / modelA proposal or descriptive tool that remains open to counter-testing.
+Part I — The Call and Its Setting
+1. A covered figure, an addressed human being
+The surah opens with the intimate address, “O you who are wrapped up.” The word al-muddaththir evokes one who is covered or wrapped. The opening does not itself explain why the addressee is covered, and this study does not turn the image into a diagnosis of fear, laziness, or a private psychological state. The address moves directly to a task: “Rise and warn.” The movement from covering to rising is clear in the wording; a detailed biography or chronology cannot be deduced from that movement alone.
+The Qur’anic text is primary evidence. Reports about occasions of revelation and the ordering of the earliest revelations may inform historical discussion, but they are not silently substituted for the wording of the surah. A comparison with the opening of al-Muzzammil may illuminate parallel forms of address and preparation. Parallel structure is not, by itself, proof of a precise timeline.
+2. The surah as a connected discourse
+This reading follows the surah’s discourse from address and warning, through preparation and the scene of denial, to the oath, the number nineteen, human responsibility, the questions about Saqar, and the closing account of reminder and forgiveness. These are connected movements, not necessarily successive events in one historical sequence. Proximity invites inquiry; it does not establish causation.
+A useful first map is:
+MovementPassageMain textual workAddress and commission74:1–7Rise, warn, magnify, purify, turn away, give without seeking increase, remain patientDenial and its consequence74:8–30The Trumpet, the denier’s calculation, rejection, and SaqarThe number and its stated effects74:30–31Nineteen keepers and the effects explicitly named in the verseOath and human response74:32–37Moon, night, dawn, warning, and the human will to advance or remain behindEarning and the people of Saqar74:38–48Each soul held by its earning, with the stated exception and the dialogue about SaqarFlight from reminder and the close74:49–56Turning away, demand for open scriptures, remembrance, divine will, and forgiveness
+This map is an interpretive aid. It does not claim that every verse has only one function, or that the divisions exhaust the surah’s possible relations.
+Part II — Preparation for Warning
+3. The opening commands
+The opening sequence joins warning to the magnification of the Lord, the purification of garments, the shunning of al-rujz, the prohibition “do not confer a favor seeking increase,” and patience for the Lord (74:2–7). The imperatives form a compact preparation for the commission. Their order matters as a textual arrangement, while the passage does not require us to convert every adjacent command into a causal or chronological stage.
+“Magnify your Lord” places the work under divine greatness rather than the speaker’s self-importance. “Purify your garments” has a direct image in the text; explanations that extend it to conduct, intention, or social standing are interpretive possibilities and should be identified as such. “Shun al-rujz” states withdrawal from what the term denotes in this context. The verse does not license a free-ranging label for people or communities.
+4. Al-rujz and al-rijs: a distinction to preserve
+Verse 74:5 reads al-rujz (الرجز), with zāy, not al-rijs (الرجس), with sīn. They are not the same written form and should not be merged simply because some translations use overlapping English words such as “impurity,” “abomination,” or “evil.” Root, form, context, and usage across the Qur’an must be examined before proposing a functional relation.
+The Arabic Qur’anic Corpus count cited in the working research reports ten occurrences associated with r-j-z across nine verse locations and ten nominal occurrences of r-j-s across nine locations. Such totals are corpus-dependent: the tokenization and inclusion rules must be stated, and a count is not a semantic conclusion. The consonantal distinction between zāy and sīn remains visible in the text.
+The familiar Ḥafṣ reading vocalizes al-rujz with ḍamma; a kasra vocalization is also reported in the reading tradition. A vowel difference does not turn zāy into sīn. The precise attribution and documentation of variant readings require specialist source verification. Accordingly, the lexical conclusion here is deliberately limited: the verse has rujz, not rijs; the full contextual range of rujz in 74:5 remains OPEN. A claim that the two roots are total functional synonyms is RESISTED unless tested against their separate Qur’anic distributions.
+5. “Do not give seeking more” — a live grammatical question
+The phrase wa-lā tamnun tastakthir (74:6) has been explained in more than one way. Among the transmitted and grammatical discussions are: do not give in order to receive more; do not regard your work as abundant; do not present a favor as a ground for increase; and analyses that connect the second verb to a circumstantial or purpose relation. The familiar raised form tastakthiru is often analyzed circumstantially, but other grammatical and reading discussions must be checked against specialist editions before they are stated as settled.
+The verse’s wording is secure in the Ḥafṣ text used here; that textual scope is CLOSED for this edition. The exact attribution of reported variants remains OPEN pending verification. The circumstantial grammatical analysis is a strong CANDIDATE. No single social or financial rule is established here as the exclusive meaning. Nor should an ethical paraphrase such as “do not count your work as great” be presented as the only possible translation. The interpretive task is to preserve the phrase’s force while showing where grammar and transmitted readings leave alternatives.
+6. Patience and the reach of the commission
+The opening ends, “And for your Lord, be patient” (74:7). Patience is tied to the Lord and to the preceding commission. The verse supports steadfastness in the work of warning; further claims about a detailed sequence of the Prophet’s early mission belong to historical reconstruction and need evidence beyond adjacency in this passage.
+Part III — Denial, Calculation, and Saqar
+7. The denier’s scene
+Verses 74:11–25 depict a person granted wealth and sons, whose path then turns to opposition and rejection. The Qur’an leaves the person unnamed in the passage. Classical commentators commonly identify him as al-Walīd ibn al-Mughīra; that identification should be attributed to the exegetical tradition, not inserted into the verse as though the name appeared there.
+The passage describes a particular denier. It does not say that wealth itself causes disbelief, nor does it establish a universal psychological profile for everyone who disputes a message. “He thought and calculated” describes the figure in this scene; it is not a condemnation of thought, research, or careful argument in general. A comparison with modern propaganda or a media campaign may serve as an analogy, but it is not the verse’s lexical meaning or a historical identification.
+The phrase siḥrun yuʾthar (74:24) is rendered in the exegetical tradition as an accusation that the message is magic transmitted or reported from others. It should not be recast as a modern theory of psychological “influence” without argument. The passage’s central contrast is between recognition and deliberate rejection as portrayed in this individual scene. It does not authorize diagnosing contemporary critics or assigning them the figure’s motives.
+8. Saqar: the warning remains a warning
+The surah names Saqar in 74:26–29 and again in 74:42. Within the Qur’anic discourse, Saqar belongs to the warning of the Hereafter; a reading that reduces it to a merely psychological state is STRONGLY RESISTED. The Qur’an’s explicit treatment of the Fire and its punishment must remain in view. The image of scorching and alteration in 74:29 contributes to the warning, while interpretation of the exact physical description should not exceed what the wording supports.
+The name appears in more than one discourse setting: first in the declaration of entry into Saqar and its description, then in the later question, “What brought you into Saqar?” The repeated term links these passages, but the functions differ. A reader should not flatten the whole surah into a single metaphor or assume that every occurrence carries precisely the same local emphasis.
+9. Nineteen and the limits of numerical inference
+Verse 74:30 states that over it are nineteen. Verse 74:31 then explains purposes explicitly associated with the number and the keepers: a trial for those who disbelieve, assurance for those given Scripture, increase of faith for believers, removal of doubt, and a further test involving the response of those whose hearts contain sickness and those who disbelieve. The verse also affirms that none knows the hosts of the Lord except Him. The immediate textual referent is the keepers over Saqar; the passage does not say that all of God’s hosts number nineteen.
+The verse gives its own stated effects. These are the secure starting point for interpretation. Wider claims that nineteen is a universal key, a complete cipher, or a proof of textual protection are hypotheses and require independent testing. An arithmetic identity can be correct under specified inputs without demonstrating that those inputs were intended as a code. A proposed “checksum” can also fail to detect a change if the alteration preserves the chosen total modulo nineteen.
+One example in the research notes observes that 5,525, the cumulative Kūfan verse position assigned to 74:30 under a stated counting convention, equals the sum of the squares from 1 through 25. The arithmetic is correct once the convention and inputs are accepted. Why that endpoint, why that positional system, and how the result fares against alternative endpoints and counting systems remain open questions. Thus the calculation is an OPEN model for investigation, not evidence by itself of encoded intent or a protective mechanism.
+10. Text, rasm, and the declared unit of counting
+A digital string is not a neutral substitute for a Qur’anic manuscript or a declared orthographic edition. Counting depends on the source text, rasm convention, normalization, treatment of hamza and dagger alif, and rules for separating or joining forms. Any reported letter count must disclose these inputs and the exact rule for each counted character.
+The research notes discuss a 950-letter count for the account of Noah, alongside other reported totals such as 929, 949, 952, and 953. The spread itself shows that the measurement is sensitive to method. The 950 figure remains OPEN until its edition, rasm, normalization, and character rules are fixed and independently reproducible. Frequency ranks can likewise change with normalization. A number obtained from a digital text should therefore be reported as a property of that defined representation, not automatically as a property of every manuscript witness.
+Part IV — Oath, Human Will, and the Measure of the Text
+11. Moon, night, dawn, and warning
+Verses 74:32–37 invoke the moon, the night as it recedes, and the dawn as it brightens, then declare that Saqar is one of the great warnings and a warning to humanity. The sensory and created referents remain present in the text. Interpreting night as ignorance and dawn as truth may be a useful symbolic proposal, but it is a CANDIDATE reading, not a replacement for the stated phenomena.
+The closing of this passage speaks of the one who wills to advance or remain behind (74:37). Read with the final verses, human willing is affirmed within the Qur’an’s account of divine will. The juxtaposition should be preserved; it does not by itself resolve every question about predestination, responsibility, or the relation between human choice and divine decree.
+12. Responsibility and the stated exception
+“Every soul is held by what it has earned, except the people of the right” (74:38–39). The exception is part of the statement and must not disappear in a generalized summary. The passage links the soul’s condition to its earning, but it is not a complete mathematical account of divine justice, nor does it authorize a single formula that overrides other Qur’anic passages on mercy, forgiveness, or intercession.
+The image of being held can be explained through the surrounding discourse of accountability. Any further account of its precise mechanics is an inference and should be marked as such. The study treats the passage as a strong textual basis for responsibility and the named exception, while leaving broader theological reconciliation to a wider, cross-textual inquiry.
+13. The answers about Saqar
+In 74:40–48, the people in the Garden ask the guilty about their entry into Saqar. Their answers name four matters: they were not among those who prayed; they did not feed the needy; they joined those who engaged in vain discourse; and they denied the Day of Judgment until certainty came to them. These are the reasons stated in this exchange.
+The four answers can be arranged as an analytic map of worship, social care, discourse, and belief in accountability. That arrangement is a model for reading the passage, not a claim that the four are an exhaustive taxonomy of every sin, a causal sequence, or a formula by which every person’s fate can be diagnosed. The surah does not authorize replacing prayer with an abstract “consciousness calibration.” Nor should every disagreement, question, or scholarly discussion be classified as vain discourse.
+The phrase “until certainty came to us” is commonly explained by commentators in this context as death. That contextual explanation should not be turned into a universal lexical definition of yaqīn in every Qur’anic setting. Verse 74:48 states that the intercession of intercessors did not benefit them in that scene. The scope is local to this passage; it should not be expanded into a comprehensive doctrine of intercession without examining all relevant verses and their relations.
+Part V — Reminder, Refusal, and Forgiveness
+14. Fleeing from reminder
+Verses 74:49–53 ask what has turned the opponents away from the reminder and picture them as fleeing from a lion. The simile conveys flight and aversion in the discourse. It should not be turned into a biological label for a class of people. Their demand for each person to receive open scriptures is reported as part of the passage; the account is not a reason to condemn every request for evidence or every demand for clarity.
+The image of scattered pages and the preceding demand belong to a critique of refusal in this context. Applying the passage responsibly requires attention to the described conduct, not the mere fact that someone asks questions or seeks documentation.
+15. Remembrance, will, and forgiveness
+The final verses say that the surah is a reminder for whoever wills to take a straight course, while tying that willing to God’s will; they close with the declaration that He is worthy of being feared and the possessor of forgiveness (74:54–56). The ending holds warning and forgiveness together. Neither should be erased: the warning is not dissolved into reassurance, and forgiveness is not excluded by the warning.
+The close also resists coercive readings. The reminder is offered, and the human response is named within a statement of divine will. The passage does not authorize a human interpreter to claim control over another person’s guidance, nor does it turn the surah’s warning into a license for denunciation.
+16. A concise account of the surah’s architecture
+The surah can be read as five connected movements: commissioning and preparation; denial and the warning of Saqar; the number nineteen and its stated function; earning and the dialogue about the people of Saqar; and the closing treatment of reminder, human response, divine will, and forgiveness. This architecture is a reading model that organizes the textual evidence. It is not a claim that all relations are causal or chronological.
+The most secure thread is the recurrence and development of warning, response, earning, turning away, and reminder. The arrangement invites further testing across the surah and in relevant Qur’anic parallels. Where the evidence supports only a possibility, the possibility remains labeled as such.
+Conclusion — Clarity Without Inflation
+Al-Muddaththir begins with a call to rise and warn and ends by presenting reminder, human willing, divine will, and forgiveness together. Between those points it establishes acts of preparation, portrays a particular rejection, announces Saqar and its keepers, states the role assigned to nineteen, and depicts accountability through the exchange about the people of Saqar.
+This condensed reading distinguishes the Qur’anic wording from explanation and inference. It keeps grammatical alternatives visible where they matter, treats counts as dependent on declared inputs, and declines to turn a numerical pattern into proof of a cipher or a protection claim. Its structural map remains a model to be tested against the text. The aim is not to close questions prematurely, but to make clear what the text states, what interpretation proposes, and what remains open.
+Reader’s Appendices
+Appendix A — A one-page reading map
+Address and commission (74:1–7)
+Covered figure → rise and warn → magnify the Lord → purify garments → shun al-rujz → do not seek increase through giving → patience for the Lord.
+Denial and warning (74:8–29)
+The Trumpet → a particular denier’s calculation and rejection → Saqar and its description.
+Keepers and number (74:30–31)
+Nineteen keepers → the purposes the verse itself states → no claim that all divine hosts are nineteen.
+Oath and response (74:32–37)
+Moon, receding night, brightening dawn → great warning → willingness to advance or remain behind.
+Earning and dialogue (74:38–48)
+Each soul held by its earning, with the stated exception → four answers about entry into Saqar → the limits of conclusions drawn from this local scene.
+Reminder and close (74:49–56)
+Flight from reminder → demand for open scriptures → human remembrance and will within divine will → piety and forgiveness.
+Arrows here show the order of the text, not necessarily a chain of causes or historical events.
+Appendix B — Working glossary
+TermUse in this adaptationQur’anic language jurisprudenceThe author’s inquiry into Qur’anic wording, usage, relations, and evidentiary limits; retained as a distinctive methodological term.Al-muddaththirThe addressed one who is wrapped or covered; the opening itself does not specify a psychological diagnosis.Al-rujzThe form in 74:5, written with zāy; its contextual range here remains open.Al-rijsA distinct Qur’anic form written with sīn; not interchangeable with al-rujz by spelling.TastakthirThe second verb in 74:6, whose grammatical relation and interpretive force have been discussed in more than one way.SaqarThe name in the surah’s warning of the Hereafter; not reduced here to a psychological metaphor.MathaniThe author’s term for a system of paired or mutually illuminating relations; any proposed pairing must be demonstrated from the text.RasmThe written form or orthographic convention used as the basis for textual comparison or counting; it must be specified.QCROSThe author’s methodological framework for Qur’anic inquiry; a procedure or model under this name does not replace evidence from the Qur’anic text.OPEN / CANDIDATE / RESISTED / STRONGLY RESISTED / CLOSEDStatus labels for the present research record. CLOSED applies only within the declared scope and inputs.
+Appendix C — Condensed scientific case register
+CasePresent statusWhat the status means hereThe reading of 74:5 as al-rujz, not al-rijsCLOSED within the Ḥafṣ text examinedThe consonantal forms differ; this does not close the full contextual meaning of rujz.Full contextual meaning of al-rujz in 74:5OPENRequires a complete contextual and cross-Qur’anic study.Total functional synonymy of r-j-z and r-j-sRESISTEDThe forms and distributions must be compared, not merged by translation.Attribution and documentation of variant readings in 74:5–6OPENSpecialist reading sources and exact transmission routes require verification.Circumstantial analysis of the raised tastakthiruCANDIDATE (strong)A strong grammatical reading, not the only interpretation to be printed as certain.Exclusive meaning of wa-lā tamnun tastakthirOPENSeveral grammatical and exegetical explanations remain in play.Al-Walīd ibn al-Mughīra as the unnamed figureAttributed exegetical reportCommon in commentary, but not named in the Qur’anic passage itself.Saqar as an exclusively psychological stateSTRONGLY RESISTEDThe surah’s warning belongs to its Qur’anic discourse on the Hereafter.Nineteen as a universal cipher or proof of preservationOPEN / unprovenArithmetic patterns do not alone establish intended coding or protection.The 5,525 cumulative-position calculationCorrect under stated inputs; inference OPENArithmetic does not demonstrate why the endpoint or system was intended.The 950-letter count discussed for NoahOPENMust declare edition, rasm, normalization, and character rules; reported alternatives differ.Five-movement structural mapCANDIDATE reading modelOrganizes relations for testing; does not establish chronology or causation.
+Appendix D — Reverse tests for the reader
+Before accepting a proposed pattern or interpretation, ask:
+1. What exact Qur’anic wording, reading, or declared text is being examined?
+2. Does the claim distinguish quotation from commentary, inference, hypothesis, and operational model?
+3. What contrary verses or counterexamples would weaken the proposal?
+4. If two terms are said to be equivalent, do their separate forms and contexts support that claim across the Qur’an?
+5. If adjacency is used as evidence, has causation or chronology been assumed without additional support?
+6. For a count, are the edition, rasm, normalization, unit, inclusion rules, and calculation reproducible?
+7. Were alternative endpoints, spellings, readings, and counting systems tested?
+8. Does the pattern survive a reverse test that begins from a different passage or disconfirming case?
+9. Is the status label proportionate to the evidence, and is a CLOSED result confined to its declared scope?
+10. Is the previous volume being used as a source of evidence? Under the author’s rule, Previous Volume ≠ Evidence: earlier conclusions must be independently re-established.
+Appendix E — Sources and scope
+The Arabic publication remains the primary source for the author’s full linguistic argument, detailed exegesis, reading discussions, and bibliography. This English adaptation condenses the argument and does not reproduce every classical citation or technical debate. The reader should consult the Arabic edition and its source apparatus before citing a detailed lexical, grammatical, or reading attribution in academic work.
+The Qur’anic text is the governing corpus for claims about wording and intratextual relations. Corpus search tools can support retrieval and counting, but their tokenization and indexing rules must be disclosed. Classical commentaries and specialist qirāʾāt works are needed to establish attribution and explain the history of readings; paraphrases in a research index are leads, not substitutes for the cited works themselves.
+Note on the library statement supplied for this edition
+The Global Knowledge Manifesto above is reproduced as supplied by the author for this condensed edition, including its early-2026 figure of 236 volumes (118 Arabic and 118 English). The author’s supplied wording is preserved. The library’s currently visible catalogue counters and its legacy website may display different totals; catalogue figures should therefore be checked on the relevant platform and date when cited. Current catalogue: https://nasserhabitat.github.io/nasser-books-v2/ · Legacy catalogue: https://nasserhabitat.github.io/nasser-books/.
+End of condensed adaptation
+AL-MUDDATHTHIR  ·  CONDENSED ENGLISH EDITION
+
+Nasser Ibn Dawood  ·  1
+

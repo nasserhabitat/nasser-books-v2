@@ -1,0 +1,564 @@
+{
+  "checked_at": "2026-10-26",
+  "files": [
+    {
+      "number": 126,
+      "id": "1ws2sRnhmHgMQE-kzYos9MCC3BQ7DhdL5",
+      "name": "126-Jinn_and_Devils_Quran_Volume_II-en.docx",
+      "language": "en",
+      "size": 9093445,
+      "public_readable": true
+    },
+    {
+      "number": 126,
+      "id": "13oNH7ormdD5NfROjLysykwpbynnYlsxC",
+      "name": "126-Jinn_and_Devils_Quran_Volume_II-en.pdf",
+      "language": "en",
+      "size": 609139,
+      "public_readable": true
+    },
+    {
+      "number": 126,
+      "id": "1z8Wc2p1uHZWAM48e9fMak6lp3uSJ5Scc",
+      "name": "126-Jinn_and_Devils_Quran_Volume_II-en.txt",
+      "language": "en",
+      "size": 45215,
+      "public_readable": true
+    },
+    {
+      "number": 126,
+      "id": "1i4HAhFV07khB2yGrzrPxoYiVodHjAzxX",
+      "name": "126-Jinn_and_Devils_Quran_Volume_II-ar.txt",
+      "language": "ar",
+      "size": 357466,
+      "public_readable": true
+    },
+    {
+      "number": 126,
+      "id": "1HRciQ52BVEhhvKA3JwYa5QvaaSjjVhk4",
+      "name": "126-Jinn_and_Devils_Quran_Volume_II-ar.pdf",
+      "language": "ar",
+      "size": 7648456,
+      "public_readable": true
+    },
+    {
+      "number": 126,
+      "id": "1LFxZmvEfd47-bcKG_zEcIA68XGfWh7rS",
+      "name": "126-Jinn_and_Devils_Quran_Volume_II-ar.docx",
+      "language": "ar",
+      "size": 30188748,
+      "public_readable": true
+    },
+    {
+      "number": 127,
+      "id": "1WTT_7-5o0cPsbd19HXb7_3ixwkd1G66b",
+      "name": "127-The_Mosque_and_the_House_in_Quranic-en.txt",
+      "language": "en",
+      "size": 40992,
+      "public_readable": true
+    },
+    {
+      "number": 127,
+      "id": "13eh6wQZHG4nn77yss7DX1BIwmfUwC9J8",
+      "name": "127-The_Mosque_and_the_House_in_Quranic-en.pdf",
+      "language": "en",
+      "size": 582826,
+      "public_readable": true
+    },
+    {
+      "number": 127,
+      "id": "1IC982e-H6WfdAMUGK2QOPyEFp0l6YJOw",
+      "name": "127-The_Mosque_and_the_House_in_Quranic-en.docx",
+      "language": "en",
+      "size": 11408280,
+      "public_readable": true
+    },
+    {
+      "number": 127,
+      "id": "1S9rG4yAq7qNvgV0Z9vol95fO4O3BPHV9",
+      "name": "127-The_Mosque_and_the_House_in_Quranic-ar.txt",
+      "language": "ar",
+      "size": 169749,
+      "public_readable": true
+    },
+    {
+      "number": 127,
+      "id": "1GiwcnGFo6pujWZvfPq0Cys3ZC3nsp0nA",
+      "name": "127-The_Mosque_and_the_House_in_Quranic-ar.pdf",
+      "language": "ar",
+      "size": 5469032,
+      "public_readable": true
+    },
+    {
+      "number": 127,
+      "id": "1SrWiREDKpQOv8cYZMMQAFatzt6Ia39na",
+      "name": "127-The_Mosque_and_the_House_in_Quranic-ar.docx",
+      "language": "ar",
+      "size": 15391996,
+      "public_readable": true
+    },
+    {
+      "number": 128,
+      "id": "1840Hl858cbMaMq7l5Rmq4rBnp1PBPCpz",
+      "name": "128-Rabb al-Alamin-ar.pdf",
+      "language": "ar",
+      "size": 5431579,
+      "public_readable": true
+    },
+    {
+      "number": 128,
+      "id": "1v0At62CgjPRYFnpWEKnhaK5o0AIJj7fW",
+      "name": "128-Rabb al-Alamin-ar.docx",
+      "language": "ar",
+      "size": 19261217,
+      "public_readable": true
+    },
+    {
+      "number": 129,
+      "id": "1eKgJVPCsbNX8hju97G-XP9MybxQazoPD",
+      "name": "129-Isfar_AlSubh-en.pdf",
+      "language": "en",
+      "size": 615950,
+      "public_readable": true
+    },
+    {
+      "number": 129,
+      "id": "1eXvCDN127U-ni5QYFVWiQA7hx454ZZzm",
+      "name": "129-Isfar_AlSubh-en.txt",
+      "language": "en",
+      "size": 43313,
+      "public_readable": true
+    },
+    {
+      "number": 129,
+      "id": "1oSXs8zTxgVls7NWCkH0U5yKDF3IZBUVt",
+      "name": "129-Isfar_AlSubh-en.docx",
+      "language": "en",
+      "size": 3573790,
+      "public_readable": true
+    },
+    {
+      "number": 129,
+      "id": "1cyIcl7wjDuFE1NnDmIkywf42GM_DmCvk",
+      "name": "129-Isfar_AlSubh-ar.docx",
+      "language": "ar",
+      "size": 14710631,
+      "public_readable": true
+    },
+    {
+      "number": 129,
+      "id": "18vQTb1n1Hsa_qWA3R_B1L_MWSe2k9JWL",
+      "name": "129-Isfar_AlSubh-ar.pdf",
+      "language": "ar",
+      "size": 6513821,
+      "public_readable": true
+    },
+    {
+      "number": 129,
+      "id": "1AHAAXQ--RssVdbm-kE_M5dAwrHMKMbfi",
+      "name": "129-Isfar_AlSubh-ar.txt",
+      "language": "ar",
+      "size": 454270,
+      "public_readable": true
+    },
+    {
+      "number": 131,
+      "id": "1auOii53IoOTbmSrLEpQ_ZVNn92eelVid",
+      "name": "131-riba-quran-banking-vol3-96-ar.txt",
+      "language": "ar",
+      "size": 993578,
+      "public_readable": true
+    },
+    {
+      "number": 131,
+      "id": "1OfdXgH_n9hrwR3d_WXT5RsOPItovoyC3",
+      "name": "131-riba-quran-banking-vol3-96-ar.pdf",
+      "language": "ar",
+      "size": 11735708,
+      "public_readable": true
+    },
+    {
+      "number": 131,
+      "id": "1moAxSVIgVJx8JLW_ZvsqObWf6hyqHrEe",
+      "name": "131-riba-quran-banking-vol3-96-ar.docx",
+      "language": "ar",
+      "size": 18643546,
+      "public_readable": true
+    },
+    {
+      "number": 131,
+      "id": "1ef4d0pCf3eFZiYl1R9mQr4xHYmnrJYV6",
+      "name": "131-riba-quran-banking-vol3-96-en.txt",
+      "language": "en",
+      "size": 22723,
+      "public_readable": true
+    },
+    {
+      "number": 131,
+      "id": "1LKLMMtOmI2s2Km8nD5WOYXJ-7ah-cqbf",
+      "name": "131-riba-quran-banking-vol3-96-en.pdf",
+      "language": "en",
+      "size": 673440,
+      "public_readable": true
+    },
+    {
+      "number": 131,
+      "id": "1j8mKDMWcobX7Mo7F6_AJjqrP66XqdJt7",
+      "name": "131-riba-quran-banking-vol3-96-en.docx",
+      "language": "en",
+      "size": 6751772,
+      "public_readable": true
+    },
+    {
+      "number": 132,
+      "id": "1gZhRk7UpNgUwkEXdF_HH3FDe9f-07200",
+      "name": "132-riba-quran-banking-vol3-96.txt",
+      "language": "en",
+      "size": 16139,
+      "public_readable": true
+    },
+    {
+      "number": 132,
+      "id": "1UHGLiWsBGXAg9D2zK_bziQY_JHJDCwMU",
+      "name": "132-riba-quran-banking-vol3-96.docx",
+      "language": "en",
+      "size": 6749533,
+      "public_readable": true
+    },
+    {
+      "number": 132,
+      "id": "1LzS_jkxOIoFiIHIKGXvpZCkrzrzg98by",
+      "name": "132-riba-quran-banking-vol3-96.pdf",
+      "language": "en",
+      "size": 337494,
+      "public_readable": true
+    },
+    {
+      "number": 132,
+      "id": "11fwbhoyc4zN7RwxN8cdyiiciphJmgCLP",
+      "name": "132-riba-quran-banking-vol4-96-ar.txt",
+      "language": "ar",
+      "size": 710244,
+      "public_readable": true
+    },
+    {
+      "number": 132,
+      "id": "1dihROehHG3erB2IHM69YZnS8xj_fMz8f",
+      "name": "132-riba-quran-banking-vol4-96-ar.pdf",
+      "language": "ar",
+      "size": 10013362,
+      "public_readable": true
+    },
+    {
+      "number": 132,
+      "id": "18RBQuk3rIsmoVQKzZY4VCj17bU3jwg3w",
+      "name": "132-riba-quran-banking-vol4-96-ar.docx",
+      "language": "ar",
+      "size": 19395030,
+      "public_readable": true
+    },
+    {
+      "number": 133,
+      "id": "1iCN7gAypfqW73TSVcm2w96qcQ-1qMbxs",
+      "name": "133-Al-Muddaththir-in-the-Qur’ani-en.txt",
+      "language": "en",
+      "size": 31624,
+      "public_readable": true
+    },
+    {
+      "number": 133,
+      "id": "12cjz02A-6i7KX-T4fVJhqWi45hhRb1DT",
+      "name": "133-Al-Muddaththir-in-the-Qur’ani-en.docx",
+      "language": "en",
+      "size": 5192427,
+      "public_readable": true
+    },
+    {
+      "number": 133,
+      "id": "1KL1zU4dTlPhTQlaREvV9ohAoTd-CkPlE",
+      "name": "133-Al-Muddaththir-in-the-Qur’ani-en.pdf",
+      "language": "en",
+      "size": 433675,
+      "public_readable": true
+    },
+    {
+      "number": 133,
+      "id": "1jmyO2LBfN4lJ4WEu9BEhZESDN6Rb2uxf",
+      "name": "133-Al-Muddaththir-in-the-Qur’ani-ar.docx",
+      "language": "ar",
+      "size": 10295034,
+      "public_readable": true
+    },
+    {
+      "number": 133,
+      "id": "153IbE8HjIrysWYti17nmeTPH38gJvn6D",
+      "name": "133-Al-Muddaththir-in-the-Qur’ani-ar.pdf",
+      "language": "ar",
+      "size": 5198664,
+      "public_readable": true
+    },
+    {
+      "number": 133,
+      "id": "1MzJ0ZpHwhXXcB0npiSFxZLUgMjS0OmrB",
+      "name": "133-Al-Muddaththir-in-the-Qur’ani-ar.txt",
+      "language": "ar",
+      "size": 184293,
+      "public_readable": true
+    },
+    {
+      "number": 128,
+      "language": "en",
+      "id": "1nGF3fu5Q10oQ9zdZfa4aMkpw2D--rwcx",
+      "name": "128-Rabb al-Alamin en.txt",
+      "size": 37002,
+      "public_readable": true
+    },
+    {
+      "number": 128,
+      "language": "en",
+      "id": "1iKYpOMSBpYgZbyxqN4AtZAFmAXJ_kY0H",
+      "name": "128-Rabb al-Alamin en.pdf",
+      "size": 367486,
+      "public_readable": true
+    },
+    {
+      "number": 128,
+      "language": "en",
+      "id": "1e3XRZLYJao7icsaWP4cDWPf8wCq22gyp",
+      "name": "128-Rabb al-Alamin en.docx",
+      "size": 8212480,
+      "public_readable": true
+    },
+    {
+      "number": 130,
+      "language": "ar",
+      "id": "1xDRU_EHjq458TSh0cYSfC2k4YcDkHauN",
+      "name": "130-death-vocabulary-in-quran-part2-106-B-ar.txt",
+      "size": 140872,
+      "public_readable": true
+    },
+    {
+      "number": 130,
+      "language": "ar",
+      "id": "1-HsvBpi1GWz3p-1wn6TwFqHLXmcmDDxj",
+      "name": "130-death-vocabulary-in-quran-part2-106-B-ar.pdf",
+      "size": 1709409,
+      "public_readable": true
+    },
+    {
+      "number": 130,
+      "language": "ar",
+      "id": "16DGSVoGJzDOBi7BWyae32egwgYJiLzG_",
+      "name": "130-death-vocabulary-in-quran-part2-106-B-ar.docx",
+      "size": 15550760,
+      "public_readable": true
+    },
+    {
+      "number": 130,
+      "language": "en",
+      "id": "1mMAjMrRc9Wj2VfUhDx5uqtkx2KSPl0jM",
+      "name": "130-death-vocabulary-in-quran-part2-106-B-en.txt",
+      "size": 15949,
+      "public_readable": true
+    },
+    {
+      "number": 130,
+      "language": "en",
+      "id": "1fjxUYHZbLx8L18l539EBxXw0fuYHYNQb",
+      "name": "130-death-vocabulary-in-quran-part2-106-B-en.docx",
+      "size": 12729657,
+      "public_readable": true
+    },
+    {
+      "number": 130,
+      "language": "en",
+      "id": "1nqzaIPA9ALEvfZEmbcAlNsC-JBe6J9Cs",
+      "name": "130-death-vocabulary-in-quran-part2-106-B-en.pdf",
+      "size": 722717,
+      "public_readable": true
+    }
+  ],
+  "assets": [
+    {
+      "number": 126,
+      "id": "Jinn_and_Devils_Quran_Volume_II",
+      "language": "ar",
+      "text_sha256": "ed621989299e31bb46d7591effbc6f055251e03ba7e18a9200efdadfc932455d",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "126-Jinn_and_Devils_Quran_Volume_II\\ar\\126-Jinn_and_Devils_Quran_Volume_II-ar-cover.png",
+      "cover_name": "Jinn_and_Devils_Quran_Volume_II-ar-cover.png",
+      "cover_sha256": "811febdf16cb145edd7baa1945f62ef606d8e29898c6f258ef5ab0b84aa358ad"
+    },
+    {
+      "number": 126,
+      "id": "Jinn_and_Devils_Quran_Volume_II",
+      "language": "en",
+      "text_sha256": "16be41c2912474e0b58a4476efe9a3e42f3451f4c451c8239fc7628c8c54476d",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "126-Jinn_and_Devils_Quran_Volume_II\\en\\126-Jinn_and_Devils_Quran_Volume_II-en-cover.png",
+      "cover_name": "Jinn_and_Devils_Quran_Volume_II-en-cover.png",
+      "cover_sha256": "84ed1fdc9c150e347efe8301a67b3981cf2214e1a5cac73b8157412e88076f62"
+    },
+    {
+      "number": 127,
+      "id": "The_Mosque_and_the_House_in_Quranic",
+      "language": "ar",
+      "text_sha256": "f2bab5073e9039a861b0bcb072a5d5bc6490b342bddea0efdcf09a7a7f96171f",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "127-The_Mosque_and_the_House_in_Quranic\\ar\\127-The_Mosque_and_the_House_in_Quranic-ar-cover.png",
+      "cover_name": "The_Mosque_and_the_House_in_Quranic-ar-cover.png",
+      "cover_sha256": "f6e800bc398a064147c228a322cf6d15215fc1149a015a22b8fea769c1e8453f"
+    },
+    {
+      "number": 127,
+      "id": "The_Mosque_and_the_House_in_Quranic",
+      "language": "en",
+      "text_sha256": "f7f5b87f221a398e14c361a0ec22bb7e53dc057ad94bda94941aa6ccff3d970d",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "127-The_Mosque_and_the_House_in_Quranic\\en\\127-The_Mosque_and_the_House_in_Quranic-en-cover.png",
+      "cover_name": "The_Mosque_and_the_House_in_Quranic-en-cover.png",
+      "cover_sha256": "636f838e92fc1e3c2d067475a9158be1486f9ec02b37abd884cab5b7e3a3e8b6"
+    },
+    {
+      "number": 128,
+      "id": "Rabb_al_Alamin",
+      "language": "ar",
+      "text_sha256": "b781872a54a46b436c3ac2d8c24738bc8f2271191947e5b55f3a98105bf5fc0b",
+      "text_source": "docx_extraction",
+      "docx_sha256": "3ad81a3584a1d4f119710e10865720b6fa9550ab01bd1a42c09f22fecb304574",
+      "cover_source": "128-Rabb al-Alamin\\ar\\128-rabb-al-alamin-cover-ar.png",
+      "cover_name": "Rabb_al_Alamin-ar-cover.png",
+      "cover_sha256": "f3f1829515611193c83da0cfedaffee93e9fe05703fc7cdf5082989a2af15490"
+    },
+    {
+      "number": 128,
+      "id": "Rabb_al_Alamin",
+      "language": "en",
+      "text_sha256": "ef8580cf6f50f5815f7d3f19cbd6b24dec24dc75ecc7f408ef13ee80d02bd0ff",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "128-Rabb al-Alamin\\en\\128-rabb-al-alamin-cover-en.png",
+      "cover_name": "Rabb_al_Alamin-en-cover.png",
+      "cover_sha256": "672e8c101021c9b2d88948a8071d260ce600b138f6b451b05218ec3c09761906"
+    },
+    {
+      "number": 129,
+      "id": "Isfar_AlSubh",
+      "language": "ar",
+      "text_sha256": "ee4d1da3d39ed14582821cb8edf419112e35bb5ca0b050003ae94959172d4bce",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "129-Isfar_AlSubh\\ar\\129-Isfar_AlSubh-ar-cover.png",
+      "cover_name": "Isfar_AlSubh-ar-cover.png",
+      "cover_sha256": "38a4c7b8b353402998a96ad0a2c1698d460896977c20b84d889d40fab052e85d"
+    },
+    {
+      "number": 129,
+      "id": "Isfar_AlSubh",
+      "language": "en",
+      "text_sha256": "eee16aab6b6607ec0ddb8b2bc7e29f22d11278c189c7212f53f0a6512fe8e869",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "129-Isfar_AlSubh\\en\\129-Isfar_AlSubh-en-cover.png",
+      "cover_name": "Isfar_AlSubh-en-cover.png",
+      "cover_sha256": "fc6dcab4b422f7160b86f8afcab4502b128b9286d4bbbe375595bacd18922a5e"
+    },
+    {
+      "number": 130,
+      "id": "death-vocabulary-in-quran-part2-106-B",
+      "language": "ar",
+      "text_sha256": "c754e5adaee49c076c47d5a55ec7548a50419ca9675ee6ba2b1ca4822441c312",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "130-death-vocabulary-in-quran-part2-106-B\\130-death-vocabulary-in-quran-part2-106-B-ar-cover.png",
+      "cover_name": "death-vocabulary-in-quran-part2-106-B-ar-cover.png",
+      "cover_sha256": "396c5839d7ce7f2a3a0128537e3dc1ad9e2b7dd2efde4b19991cc933e9276bea"
+    },
+    {
+      "number": 130,
+      "id": "death-vocabulary-in-quran-part2-106-B",
+      "language": "en",
+      "text_sha256": "a5cfde15c7e26cdeb23d882d1738876a4a49dec9f30ccf5d35ecdf016169b84f",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "130-death-vocabulary-in-quran-part2-106-B\\130-death-vocabulary-in-quran-part2-106-B-en-cover.png",
+      "cover_name": "death-vocabulary-in-quran-part2-106-B-en-cover.png",
+      "cover_sha256": "9810855ec6bbacbfa8cf476506faf85d009e3d48632edb0c449e4e491a7030e0"
+    },
+    {
+      "number": 131,
+      "id": "riba-quran-banking-vol3-96",
+      "language": "ar",
+      "text_sha256": "a4d7564cba7c9d5a4fe8f3617dc35a1afb8a8dc9af998606585c3324133b602b",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "131-riba-quran-banking-vol3-96\\ar\\131-riba-quran-banking-vol3-96-ar-cover.png",
+      "cover_name": "riba-quran-banking-vol3-96-ar-cover.png",
+      "cover_sha256": "61fac04dbd3ab1973a4d7cecac8ed685212c87a3a14dee1576786daa3ea0a156"
+    },
+    {
+      "number": 131,
+      "id": "riba-quran-banking-vol3-96",
+      "language": "en",
+      "text_sha256": "bd24d3b33e4002ded5c247155542a78bc56a65afbd835f7f921cf1f102fdb541",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "131-riba-quran-banking-vol3-96\\en\\131-riba-quran-banking-vol3-96-en.png",
+      "cover_name": "riba-quran-banking-vol3-96-en-cover.png",
+      "cover_sha256": "a9ac2be5af5bf87d5627d4c7baa4ac50eb9266e167c5aaf8dbb62fce40409eb5"
+    },
+    {
+      "number": 132,
+      "id": "riba-quran-banking-vol4-96",
+      "language": "ar",
+      "text_sha256": "e3967679cda4466b46aeb14ce4fd8245bd58f002c77eaae7a6d66adb85126a34",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "132-riba-quran-banking-vol4-96\\ar\\132-riba-quran-banking-vol4-96-ar-cover.png",
+      "cover_name": "riba-quran-banking-vol4-96-ar-cover.png",
+      "cover_sha256": "37ea78a44ee184f5a923c2b368ae5200e211b048a69c88e5fa219b7fc0daadc6"
+    },
+    {
+      "number": 132,
+      "id": "riba-quran-banking-vol4-96",
+      "language": "en",
+      "text_sha256": "f2dc9b63fb4cca7ee2d75e077196a68cd423d48ebf04d8571b68a1e89d6f112b",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "132-riba-quran-banking-vol4-96\\ar\\132-riba-quran-banking-vol4-96-ar-cover.png",
+      "cover_name": "riba-quran-banking-vol4-96-en-cover.png",
+      "cover_sha256": "37ea78a44ee184f5a923c2b368ae5200e211b048a69c88e5fa219b7fc0daadc6"
+    },
+    {
+      "number": 133,
+      "id": "Al-Muddaththir-in-the-Qurani",
+      "language": "ar",
+      "text_sha256": "26a823e472cf25e0080a8d5c6baeba4e8d7bb2cae831d0c528c81d66b241b336",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "133-Al-Muddaththir-in-the-Qur’ani\\ar\\133-Al-Muddaththir-in-the-Qur’ani-ar-cover.png",
+      "cover_name": "Al-Muddaththir-in-the-Qurani-ar-cover.png",
+      "cover_sha256": "aee87c9f41179767b18abf1ef81bde20e23c6658dabfeba0c663ca0db71e46bc"
+    },
+    {
+      "number": 133,
+      "id": "Al-Muddaththir-in-the-Qurani",
+      "language": "en",
+      "text_sha256": "20a78272799937869528f2dc506fb083adb443aa2b119d1a2c495422a5e80ba6",
+      "text_source": "original_drive_txt",
+      "docx_sha256": null,
+      "cover_source": "133-Al-Muddaththir-in-the-Qur’ani\\en\\133-Al-Muddaththir-in-the-Qur’ani-en-cover.png",
+      "cover_name": "Al-Muddaththir-in-the-Qurani-en-cover.png",
+      "cover_sha256": "cc112ce27128ade98cba3506c5990197815356e2eefc0590b7cc99b1462237f6"
+    }
+  ],
+  "notes": [
+    "132 English filenames say vol3; text identifies Volume Four. Correct Volume Four English-language cover from Arabic source folder used by author approval.",
+    "All new editions have supplied PDF links. Author supplied TXT replaces extraction for 128 English and both 130 editions.",
+    "Only 128 Arabic searchable text remains extracted from the original Word document."
+  ]
+}

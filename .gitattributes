@@ -5,3 +5,13 @@ books/The-Qur'an-the-Prophetic-Elucidation-and-the-Narrated-Reports/*/*.txt -tex
 books/Dhikr_in_the_Quranic/*/*.txt -text
 books/Istighfar_in_the_Quranic/*/*.txt -text
 books/The-Messiah-and-the-Dajjal/*/*.txt -text
+
+# Preserve new-book text bytes
+books/Jinn_and_Devils_Quran_Volume_II/*/*.txt -text
+books/The_Mosque_and_the_House_in_Quranic/*/*.txt -text
+books/Rabb_al_Alamin/*/*.txt -text
+books/Isfar_AlSubh/*/*.txt -text
+books/death-vocabulary-in-quran-part2-106-B/*/*.txt -text
+books/riba-quran-banking-vol3-96/*/*.txt -text
+books/riba-quran-banking-vol4-96/*/*.txt -text
+books/Al-Muddaththir-in-the-Qurani/*/*.txt -text

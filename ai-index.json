@@ -3,10 +3,10 @@
     "name": "مكتبة ناصر ابن داوود",
     "version": "2.0",
     "ai_compatible": true,
-    "last_updated": "2026-10-17",
-    "total_books_arabic": 125,
-    "total_books_english": 125,
-    "total_books": 250,
+    "last_updated": "2026-10-26",
+    "total_books_arabic": 133,
+    "total_books_english": 133,
+    "total_books": 266,
     "languages": [
       "ar",
       "en"
@@ -33,7 +33,7 @@
       ]
     }
   },
-  "last_updated": "2026-10-17",
+  "last_updated": "2026-10-26",
   "books": [
     {
       "id": "conscious-contemplation",
@@ -9212,6 +9212,398 @@
         "pdf_external": "https://drive.google.com/uc?export=download&id=1F1bkOGq7KLj82xqQEWVrhnV5-U5_a5Rb"
       },
       "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/The-Messiah-and-the-Dajjal/ar/125-The-Messiah-and-the-Dajjal-ar-cover.jpg"
+    },
+    {
+      "id": "Jinn_and_Devils_Quran_Volume_II",
+      "book_number": 126,
+      "titles": {
+        "ar": "الجن والشياطين في القرآن — الجزء الثاني",
+        "en": "Jinn and Devils in the Qur’an — Volume Two"
+      },
+      "description": {
+        "ar": "دراسة لدلالة الجن والتكليف وحدود السلطان، من الخلق الأول إلى الخفاء النسبي، تختبر الفرضيات بالموارد المقابلة وتفصل استنباط المؤلف عن النص القرآني.",
+        "en": "A study of jinn, moral responsibility, and limits of authority, distinguishing authorial hypotheses from Qur’anic evidence."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "اللسان القرآني",
+          "التدبر",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Quranic language",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر وليست ترجمة حرفية كاملة؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual English adaptation; the Arabic text remains the primary source for detailed analysis and references."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Jinn_and_Devils_Quran_Volume_II/ar/126-Jinn_and_Devils_Quran_Volume_II-ar.txt",
+        "cover": "books/Jinn_and_Devils_Quran_Volume_II/ar/Jinn_and_Devils_Quran_Volume_II-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1LFxZmvEfd47-bcKG_zEcIA68XGfWh7rS",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1HRciQ52BVEhhvKA3JwYa5QvaaSjjVhk4"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Jinn_and_Devils_Quran_Volume_II/en/126-Jinn_and_Devils_Quran_Volume_II-en.txt",
+        "cover": "books/Jinn_and_Devils_Quran_Volume_II/en/Jinn_and_Devils_Quran_Volume_II-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1ws2sRnhmHgMQE-kzYos9MCC3BQ7DhdL5",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=13oNH7ormdD5NfROjLysykwpbynnYlsxC"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Jinn_and_Devils_Quran_Volume_II/ar/Jinn_and_Devils_Quran_Volume_II-ar-cover.png"
+    },
+    {
+      "id": "The_Mosque_and_the_House_in_Quranic",
+      "book_number": 127,
+      "titles": {
+        "ar": "المسجد والبيت في اللسان القرآني",
+        "en": "The Mosque and the House in Quranic Language"
+      },
+      "description": {
+        "ar": "دراسة سياقية مثانية في المكان والوعي والعمران، تعرض النماذج المعرفية بوصفها استنباطات بشرية قابلة للاختبار.",
+        "en": "A contextual and structural study of place, awareness, and civilization, distinguishing spatial meanings from interpretive models."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "اللسان القرآني",
+          "التدبر",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Quranic language",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر وليست ترجمة حرفية كاملة؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual English adaptation; the Arabic text remains the primary source for detailed analysis and references."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/The_Mosque_and_the_House_in_Quranic/ar/127-The_Mosque_and_the_House_in_Quranic-ar.txt",
+        "cover": "books/The_Mosque_and_the_House_in_Quranic/ar/The_Mosque_and_the_House_in_Quranic-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1SrWiREDKpQOv8cYZMMQAFatzt6Ia39na",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1GiwcnGFo6pujWZvfPq0Cys3ZC3nsp0nA"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/The_Mosque_and_the_House_in_Quranic/en/127-The_Mosque_and_the_House_in_Quranic-en.txt",
+        "cover": "books/The_Mosque_and_the_House_in_Quranic/en/The_Mosque_and_the_House_in_Quranic-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1IC982e-H6WfdAMUGK2QOPyEFp0l6YJOw",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=13eh6wQZHG4nn77yss7DX1BIwmfUwC9J8"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/The_Mosque_and_the_House_in_Quranic/ar/The_Mosque_and_the_House_in_Quranic-ar-cover.png"
+    },
+    {
+      "id": "Rabb_al_Alamin",
+      "book_number": 128,
+      "titles": {
+        "ar": "رَبُّ الْعَالَمِينَ وَرَبُّ «الْعَلِمِينَ»؟",
+        "en": "Lord of the Worlds, and Lord of “Al-ʿIlmīn”?"
+      },
+      "description": {
+        "ar": "من هندسة الخلق والأمر إلى هندسة العلم والهداية؛ دراسة تدبرية بنيوية مفتوحة. عبارة «رب العَلِمين» سؤال تدبري للمؤلف وليست قراءة قرآنية مثبتة.",
+        "en": "From creation and command to knowledge and guidance. “Rabb al-ʿIlmīn” is the author’s contemplative question, not an established Qur’anic reading."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "اللسان القرآني",
+          "التدبر",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Quranic language",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر وليست ترجمة حرفية كاملة؛ يبقى النص العربي المرجع الأساسي. النص القابل للبحث مستخرج من Word؛ راجع الأصل للجداول والصور والتنسيق.",
+          "en": "Condensed conceptual English adaptation; the Arabic text remains the primary source for detailed analysis and references."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Rabb_al_Alamin/ar/128-Rabb_al_Alamin-ar.txt",
+        "cover": "books/Rabb_al_Alamin/ar/Rabb_al_Alamin-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1v0At62CgjPRYFnpWEKnhaK5o0AIJj7fW",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1840Hl858cbMaMq7l5Rmq4rBnp1PBPCpz"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Rabb_al_Alamin/en/128-Rabb_al_Alamin-en.txt",
+        "cover": "books/Rabb_al_Alamin/en/Rabb_al_Alamin-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1e3XRZLYJao7icsaWP4cDWPf8wCq22gyp",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1iKYpOMSBpYgZbyxqN4AtZAFmAXJ_kY0H"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Rabb_al_Alamin/ar/Rabb_al_Alamin-ar-cover.png"
+    },
+    {
+      "id": "Isfar_AlSubh",
+      "book_number": 129,
+      "titles": {
+        "ar": "إسفار الصبح المعرفي — قراءة لسانية روحية في هندسة الوعي القرآني",
+        "en": "The Dawning of Understanding"
+      },
+      "description": {
+        "ar": "دراسة تطبيقية في سورة المزمل، تعرض قراءة المؤلف اللسانية والروحية في هندسة الوعي مع الفصل بين الشاهد القرآني والتأويل والنموذج.",
+        "en": "A linguistic and spiritual inquiry into Qur’anic awareness through Surat al-Muzzammil, distinguishing evidence, interpretation, and models."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "اللسان القرآني",
+          "التدبر",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Quranic language",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر وليست ترجمة حرفية كاملة؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual English adaptation; the Arabic text remains the primary source for detailed analysis and references."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Isfar_AlSubh/ar/129-Isfar_AlSubh-ar.txt",
+        "cover": "books/Isfar_AlSubh/ar/Isfar_AlSubh-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1cyIcl7wjDuFE1NnDmIkywf42GM_DmCvk",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=18vQTb1n1Hsa_qWA3R_B1L_MWSe2k9JWL"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Isfar_AlSubh/en/129-Isfar_AlSubh-en.txt",
+        "cover": "books/Isfar_AlSubh/en/Isfar_AlSubh-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1oSXs8zTxgVls7NWCkH0U5yKDF3IZBUVt",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1eKgJVPCsbNX8hju97G-XP9MybxQazoPD"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Isfar_AlSubh/ar/Isfar_AlSubh-ar-cover.png"
+    },
+    {
+      "id": "death-vocabulary-in-quran-part2-106-B",
+      "book_number": 130,
+      "titles": {
+        "ar": "الموت والميتة والأموات والموتى في القرآن — الجزء الثاني (106-B)",
+        "en": "Death, the Dead, and Mortality in the Quran — Part II (106-B)"
+      },
+      "description": {
+        "ar": "هندسة المآل ودوائر الوعي وأطلس الفرضيات الممتدة خارج مدونة جذر (م و ت). يميز البحث النص والبيان والاستنباط الشبكي والنماذج التشغيلية، ويحفظ حالات الفرضيات المفتوحة.",
+        "en": "Engineering of destiny, consciousness trajectories, and the extended atlas of hypotheses, distinguishing text, inference, and operational models."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "اللسان القرآني",
+          "التدبر",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Quranic language",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر وليست ترجمة حرفية كاملة؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual English adaptation; the Arabic text remains the primary source for detailed analysis and references."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/death-vocabulary-in-quran-part2-106-B/ar/130-death-vocabulary-in-quran-part2-106-B-ar.txt",
+        "cover": "books/death-vocabulary-in-quran-part2-106-B/ar/death-vocabulary-in-quran-part2-106-B-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=16DGSVoGJzDOBi7BWyae32egwgYJiLzG_",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1-HsvBpi1GWz3p-1wn6TwFqHLXmcmDDxj"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/death-vocabulary-in-quran-part2-106-B/en/130-death-vocabulary-in-quran-part2-106-B-en.txt",
+        "cover": "books/death-vocabulary-in-quran-part2-106-B/en/death-vocabulary-in-quran-part2-106-B-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1fjxUYHZbLx8L18l539EBxXw0fuYHYNQb",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1nqzaIPA9ALEvfZEmbcAlNsC-JBe6J9Cs"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/death-vocabulary-in-quran-part2-106-B/ar/death-vocabulary-in-quran-part2-106-B-ar-cover.png"
+    },
+    {
+      "id": "riba-quran-banking-vol3-96",
+      "book_number": 131,
+      "titles": {
+        "ar": "الربا في القرآن والنظام المصرفي المعاصر — المجلد الثالث",
+        "en": "Riba in the Qur’an and the Contemporary Banking System — Volume Three"
+      },
+      "description": {
+        "ar": "دراسة المصارف التقليدية والإسلامية والديون السيادية ومختبر المنتجات، من هندسة الاستحقاق إلى اختبار بنية المعاملة؛ أدوات التدقيق نماذج بحثية للمؤلف.",
+        "en": "Conventional and Islamic banking, sovereign debt, and structural auditing of financial products through the author’s research framework."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "اللسان القرآني",
+          "التدبر",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Quranic language",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر وليست ترجمة حرفية كاملة؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual English adaptation; the Arabic text remains the primary source for detailed analysis and references."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/riba-quran-banking-vol3-96/ar/131-riba-quran-banking-vol3-96-ar.txt",
+        "cover": "books/riba-quran-banking-vol3-96/ar/riba-quran-banking-vol3-96-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1moAxSVIgVJx8JLW_ZvsqObWf6hyqHrEe",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1OfdXgH_n9hrwR3d_WXT5RsOPItovoyC3"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/riba-quran-banking-vol3-96/en/131-riba-quran-banking-vol3-96-en.txt",
+        "cover": "books/riba-quran-banking-vol3-96/en/riba-quran-banking-vol3-96-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1j8mKDMWcobX7Mo7F6_AJjqrP66XqdJt7",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1LKLMMtOmI2s2Km8nD5WOYXJ-7ah-cqbf"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/riba-quran-banking-vol3-96/ar/riba-quran-banking-vol3-96-ar-cover.png"
+    },
+    {
+      "id": "riba-quran-banking-vol4-96",
+      "book_number": 132,
+      "titles": {
+        "ar": "الربا في القرآن والنظام المصرفي المعاصر — المجلد الرابع",
+        "en": "Riba in the Qur’an and the Contemporary Banking System — Volume Four"
+      },
+      "description": {
+        "ar": "دراسة المنتجات المالية ومصفوفة المتغيرات الموحدة وإعادة الاختبار المستقل، مع إبقاء نتائج النماذج التشغيلية في مرتبتها البحثية.",
+        "en": "Financial products, the unified variable matrix, and independent re-testing, preserving the research status of operational models."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "اللسان القرآني",
+          "التدبر",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Quranic language",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر وليست ترجمة حرفية كاملة؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual English adaptation; the Arabic text remains the primary source for detailed analysis and references. The supplied Volume Four cover from the Arabic source folder is used with the author’s approval."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/riba-quran-banking-vol4-96/ar/132-riba-quran-banking-vol4-96-ar.txt",
+        "cover": "books/riba-quran-banking-vol4-96/ar/riba-quran-banking-vol4-96-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=18RBQuk3rIsmoVQKzZY4VCj17bU3jwg3w",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1dihROehHG3erB2IHM69YZnS8xj_fMz8f"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/riba-quran-banking-vol4-96/en/132-riba-quran-banking-vol4-96-en.txt",
+        "cover": "books/riba-quran-banking-vol4-96/en/riba-quran-banking-vol4-96-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1UHGLiWsBGXAg9D2zK_bziQY_JHJDCwMU",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1LzS_jkxOIoFiIHIKGXvpZCkrzrzg98by"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/riba-quran-banking-vol4-96/ar/riba-quran-banking-vol4-96-ar-cover.png"
+    },
+    {
+      "id": "Al-Muddaththir-in-the-Qurani",
+      "book_number": 133,
+      "titles": {
+        "ar": "المُدَّثِّر في اللسان القرآني — هندسة الإنذار والتطهير والتذكرة",
+        "en": "Al-Muddaththir in the Qur’anic Language"
+      },
+      "description": {
+        "ar": "نسخة تحريرية معدة للنشر، تدرس شبكة الإنذار والتطهير والتذكرة في سورة المدثر، مع ملخص ودليل قراءة ومخططات بصرية، وتمييز البيان عن استنباط المؤلف.",
+        "en": "An editorial edition prepared for publication, studying warning, purification, and reminder, distinguishing textual statement from authorial inference."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "اللسان القرآني",
+          "التدبر",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Quranic language",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر وليست ترجمة حرفية كاملة؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual English adaptation; the Arabic text remains the primary source for detailed analysis and references."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Al-Muddaththir-in-the-Qurani/ar/133-Al-Muddaththir-in-the-Qurani-ar.txt",
+        "cover": "books/Al-Muddaththir-in-the-Qurani/ar/Al-Muddaththir-in-the-Qurani-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1jmyO2LBfN4lJ4WEu9BEhZESDN6Rb2uxf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=153IbE8HjIrysWYti17nmeTPH38gJvn6D"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Al-Muddaththir-in-the-Qurani/en/133-Al-Muddaththir-in-the-Qurani-en.txt",
+        "cover": "books/Al-Muddaththir-in-the-Qurani/en/Al-Muddaththir-in-the-Qurani-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=12cjz02A-6i7KX-T4fVJhqWi45hhRb1DT",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1KL1zU4dTlPhTQlaREvV9ohAoTd-CkPlE"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Al-Muddaththir-in-the-Qurani/ar/Al-Muddaththir-in-the-Qurani-ar-cover.png"
     }
   ]
 }

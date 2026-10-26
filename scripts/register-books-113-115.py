@@ -76,7 +76,7 @@ def source_cover(folder, number, lang):
 
 def links(book, lang):
     return ' '.join(f'<a href="{escape(book[lang][key], quote=True)}" target="_blank" rel="noopener noreferrer">{label}</a>'
-                    for key, label in [('txt_direct', 'TXT'), ('docx', 'Word — Google Drive'), ('pdf_external', 'PDF — Google Drive')])
+                    for key, label in [('txt_direct', 'TXT'), ('docx', 'Word — Google Drive'), ('pdf_external', 'PDF — Google Drive')] if book[lang].get(key))
 
 
 def card(book, lang):
@@ -154,7 +154,7 @@ def main():
             b[lang] = {'txt_direct': BASE + f'books/{bid}/{lang}/{name}',
                        'cover': f'books/{bid}/{lang}/{cover_name}',
                        'docx': 'https://drive.google.com/uc?export=download&id=' + ids[i*2],
-                       'pdf_external': 'https://drive.google.com/uc?export=download&id=' + ids[i*2+1]}
+                       'pdf_external': ('https://drive.google.com/uc?export=download&id=' + ids[i*2+1]) if ids[i*2+1] else ''}
         b['cover_image'] = BASE + b['ar']['cover']
         if number in EDITION_NOTES:
             b['metadata']['edition_notes'] = EDITION_NOTES[number]
@@ -205,8 +205,8 @@ def main():
     for b in additions:
         for lang in ('ar','en'):
             pdf['editions'].append({'number': b['book_number'], 'book_id': b['id'], 'language': lang,
-                                    'title': b['titles'][lang], 'status': 'ready',
-                                    'drive_id': b[lang]['pdf_external'].split('id=')[-1]})
+                                    'title': b['titles'][lang], 'status': 'ready' if b[lang]['pdf_external'] else 'pending',
+                                    'drive_id': b[lang]['pdf_external'].split('id=')[-1] if b[lang]['pdf_external'] else None})
     pdf['updated_at'] = DATE
     pdf['summary'] = dict(Counter(e['status'] for e in pdf['editions']))
     pdf['summary'].setdefault('pending', 0)

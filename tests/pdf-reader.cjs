@@ -5,7 +5,8 @@ const cat=JSON.parse(read('ai-index.json')).books;
 const uploads=JSON.parse(read('scripts/new-pdf-drive-uploads.json')).files;
 assert.equal(data.editions.length,cat.length*2);assert.equal(uploads.length,86);
 assert(uploads.every(f=>f.verified&&f.public&&f.mime_type==='application/pdf'));
-assert.equal(data.summary.ready,data.editions.filter(e=>e.status==='ready').length);assert.equal(data.summary.pending,0);
+assert.equal(data.summary.ready,data.editions.filter(e=>e.status==='ready').length);
+assert.equal(data.summary.pending,data.editions.filter(e=>e.status==='pending').length);
 for(const e of data.editions){
  const book=cat.find(b=>b.id===e.book_id),s=read(`books/${e.book_id}/${e.language}/index.html`);
  assert.equal((s.match(/library-pdf-reader:start/g)||[]).length,1);
@@ -13,7 +14,7 @@ for(const e of data.editions){
  assert(!/<iframe\b/i.test(s),'PDF should load only on request');
  if(e.status==='ready')assert(book[e.language].pdf_external.endsWith(e.drive_id));
  else assert(!e.drive_id,'Unverified PDFs must not be embedded');
- if(e.number>=70){
+ if(e.number>=70 && e.status==='ready'){
   assert.equal(e.status,'ready');assert(s.includes(e.drive_id));
   assert(read(e.language==='ar'?'arabic-books.html':'english-books.html').includes(e.drive_id));
   assert(read('books.html').includes(e.drive_id));
