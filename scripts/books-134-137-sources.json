@@ -1,0 +1,255 @@
+{
+  "checked_at": "2026-11-03",
+  "files": [
+    {
+      "number": 137,
+      "language": "en",
+      "id": "1hl5f25fYiz1b96g0l_aOWuVIKPPQn-pH",
+      "name": "137-Lisan-al-Tasami-en.docx",
+      "size": 58850,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modified": "2026-11-03T19:12:36.513Z",
+      "folder": "1xWloIaztUxa287f16Q40huRzNQfif1tD",
+      "local_sha256": "32bf8137dd787854f0110aa841fbe2767a8a3be4f40e614a088e8539e81693a2",
+      "public_readable": true
+    },
+    {
+      "number": 137,
+      "language": "ar",
+      "id": "1pgJGl9cmT3PHSu_xredEns4SBe7qd9qJ",
+      "name": "137-Lisan-al-Tasami-ar.docx",
+      "size": 5658165,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modified": "2026-11-03T18:55:02.454Z",
+      "folder": "1xWloIaztUxa287f16Q40huRzNQfif1tD",
+      "local_sha256": "4f3ef3cfd9dfaf25d5f23833e29a5f6d313d80eddfd60cb626c9899b94513f5a",
+      "public_readable": true
+    },
+    {
+      "number": 134,
+      "language": "en",
+      "id": "1TY1Ej4qAO7-YZSLLC9HLxQALZwnq0KCC",
+      "name": "134-The-Beautiful-Names-in-Quranic-Part-II-en.docx",
+      "size": 8057383,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modified": "2026-11-03T12:40:09.258Z",
+      "folder": "1_qkT1thfV2fG2fCgmO6KePcJayVdx5yW",
+      "local_sha256": "a8d7f148c922641c8ad22c2ed09b3f32b9727039eaec087644d56a759c131031",
+      "public_readable": true
+    },
+    {
+      "number": 134,
+      "language": "ar",
+      "id": "1PE1dcBOGvjFXQZ6o55ENIA1C0HF9uDgF",
+      "name": "134-The-Beautiful-Names-in-Quranic-Part-II-ar.docx",
+      "size": 16730245,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modified": "2026-11-03T12:35:14.089Z",
+      "folder": "1_qkT1thfV2fG2fCgmO6KePcJayVdx5yW",
+      "local_sha256": "6f350b227eb0a804b1aa260906d09b7706b05649a959e0425f4900746a63852e",
+      "public_readable": true
+    },
+    {
+      "number": 136,
+      "language": "ar",
+      "id": "1pSoEv0KV2sKD9WzqZWxU6vr-1qR8FjrH",
+      "name": "136-Philosophy_of_Hajj_and_Stewardship-ar.txt",
+      "size": 352871,
+      "mime_type": "text/plain",
+      "modified": "2026-11-01T21:14:44.756Z",
+      "folder": "1LLYqJRlyAmJqYQX-fiBc2kXGuxxaTb5d",
+      "local_sha256": "4a494aed8938d45007ccddc4ee278c58f6b830afd3a8ac2fff0a9d023ba33a50",
+      "public_readable": true
+    },
+    {
+      "number": 136,
+      "language": "ar",
+      "id": "1ywxKbhWvFgPnscM-gS9Fb5F6FjmcGHLt",
+      "name": "136-Philosophy_of_Hajj_and_Stewardship-ar.pdf",
+      "size": 6407634,
+      "mime_type": "application/pdf",
+      "modified": "2026-11-01T21:14:25.804Z",
+      "folder": "1LLYqJRlyAmJqYQX-fiBc2kXGuxxaTb5d",
+      "local_sha256": "4eea58a926bc84580d73f35f915da132e421450035edd54a3bd2ae57fc9cd43d",
+      "public_readable": true
+    },
+    {
+      "number": 136,
+      "language": "ar",
+      "id": "130VLh0QwTpahsasXC5rbaHDfXd8JHZhZ",
+      "name": "136-Philosophy_of_Hajj_and_Stewardship-ar.docx",
+      "size": 19693381,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modified": "2026-11-01T21:13:59.000Z",
+      "folder": "1LLYqJRlyAmJqYQX-fiBc2kXGuxxaTb5d",
+      "local_sha256": "b2700f5e5fc59554b397599e0a204265032cddbb9c83f87426d03b489a9ab5d6",
+      "public_readable": true
+    },
+    {
+      "number": 136,
+      "language": "en",
+      "id": "1QGSGfUprJw1TsJZ-c7d1eC80LxHk9-Xo",
+      "name": "136-Philosophy_of_Hajj_and_Stewardship-en.txt",
+      "size": 23883,
+      "mime_type": "text/plain",
+      "modified": "2026-11-01T14:38:50.584Z",
+      "folder": "1fR67wwZALJU3wjSkguHT-mOlZYvdVhVK",
+      "local_sha256": "58a20014c67b4a67ad4842a281bbf9f0cd6825da5da657f1314c836ee855f5c8",
+      "public_readable": true
+    },
+    {
+      "number": 136,
+      "language": "en",
+      "id": "1qMPIZZH1t1Aes-pJ0CDUMknBLSQCfJCn",
+      "name": "136-Philosophy_of_Hajj_and_Stewardship-en.pdf",
+      "size": 639503,
+      "mime_type": "application/pdf",
+      "modified": "2026-11-01T14:38:38.196Z",
+      "folder": "1fR67wwZALJU3wjSkguHT-mOlZYvdVhVK",
+      "local_sha256": "d660298110eea83cad5d252c8e37b6c5892fa3049b9dbd98418d4288303519cd",
+      "public_readable": true
+    },
+    {
+      "number": 136,
+      "language": "en",
+      "id": "1pwVdHIgeQmNvNOFLFl04cmQaNdEmB2t3",
+      "name": "136-Philosophy_of_Hajj_and_Stewardship-en.docx",
+      "size": 13646751,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modified": "2026-11-01T14:38:08.972Z",
+      "folder": "1fR67wwZALJU3wjSkguHT-mOlZYvdVhVK",
+      "local_sha256": "fd70aee007ad7b1412068619fea7bfd9ef4f01c1c0d52f98172648b9b87bfd3e",
+      "public_readable": true
+    },
+    {
+      "number": 135,
+      "language": "ar",
+      "id": "1kKORB0OCAC1gP5eCqpGbpe9_ouSWVaZm",
+      "name": "135-Hajj_Quranic_Reflections-ar.txt",
+      "size": 239441,
+      "mime_type": "text/plain",
+      "modified": "2026-11-01T13:55:32.881Z",
+      "folder": "1ZY2LAmRy1FkoY-_Y4JueF1UoUrKhJmWv",
+      "local_sha256": "92049549b80e9d13c71776451bded3e3194b4322f9100173585a3d36e0c86fb1",
+      "public_readable": true
+    },
+    {
+      "number": 135,
+      "language": "ar",
+      "id": "1Cg__y2L-eszZ7iXT1O5kQ-dK4MqBXOjd",
+      "name": "135-Hajj_Quranic_Reflections-ar.pdf",
+      "size": 1882409,
+      "mime_type": "application/pdf",
+      "modified": "2026-11-01T13:55:14.984Z",
+      "folder": "1ZY2LAmRy1FkoY-_Y4JueF1UoUrKhJmWv",
+      "local_sha256": "cbdd60aac564b60b3bb6fe3b2f240de0dd681ab15436015741f2894143bf2436",
+      "public_readable": true
+    },
+    {
+      "number": 135,
+      "language": "ar",
+      "id": "14s3Cfl7vDYaK1eBYuQQdNjsLASQS3vxO",
+      "name": "135-Hajj_Quranic_Reflections-ar.docx",
+      "size": 12487061,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modified": "2026-11-01T13:52:45.000Z",
+      "folder": "1ZY2LAmRy1FkoY-_Y4JueF1UoUrKhJmWv",
+      "local_sha256": "14ec5585c72ff742e59137e30ce02d12ef0ea363c0079ee61ff894c3ea3fafdf",
+      "public_readable": true
+    },
+    {
+      "number": 135,
+      "language": "en",
+      "id": "1NQ5DO6RwYBn-XFYEuIxI4BHtmU7IAOmR",
+      "name": "135-Hajj_Quranic_Reflections-en.txt",
+      "size": 52048,
+      "mime_type": "text/plain",
+      "modified": "2026-11-01T14:34:59.000Z",
+      "folder": "1c3DsImjeN8UWjdE4VH5yzPUsOp0Z4YsK",
+      "local_sha256": "69bd7f386ef903863d0d1201f7d1706b08407bff288447a7857991a426a4b26a",
+      "public_readable": true
+    },
+    {
+      "number": 135,
+      "language": "en",
+      "id": "1de-fF0jvDOWqz3BokwEQh4f3PFhqxT9N",
+      "name": "135-Hajj_Quranic_Reflections-en.pdf",
+      "size": 542717,
+      "mime_type": "application/pdf",
+      "modified": "2026-11-01T14:34:44.746Z",
+      "folder": "1c3DsImjeN8UWjdE4VH5yzPUsOp0Z4YsK",
+      "local_sha256": "59fdfdf5c846edddf87de390b560b2cf7f1d7a1ad07bf1a0af642883e8d3ce2b",
+      "public_readable": true
+    },
+    {
+      "number": 135,
+      "language": "en",
+      "id": "1yYbIVzVzPBj76yFrm406a0Qjtc4wQgAr",
+      "name": "135-Hajj_Quranic_Reflections-en.docx",
+      "size": 10596021,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modified": "2026-11-01T14:34:36.000Z",
+      "folder": "1c3DsImjeN8UWjdE4VH5yzPUsOp0Z4YsK",
+      "local_sha256": "628ceee87dcba28a30f671648ae017c5eef882b8314fd777cc161651f0a91b2d",
+      "public_readable": true
+    }
+  ],
+  "assets": [
+    {
+      "number": 134,
+      "language": "ar",
+      "text_source": "docx_extraction",
+      "text_sha256": "146defd91509c14f5083bf6d391c7803665e50636dfa7548d28b0cf98a75fa69",
+      "cover_sha256": "9b6721d3ce7ae392153d996d1aece1d5cf6fd01cb2527d135a5152f1524bb96b"
+    },
+    {
+      "number": 134,
+      "language": "en",
+      "text_source": "docx_extraction",
+      "text_sha256": "1b35f90076b721d134c25da69e7ba9713bcb6f72d154de08bd46bf3524c74b9e",
+      "cover_sha256": "d614d854c1c2b294c11ef0e0d6f7ea9e221fec67496bb1080b43adda81705c0a"
+    },
+    {
+      "number": 135,
+      "language": "ar",
+      "text_source": "original_drive_txt",
+      "text_sha256": "92049549b80e9d13c71776451bded3e3194b4322f9100173585a3d36e0c86fb1",
+      "cover_sha256": "ea7dcfd8655d74badf315e6b78a084325eb51380f90ac40dd39f19e20a30e00d"
+    },
+    {
+      "number": 135,
+      "language": "en",
+      "text_source": "original_drive_txt",
+      "text_sha256": "69bd7f386ef903863d0d1201f7d1706b08407bff288447a7857991a426a4b26a",
+      "cover_sha256": "603871a209e505d5960c4a2caaf07be41e56ccd990622123bec5dceffe6805f5"
+    },
+    {
+      "number": 136,
+      "language": "ar",
+      "text_source": "original_drive_txt",
+      "text_sha256": "4a494aed8938d45007ccddc4ee278c58f6b830afd3a8ac2fff0a9d023ba33a50",
+      "cover_sha256": "4635dfe5e1a598ea5a03e267189a44ebec117d8baaeeb84ca1174e00d6102de6"
+    },
+    {
+      "number": 136,
+      "language": "en",
+      "text_source": "original_drive_txt",
+      "text_sha256": "58a20014c67b4a67ad4842a281bbf9f0cd6825da5da657f1314c836ee855f5c8",
+      "cover_sha256": "ef41fee2d84846e71e9433e87608f80c0d805f553159f91d99142db45bd19ef9"
+    },
+    {
+      "number": 137,
+      "language": "ar",
+      "text_source": "docx_extraction",
+      "text_sha256": "5c808ea18a41524f85b091d7c19602c71599d89f7462bd45072219fc47843a87",
+      "cover_sha256": "0b9630eb09ea248a29ac978e3d410fcf02b600958a383d85fd1e234a7515e703"
+    },
+    {
+      "number": 137,
+      "language": "en",
+      "text_source": "docx_extraction",
+      "text_sha256": "3a77bae9d25d4444c2385914b496a4f57b7e4517efd5b333d7eb6622d879b46c",
+      "cover_sha256": "5915abf39ace6786c5b2081fae50ca353226a8fd422d7653341677c17f4b5a60"
+    }
+  ]
+}

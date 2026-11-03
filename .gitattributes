@@ -15,3 +15,9 @@ books/death-vocabulary-in-quran-part2-106-B/*/*.txt -text
 books/riba-quran-banking-vol3-96/*/*.txt -text
 books/riba-quran-banking-vol4-96/*/*.txt -text
 books/Al-Muddaththir-in-the-Qurani/*/*.txt -text
+
+# Preserve author-supplied and extracted text bytes for books 134-137
+books/The-Beautiful-Names-in-Quranic-Part-II/*/*.txt -text
+books/Hajj_Quranic_Reflections/*/*.txt -text
+books/Philosophy_of_Hajj_and_Stewardship/*/*.txt -text
+books/Lisan-al-Tasami/*/*.txt -text

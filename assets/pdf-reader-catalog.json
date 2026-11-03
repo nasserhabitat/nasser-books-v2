@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-11-03",
   "summary": {
     "review": 12,
-    "ready": 226,
+    "ready": 230,
     "unavailable": 4,
     "private": 24,
-    "pending": 0
+    "pending": 4
   },
   "editions": [
     {
@@ -2095,6 +2095,70 @@
       "title": "Al-Muddaththir in the Qur’anic Language",
       "status": "ready",
       "drive_id": "1KL1zU4dTlPhTQlaREvV9ohAoTd-CkPlE"
+    },
+    {
+      "number": 134,
+      "book_id": "The-Beautiful-Names-in-Quranic-Part-II",
+      "language": "ar",
+      "title": "الأسماء الحسنى في اللسان القرآني — الجزء الثاني",
+      "status": "pending",
+      "drive_id": null
+    },
+    {
+      "number": 134,
+      "book_id": "The-Beautiful-Names-in-Quranic-Part-II",
+      "language": "en",
+      "title": "The Beautiful Names in Qur’anic Discourse — Part II",
+      "status": "pending",
+      "drive_id": null
+    },
+    {
+      "number": 135,
+      "book_id": "Hajj_Quranic_Reflections",
+      "language": "ar",
+      "title": "تدبّرات في آيات الحج — الشعيرة ومقاصدها وآفاق المعرفة والعمران",
+      "status": "ready",
+      "drive_id": "1Cg__y2L-eszZ7iXT1O5kQ-dK4MqBXOjd"
+    },
+    {
+      "number": 135,
+      "book_id": "Hajj_Quranic_Reflections",
+      "language": "en",
+      "title": "Qur’anic Reflections on Hajj",
+      "status": "ready",
+      "drive_id": "1de-fF0jvDOWqz3BokwEQh4f3PFhqxT9N"
+    },
+    {
+      "number": 136,
+      "book_id": "Philosophy_of_Hajj_and_Stewardship",
+      "language": "ar",
+      "title": "فلسفة الحج والاستخلاف",
+      "status": "ready",
+      "drive_id": "1ywxKbhWvFgPnscM-gS9Fb5F6FjmcGHLt"
+    },
+    {
+      "number": 136,
+      "book_id": "Philosophy_of_Hajj_and_Stewardship",
+      "language": "en",
+      "title": "Philosophy of Hajj and Stewardship",
+      "status": "ready",
+      "drive_id": "1qMPIZZH1t1Aes-pJ0CDUMknBLSQCfJCn"
+    },
+    {
+      "number": 137,
+      "book_id": "Lisan-al-Tasami",
+      "language": "ar",
+      "title": "لسان التسامي: نحو قراءة باطنية-تكاشفية للنص القرآني والوجود",
+      "status": "pending",
+      "drive_id": null
+    },
+    {
+      "number": 137,
+      "book_id": "Lisan-al-Tasami",
+      "language": "en",
+      "title": "The Language of Transcendence — Lisan al-Tasami",
+      "status": "pending",
+      "drive_id": null
     }
   ]
 }
