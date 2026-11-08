@@ -16,3 +16,6 @@ jobs:
       - run: node tests/search-normalization.cjs
       - run: node tests/search-results.cjs
       - run: node tests/library-integrity.cjs
+      - run: node tests/pdf-reader.cjs
+      - run: node tests/seo.cjs
+      - run: node scripts/maintain-catalog-pages.cjs --check

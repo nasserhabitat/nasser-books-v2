@@ -82,7 +82,7 @@ const xml=urls=>'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://w
 changes.set('sitemap.xml',xml([...mainUrls,...bookUrls]));
 changes.set('sitemap-books.xml',xml(bookUrls));
 changes.set('sitemap-bing.xml',xml([...mainUrls,...bookUrls]));
-let robots=migrate(read('robots.txt')).replace(/^Sitemap: https:\/\/a520098.*\r?\n/gm,'').replace(/^Disallow: \/books\/\*\/cover-\*\.png\r?\n/gm,'').replace('32 كتاباً','69 كتابًا');
+let robots=migrate(read('robots.txt')).replace(/^Sitemap: https:\/\/a520098.*\r?\n/gm,'').replace(/^Disallow: \/books\/\*\/cover-\*\.png\r?\n/gm,'').replace(/^# المحتوى:.*$/gm, `# المحتوى: ${catalog.length} كتابًا (${catalog.length*2} نسخة باللغتين العربية والإنجليزية)`).replace(/^Comment:/gm,'#');
 changes.set('robots.txt',robots);
 if(process.argv.includes('--write')) for(const [file,text] of changes) fs.writeFileSync(path.join(root,file),text);
 console.log(JSON.stringify({pages:bookUrls.length+mainUrls.length,books:catalog.length,sitemapUrls:bookUrls.length+mainUrls.length,issues},null,2));

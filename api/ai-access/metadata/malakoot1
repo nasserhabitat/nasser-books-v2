@@ -12,14 +12,14 @@
   "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/malakoot1/ar/malakoot1-cover-ar.png",
   "ar": {
     "docx": "https://drive.google.com/uc?export=download&id=1wU-8RsWrsgzIJ4U_hJNFTGT2YEkHuLVc",
-    "pdf_direct": "books/malakoot1/ar/content.pdf",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1TUTOEHZPs0Guq02ZN7jhUasl9S6sM5nS",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1TUTOEHZPs0Guq02ZN7jhUasl9S6sM5nS",
     "txt_direct": "books/malakoot1/ar/30-malakoot1-ar.txt",
     "cover": "books/malakoot1/ar/malakoot1-cover-ar.png"
   },
   "en": {
     "docx": "https://drive.google.com/uc?export=download&id=1OCL0q_Izc5E3c5RTVnWqP9yCKnwca9SR",
-    "pdf_direct": "books/malakoot1/en/content.pdf",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1s9F5WVVBjjRYsI0zdfCBawa1EhU2FqSA",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1s9F5WVVBjjRYsI0zdfCBawa1EhU2FqSA",
     "txt_direct": "books/malakoot1/en/30-malakoot1-en.txt",
     "cover": "books/malakoot1/en/malakoot1-cover-en.png"

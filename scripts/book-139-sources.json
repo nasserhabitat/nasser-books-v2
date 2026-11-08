@@ -1,0 +1,90 @@
+{
+  "checked_at": "2026-11-08",
+  "folder_id": "1-gIHzAbuvcs3ZMYMEzfoE8Z3nJTo-8Fq",
+  "files": [
+    {
+      "number": 139,
+      "language": "ar",
+      "id": "13Xf8c61FGlnpEQ1tFdf6DoIDn_xs73Xi",
+      "name": "139-Mirrors_of_the_Cave_Vol_II-ar-cover.png",
+      "size": 8590208,
+      "mime_type": "image/png",
+      "folder": "1wIqw9aX1jXi_8xGMgbNB70gWnj5df1o6",
+      "local_sha256": "74a57e738b39c5af2929eb0fe8cf3f8aa56c8f351027dafd40123d36b99cf939",
+      "public_readable": true
+    },
+    {
+      "number": 139,
+      "language": "ar",
+      "id": "1w3Bl80uojWrQYj9UqTHUk49opfZlOEcj",
+      "name": "139-Mirrors_of_the_Cave_Vol_II-ar.docx",
+      "size": 12821003,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "folder": "1wIqw9aX1jXi_8xGMgbNB70gWnj5df1o6",
+      "public_readable": true
+    },
+    {
+      "number": 139,
+      "language": "ar",
+      "id": "1GAzsph3TQJLRPqvDWf6PSac5YeMtvzmC",
+      "name": "139-Mirrors_of_the_Cave_Vol_II-ar.pdf",
+      "size": 3373465,
+      "mime_type": "application/pdf",
+      "folder": "1wIqw9aX1jXi_8xGMgbNB70gWnj5df1o6",
+      "public_readable": true
+    },
+    {
+      "number": 139,
+      "language": "ar",
+      "id": "1427G9G9zGRjfXUq6DoBJS_EfLCRI0SLw",
+      "name": "139-Mirrors_of_the_Cave_Vol_II-ar.txt",
+      "size": 428760,
+      "mime_type": "text/plain",
+      "folder": "1wIqw9aX1jXi_8xGMgbNB70gWnj5df1o6",
+      "local_sha256": "a1149abdfe1bbe969f95a82e0d10782187f10d679cf95206629f4e687d113580",
+      "public_readable": true
+    },
+    {
+      "number": 139,
+      "language": "en",
+      "id": "1xCHJgcT0Qv2acIqy5DTy6Izwj1u0DH-f",
+      "name": "139-Mirrors_of_the_Cave_Vol_II-en-cover.png",
+      "size": 8286194,
+      "mime_type": "image/png",
+      "folder": "1fvsfyNODRvFNKep14Goi54FVSk3cNRbA",
+      "local_sha256": "7c688f07b881a0195cfd8062738cbe478d3fb13e1fba32f74b71e010c7b29c1b",
+      "public_readable": true
+    },
+    {
+      "number": 139,
+      "language": "en",
+      "id": "1FZnBDy5NASMtgIt5eZ3x05SvFxGcn5Qu",
+      "name": "139-Mirrors_of_the_Cave_Vol_II-en .docx",
+      "size": 11548895,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "folder": "1fvsfyNODRvFNKep14Goi54FVSk3cNRbA",
+      "public_readable": true
+    },
+    {
+      "number": 139,
+      "language": "en",
+      "id": "1PEv64gAiDHqkxd8EtjjpPO-RXZl3dMl-",
+      "name": "139-Mirrors_of_the_Cave_Vol_II-en .pdf",
+      "size": 710028,
+      "mime_type": "application/pdf",
+      "folder": "1fvsfyNODRvFNKep14Goi54FVSk3cNRbA",
+      "public_readable": true
+    },
+    {
+      "number": 139,
+      "language": "en",
+      "id": "1n2i8QLLijwe-lXSLEWIyvMyPkHMHmEls",
+      "name": "139-Mirrors_of_the_Cave_Vol_II-en .txt",
+      "size": 63568,
+      "mime_type": "text/plain",
+      "folder": "1fvsfyNODRvFNKep14Goi54FVSk3cNRbA",
+      "local_sha256": "e44b8ef75ac6ec836f407f5f2a5193b6e1b38ba075e693173fea958291a30bc9",
+      "public_readable": true
+    }
+  ]
+}

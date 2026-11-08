@@ -1,0 +1,90 @@
+{
+  "checked_at": "2026-11-08",
+  "folder_id": "1c1qpJ6Xth82X_Kehe5gR5qEE6t-eFW-e",
+  "files": [
+    {
+      "number": 138,
+      "language": "ar",
+      "id": "1JiPKbnmSabrePYKEZ72xSvjHV6OTGKi6",
+      "name": "138-dignity_of_women_part_II-ar-cover.png",
+      "size": 10217191,
+      "mime_type": "image/png",
+      "folder": "1nctfD6EfaXjZw5YmgyhiPG6pFF4A2Hdr",
+      "local_sha256": "e37d267106d1893674591882bfd8e66876bee69e6bdb8c70696090cdc4b41990",
+      "public_readable": true
+    },
+    {
+      "number": 138,
+      "language": "ar",
+      "id": "1YM3H3nDql_FeDp9C5Exvnyw00UWqdzVD",
+      "name": "138-dignity_of_women_part_II-ar.docx",
+      "size": 18331433,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "folder": "1nctfD6EfaXjZw5YmgyhiPG6pFF4A2Hdr",
+      "public_readable": true
+    },
+    {
+      "number": 138,
+      "language": "ar",
+      "id": "11qdegEY_4zD6epz99mo033v2-MupLpp-",
+      "name": "138-dignity_of_women_part_II-ar.pdf",
+      "size": 6756839,
+      "mime_type": "application/pdf",
+      "folder": "1nctfD6EfaXjZw5YmgyhiPG6pFF4A2Hdr",
+      "public_readable": true
+    },
+    {
+      "number": 138,
+      "language": "ar",
+      "id": "1-NSjgxk7T1xQ6-oIjqY5nYc69-WsAD21",
+      "name": "138-dignity_of_women_part_II-ar.txt",
+      "size": 354482,
+      "mime_type": "text/plain",
+      "folder": "1nctfD6EfaXjZw5YmgyhiPG6pFF4A2Hdr",
+      "local_sha256": "d2bc05c4b82be7d2c48319e51da208139a1200c4cf3ca53770d050a90377393a",
+      "public_readable": true
+    },
+    {
+      "number": 138,
+      "language": "en",
+      "id": "1qbrrqDx1y_OVLAhYeRiPNKgt2tYlgXrt",
+      "name": "138-dignity_of_women_part_II-en-cover.png",
+      "size": 10351725,
+      "mime_type": "image/png",
+      "folder": "1yRhJCDrZWRWp4ofKySJoqrTUGtUMZeiw",
+      "local_sha256": "82081cb112890d0c9990ae0b541c98f695b3705c324e794f2ce6eff5ec2ba1ef",
+      "public_readable": true
+    },
+    {
+      "number": 138,
+      "language": "en",
+      "id": "1ulOPSuheJE7g4zZxKLdGaSTTh947-Ke-",
+      "name": "138-dignity_of_women_part_II-en.docx",
+      "size": 14259369,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "folder": "1yRhJCDrZWRWp4ofKySJoqrTUGtUMZeiw",
+      "public_readable": true
+    },
+    {
+      "number": 138,
+      "language": "en",
+      "id": "1hevftZDz0KX5ittUbxp-IFM5MbArPbQa",
+      "name": "138-dignity_of_women_part_II-en.pdf",
+      "size": 780327,
+      "mime_type": "application/pdf",
+      "folder": "1yRhJCDrZWRWp4ofKySJoqrTUGtUMZeiw",
+      "public_readable": true
+    },
+    {
+      "number": 138,
+      "language": "en",
+      "id": "1Ul1-LAm3Phht-FvJ-GBOZTt1Adz_nle1",
+      "name": "138-dignity_of_women_part_II-en.txt",
+      "size": 49783,
+      "mime_type": "text/plain",
+      "folder": "1yRhJCDrZWRWp4ofKySJoqrTUGtUMZeiw",
+      "local_sha256": "716f90271e650309aaa8dc347bafee79cd6ceb1c91aa1ca97b3127eb6cc51dd5",
+      "public_readable": true
+    }
+  ]
+}

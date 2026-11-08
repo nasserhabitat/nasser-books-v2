@@ -12,14 +12,14 @@
   "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/divorce/ar/divorce-cover-ar.png",
   "ar": {
     "docx": "https://drive.google.com/uc?export=download&id=1Ed5KtAD1MByc2Tkm7On_JrkE0sBKWzAI",
-    "pdf_direct": "books/divorce/ar/content.pdf",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=10SgBgN922GJs3TqhECuWCGIpQIILVSa1",
     "pdf_external": "https://drive.google.com/uc?export=download&id=10SgBgN922GJs3TqhECuWCGIpQIILVSa1",
     "txt_direct": "books/divorce/ar/69-divorce-ar.txt",
     "cover": "books/divorce/ar/divorce-cover-ar.png"
   },
   "en": {
-    "docx": "https://drive.google.com/uc?export=download&id=1P7XwiehxoUapkPToXVH-_jibi9BAjXnS",
-    "pdf_direct": "books/divorce/en/content.pdf",
+    "docx": "https://drive.google.com/uc?export=download&id=12oKor5M9ZGUQrjRtCAwMcoMsQJlRLZxK",
+    "pdf_direct": "https://drive.google.com/uc?export=download&id=1V00t4abRtf0yAC0oov8uXk_lMoXnDSsN",
     "pdf_external": "https://drive.google.com/uc?export=download&id=1V00t4abRtf0yAC0oov8uXk_lMoXnDSsN",
     "txt_direct": "books/divorce/en/69-divorce-en.txt",
     "cover": "books/divorce/en/divorce-cover-en.png"

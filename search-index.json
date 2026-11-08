@@ -9201,8 +9201,8 @@
           "Contemplation"
         ],
         "edition_notes": {
-          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي. النص القابل للبحث مستخرج من Word؛ راجع الأصل للجداول والصور والتنسيق. PDF غير متاح بعد.",
-          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source. Search text extracted from Word; consult the original for tables, images, and formatting. PDF is not yet available."
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source."
         }
       },
       "links": {
@@ -9213,6 +9213,114 @@
         "en": {
           "text": "books/Lisan-al-Tasami/en/137-Lisan-al-Tasami-en.txt",
           "cover": "books/Lisan-al-Tasami/en/Lisan-al-Tasami-en-cover.png"
+        }
+      }
+    },
+    {
+      "id": "dignity_of_women_part_II",
+      "book_number": 138,
+      "titles": {
+        "ar": "كرامة المرأة في القرآن — الجزء الثاني: المرأة والرجل: تحرير ميزان العلاقات وسيادة الاستخلاف",
+        "en": "The Dignity of Women in the Qur’an — Part II: Woman and Man: Restoring the Balance of Relationships and the Responsibility of Stewardship"
+      },
+      "description": {
+        "ar": "دراسة منهجية وفق نظام QCROS وفقه اللسان القرآني تفحص الميزان التشغيلي والتشريعي للعلاقات بين المرأة والرجل في حق الحياة والبيان، وبناء الميثاق الغليظ، وضوابط التعدد، وملك اليمين، والطلاق والعدّة، وحدود الرجوع ونقد التحايل.",
+        "en": "A methodological study applying QCROS and Qur’anic linguistic jurisprudence to examine the relational and legal balance between woman and man across voice and agency, the solemn marriage covenant, polygyny and fairness, milk al-yamīn, divorce and waiting periods, and the critique of legal evasions."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "كرامة المرأة",
+          "الميثاق الغليظ",
+          "فقه الوجدان",
+          "القسط والعدل",
+          "ملك اليمين",
+          "الطلاق والعدة",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Dignity of women",
+          "Solemn covenant",
+          "Fiqh al-Wijdan",
+          "Justice and equity",
+          "Milk al-yamin",
+          "Divorce and iddah",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source."
+        }
+      },
+      "links": {
+        "ar": {
+          "text": "books/dignity_of_women_part_II/ar/138-dignity_of_women_part_II-ar.txt",
+          "cover": "books/dignity_of_women_part_II/ar/dignity_of_women_part_II-ar-cover.png"
+        },
+        "en": {
+          "text": "books/dignity_of_women_part_II/en/138-dignity_of_women_part_II-en.txt",
+          "cover": "books/dignity_of_women_part_II/en/dignity_of_women_part_II-en-cover.png"
+        }
+      }
+    },
+    {
+      "id": "Mirrors_of_the_Cave_Vol_II",
+      "book_number": 139,
+      "titles": {
+        "ar": "مرايا الكهف (2) — من فقه الاعتزال إلى هندسة التمكين",
+        "en": "Mirrors of the Cave — Volume II: From the Fiqh of Withdrawal to the Architecture of Empowerment"
+      },
+      "description": {
+        "ar": "دراسة بنيوية استقرائية في آيات سورة الكهف وقصصها الأربع وفق فقه اللسان القرآني ونظام المثاني ومنهج QCROS، تميّز بين منطوق النص والأدلة المقاومة والنماذج التربوية.",
+        "en": "A structural and inductive reading of Sūrat al-Kahf and its four principal narratives using Qur’anic linguistic jurisprudence, the Mathānī system, and QCROS, distinguishing textual evidence, counterevidence, and operational models."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "سورة الكهف",
+          "الرقيم",
+          "فقه اللسان القرآني",
+          "المثاني",
+          "QCROS",
+          "التدبر"
+        ],
+        "topics_en": [
+          "Surat al-Kahf",
+          "Al-Raqim",
+          "Quranic linguistic jurisprudence",
+          "Mathani",
+          "QCROS",
+          "Contemplation"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source."
+        }
+      },
+      "links": {
+        "ar": {
+          "text": "books/Mirrors_of_the_Cave_Vol_II/ar/139-Mirrors_of_the_Cave_Vol_II-ar.txt",
+          "cover": "books/Mirrors_of_the_Cave_Vol_II/ar/Mirrors_of_the_Cave_Vol_II-ar-cover.png"
+        },
+        "en": {
+          "text": "books/Mirrors_of_the_Cave_Vol_II/en/139-Mirrors_of_the_Cave_Vol_II-en.txt",
+          "cover": "books/Mirrors_of_the_Cave_Vol_II/en/Mirrors_of_the_Cave_Vol_II-en-cover.png"
         }
       }
     }

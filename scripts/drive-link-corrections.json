@@ -160,5 +160,122 @@
     "old_file_id": "1CCzQV4zpBD2nMiRlYt0JLSZSlzCvtD1H-",
     "new_file_id": "1CCzQV4zpBD2nMiRlYt0JLSZSlzCvtD1H",
     "reason": "Verified file type and public read access in the existing Drive folder matching book ID and language."
+  },
+  {
+    "number": 1,
+    "id": "conscious-contemplation",
+    "language": "ar",
+    "field": "pdf_external",
+    "old_file_id": "1rMSGwIltsrPSjT4RLoX8ds21MyB633i7",
+    "new_file_id": "1QbRwrs9kYax6gQDgYrbgfB6UHVEBt9mP",
+    "reason": "Verified public PDF 1-conscious-contemplation-ar.pdf in Book 1 AR folder."
+  },
+  {
+    "number": 11,
+    "id": "malakoot",
+    "language": "ar",
+    "field": "pdf_external",
+    "old_file_id": "1XRFXQhnqIpeGc_TgEduZmNnJW1BMK_cH",
+    "new_file_id": "1ze6yTK6nx5A-dAaQoxIkY4QjDYuYImvD",
+    "reason": "Verified public PDF 11-malakoot-ar.pdf in Book 11 AR folder."
+  },
+  {
+    "number": 11,
+    "id": "malakoot",
+    "language": "en",
+    "field": "pdf_external",
+    "old_file_id": "1Cv7n-xO9J7Of8i5KuTObjtl2JWbd8l4N",
+    "new_file_id": "1iH1Exc2Ms0xXu4Ma7in47xclwBskRt_t",
+    "reason": "Verified public PDF 11-malakoot-en.pdf in Book 11 EN folder."
+  },
+  {
+    "number": 13,
+    "id": "christ-and-mary-in-the-quran",
+    "language": "ar",
+    "field": "pdf_external",
+    "old_file_id": "1tg6hiu3rJs1AClr-rfT732y2zN6-cHmJ",
+    "new_file_id": "1dbV3K4Nh7mMup8xfkPqlI2GF1ZNqL0RU",
+    "reason": "Verified public PDF 13-christ-and-mary-in-the-quran-ar.pdf in Book 13 AR folder."
+  },
+  {
+    "number": 13,
+    "id": "christ-and-mary-in-the-quran",
+    "language": "en",
+    "field": "pdf_external",
+    "old_file_id": "1PU2hPmTCn6GnFJzZ0sxHhdSgYrfg9jC4",
+    "new_file_id": "158Zl3hxC4M0xWtMKGgcni5qffeeTAHTl",
+    "reason": "Verified public PDF 13-christ-and-mary-in-the-quran-en.pdf in Book 13 EN folder."
+  },
+  {
+    "number": 17,
+    "id": "the-spirit",
+    "language": "en",
+    "field": "pdf_direct",
+    "old_file_id": "1AKUAeYHs_cB-U58WAPUSmmqMdarIgiRj",
+    "new_file_id": "1GduNKYyfF_jfYEVKKqJxw1CCtUbqarfd",
+    "reason": "Verified public PDF 17-the-spirit-en.pdf in Book 17 EN folder."
+  },
+  {
+    "number": 17,
+    "id": "the-spirit",
+    "language": "en",
+    "field": "pdf_external",
+    "old_file_id": "1RaYvaZFNLwWnWZV99eYtkh984kpHZOBU",
+    "new_file_id": "1GduNKYyfF_jfYEVKKqJxw1CCtUbqarfd",
+    "reason": "Verified public PDF 17-the-spirit-en.pdf in Book 17 EN folder."
+  },
+  {
+    "number": 18,
+    "id": "numbers-as-legislation",
+    "language": "en",
+    "field": "pdf_external",
+    "old_file_id": "1_4iL8F_KH5bSdrYIyvI5eCxDZ8UssEwl",
+    "new_file_id": "1mHvcxgXoZcXO_C_NDBAxIvoQWT-skghN",
+    "reason": "Verified public PDF 18-numbers-as-legislation-en.pdf in Book 18 EN folder."
+  },
+  {
+    "number": 28,
+    "id": "magog",
+    "language": "en",
+    "field": "pdf_external",
+    "old_file_id": "1IPUS7svTd1RSKRZEsRHnvWnquTo6Nyyk",
+    "new_file_id": "1VjZR7_2u4By3SFJ6mU3_te5S0JlxbzRH",
+    "reason": "Verified public PDF 28-magog-en.pdf in Book 28 EN folder."
+  },
+  {
+    "number": 34,
+    "id": "adultery",
+    "language": "ar",
+    "field": "pdf_external",
+    "old_file_id": "194QzNFBQuMmLhpphVkzzcEsxiJz62gpR",
+    "new_file_id": "1nc1NztDafhxhy3DCkV58viJZIJHKureS",
+    "reason": "Verified public PDF 34-adultery-ar.pdf in Book 34 AR folder."
+  },
+  {
+    "number": 38,
+    "id": "salawat",
+    "language": "en",
+    "field": "docx",
+    "old_file_id": "1l5J1xlM1d0Jq1yoM_K0f8GYVbXbvqtJD",
+    "new_file_id": "1f_j7kruBIVYiJXoKmwOZY-DuIq8oZHew",
+    "reason": "Verified shared DOCX 38-salawat-en.docx in Book 38 EN folder (replacing PDF ID accidentally placed in docx field)."
+  },
+  {
+    "number": 38,
+    "id": "salawat",
+    "language": "en",
+    "field": "pdf_direct",
+    "old_file_id": "1W_CWrU2jtISMoJnNPD2D5yWQKVcZpwQD",
+    "new_file_id": "1l5J1xlM1d0Jq1yoM_K0f8GYVbXbvqtJD",
+    "reason": "Verified public PDF 38-salawat-en.pdf in Book 38 EN folder."
+  },
+  {
+    "number": 38,
+    "id": "salawat",
+    "language": "en",
+    "field": "pdf_external",
+    "old_file_id": "1jgZuOVedjrcm6YzkVuFOkfjGs8G9mQfI",
+    "new_file_id": "1l5J1xlM1d0Jq1yoM_K0f8GYVbXbvqtJD",
+    "reason": "Verified public PDF 38-salawat-en.pdf in Book 38 EN folder."
   }
 ]

@@ -31,7 +31,7 @@ Allow: /index.html            # الصفحة الرئيسية
 User-agent: GPTBot
 Allow: /                      # السماح بالزحف الكامل
 Crawl-delay: 2                # تأخير مناسب للتحليل
-Comment: مرحباً بروبوتات الذكاء الاصطناعي للتحليل العلمي
+# Comment: مرحباً بروبوتات الذكاء الاصطناعي للتحليل العلمي
 
 User-agent: ChatGPT-User
 Allow: /
@@ -54,7 +54,7 @@ Crawl-delay: 2
 User-agent: Google-Extended
 Allow: /
 Crawl-delay: 1
-Comment: دعم مشروع الذكاء الاصطناعي المفتوح من جوجل
+# Comment: دعم مشروع الذكاء الاصطناعي المفتوح من جوجل
 
 # ==============================================
 # 🔍 محركات البحث الرئيسية
@@ -63,7 +63,7 @@ Comment: دعم مشروع الذكاء الاصطناعي المفتوح من �
 User-agent: Googlebot
 Allow: /
 Crawl-delay: 1
-Comment: محرك بحث جوجل الرئيسي
+# Comment: محرك بحث جوجل الرئيسي
 
 User-agent: Googlebot-Image
 Allow: /
@@ -71,27 +71,27 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 Crawl-delay: 1
-Comment: محرك بحث بينج
+# Comment: محرك بحث بينج
 
 User-agent: Slurp
 Allow: /
 Crawl-delay: 1
-Comment: محرك بحث ياهو
+# Comment: محرك بحث ياهو
 
 User-agent: DuckDuckBot
 Allow: /
 Crawl-delay: 1
-Comment: محرك بحث دك دك جو
+# Comment: محرك بحث دك دك جو
 
 User-agent: Baiduspider
 Allow: /
 Crawl-delay: 2
-Comment: محرك بحث بايدو الصيني
+# Comment: محرك بحث بايدو الصيني
 
 User-agent: YandexBot
 Allow: /
 Crawl-delay: 1
-Comment: محرك بحث ياندكس الروسي
+# Comment: محرك بحث ياندكس الروسي
 
 # ==============================================
 # 📚 روبوتات الأبحاث الأكاديمية
@@ -100,17 +100,17 @@ Comment: محرك بحث ياندكس الروسي
 User-agent: CCBot
 Allow: /
 Crawl-delay: 1
-Comment: روبوت أرشيف الإنترنت
+# Comment: روبوت أرشيف الإنترنت
 
 User-agent: ArchiveBot
 Allow: /
 Crawl-delay: 1
-Comment: روبوت الحفظ الرقمي
+# Comment: روبوت الحفظ الرقمي
 
 User-agent: ResearchBot
 Allow: /
 Crawl-delay: 1
-Comment: روبوتات البحث العلمي
+# Comment: روبوتات البحث العلمي
 
 # ==============================================
 # 🌐 وسائل التواصل الاجتماعي
@@ -119,17 +119,17 @@ Comment: روبوتات البحث العلمي
 User-agent: FacebookBot
 Allow: /
 Crawl-delay: 1
-Comment: روبوت فيسبوك
+# Comment: روبوت فيسبوك
 
 User-agent: Twitterbot
 Allow: /
 Crawl-delay: 1
-Comment: روبوت تويتر
+# Comment: روبوت تويتر
 
 User-agent: LinkedInBot
 Allow: /
 Crawl-delay: 1
-Comment: روبوت لينكد إن
+# Comment: روبوت لينكد إن
 
 # ==============================================
 # 🚫 روبوتات غير مرغوب فيها (معدل زحف عالي)
@@ -137,19 +137,19 @@ Comment: روبوت لينكد إن
 
 User-agent: AhrefsBot
 Crawl-delay: 10
-Comment: أداة تحليل الروابط الخلفية
+# Comment: أداة تحليل الروابط الخلفية
 
 User-agent: SemrushBot
 Crawl-delay: 10
-Comment: أداة تحليل SEO
+# Comment: أداة تحليل SEO
 
 User-agent: MJ12bot
 Crawl-delay: 10
-Comment: روبوت زحف عدواني
+# Comment: روبوت زحف عدواني
 
 User-agent: DotBot
 Crawl-delay: 10
-Comment: روبوت زحف تجاري
+# Comment: روبوت زحف تجاري
 
 # ==============================================
 # 🗺️ خرائط الموقع
@@ -164,7 +164,7 @@ Sitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap-bing.xml
 # ==============================================
 
 # الرخصة: Creative Commons Attribution-ShareAlike 4.0
-# المحتوى: 69 كتابًا في الدراسات القرآنية واللغوية
+# المحتوى: 139 كتابًا (278 نسخة باللغتين العربية والإنجليزية)
 # اللغة: العربية والإنجليزية
 # الهدف: دعم البحث العلمي وتدريب الذكاء الاصطناعي
 # البريد: nasserhabitat@gmail.com

@@ -2,30 +2,6 @@
   "checked_at": "2026-11-03",
   "files": [
     {
-      "number": 137,
-      "language": "en",
-      "id": "1hl5f25fYiz1b96g0l_aOWuVIKPPQn-pH",
-      "name": "137-Lisan-al-Tasami-en.docx",
-      "size": 58850,
-      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "modified": "2026-11-03T19:12:36.513Z",
-      "folder": "1xWloIaztUxa287f16Q40huRzNQfif1tD",
-      "local_sha256": "32bf8137dd787854f0110aa841fbe2767a8a3be4f40e614a088e8539e81693a2",
-      "public_readable": true
-    },
-    {
-      "number": 137,
-      "language": "ar",
-      "id": "1pgJGl9cmT3PHSu_xredEns4SBe7qd9qJ",
-      "name": "137-Lisan-al-Tasami-ar.docx",
-      "size": 5658165,
-      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "modified": "2026-11-03T18:55:02.454Z",
-      "folder": "1xWloIaztUxa287f16Q40huRzNQfif1tD",
-      "local_sha256": "4f3ef3cfd9dfaf25d5f23833e29a5f6d313d80eddfd60cb626c9899b94513f5a",
-      "public_readable": true
-    },
-    {
       "number": 134,
       "language": "en",
       "id": "1TY1Ej4qAO7-YZSLLC9HLxQALZwnq0KCC",
@@ -192,6 +168,74 @@
       "folder": "1c3DsImjeN8UWjdE4VH5yzPUsOp0Z4YsK",
       "local_sha256": "628ceee87dcba28a30f671648ae017c5eef882b8314fd777cc161651f0a91b2d",
       "public_readable": true
+    },
+    {
+      "number": 137,
+      "language": "ar",
+      "id": "1xr4iiU3ueHer9PY5Mzcqz7RzRthaXs-X",
+      "name": "137-Lisan-al-Tasami-ar.txt",
+      "size": 365228,
+      "mime_type": "text/plain",
+      "modified": "2026-11-04T20:18:35.577Z",
+      "folder": "1VsUqfVbdl4CvZ0RiI0Q9baInHxa0MLz2",
+      "local_sha256": "0572e3739a2cab7f0030a543f00553af84e725625b44b369ffdc999f9a2bfa36",
+      "public_readable": true
+    },
+    {
+      "number": 137,
+      "language": "ar",
+      "id": "1bzZVq9g7AwCkqxBWLnJ2NIpRZ8Q-sLeD",
+      "name": "137-Lisan-al-Tasami-ar.pdf",
+      "size": 7237801,
+      "mime_type": "application/pdf",
+      "modified": "2026-11-04T20:18:07.782Z",
+      "folder": "1VsUqfVbdl4CvZ0RiI0Q9baInHxa0MLz2",
+      "public_readable": true
+    },
+    {
+      "number": 137,
+      "language": "ar",
+      "id": "1hpaMN2OhYBBH45Yaz2TqLyCwX3YZU2fI",
+      "name": "137-Lisan-al-Tasami-ar.docx",
+      "size": 17945045,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modified": "2026-11-04T20:17:43.000Z",
+      "folder": "1VsUqfVbdl4CvZ0RiI0Q9baInHxa0MLz2",
+      "public_readable": true
+    },
+    {
+      "number": 137,
+      "language": "en",
+      "id": "122tUimGfSR5dIKdno-JUuBZNTXNtkgKH",
+      "name": "137-Lisan-al-Tasami-en.txt",
+      "size": 48570,
+      "mime_type": "text/plain",
+      "modified": "2026-11-04T20:20:51.074Z",
+      "folder": "1MzQtjT67Bzs4TBhdg7CHxcGGjTW4JpUX",
+      "local_sha256": "8091dbffb2ff1aab5c2bedcfe5c726153634565e5d7832eaf87b4b872fb32eea",
+      "public_readable": true
+    },
+    {
+      "number": 137,
+      "language": "en",
+      "id": "1aHvPkbqkhyyGzuaIKEv4ukX3vYnYH1F7",
+      "name": "137-Lisan-al-Tasami-en.pdf",
+      "size": 678933,
+      "mime_type": "application/pdf",
+      "modified": "2026-11-04T20:20:38.384Z",
+      "folder": "1MzQtjT67Bzs4TBhdg7CHxcGGjTW4JpUX",
+      "public_readable": true
+    },
+    {
+      "number": 137,
+      "language": "en",
+      "id": "1wvQT5f4qnGYl-v90_ntrfwvO-bj8lOR_",
+      "name": "137-Lisan-al-Tasami-en.docx",
+      "size": 6002897,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modified": "2026-11-04T20:20:43.000Z",
+      "folder": "1MzQtjT67Bzs4TBhdg7CHxcGGjTW4JpUX",
+      "public_readable": true
     }
   ],
   "assets": [
@@ -240,15 +284,15 @@
     {
       "number": 137,
       "language": "ar",
-      "text_source": "docx_extraction",
-      "text_sha256": "5c808ea18a41524f85b091d7c19602c71599d89f7462bd45072219fc47843a87",
+      "text_source": "original_drive_txt",
+      "text_sha256": "0572e3739a2cab7f0030a543f00553af84e725625b44b369ffdc999f9a2bfa36",
       "cover_sha256": "0b9630eb09ea248a29ac978e3d410fcf02b600958a383d85fd1e234a7515e703"
     },
     {
       "number": 137,
       "language": "en",
-      "text_source": "docx_extraction",
-      "text_sha256": "3a77bae9d25d4444c2385914b496a4f57b7e4517efd5b333d7eb6622d879b46c",
+      "text_source": "original_drive_txt",
+      "text_sha256": "8091dbffb2ff1aab5c2bedcfe5c726153634565e5d7832eaf87b4b872fb32eea",
       "cover_sha256": "5915abf39ace6786c5b2081fae50ca353226a8fd422d7653341677c17f4b5a60"
     }
   ]

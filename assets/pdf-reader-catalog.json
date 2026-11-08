@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03",
+  "updated_at": "2026-11-08",
   "summary": {
-    "review": 12,
-    "ready": 230,
-    "unavailable": 4,
-    "private": 24,
-    "pending": 4
+    "review": 0,
+    "ready": 276,
+    "unavailable": 0,
+    "private": 0,
+    "pending": 2
   },
   "editions": [
     {
@@ -13,7 +13,8 @@
       "book_id": "conscious-contemplation",
       "language": "ar",
       "title": "نحو تدبر واعٍ",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1QbRwrs9kYax6gQDgYrbgfB6UHVEBt9mP"
     },
     {
       "number": 1,
@@ -28,7 +29,8 @@
       "book_id": "anwar-al-bayan",
       "language": "ar",
       "title": "أنوار البيان في رسم المصحف العثماني: الكشف عن أسرار اللسان",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1rMSGwIltsrPSjT4RLoX8ds21MyB633i7"
     },
     {
       "number": 2,
@@ -171,14 +173,16 @@
       "book_id": "malakoot",
       "language": "ar",
       "title": "وَلِيَكُونَ مِنَ الْمُوقِنِينَ: رحلة برهانية في ملكوت السماوات والأرض وما بينهما",
-      "status": "unavailable"
+      "status": "ready",
+      "drive_id": "1ze6yTK6nx5A-dAaQoxIkY4QjDYuYImvD"
     },
     {
       "number": 11,
       "book_id": "malakoot",
       "language": "en",
       "title": "And So That He May Be of the Certain Ones: A Demonstrative Journey in the Kingdom of the Heavens and the Earth and What is Between Them",
-      "status": "unavailable"
+      "status": "ready",
+      "drive_id": "1iH1Exc2Ms0xXu4Ma7in47xclwBskRt_t"
     },
     {
       "number": 12,
@@ -201,14 +205,16 @@
       "book_id": "christ-and-mary-in-the-quran",
       "language": "ar",
       "title": "المسيح ومريم في القرآن: من الرمز الباطني إلى النموذج الإنساني",
-      "status": "unavailable"
+      "status": "ready",
+      "drive_id": "1dbV3K4Nh7mMup8xfkPqlI2GF1ZNqL0RU"
     },
     {
       "number": 13,
       "book_id": "christ-and-mary-in-the-quran",
       "language": "en",
       "title": "Christ and Mary in the Qur'an: From the Esoteric Symbol to the Human Model",
-      "status": "unavailable"
+      "status": "ready",
+      "drive_id": "158Zl3hxC4M0xWtMKGgcni5qffeeTAHTl"
     },
     {
       "number": 14,
@@ -255,7 +261,8 @@
       "book_id": "the-code-of-the-quran",
       "language": "en",
       "title": "THE CODE OF THE QUR'AN",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1RaYvaZFNLwWnWZV99eYtkh984kpHZOBU"
     },
     {
       "number": 17,
@@ -270,21 +277,24 @@
       "book_id": "the-spirit",
       "language": "en",
       "title": "The Spirit: From the Realm of Command to the Illumination of Perception",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1GduNKYyfF_jfYEVKKqJxw1CCtUbqarfd"
     },
     {
       "number": 18,
       "book_id": "numbers-as-legislation",
       "language": "ar",
       "title": "الأعداد في القرآن: من الكم إلى الكيف، ومن الظاهر إلى الوعي",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1_4iL8F_KH5bSdrYIyvI5eCxDZ8UssEwl"
     },
     {
       "number": 18,
       "book_id": "numbers-as-legislation",
       "language": "en",
       "title": "Numbers in the Quran: From Quantity to Quality, and from the Apparent to the Conscious",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1mHvcxgXoZcXO_C_NDBAxIvoQWT-skghN"
     },
     {
       "number": 19,
@@ -411,7 +421,8 @@
       "book_id": "tasbeeh",
       "language": "en",
       "title": "Tasbeeh: Swimming in the Guided Path: From Inner Transcendence to Lived Submission",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1IPUS7svTd1RSKRZEsRHnvWnquTo6Nyyk"
     },
     {
       "number": 27,
@@ -442,7 +453,8 @@
       "book_id": "magog",
       "language": "en",
       "title": "Gog and Magog - From the Law of Blood to the Patterns of Corruption",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1VjZR7_2u4By3SFJ6mU3_te5S0JlxbzRH"
     },
     {
       "number": 29,
@@ -481,7 +493,8 @@
       "book_id": "malakoot2",
       "language": "ar",
       "title": "وَلِيَكُونَ مِنَ الْمُوقِنِينَ: رحلة برهانية في ملكوت السماوات والأرض وما بينهما - المجلد الثاني",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "194QzNFBQuMmLhpphVkzzcEsxiJz62gpR"
     },
     {
       "number": 31,
@@ -528,7 +541,8 @@
       "book_id": "adultery",
       "language": "ar",
       "title": "الزنا في ضوء الميزان الإلهي",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1nc1NztDafhxhy3DCkV58viJZIJHKureS"
     },
     {
       "number": 34,
@@ -583,7 +597,8 @@
       "book_id": "cave",
       "language": "en",
       "title": "Mirrors of the Cave - A Conceptual Journey into the Soul, Language, and the Sanctuary of the Word ",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1jgZuOVedjrcm6YzkVuFOkfjGs8G9mQfI"
     },
     {
       "number": 38,
@@ -598,7 +613,8 @@
       "book_id": "salawat",
       "language": "en",
       "title": " Salawat: From Automatic Ritual to Existential Presence ",
-      "status": "review"
+      "status": "ready",
+      "drive_id": "1l5J1xlM1d0Jq1yoM_K0f8GYVbXbvqtJD"
     },
     {
       "number": 39,
@@ -909,168 +925,192 @@
       "book_id": "catalogue-of-consciousness",
       "language": "ar",
       "title": "هندسة اللسان المبين: الكتالوج التشغيلي للوعي والواقع",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1ovAGk7skrYGePhplWG1oRj0q3z3eNMwg"
     },
     {
       "number": 58,
       "book_id": "catalogue-of-consciousness",
       "language": "en",
       "title": "THE SULTAN OF INSIGHT:  The Operational Catalogue of Consciousness & Reality",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1R_xI1MGtc_yVZ_hOiUy-5RnyCUXf1pvu"
     },
     {
       "number": 59,
       "book_id": "system-of-truth",
       "language": "ar",
       "title": "منظومة الحق: من ليلة التقدير إلى هندسة البلاء ",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "11g_vEDOLvn7IfiFHA_OKeR_HYITz2BId"
     },
     {
       "number": 59,
       "book_id": "system-of-truth",
       "language": "en",
       "title": "System Of Truth: From Appreciation Night to Disaster Engineering",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1iZ0ApdVaHb3g5pvDWsGxHG1yoBb4iC3_"
     },
     {
       "number": 60,
       "book_id": "eid-al-adha",
       "language": "ar",
       "title": "عيد الأضحى - قراءة بنيوية في مقاصد الذبح والتضحية",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1qkEHV7ZoNdEuBGvKEohVbrujmCK91lXM"
     },
     {
       "number": 60,
       "book_id": "eid-al-adha",
       "language": "en",
       "title": "EID AL-ADHAM: The Structural Theology of Sacrifice",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1VzNCWNxBWQhujnlljQWsT2jIrx325zLv"
     },
     {
       "number": 61,
       "book_id": "the-living-quran",
       "language": "ar",
       "title": "القرآن الحيّ: هندسة الذكر وتوليد البصيرة",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "10r34qTWla-G9T4ha1TS-Fev-WVC6svCA"
     },
     {
       "number": 61,
       "book_id": "the-living-quran",
       "language": "en",
       "title": "The Living Qur’an: The Architecture of Remembrance and the Generation of Insight",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1o9DjaxqgPjhJ317qDFaeQKXYB1ZMwnfn"
     },
     {
       "number": 62,
       "book_id": "nutrition",
       "language": "ar",
       "title": "رحلة في علم التغذية القرآنية من الطيبات إلى نظام الحماية ",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1yu1ENGJVdHaNBM_x7FwC8jC_hXIXhUBE"
     },
     {
       "number": 62,
       "book_id": "nutrition",
       "language": "en",
       "title": "A Journey into Qur’anic Nutrition: From Sacred Provisions to the Divine Protection System",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "13S41SQMOSrl0Hf9kVtc3CMqp_Tbm2lL-"
     },
     {
       "number": 63,
       "book_id": "nutrition1",
       "language": "ar",
       "title": " رحلة في علم التغذية القرآنية- المجلد الأول: بناء الميزان",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1vAt-zp5OYWJdLhmuGKClMzhT8Fai9TXv"
     },
     {
       "number": 63,
       "book_id": "nutrition1",
       "language": "en",
       "title": " A Journey into Quranic Nutrition - Volume I: Building the Balance",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1OO52wkYNljMNHEExnjnAoQX-YEsXIW-z"
     },
     {
       "number": 64,
       "book_id": "nutrition2",
       "language": "ar",
       "title": " رحلة في علم التغذية القرآنية المجلد الثاني: تشغيل النظام",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1cNVPwEAht5c3aoUpdolQeAb3n8ItzANJ"
     },
     {
       "number": 64,
       "book_id": "nutrition2",
       "language": "en",
       "title": " A Journey into Quranic Nutrition-  Volume II: Operating the System ",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1gSknQaQ-z6eeNt8wnHk5OEEgwghnZzG_"
     },
     {
       "number": 65,
       "book_id": "nutrition3",
       "language": "ar",
       "title": " رحلة في علم التغذية القرآنية - المجلد الثالث: خريطة المستخلف",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1ou32KCGnvBQQgnrp_o1E5-Ed2RiD6KRY"
     },
     {
       "number": 65,
       "book_id": "nutrition3",
       "language": "en",
       "title": " A Journey into Quranic Nutrition -Volume III: The Successor's Map",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1MfCHyoDK7hEVJqvcYPG6l0Uc_X02A5Tb"
     },
     {
       "number": 66,
       "book_id": "resurrection",
       "language": "ar",
       "title": " هندسة الانبعاث: فقه الموت والإحياء في المنظومة القرآنية",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1CAZeRm7ys5GkVar3apIZYI_qiVvbAgJy"
     },
     {
       "number": 66,
       "book_id": "resurrection",
       "language": "en",
       "title": " ENGINEERING OF RESURRECTION: The Jurisprudence of Death and Revival in the Quranic System",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "16WNbXFLeY2XONrh5Ck-zpGFSL35G_-eu"
     },
     {
       "number": 67,
       "book_id": "the-cow",
       "language": "ar",
       "title": " البقرة: من الرمز إلى البروتوكول ",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1VvxQsWvuHeecGfKX885MxZS8mURHQGG-"
     },
     {
       "number": 67,
       "book_id": "the-cow",
       "language": "en",
       "title": " The Cow: From Symbol to Protocol ",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1b26lHbfmuJHZKwqEmZx6xJdeEhSA1Ze1"
     },
     {
       "number": 68,
       "book_id": "hajj",
       "language": "ar",
       "title": " الحج: من الشعيرة إلى هندسة الوعي في القرآن",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1CZqD0o2Nkt0Y2XzdkDim8GLbuVsx64Vo"
     },
     {
       "number": 68,
       "book_id": "hajj",
       "language": "en",
       "title": " Al-Hajj: From Ritual to Consciousness Engineering in the Quran ",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1zHQAc3gvwIg8A5tNy1mN42DQdndl3m00"
     },
     {
       "number": 69,
       "book_id": "divorce",
       "language": "ar",
       "title": "لطلاق في اللسان القرآني: من حلِّ عقدة النكاح إلى قانون إعادة التموضع الوجودي",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "10SgBgN922GJs3TqhECuWCGIpQIILVSa1"
     },
     {
       "number": 69,
       "book_id": "divorce",
       "language": "en",
       "title": " Divorce in the Quranic Tongue: From the Dissolution of Marriage to the Law of Existential Repositioning ",
-      "status": "private"
+      "status": "ready",
+      "drive_id": "1V00t4abRtf0yAC0oov8uXk_lMoXnDSsN"
     },
     {
       "number": 70,
@@ -2149,16 +2189,48 @@
       "book_id": "Lisan-al-Tasami",
       "language": "ar",
       "title": "لسان التسامي: نحو قراءة باطنية-تكاشفية للنص القرآني والوجود",
-      "status": "pending",
-      "drive_id": null
+      "status": "ready",
+      "drive_id": "1bzZVq9g7AwCkqxBWLnJ2NIpRZ8Q-sLeD"
     },
     {
       "number": 137,
       "book_id": "Lisan-al-Tasami",
       "language": "en",
       "title": "The Language of Transcendence — Lisan al-Tasami",
-      "status": "pending",
-      "drive_id": null
+      "status": "ready",
+      "drive_id": "1aHvPkbqkhyyGzuaIKEv4ukX3vYnYH1F7"
+    },
+    {
+      "number": 138,
+      "book_id": "dignity_of_women_part_II",
+      "language": "ar",
+      "title": "كرامة المرأة في القرآن — الجزء الثاني: المرأة والرجل: تحرير ميزان العلاقات وسيادة الاستخلاف",
+      "status": "ready",
+      "drive_id": "11qdegEY_4zD6epz99mo033v2-MupLpp-"
+    },
+    {
+      "number": 138,
+      "book_id": "dignity_of_women_part_II",
+      "language": "en",
+      "title": "The Dignity of Women in the Qur’an — Part II: Woman and Man: Restoring the Balance of Relationships and the Responsibility of Stewardship",
+      "status": "ready",
+      "drive_id": "1hevftZDz0KX5ittUbxp-IFM5MbArPbQa"
+    },
+    {
+      "number": 139,
+      "book_id": "Mirrors_of_the_Cave_Vol_II",
+      "language": "ar",
+      "title": "مرايا الكهف (2) — من فقه الاعتزال إلى هندسة التمكين",
+      "status": "ready",
+      "drive_id": "1GAzsph3TQJLRPqvDWf6PSac5YeMtvzmC"
+    },
+    {
+      "number": 139,
+      "book_id": "Mirrors_of_the_Cave_Vol_II",
+      "language": "en",
+      "title": "Mirrors of the Cave — Volume II: From the Fiqh of Withdrawal to the Architecture of Empowerment",
+      "status": "ready",
+      "drive_id": "1PEv64gAiDHqkxd8EtjjpPO-RXZl3dMl-"
     }
   ]
 }

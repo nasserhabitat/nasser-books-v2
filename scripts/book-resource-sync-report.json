@@ -1,22 +1,182 @@
 {
-  "pages_checked": 224,
-  "anchors_synchronized": 2,
+  "pages_checked": 274,
+  "anchors_synchronized": 22,
   "changes": [
+    {
+      "number": 1,
+      "id": "conscious-contemplation",
+      "language": "ar",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=1rMSGwIltsrPSjT4RLoX8ds21MyB633i7",
+      "new_url": "https://drive.google.com/uc?export=download&id=1QbRwrs9kYax6gQDgYrbgfB6UHVEBt9mP"
+    },
+    {
+      "number": 11,
+      "id": "malakoot",
+      "language": "ar",
+      "field": "docx",
+      "old_url": "https://drive.google.com/uc?export=download&id=1qq6AYqnC-eOT750cNSUUFHTZ55LtZUkP",
+      "new_url": "https://drive.google.com/uc?export=download&id=19JYoIQD4qpuPdy5IyKDXg-EsMQu8BWrq"
+    },
+    {
+      "number": 11,
+      "id": "malakoot",
+      "language": "ar",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=1XRFXQhnqIpeGc_TgEduZmNnJW1BMK_cH",
+      "new_url": "https://drive.google.com/uc?export=download&id=1ze6yTK6nx5A-dAaQoxIkY4QjDYuYImvD"
+    },
+    {
+      "number": 11,
+      "id": "malakoot",
+      "language": "en",
+      "field": "docx",
+      "old_url": "https://drive.google.com/uc?export=download&id=1Fry44fWXw6apxYERhrVgmIdJjOk3NddT",
+      "new_url": "https://drive.google.com/uc?export=download&id=1O-bOSsGnyQv-RYkOYNAEa-KYNp8Jr60D"
+    },
+    {
+      "number": 11,
+      "id": "malakoot",
+      "language": "en",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=1Cv7n-xO9J7Of8i5KuTObjtl2JWbd8l4N",
+      "new_url": "https://drive.google.com/uc?export=download&id=1iH1Exc2Ms0xXu4Ma7in47xclwBskRt_t"
+    },
+    {
+      "number": 11,
+      "id": "malakoot",
+      "language": "en",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=1Cv7n-xO9J7Of8i5KuTObjtl2JWbd8l4N",
+      "new_url": "https://drive.google.com/uc?export=download&id=1iH1Exc2Ms0xXu4Ma7in47xclwBskRt_t"
+    },
+    {
+      "number": 13,
+      "id": "christ-and-mary-in-the-quran",
+      "language": "ar",
+      "field": "docx",
+      "old_url": "https://drive.google.com/uc?export=download&id=1f-RnPsgoj2SWgpUKGqXfXXloZaQPfPo0",
+      "new_url": "https://drive.google.com/uc?export=download&id=15kWZkMsq3XNE-d-jKH7kPnnext4CJs_J"
+    },
+    {
+      "number": 13,
+      "id": "christ-and-mary-in-the-quran",
+      "language": "ar",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=1tg6hiu3rJs1AClr-rfT732y2zN6-cHmJ",
+      "new_url": "https://drive.google.com/uc?export=download&id=1dbV3K4Nh7mMup8xfkPqlI2GF1ZNqL0RU"
+    },
+    {
+      "number": 13,
+      "id": "christ-and-mary-in-the-quran",
+      "language": "en",
+      "field": "docx",
+      "old_url": "https://drive.google.com/uc?export=download&id=1PU2hPmTCn6GnFJzZ0sxHhdSgYrfg9jC4",
+      "new_url": "https://drive.google.com/uc?export=download&id=11dSGrjSTGqqzRXJ8_wSwjUQpwLwDn4ow"
+    },
+    {
+      "number": 13,
+      "id": "christ-and-mary-in-the-quran",
+      "language": "en",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=1PU2hPmTCn6GnFJzZ0sxHhdSgYrfg9jC4",
+      "new_url": "https://drive.google.com/uc?export=download&id=158Zl3hxC4M0xWtMKGgcni5qffeeTAHTl"
+    },
+    {
+      "number": 17,
+      "id": "the-spirit",
+      "language": "en",
+      "field": "docx",
+      "old_url": "https://drive.google.com/uc?export=download&id=1MbKQNs4yvRQoY3bH3NoNBM2fKM57gwcn",
+      "new_url": "https://drive.google.com/uc?export=download&id=1I31RQ0_2AR6ntjyuG5qRqN5iZQYecwp-"
+    },
+    {
+      "number": 17,
+      "id": "the-spirit",
+      "language": "en",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=1RaYvaZFNLwWnWZV99eYtkh984kpHZOBU",
+      "new_url": "https://drive.google.com/uc?export=download&id=1GduNKYyfF_jfYEVKKqJxw1CCtUbqarfd"
+    },
+    {
+      "number": 18,
+      "id": "numbers-as-legislation",
+      "language": "en",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=1_4iL8F_KH5bSdrYIyvI5eCxDZ8UssEwl",
+      "new_url": "https://drive.google.com/uc?export=download&id=1mHvcxgXoZcXO_C_NDBAxIvoQWT-skghN"
+    },
+    {
+      "number": 22,
+      "id": "the-self",
+      "language": "ar",
+      "field": "docx",
+      "old_url": "https://drive.google.com/uc?export=download&id=1AqOzFIoFcrK0Cz4UMTymomQQKZJwT0tG",
+      "new_url": "https://drive.google.com/uc?export=download&id=1F78X6vWyIR5bCdhSM1psR76fOe2r0hf8"
+    },
     {
       "number": 28,
       "id": "magog",
       "language": "en",
       "field": "docx",
-      "old_url": " https://drive.google.com/uc?export=download&id=1f27NcQHtwl4eK4GppKbvKBG1Atd6WQ5X",
-      "new_url": "https://drive.google.com/uc?export=download&id=1f27NcQHtwl4eK4GppKbvKBG1Atd6WQ5X"
+      "old_url": "https://drive.google.com/uc?export=download&id=1f27NcQHtwl4eK4GppKbvKBG1Atd6WQ5X",
+      "new_url": "https://drive.google.com/uc?export=download&id=1ksCo4QkWGpSBpyJ2V-VazgrD5KK4C5pb"
     },
     {
-      "number": 29,
-      "id": "human",
+      "number": 28,
+      "id": "magog",
+      "language": "en",
+      "field": "pdf_direct",
+      "old_url": "https://drive.google.com/uc?export=download&id=1IPUS7svTd1RSKRZEsRHnvWnquTo6Nyyk",
+      "new_url": "https://drive.google.com/uc?export=download&id=1VjZR7_2u4By3SFJ6mU3_te5S0JlxbzRH"
+    },
+    {
+      "number": 28,
+      "id": "magog",
+      "language": "en",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=1IPUS7svTd1RSKRZEsRHnvWnquTo6Nyyk",
+      "new_url": "https://drive.google.com/uc?export=download&id=1VjZR7_2u4By3SFJ6mU3_te5S0JlxbzRH"
+    },
+    {
+      "number": 34,
+      "id": "adultery",
+      "language": "ar",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=194QzNFBQuMmLhpphVkzzcEsxiJz62gpR",
+      "new_url": "https://drive.google.com/uc?export=download&id=1nc1NztDafhxhy3DCkV58viJZIJHKureS"
+    },
+    {
+      "number": 38,
+      "id": "salawat",
       "language": "en",
       "field": "docx",
-      "old_url": " https://drive.google.com/uc?export=download&id=1_j10D1Xi7Vle5Ufe3lgmWDBcH39ZFvIb",
-      "new_url": "https://drive.google.com/uc?export=download&id=1_j10D1Xi7Vle5Ufe3lgmWDBcH39ZFvIb"
+      "old_url": "https://drive.google.com/uc?export=download&id=1EFRb37hqKRM-9GgwEeafESTixCgU1oy8",
+      "new_url": "https://drive.google.com/uc?export=download&id=1f_j7kruBIVYiJXoKmwOZY-DuIq8oZHew"
+    },
+    {
+      "number": 38,
+      "id": "salawat",
+      "language": "en",
+      "field": "pdf_direct",
+      "old_url": "https://drive.google.com/uc?export=download&id=1jgZuOVedjrcm6YzkVuFOkfjGs8G9mQfI",
+      "new_url": "https://drive.google.com/uc?export=download&id=1l5J1xlM1d0Jq1yoM_K0f8GYVbXbvqtJD"
+    },
+    {
+      "number": 38,
+      "id": "salawat",
+      "language": "en",
+      "field": "pdf_external",
+      "old_url": "https://drive.google.com/uc?export=download&id=1jgZuOVedjrcm6YzkVuFOkfjGs8G9mQfI",
+      "new_url": "https://drive.google.com/uc?export=download&id=1l5J1xlM1d0Jq1yoM_K0f8GYVbXbvqtJD"
+    },
+    {
+      "number": 69,
+      "id": "divorce",
+      "language": "en",
+      "field": "docx",
+      "old_url": "https://drive.google.com/uc?export=download&id=1P7XwiehxoUapkPToXVH-_jibi9BAjXnS",
+      "new_url": "https://drive.google.com/uc?export=download&id=12oKor5M9ZGUQrjRtCAwMcoMsQJlRLZxK"
     }
   ],
   "note": "Catalogue parity only. Drive identity/access issues are separately recorded; no Drive files or sharing were modified."

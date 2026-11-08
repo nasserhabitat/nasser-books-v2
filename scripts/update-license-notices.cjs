@@ -4,6 +4,10 @@ for(const file of files){
  const old=fs.readFileSync(file,'utf8');
  const next=old.replace(/https:\/\/creativecommons.org\/licenses\/by-nc(?:-nd|-sa)?\/4\.0\//g,'https://creativecommons.org/licenses/by-sa/4.0/')
  .replace(/Attribution-NonCommercial-NoDerivatives/g,'Attribution-ShareAlike')
+ .replace(/Attribution – NonCommercial – NoDerivatives/g,'Attribution – ShareAlike')
+ .replace(/Attribution – Non-Commercial – No Derivatives/g,'Attribution – ShareAlike')
+ .replace(/النسب – غير تجاري – بدون اشتقاق/g,'النسب – الترخيص بالمثل')
+ .replace(/نسب العمل – غير تجاري – بدون اشتقاق/g,'نسب العمل – الترخيص بالمثل')
  .replace(/CC BY-NC-ND 4\.0/g,'CC BY-SA 4.0')
  .replace(/All Rights Reserved/gi,'CC BY-SA 4.0')
  .replace(/جميع الحقوق محفوظة/g,'الكتب متاحة بترخيص CC BY-SA 4.0');

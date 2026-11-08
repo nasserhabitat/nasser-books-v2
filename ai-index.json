@@ -3,10 +3,10 @@
     "name": "مكتبة ناصر ابن داوود",
     "version": "2.0",
     "ai_compatible": true,
-    "last_updated": "2026-11-03",
-    "total_books_arabic": 137,
-    "total_books_english": 137,
-    "total_books": 274,
+    "last_updated": "2026-11-08",
+    "total_books_arabic": 139,
+    "total_books_english": 139,
+    "total_books": 278,
     "languages": [
       "ar",
       "en"
@@ -33,7 +33,7 @@
       ]
     }
   },
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-08",
   "books": [
     {
       "id": "conscious-contemplation",
@@ -50,7 +50,7 @@
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=17AkqVDGa9GOoGEpCHmk1yfQ9t9uIgUV2",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=1QbRwrs9kYax6gQDgYrbgfB6UHVEBt9mP",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=1rMSGwIltsrPSjT4RLoX8ds21MyB633i7",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1QbRwrs9kYax6gQDgYrbgfB6UHVEBt9mP",
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/conscious-contemplation/ar/1-conscious-contemplation-ar.txt",
         "cover": "books/conscious-contemplation/ar/conscious-contemplation-cover-ar.png"
       },
@@ -1229,14 +1229,14 @@
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=19JYoIQD4qpuPdy5IyKDXg-EsMQu8BWrq",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=1ze6yTK6nx5A-dAaQoxIkY4QjDYuYImvD",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=1XRFXQhnqIpeGc_TgEduZmNnJW1BMK_cH",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1ze6yTK6nx5A-dAaQoxIkY4QjDYuYImvD",
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/malakoot/ar/11-malakoot-ar.txt",
         "cover": "books/malakoot/ar/malakoot-cover-ar.png"
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1O-bOSsGnyQv-RYkOYNAEa-KYNp8Jr60D",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=1iH1Exc2Ms0xXu4Ma7in47xclwBskRt_t",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=1Cv7n-xO9J7Of8i5KuTObjtl2JWbd8l4N",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1iH1Exc2Ms0xXu4Ma7in47xclwBskRt_t",
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/malakoot/en/11-malakoot-en.txt",
         "cover": "books/malakoot/en/malakoot-cover-en.png"
       },
@@ -1373,14 +1373,14 @@
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=15kWZkMsq3XNE-d-jKH7kPnnext4CJs_J",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=1dbV3K4Nh7mMup8xfkPqlI2GF1ZNqL0RU",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=1tg6hiu3rJs1AClr-rfT732y2zN6-cHmJ",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1dbV3K4Nh7mMup8xfkPqlI2GF1ZNqL0RU",
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/christ-and-mary-in-the-quran/ar/13-christ-and-mary-in-the-quran-ar.txt",
         "cover": "books/christ-and-mary-in-the-quran/ar/christ-and-mary-in-the-quran-cover-ar.png"
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=11dSGrjSTGqqzRXJ8_wSwjUQpwLwDn4ow",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=158Zl3hxC4M0xWtMKGgcni5qffeeTAHTl",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=1PU2hPmTCn6GnFJzZ0sxHhdSgYrfg9jC4",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=158Zl3hxC4M0xWtMKGgcni5qffeeTAHTl",
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/christ-and-mary-in-the-quran/en/13-christ-and-mary-in-the-quran-en.txt",
         "cover": "books/christ-and-mary-in-the-quran/en/christ-and-mary-in-the-quran-cover-en.png"
       },
@@ -1756,8 +1756,8 @@
       },
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1I31RQ0_2AR6ntjyuG5qRqN5iZQYecwp-",
-        "pdf_direct": "https://drive.google.com/uc?export=download&id=1AKUAeYHs_cB-U58WAPUSmmqMdarIgiRj",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=1RaYvaZFNLwWnWZV99eYtkh984kpHZOBU",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1GduNKYyfF_jfYEVKKqJxw1CCtUbqarfd",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1GduNKYyfF_jfYEVKKqJxw1CCtUbqarfd",
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/the-spirit/en/17-the-spirit-en.txt",
         "cover": "books/the-spirit/en/the-spirit-cover-en.png"
       },
@@ -1876,7 +1876,7 @@
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1kVdqfsIf2JVVLRflxc7pY2gRhHtefd7X",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=1mHvcxgXoZcXO_C_NDBAxIvoQWT-skghN",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=1_4iL8F_KH5bSdrYIyvI5eCxDZ8UssEwl",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1mHvcxgXoZcXO_C_NDBAxIvoQWT-skghN",
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/numbers-as-legislation/en/18-numbers-as-legislation-en.txt",
         "cover": "books/numbers-as-legislation/en/numbers-as-legislation-cover-en.png"
       },
@@ -2958,7 +2958,7 @@
       "en": {
         "docx": "https://drive.google.com/uc?export=download&id=1ksCo4QkWGpSBpyJ2V-VazgrD5KK4C5pb",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=1VjZR7_2u4By3SFJ6mU3_te5S0JlxbzRH",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=1IPUS7svTd1RSKRZEsRHnvWnquTo6Nyyk",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1VjZR7_2u4By3SFJ6mU3_te5S0JlxbzRH",
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/magog/en/28-magog-en.txt",
         "cover": "books/magog/en/magog-cover-en.png"
       },
@@ -3527,7 +3527,7 @@
       "ar": {
         "docx": "https://drive.google.com/uc?export=download&id=1i40feFSfVQ3ZtVkRL1FZxYYX45N2Ug2f",
         "pdf_direct": "https://drive.google.com/uc?export=download&id=1nc1NztDafhxhy3DCkV58viJZIJHKureS",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=194QzNFBQuMmLhpphVkzzcEsxiJz62gpR",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1nc1NztDafhxhy3DCkV58viJZIJHKureS",
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/adultery/ar/34-adultery-ar.txt",
         "cover": "books/adultery/ar/adultery-cover-ar.png"
       },
@@ -3842,9 +3842,9 @@
         "cover": "books/salawat/ar/salawat-cover-ar.png"
       },
       "en": {
-        "docx": "https://drive.google.com/uc?export=download&id=1l5J1xlM1d0Jq1yoM_K0f8GYVbXbvqtJD",
-        "pdf_direct": "https://drive.google.com/uc?export=download&id=1W_CWrU2jtISMoJnNPD2D5yWQKVcZpwQD",
-        "pdf_external": "https://drive.google.com/uc?export=download&id=1jgZuOVedjrcm6YzkVuFOkfjGs8G9mQfI",
+        "docx": "https://drive.google.com/uc?export=download&id=1f_j7kruBIVYiJXoKmwOZY-DuIq8oZHew",
+        "pdf_direct": "https://drive.google.com/uc?export=download&id=1l5J1xlM1d0Jq1yoM_K0f8GYVbXbvqtJD",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1l5J1xlM1d0Jq1yoM_K0f8GYVbXbvqtJD",
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/salawat/en/38-salawat-en.txt",
         "cover": "books/salawat/en/salawat-cover-en.png"
       },
@@ -9779,23 +9779,137 @@
           "Contemplation"
         ],
         "edition_notes": {
-          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي. النص القابل للبحث مستخرج من Word؛ راجع الأصل للجداول والصور والتنسيق. PDF غير متاح بعد.",
-          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source. Search text extracted from Word; consult the original for tables, images, and formatting. PDF is not yet available."
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source."
         }
       },
       "ar": {
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Lisan-al-Tasami/ar/137-Lisan-al-Tasami-ar.txt",
         "cover": "books/Lisan-al-Tasami/ar/Lisan-al-Tasami-ar-cover.png",
-        "docx": "https://drive.google.com/uc?export=download&id=1pgJGl9cmT3PHSu_xredEns4SBe7qd9qJ",
-        "pdf_external": ""
+        "docx": "https://drive.google.com/uc?export=download&id=1hpaMN2OhYBBH45Yaz2TqLyCwX3YZU2fI",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1bzZVq9g7AwCkqxBWLnJ2NIpRZ8Q-sLeD"
       },
       "en": {
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Lisan-al-Tasami/en/137-Lisan-al-Tasami-en.txt",
         "cover": "books/Lisan-al-Tasami/en/Lisan-al-Tasami-en-cover.png",
-        "docx": "https://drive.google.com/uc?export=download&id=1hl5f25fYiz1b96g0l_aOWuVIKPPQn-pH",
-        "pdf_external": ""
+        "docx": "https://drive.google.com/uc?export=download&id=1wvQT5f4qnGYl-v90_ntrfwvO-bj8lOR_",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1aHvPkbqkhyyGzuaIKEv4ukX3vYnYH1F7"
       },
       "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Lisan-al-Tasami/ar/Lisan-al-Tasami-ar-cover.png"
+    },
+    {
+      "id": "dignity_of_women_part_II",
+      "book_number": 138,
+      "titles": {
+        "ar": "كرامة المرأة في القرآن — الجزء الثاني: المرأة والرجل: تحرير ميزان العلاقات وسيادة الاستخلاف",
+        "en": "The Dignity of Women in the Qur’an — Part II: Woman and Man: Restoring the Balance of Relationships and the Responsibility of Stewardship"
+      },
+      "description": {
+        "ar": "دراسة منهجية وفق نظام QCROS وفقه اللسان القرآني تفحص الميزان التشغيلي والتشريعي للعلاقات بين المرأة والرجل في حق الحياة والبيان، وبناء الميثاق الغليظ، وضوابط التعدد، وملك اليمين، والطلاق والعدّة، وحدود الرجوع ونقد التحايل.",
+        "en": "A methodological study applying QCROS and Qur’anic linguistic jurisprudence to examine the relational and legal balance between woman and man across voice and agency, the solemn marriage covenant, polygyny and fairness, milk al-yamīn, divorce and waiting periods, and the critique of legal evasions."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "كرامة المرأة",
+          "الميثاق الغليظ",
+          "فقه الوجدان",
+          "القسط والعدل",
+          "ملك اليمين",
+          "الطلاق والعدة",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Dignity of women",
+          "Solemn covenant",
+          "Fiqh al-Wijdan",
+          "Justice and equity",
+          "Milk al-yamin",
+          "Divorce and iddah",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/dignity_of_women_part_II/ar/138-dignity_of_women_part_II-ar.txt",
+        "cover": "books/dignity_of_women_part_II/ar/dignity_of_women_part_II-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1YM3H3nDql_FeDp9C5Exvnyw00UWqdzVD",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=11qdegEY_4zD6epz99mo033v2-MupLpp-"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/dignity_of_women_part_II/en/138-dignity_of_women_part_II-en.txt",
+        "cover": "books/dignity_of_women_part_II/en/dignity_of_women_part_II-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1ulOPSuheJE7g4zZxKLdGaSTTh947-Ke-",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1hevftZDz0KX5ittUbxp-IFM5MbArPbQa"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/dignity_of_women_part_II/ar/dignity_of_women_part_II-ar-cover.png"
+    },
+    {
+      "id": "Mirrors_of_the_Cave_Vol_II",
+      "book_number": 139,
+      "titles": {
+        "ar": "مرايا الكهف (2) — من فقه الاعتزال إلى هندسة التمكين",
+        "en": "Mirrors of the Cave — Volume II: From the Fiqh of Withdrawal to the Architecture of Empowerment"
+      },
+      "description": {
+        "ar": "دراسة بنيوية استقرائية في آيات سورة الكهف وقصصها الأربع وفق فقه اللسان القرآني ونظام المثاني ومنهج QCROS، تميّز بين منطوق النص والأدلة المقاومة والنماذج التربوية.",
+        "en": "A structural and inductive reading of Sūrat al-Kahf and its four principal narratives using Qur’anic linguistic jurisprudence, the Mathānī system, and QCROS, distinguishing textual evidence, counterevidence, and operational models."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "سورة الكهف",
+          "الرقيم",
+          "فقه اللسان القرآني",
+          "المثاني",
+          "QCROS",
+          "التدبر"
+        ],
+        "topics_en": [
+          "Surat al-Kahf",
+          "Al-Raqim",
+          "Quranic linguistic jurisprudence",
+          "Mathani",
+          "QCROS",
+          "Contemplation"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي.",
+          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Mirrors_of_the_Cave_Vol_II/ar/139-Mirrors_of_the_Cave_Vol_II-ar.txt",
+        "cover": "books/Mirrors_of_the_Cave_Vol_II/ar/Mirrors_of_the_Cave_Vol_II-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1w3Bl80uojWrQYj9UqTHUk49opfZlOEcj",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1GAzsph3TQJLRPqvDWf6PSac5YeMtvzmC"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Mirrors_of_the_Cave_Vol_II/en/139-Mirrors_of_the_Cave_Vol_II-en.txt",
+        "cover": "books/Mirrors_of_the_Cave_Vol_II/en/Mirrors_of_the_Cave_Vol_II-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1FZnBDy5NASMtgIt5eZ3x05SvFxGcn5Qu",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1PEv64gAiDHqkxd8EtjjpPO-RXZl3dMl-"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Mirrors_of_the_Cave_Vol_II/ar/Mirrors_of_the_Cave_Vol_II-ar-cover.png"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "version": "2.0",
     "ai_compatible": true,
     "last_updated": "2026-04-21",
-    "total_books": 112,
+    "total_books": 274,
     "languages": [
       "ar",
       "en"
@@ -19,7 +19,7 @@
       "email": "nasserhabitat@gmail.com",
       "website": "https://nasserhabitat.github.io/nasser-books-v2/"
     },
-    "description": "مكتبة تحتوي على 112 كتابًا (56 كتابًا باللغة العربية و56 نسخة مترجمة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
+    "description": "مكتبة تحتوي على 274 إصدارًا (137 كتابًا باللغة العربية و137 نسخة باللغة الإنجليزية) تركز على الدراسات القرآنية والإيمانية والرقمنة، مع روابط خارجية بصيغ HTML، PDF، وText"
   },
   "book": {
     "id": "angels",
