@@ -116,7 +116,7 @@
             const descEn = normalizeText(book.description && book.description.en);
             const topicsAr = ((book.metadata && book.metadata.topics_ar) || []).map(normalizeText).join(' ');
             const topicsEn = ((book.metadata && book.metadata.topics_en) || []).map(normalizeText).join(' ');
-            const author = normalizeText((book.metadata && book.metadata.author) || 'ناصر ابن داوود Nasser Ibn Dawood');
+            const author = normalizeText(((book.metadata && book.metadata.author) || '') + ' ناصر ابن داوود Nasser Ibn Dawood');
             const bookNum = String(book.book_number || '');
             const bookId = normalizeText(book.id || '');
             const hay = `${titleAr} ${titleEn} ${descAr} ${descEn} ${topicsAr} ${topicsEn} ${author} ${bookNum} ${bookId}`;
