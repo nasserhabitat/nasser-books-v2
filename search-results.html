@@ -43,7 +43,7 @@
         .search-box {
             display: flex;
             gap: 10px;
-            margin: 2rem 0;
+            margin: 1.5rem 0;
         }
         
         .search-input {
@@ -61,6 +61,7 @@
             border: none;
             border-radius: 50px;
             cursor: pointer;
+            font-size: 1rem;
         }
         
         .back-link {
@@ -68,6 +69,30 @@
             margin: 1rem 0;
             color: var(--primary-color);
             text-decoration: none;
+            font-weight: bold;
+        }
+
+        .book-card {
+            background: #fff;
+            border: 1px solid #e1e8ed;
+            border-right: 4px solid var(--primary-color);
+            border-radius: 10px;
+            padding: 1.25rem;
+            margin-bottom: 1rem;
+        }
+
+        .book-link {
+            display: inline-block;
+            padding: 8px 16px;
+            background: var(--primary-color);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 0.9rem;
+        }
+
+        .gsc-control-cse, .gsc-control-cse * {
+            box-sizing: content-box;
         }
     </style>
 </head>
@@ -81,10 +106,18 @@
 
     <div class="container">
         <a href="search.html" class="back-link">← العودة إلى صفحة البحث الرئيسية</a>
+
+        <form class="search-box" action="search-results.html" method="get">
+            <input type="text" name="search" id="resultsSearchInput" class="search-input" placeholder="ابحث في المكتبة وجوجل...">
+            <button type="submit" class="search-btn">🔍 بحث</button>
+        </form>
         
         <!-- محرك بحث جوجل لصفحة النتائج -->
         <script async src="https://cse.google.com/cse.js?cx=87a2ea74c56054f92"></script>
         <div class="gcse-searchresults-only" data-queryParameterName="search"></div>
+
+        <!-- نتائج فهرس المكتبة المباشر -->
+        <div id="library-direct-results" style="margin-top: 1.5rem;"></div>
         
         <!-- رسالة إذا لم تكن هناك نتائج -->
         <div id="no-results" style="display: none; text-align: center; padding: 3rem; color: #666;">
@@ -97,15 +130,65 @@
     </div>
 
     <script>
-        // التحقق من وجود نتائج
-        setTimeout(() => {
-            const searchResults = document.querySelector('.gsc-results');
-            const noResults = document.getElementById('no-results');
-            
-            if (!searchResults || searchResults.children.length === 0) {
-                noResults.style.display = 'block';
+        function normalizeQuery(text) {
+            return String(text || '').normalize('NFC').toLowerCase()
+                .replace(/[أإآٱ]/g, 'ا')
+                .replace(/[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06DC\u06DF-\u06E4\u06E7-\u06E8\u06EA-\u06ED\u0640]/g, '');
+        }
+        function escHtml(text) {
+            return String(text || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+        }
+        (async () => {
+            const params = new URLSearchParams(window.location.search);
+            const rawQuery = (params.get('search') || params.get('q') || '').trim();
+            const input = document.getElementById('resultsSearchInput');
+            if (input && rawQuery) input.value = rawQuery;
+            let matchedCount = 0;
+            if (rawQuery) {
+                try {
+                    const res = await fetch('search-index.json');
+                    if (res.ok) {
+                        const data = await res.json();
+                        const books = Array.isArray(data.books) ? data.books : [];
+                        const q = normalizeQuery(rawQuery);
+                        const terms = q.split(/\s+/).filter(Boolean);
+                        const matches = books.filter(book => {
+                            const hay = normalizeQuery([
+                                book.titles && book.titles.ar,
+                                book.titles && book.titles.en,
+                                book.description && book.description.ar,
+                                book.description && book.description.en,
+                                ...((book.metadata && book.metadata.topics_ar) || []),
+                                ...((book.metadata && book.metadata.topics_en) || [])
+                            ].join(' '));
+                            return hay.includes(q) || (terms.length > 0 && terms.every(t => hay.includes(t)));
+                        });
+                        matchedCount = matches.length;
+                        const container = document.getElementById('library-direct-results');
+                        if (container && matches.length > 0) {
+                            container.innerHTML = `<h3 style="color:var(--primary-color);margin-bottom:1rem;">📚 نتائج فهرس المكتبة لـ «${escHtml(rawQuery)}» (${matches.length} كتابًا)</h3>` +
+                                matches.map(b => `
+                                    <div class="book-card">
+                                        <h4><a href="books/${escHtml(b.id)}/ar/" style="color:var(--primary-color);text-decoration:none;">${b.book_number}. ${escHtml(b.titles.ar)}</a></h4>
+                                        <p style="margin:0.5rem 0;">${escHtml(b.description.ar)}</p>
+                                        <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:0.75rem;">
+                                            <a href="books/${escHtml(b.id)}/ar/" class="book-link">📚 النسخة العربية</a>
+                                            <a href="books/${escHtml(b.id)}/en/" class="book-link" style="background:var(--accent-color);">📘 English Edition</a>
+                                        </div>
+                                    </div>
+                                `).join('');
+                        }
+                    }
+                } catch (_) {}
             }
-        }, 2000);
+            setTimeout(() => {
+                const searchResults = document.querySelector('.gsc-results');
+                const noResults = document.getElementById('no-results');
+                if ((!searchResults || searchResults.children.length === 0) && matchedCount === 0) {
+                    noResults.style.display = 'block';
+                }
+            }, 2000);
+        })();
     </script>
 </body>
 </html>

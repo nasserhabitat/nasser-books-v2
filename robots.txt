@@ -156,6 +156,7 @@ Crawl-delay: 10
 # ==============================================
 Allow: / 
 Sitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap.xml
+Sitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap-v2.xml
 Sitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap-books.xml
 Sitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap-bing.xml
 

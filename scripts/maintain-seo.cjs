@@ -78,11 +78,14 @@ for(const book of catalog) {
 const main=['index.html','books.html','books-index.html','arabic-books.html','english-books.html','search.html','ai-recommendations.html','reader.html'];
 const mainUrls=[];
 for(const file of main) if(exists(file)){const url=base+(file==='index.html'?'':file);update(file,url);mainUrls.push(url);}
-const xml=urls=>'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+urls.map(url=>`  <url><loc>${esc(url)}</loc></url>`).join('\n')+'\n</urlset>\n';
+const locUrl=u=>new URL(u).href.replace(/'/g,'%27');
+const xml=urls=>'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+urls.map(url=>`  <url><loc>${esc(locUrl(url))}</loc></url>`).join('\n')+'\n</urlset>\n';
 changes.set('sitemap.xml',xml([...mainUrls,...bookUrls]));
+changes.set('sitemap-v2.xml',xml([...mainUrls,...bookUrls]));
 changes.set('sitemap-books.xml',xml(bookUrls));
 changes.set('sitemap-bing.xml',xml([...mainUrls,...bookUrls]));
 let robots=migrate(read('robots.txt')).replace(/^Sitemap: https:\/\/a520098.*\r?\n/gm,'').replace(/^Disallow: \/books\/\*\/cover-\*\.png\r?\n/gm,'').replace(/^# المحتوى:.*$/gm, `# المحتوى: ${catalog.length} كتابًا (${catalog.length*2} نسخة باللغتين العربية والإنجليزية)`).replace(/^Comment:/gm,'#');
+if(!robots.includes('sitemap-v2.xml')) robots=robots.replace('Sitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap.xml','Sitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap.xml\nSitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap-v2.xml');
 changes.set('robots.txt',robots);
 if(process.argv.includes('--write')) for(const [file,text] of changes) fs.writeFileSync(path.join(root,file),text);
 console.log(JSON.stringify({pages:bookUrls.length+mainUrls.length,books:catalog.length,sitemapUrls:bookUrls.length+mainUrls.length,issues},null,2));

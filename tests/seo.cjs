@@ -20,10 +20,10 @@ for(const file of files){
   for(const m of head.matchAll(/hreflang="(?:ar|en)" href="([^"]+)"/g)) assert.ok(fs.existsSync(m[1].replace(base,'')+'index.html'));
  }
 }
-for(const file of ['sitemap.xml','sitemap-books.xml','sitemap-bing.xml']){
+for(const file of ['sitemap.xml','sitemap-v2.xml','sitemap-books.xml','sitemap-bing.xml']){
  const urls=[...fs.readFileSync(file,'utf8').matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>m[1]);
  assert.equal(urls.length,new Set(urls).size);
  assert.equal(urls.length,file==='sitemap-books.xml'?catalog.length*2:catalog.length*2+8);
- for(const url of urls){assert.ok(url.startsWith(base));const p=url.slice(base.length);assert.ok(fs.existsSync(!p?'index.html':p.endsWith('/')?p+'index.html':p));}
+ for(const url of urls){assert.ok(url.startsWith(base));assert.ok(/^[\x20-\x7E]+$/.test(url)&&!url.includes("'"),url);const p=decodeURIComponent(url.slice(base.length));assert.ok(fs.existsSync(!p?'index.html':p.endsWith('/')?p+'index.html':p));}
 }
 console.log('PASS: '+files.length+' changed pages; canonical, language links, JSON-LD and sitemap targets valid');

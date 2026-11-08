@@ -36,4 +36,11 @@ for(const hash of ['#gsc.tab=0&gsc.sort=','#gsc.q=reflection','#gsc.tab=0&gsc.q=
 }
 for(const hash of ['','#local-search','#not-gsc.q=test','#note=gsc.q=test'])assert.equal(setup(hash).scripts.length,0,'Unrelated anchors must not load Google');
 const changed=setup();changed.ctx.window.location.hash='#gsc.q=tree';changed.events.hashchange();assert.equal(changed.scripts.length,1);assert(changed.googleSection.classList.contains('active'));
-console.log('PASS: Google lazy load, direct hash tab activation, hash changes, DOM timing, failure/retry and local-search default');
+const supp={innerHTML:''};
+const withBooks=setup('#gsc.q=%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9','complete');
+withBooks.ctx.window.booksData=[{id:'salat',book_number:35,titles:{ar:'موسوعة الصلاة',en:'Encyclopedia of Salah'},description:{ar:'نظام وصل سيادي',en:'Sovereign system'},metadata:{topics_ar:['الصلاة'],topics_en:['Salah']}}];
+const origGet=withBooks.ctx.document.getElementById;
+withBooks.ctx.document.getElementById=id=>id==='google-search-supplement'?supp:origGet(id);
+withBooks.ctx.window.__gcse.searchCallbacks.web.starting('nasser-library-google-search','الصلاة');
+assert(supp.innerHTML.includes('books/salat/ar/'),'Supplement must render matching library books inside Google tab');
+console.log('PASS: Google lazy load, direct hash tab activation, hash changes, DOM timing, failure/retry, supplement results and local-search default');

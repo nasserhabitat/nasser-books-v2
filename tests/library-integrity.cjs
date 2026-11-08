@@ -16,9 +16,9 @@ for(const book of books)for(const lang of ['ar','en']){
  assert.ok(html.includes('https://creativecommons.org/licenses/by-sa/4.0/'),file);
  pages++;
 }
-for(const name of ['sitemap.xml','sitemap-books.xml','sitemap-bing.xml']){
+for(const name of ['sitemap.xml','sitemap-v2.xml','sitemap-books.xml','sitemap-bing.xml']){
  const urls=[...fs.readFileSync(name,'utf8').matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>m[1]);
  assert.equal(urls.length,new Set(urls).size);
- for(const url of urls){assert.ok(url.startsWith(base));const p=url.slice(base.length);assert.ok(fs.existsSync(p.endsWith('/')||!p?p+'index.html':p),url);}
+ for(const url of urls){assert.ok(url.startsWith(base));assert.ok(/^[\x20-\x7E]+$/.test(url)&&!url.includes("'"),url);const p=decodeURIComponent(url.slice(base.length));assert.ok(fs.existsSync(p.endsWith('/')||!p?p+'index.html':p),url);}
 }
 console.log(`PASS: ${pages} book pages, text files, metadata and sitemap targets`);
