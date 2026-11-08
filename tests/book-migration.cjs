@@ -20,7 +20,7 @@ for(const b of cat.books) for(const lang of ['ar','en']) {
  assert(!('txt_external' in b[lang]));
  if(b.book_number<=69) for(const key of ['docx','pdf_direct','pdf_external']) {
   let expected=old.find(o=>o.id===b.id)[lang][key]?.trim();
-  for(const c of corrections) if(c.id===b.id&&c.language===lang&&expected) expected=expected.replace(c.old_file_id,c.new_file_id);
+  for(const c of corrections) if(c.id===b.id&&c.language===lang&&(!c.field||c.field===key)&&expected) expected=expected.replace(c.old_file_id,c.new_file_id);
   assert.equal(b[lang][key],expected);
  }
  else assert(!('archive' in b[lang]));

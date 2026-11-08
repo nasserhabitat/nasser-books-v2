@@ -247,41 +247,22 @@
                 flex-direction: column;
             }
         }
+
+        #google-search-widget .gsc-control-cse,
+        #google-search-widget .gsc-control-cse * {
+            box-sizing: content-box;
+        }
+        #google-search-widget .gsc-input-box {
+            padding: 6px 8px;
+        }
+        #google-search-widget input.gsc-input {
+            padding: 4px 8px !important;
+            font-size: 1rem !important;
+        }
+        #google-search-widget .gsc-search-button-v2 {
+            padding: 9px 18px !important;
+        }
     </style>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <link rel="canonical" href="https://nasserhabitat.github.io/nasser-books-v2/search.html">
     <meta property="og:url" content="https://nasserhabitat.github.io/nasser-books-v2/search.html">
 </head>
@@ -312,6 +293,11 @@
             <p id="google-search-status" role="status" aria-live="polite">يُحمّل بحث Google عند فتح هذا التبويب.</p>
             <button id="google-search-retry" type="button" class="search-btn" hidden>إعادة تحميل بحث Google</button>
             <div id="google-search-widget"></div>
+            <form action="https://www.google.com/search" method="get" target="_blank" class="search-box" style="margin-top: 1rem;">
+                <input type="hidden" name="as_sitesearch" value="nasserhabitat.github.io/nasser-books-v2">
+                <input type="text" name="q" class="search-input" placeholder="بحث مباشر في Google داخل الموقع (nasser-books-v2)...">
+                <button type="submit" class="search-btn">🔍 بحث مباشر في Google</button>
+            </form>
             <p><a href="https://cse.google.com/cse?cx=87a2ea74c56054f92" target="_blank" rel="noopener noreferrer">فتح المحرك نفسه في نافذة مستقلة</a></p>
             <noscript><p>فعّل JavaScript لعرض بحث Google داخل الصفحة، أو استخدم الرابط أعلاه. البحث الداخلي لم يُستبدل.</p></noscript>
         </section>
