@@ -60,8 +60,37 @@
         else section.classList.remove('has-supplement-results');
     }
 
+    // Filter out any external non-library results (e.g. random facebook.com posts) from Google CSE
+    function sanitizeGoogleResults(widget) {
+        if (!widget || typeof widget.querySelectorAll !== 'function') return;
+        let validLibraryResults = 0;
+        const resultNodes = widget.querySelectorAll('.gsc-webResult.gsc-result');
+        resultNodes.forEach(node => {
+            if (node.querySelector && node.querySelector('.gs-no-results-result')) {
+                node.style.display = 'none';
+                return;
+            }
+            const link = node.querySelector ? node.querySelector('a.gs-title[href], a[href]') : null;
+            const href = link ? (link.getAttribute('data-ctorig') || link.getAttribute('href') || '') : '';
+            const text = node.textContent || '';
+            const isLibrarySite = href.includes('nasserhabitat.github.io') || text.includes('nasserhabitat.github.io');
+            if (!isLibrarySite) {
+                node.style.display = 'none';
+            } else {
+                node.style.display = '';
+                validLibraryResults++;
+            }
+        });
+        const resultsBox = widget.querySelector ? widget.querySelector('.gsc-resultsbox-visible') : null;
+        if (resultsBox) {
+            resultsBox.style.display = validLibraryResults > 0 ? '' : 'none';
+        }
+    }
+
     function renderSupplement(rawQuery) {
         const supplement = document.getElementById('google-search-supplement');
+        const widget = document.getElementById('google-search-widget');
+        if (widget) sanitizeGoogleResults(widget);
         if (!supplement) return;
         const query = String(rawQuery || '').trim();
         if (!query) {
@@ -87,7 +116,10 @@
             const descEn = normalizeText(book.description && book.description.en);
             const topicsAr = ((book.metadata && book.metadata.topics_ar) || []).map(normalizeText).join(' ');
             const topicsEn = ((book.metadata && book.metadata.topics_en) || []).map(normalizeText).join(' ');
-            const hay = `${titleAr} ${titleEn} ${descAr} ${descEn} ${topicsAr} ${topicsEn}`;
+            const author = normalizeText((book.metadata && book.metadata.author) || 'ناصر ابن داوود Nasser Ibn Dawood');
+            const bookNum = String(book.book_number || '');
+            const bookId = normalizeText(book.id || '');
+            const hay = `${titleAr} ${titleEn} ${descAr} ${descEn} ${topicsAr} ${topicsEn} ${author} ${bookNum} ${bookId}`;
 
             const fullPhrase = hay.includes(q);
             const matchedTerms = terms.filter(t => hay.includes(t)).length;
@@ -96,6 +128,7 @@
                 if (titleAr.includes(q) || titleEn.includes(q)) score += 10;
                 if (topicsAr.includes(q) || topicsEn.includes(q)) score += 6;
                 if (descAr.includes(q) || descEn.includes(q)) score += 4;
+                if (author.includes(q)) score += 2;
                 score += matchedTerms * 2;
                 matches.push({ book, score, excerpts: [] });
             }
@@ -134,7 +167,7 @@
         }
 
         function updateContainer(isSearchingFullText) {
-            const cardsHtml = matches.slice(0, 30).map(buildCardHtml).join('');
+            const cardsHtml = matches.slice(0, 40).map(buildCardHtml).join('');
             supplement.innerHTML = `
                 <div style="margin-top:1rem;padding:1.25rem;background:#f8fafc;border:1px solid #cbd5e1;border-radius:12px;">
                     <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:0.75rem;">
@@ -174,7 +207,6 @@
         if (canFullText) {
             (async () => {
                 const byId = new Map(matches.map(m => [m.book.id, m]));
-                // First load excerpts for top metadata matches, then scan remaining books if matches are few
                 const queue = [
                     ...matches.slice(0, 12).map(m => m.book),
                     ...(matches.length < 10 ? books.filter(b => !byId.has(b.id)) : [])
@@ -228,12 +260,12 @@
             return (input && typeof input.value === 'string') ? input.value.trim() : '';
         };
         const triggerFromWidget = () => {
+            sanitizeGoogleResults(widget);
             const val = readCurrentInput() || getQueryFromHash();
             if (val && val !== lastSupplementQuery) {
                 renderSupplement(val);
             }
         };
-        // Use capture phase (true) so Google CSE's stopPropagation() cannot block our listener
         widget.addEventListener('keydown', e => {
             if (e && e.key === 'Enter') setTimeout(triggerFromWidget, 10);
         }, true);
@@ -286,6 +318,7 @@
                         renderSupplement(query);
                     },
                     ready(_gname, query) {
+                        sanitizeGoogleResults(widget);
                         renderSupplement(query);
                     }
                 }
@@ -296,7 +329,10 @@
                     window.google.search.cse.element.render({
                         div: 'google-search-widget',
                         tag: 'search',
-                        gname: 'nasser-library-google-search'
+                        gname: 'nasser-library-google-search',
+                        attributes: {
+                            as_sitesearch: 'nasserhabitat.github.io/nasser-books-v2'
+                        }
                     });
                     rendered = true;
                     loading = false;
