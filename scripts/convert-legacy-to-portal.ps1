@@ -6,7 +6,7 @@ $backup = 'C:\Users\nasse\OneDrive\Documents\library-backups\nasser-books-before
 if ((Resolve-Path -LiteralPath $root).Path -ne $root) { throw 'Unexpected source directory' }
 if (Test-Path -LiteralPath $backup) { throw 'Backup already exists; inspect before retrying' }
 $catalog = Get-Content -LiteralPath (Join-Path $newRoot 'ai-index.json') -Raw | ConvertFrom-Json
-if ($catalog.books.Count -ne 112) { throw 'Unexpected catalogue' }
+if ($catalog.books.Count -lt 139) { throw 'Unexpected catalogue' }
 $items = @(Get-ChildItem -LiteralPath $root -Force | Where-Object Name -ne '.git')
 $files = @($items | ForEach-Object { if ($_.PSIsContainer) { Get-ChildItem -LiteralPath $_.FullName -Recurse -File -Force } else { $_ } })
 $manifest = @($files | ForEach-Object { [pscustomobject]@{path=$_.FullName.Substring($root.Length+1);size=$_.Length;modified=$_.LastWriteTimeUtc.Ticks} })
