@@ -190,7 +190,7 @@
         }
 
         function updateContainer(isSearchingFullText) {
-            const cardsHtml = matches.slice(0, 40).map(buildCardHtml).join('');
+            const cardsHtml = matches.map(buildCardHtml).join('');
             supplement.innerHTML = `
                 <div style="margin-top:1rem;padding:1.25rem;background:#f8fafc;border:1px solid #cbd5e1;border-radius:12px;">
                     <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:0.75rem;">
