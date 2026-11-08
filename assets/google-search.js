@@ -53,6 +53,12 @@
         return '';
     }
 
+    function readWidgetInput(widget) {
+        if (!widget || typeof widget.querySelector !== 'function') return '';
+        const input = widget.querySelector('input.gsc-input');
+        return (input && typeof input.value === 'string') ? input.value.trim() : '';
+    }
+
     function setHasResultsClass(hasResults) {
         const section = document.getElementById('google-search');
         if (!section || !section.classList) return;
@@ -60,9 +66,16 @@
         else section.classList.remove('has-supplement-results');
     }
 
-    // Filter out any external non-library results (e.g. random facebook.com posts) from Google CSE
+    // Filter out any external non-library results and hide Google's empty-result banner when library matches exist
     function sanitizeGoogleResults(widget) {
         if (!widget || typeof widget.querySelectorAll !== 'function') return;
+        const noResNodes = widget.querySelectorAll('.gs-no-results-result, .gsc-no-results');
+        noResNodes.forEach(node => {
+            node.style.display = 'none';
+            if (node.parentElement && node.parentElement.classList && node.parentElement.classList.contains('gsc-webResult')) {
+                node.parentElement.style.display = 'none';
+            }
+        });
         let validLibraryResults = 0;
         const resultNodes = widget.querySelectorAll('.gsc-webResult.gsc-result');
         resultNodes.forEach(node => {
@@ -73,6 +86,7 @@
             const link = node.querySelector ? node.querySelector('a.gs-title[href], a[href]') : null;
             const href = link ? (link.getAttribute('data-ctorig') || link.getAttribute('href') || '') : '';
             const text = node.textContent || '';
+            if (!href && !text.trim()) return;
             const isLibrarySite = href.includes('nasserhabitat.github.io') || text.includes('nasserhabitat.github.io');
             if (!isLibrarySite) {
                 node.style.display = 'none';
@@ -82,8 +96,10 @@
             }
         });
         const resultsBox = widget.querySelector ? widget.querySelector('.gsc-resultsbox-visible') : null;
-        if (resultsBox) {
-            resultsBox.style.display = validLibraryResults > 0 ? '' : 'none';
+        if (resultsBox && validLibraryResults === 0) {
+            resultsBox.style.display = 'none';
+        } else if (resultsBox && validLibraryResults > 0) {
+            resultsBox.style.display = '';
         }
     }
 
@@ -92,11 +108,18 @@
         const widget = document.getElementById('google-search-widget');
         if (widget) sanitizeGoogleResults(widget);
         if (!supplement) return;
-        const query = String(rawQuery || '').trim();
+
+        const inputVal = readWidgetInput(widget);
+        const query = String(rawQuery || inputVal || getQueryFromHash() || lastSupplementQuery || '').trim();
         if (!query) {
             supplement.innerHTML = '';
             lastSupplementQuery = '';
             setHasResultsClass(false);
+            return;
+        }
+        // Avoid redundant re-render if same query is already rendered
+        if (query === lastSupplementQuery && supplement.innerHTML && supplement.innerHTML.trim().length > 0) {
+            setHasResultsClass(true);
             return;
         }
         lastSupplementQuery = query;
@@ -254,23 +277,29 @@
 
     function bindWidgetInputMonitor(widget) {
         if (!widget || typeof widget.addEventListener !== 'function') return;
-        const readCurrentInput = () => {
-            if (typeof widget.querySelector !== 'function') return '';
-            const input = widget.querySelector('input.gsc-input');
-            return (input && typeof input.value === 'string') ? input.value.trim() : '';
-        };
         const triggerFromWidget = () => {
             sanitizeGoogleResults(widget);
-            const val = readCurrentInput() || getQueryFromHash();
-            if (val && val !== lastSupplementQuery) {
+            const val = readWidgetInput(widget) || getQueryFromHash();
+            if (val) {
                 renderSupplement(val);
+            } else if (typeof widget.querySelector === 'function') {
+                const input = widget.querySelector('input.gsc-input');
+                if (input && input.value === '') {
+                    const supplement = document.getElementById('google-search-supplement');
+                    if (supplement) supplement.innerHTML = '';
+                    lastSupplementQuery = '';
+                    setHasResultsClass(false);
+                }
             }
         };
         widget.addEventListener('keydown', e => {
             if (e && e.key === 'Enter') setTimeout(triggerFromWidget, 10);
         }, true);
-        widget.addEventListener('keyup', e => {
-            if (!e || e.key === 'Enter') triggerFromWidget();
+        widget.addEventListener('keyup', () => {
+            triggerFromWidget();
+        }, true);
+        widget.addEventListener('input', () => {
+            triggerFromWidget();
         }, true);
         widget.addEventListener('click', () => {
             setTimeout(triggerFromWidget, 30);
@@ -329,17 +358,14 @@
                     window.google.search.cse.element.render({
                         div: 'google-search-widget',
                         tag: 'search',
-                        gname: 'nasser-library-google-search',
-                        attributes: {
-                            as_sitesearch: 'nasserhabitat.github.io/nasser-books-v2'
-                        }
+                        gname: 'nasser-library-google-search'
                     });
                     rendered = true;
                     loading = false;
                     clearTimeout(timer);
                     retry.hidden = true;
                     status.textContent = 'بحث Google جاهز. هذه النتائج مستقلة عن البحث المحلي.';
-                    const hashQuery = getQueryFromHash();
+                    const hashQuery = getQueryFromHash() || readWidgetInput(widget);
                     if (hashQuery) renderSupplement(hashQuery);
                 } catch (_) {
                     failure();

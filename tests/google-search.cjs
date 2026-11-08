@@ -42,5 +42,6 @@ withBooks.ctx.window.booksData=[{id:'salat',book_number:35,titles:{ar:'موسو�
 const origGet=withBooks.ctx.document.getElementById;
 withBooks.ctx.document.getElementById=id=>id==='google-search-supplement'?supp:origGet(id);
 withBooks.ctx.window.__gcse.searchCallbacks.web.starting('nasser-library-google-search','الصلاة');
-assert(supp.innerHTML.includes('books/salat/ar/'),'Supplement must render matching library books inside Google tab');
+withBooks.ctx.window.__gcse.searchCallbacks.web.ready('nasser-library-google-search',undefined);
+assert(supp.innerHTML.includes('books/salat/ar/'),'Supplement must render matching library books inside Google tab and survive zero-result ready callback');
 console.log('PASS: Google lazy load, direct hash tab activation, hash changes, DOM timing, failure/retry, supplement results and local-search default');
