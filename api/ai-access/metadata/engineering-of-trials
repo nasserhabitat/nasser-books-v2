@@ -25,7 +25,7 @@
   },
   "metadata": {
     "author": "Nasser Ibn Dawood",
-    "category": "faith_studies",
+    "category": "quranic_studies",
     "pages_ar": 100,
     "pages_en": 5,
     "language_ar": "arabic",
@@ -61,6 +61,20 @@
       "Flow Reset",
       "System Operator",
       "Cognitive Re-engineering"
+    ],
+    "topics_ar": [
+      "هندسة الابتلاء",
+      "الإنسان القرآني",
+      "الصبر",
+      "الإحسان",
+      "الترابط الشبكي"
+    ],
+    "topics_en": [
+      "Engineering of trials",
+      "Quranic human",
+      "Patience",
+      "Ihsan",
+      "Conceptual networks"
     ]
   }
 }

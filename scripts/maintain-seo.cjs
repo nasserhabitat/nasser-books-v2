@@ -42,6 +42,7 @@ function update(file,url,book,lang,alternates) {
     }
     if(primary) {
      out.url=url; out['@id']=url+'#book'; out.inLanguage=lang;
+     out.keywords=book.metadata['topics_'+lang]||[];
      out.encoding=encodings(book,lang);
      if(book[lang].cover) out.image=base+book[lang].cover.replace(/^.*\/books\//,'books/');
      if(!out.name) out.name=book.titles[lang];
@@ -58,6 +59,7 @@ function update(file,url,book,lang,alternates) {
   const data={'@context':'https://schema.org','@type':'Book','@id':url+'#book',url,name:book.titles[lang],description:book.description[lang],inLanguage:lang,author:{'@type':'Person',name:lang==='ar'?'ناصر ابن داوود':'Nasser Ibn Dawood'}};
   if(book[lang].cover) data.image=base+book[lang].cover.replace(/^.*\/books\//,'books/');
   data.license='https://creativecommons.org/licenses/by-sa/4.0/';
+  data.keywords=book.metadata['topics_'+lang]||[];
   data.isAccessibleForFree=true;
   data.encoding=encodings(book,lang);
   extra+=`    <script type="application/ld+json">${JSON.stringify(data).replace(/</g,'\\u003c')}</script>\n`;

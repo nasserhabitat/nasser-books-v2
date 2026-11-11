@@ -97,6 +97,46 @@
         ],
         "applications": "تطبيقات عملية لفهم القرآن من خلال العودة إلى الأصول والتسلح بمنهجية علمية متوازنة"
       }
+    },
+    "metadata": {
+      "topics_ar": [
+        "الرسم العثماني",
+        "المصحف العثماني",
+        "أسرار اللسان",
+        "أنوار البيان",
+        "تدبر القرآن",
+        "المخطوطات الرقمية",
+        "اللغة العربية",
+        "علوم القرآن",
+        "القرآن الكريم",
+        "الفهم العميق",
+        "الدراسات القرآنية",
+        "التفسير",
+        "الخط العربي",
+        "الكتابة القرآنية"
+      ],
+      "topics_en": [
+        "Uthmanic Script",
+        "Qur'anic Orthography",
+        "Qur'an",
+        "Holy Quran",
+        "Digital Manuscripts",
+        "Linguistic Secrets",
+        "Language",
+        "Contemplation (Tadabbur)",
+        "Quranic Understanding",
+        "Arabic Language",
+        "Islamic Studies",
+        "Quranic Sciences",
+        "Script Variations",
+        "Quranic Meanings",
+        "Arabic Calligraphy",
+        "Orthography",
+        "Manuscript Studies",
+        "Unveiling Secrets",
+        "Deeper Understanding"
+      ],
+      "category": "quranic_studies"
     }
   }
 }
