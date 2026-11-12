@@ -1,11 +1,8 @@
 {
-  "updated_at": "2026-11-08",
+  "updated_at": "2026-11-12",
   "summary": {
-    "review": 0,
     "ready": 276,
-    "unavailable": 0,
-    "private": 0,
-    "pending": 2
+    "pending": 4
   },
   "editions": [
     {
@@ -2231,6 +2228,22 @@
       "title": "Mirrors of the Cave — Volume II: From the Fiqh of Withdrawal to the Architecture of Empowerment",
       "status": "ready",
       "drive_id": "1PEv64gAiDHqkxd8EtjjpPO-RXZl3dMl-"
+    },
+    {
+      "number": 140,
+      "book_id": "The_measure_of_stewardship_in_surah_sad",
+      "language": "ar",
+      "title": "نبأ الخصم وميزان الاستخلاف في سورة «ص» — مفهوم «النعجة» بين أنثى الضأن والأرض الناعجة وحاضنة الأفكار والتأويلات",
+      "status": "pending",
+      "drive_id": null
+    },
+    {
+      "number": 140,
+      "book_id": "The_measure_of_stewardship_in_surah_sad",
+      "language": "en",
+      "title": "The Disputants’ Account and the Measure of Stewardship in Surah Sad — The Concept of al-Naʿjah: From the Ewe to Productive Land and the Incubator of Ideas and Interpretations",
+      "status": "pending",
+      "drive_id": null
     }
   ]
 }

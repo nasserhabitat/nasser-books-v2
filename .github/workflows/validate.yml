@@ -19,4 +19,5 @@ jobs:
       - run: node tests/book-topics.cjs
       - run: node tests/pdf-reader.cjs
       - run: node tests/seo.cjs
+      - run: node tests/new-book-140.cjs
       - run: node scripts/maintain-catalog-pages.cjs --check

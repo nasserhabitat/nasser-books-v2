@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-12",
+  "folder_id": "1hsuiaNAfV5sJ6gI9iugW0f6Dq8bwO-nv",
+  "files": [
+    {
+      "number": 140,
+      "language": "ar",
+      "kind": "cover",
+      "id": "1XHYqBs0bOW2oLt_vFzRRvg2HTuL5ucra",
+      "name": "140-The_measure_of_stewardship_in_surah_sad-ar-cover.png",
+      "size": 7680705,
+      "mime_type": "image/png",
+      "sha256": "87149b12281c5ffb36b7b7e14be3a4526417875a41806e56f248e294207e71ed",
+      "public_readable": true
+    },
+    {
+      "number": 140,
+      "language": "ar",
+      "kind": "docx",
+      "id": "12SOmgy3pw8SScK0Llwr6SsHTHv_C7yzV",
+      "name": "140-The_measure_of_stewardship_in_surah_sad-ar.docx",
+      "size": 47819621,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "0d50c59d9cb53e0fec358ab2a63eed8249285454bcadf26dea7fad52406a3883",
+      "public_readable": true
+    },
+    {
+      "number": 140,
+      "language": "en",
+      "kind": "cover",
+      "id": "1Ckcbqf8NhLv_bw28EUmujAo72B4RGIgI",
+      "name": "140-The_measure_of_stewardship_in_surah_sad-en-cover.png",
+      "size": 6285743,
+      "mime_type": "image/png",
+      "sha256": "514516cd306d75ad26052da3319b7362decf2d4db8f1572b5882376ead2633af",
+      "public_readable": true
+    },
+    {
+      "number": 140,
+      "language": "en",
+      "kind": "docx",
+      "id": "1flcS52T5tb1A0w7_B6PLComstIRK9g6A",
+      "name": "140-The_measure_of_stewardship_in_surah_sad-en.docx",
+      "size": 6071159,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "a5485bc10660b52337f2a85b4ad4d5920871dc65a3dc8a417950d9d64a2b412e",
+      "public_readable": true
+    },
+    {
+      "number": 140,
+      "language": "ar",
+      "kind": "txt",
+      "name": "140-The_measure_of_stewardship_in_surah_sad-ar.txt",
+      "size": 255452,
+      "sha256": "6bd964bee01abe4c9df71b7f73f2014fb4be6c6d27bdb667bae1cf52fa2e6328",
+      "extracted_from": "docx"
+    },
+    {
+      "number": 140,
+      "language": "en",
+      "kind": "txt",
+      "name": "140-The_measure_of_stewardship_in_surah_sad-en.txt",
+      "size": 59446,
+      "sha256": "0588c2104f990d269c327c485c07b250f33143cfc479adf99b0f706796b4d692",
+      "extracted_from": "docx"
+    }
+  ]
+}

@@ -23,3 +23,6 @@ books/Philosophy_of_Hajj_and_Stewardship/*/*.txt -text
 books/Lisan-al-Tasami/*/*.txt -text
 books/Mirrors_of_the_Cave_Vol_II/*/*.txt -text
 books/dignity_of_women_part_II/*/*.txt -text
+
+# Preserve author-supplied and extracted text bytes for book 140
+books/The_measure_of_stewardship_in_surah_sad/*/*.txt -text
