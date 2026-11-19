@@ -9878,6 +9878,47 @@
           "cover": "books/The_measure_of_stewardship_in_surah_sad/en/The_measure_of_stewardship_in_surah_sad-en-cover.png"
         }
       }
+    },
+    {
+      "id": "keys-to-quranic-contemplation",
+      "book_number": 141,
+      "titles": {
+        "ar": "مفاتيح التدبّر القرآني: المثاني وهندسة المعنى",
+        "en": ""
+      },
+      "description": {
+        "ar": "طبعة منقّحة ومثرّاة من «نحو تدبرٍ واعٍ». دليل عملي يربط قراءة القرآن بالعمل، ويفرّق بين المثاني والسبع المثاني ونظام المثاني، ويقدّم أمثلة وتمارين لاختبار الاستنتاجات وفق منهج QCROS.",
+        "en": ""
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "topics_ar": [
+          "تدبر القرآن",
+          "نحو تدبر واع",
+          "المثاني",
+          "السبع المثاني",
+          "نظام المثاني",
+          "فقه اللسان القرآني",
+          "هندسة المعنى",
+          "QCROS"
+        ],
+        "topics_en": [],
+        "edition_notes": {
+          "ar": "طبعة محدثة من «نحو تدبرٍ واعٍ» · نوفمبر 2026"
+        }
+      },
+      "links": {
+        "ar": {
+          "text": "books/keys-to-quranic-contemplation/ar/141-keys-to-quranic-contemplation-ar.txt",
+          "cover": "books/keys-to-quranic-contemplation/ar/keys-to-quranic-contemplation-ar-cover.svg"
+        }
+      }
     }
   ]
 }

@@ -397,6 +397,7 @@
                 <button class="lang-btn" data-lang-display="en">عرض بالإنجليزية</button>
             </div>
             <div id="allBooksList"><ul>
+<li><a href="books/keys-to-quranic-contemplation/ar/">141. مفاتيح التدبّر القرآني: المثاني وهندسة المعنى</a> · طبعة محدثة من «نحو تدبرٍ واعٍ»</li>
 <li><a href="books/The_measure_of_stewardship_in_surah_sad/ar/">140. نبأ الخصم وميزان الاستخلاف في سورة «ص» — مفهوم «النعجة» بين أنثى الضأن والأرض الناعجة وحاضنة الأفكار والتأويلات</a> · <a href="books/The_measure_of_stewardship_in_surah_sad/en/">The Disputants’ Account and the Measure of Stewardship in Surah Sad — The Concept of al-Naʿjah: From the Ewe to Productive Land and the Incubator of Ideas and Interpretations (English)</a></li>
 <li><a href="books/Mirrors_of_the_Cave_Vol_II/ar/">139. مرايا الكهف (2) — من فقه الاعتزال إلى هندسة التمكين</a> · <a href="books/Mirrors_of_the_Cave_Vol_II/en/">Mirrors of the Cave — Volume II: From the Fiqh of Withdrawal to the Architecture of Empowerment (English)</a></li>
 <li><a href="books/dignity_of_women_part_II/ar/">138. كرامة المرأة في القرآن — الجزء الثاني: المرأة والرجل: تحرير ميزان العلاقات وسيادة الاستخلاف</a> · <a href="books/dignity_of_women_part_II/en/">The Dignity of Women in the Qur’an — Part II: Woman and Man: Restoring the Balance of Relationships and the Responsibility of Stewardship (English)</a></li>
@@ -10422,6 +10423,47 @@ const booksData = [
         "cover": "books/The_measure_of_stewardship_in_surah_sad/en/The_measure_of_stewardship_in_surah_sad-en-cover.png"
       }
     }
+  },
+  {
+    "id": "keys-to-quranic-contemplation",
+    "book_number": 141,
+    "titles": {
+      "ar": "مفاتيح التدبّر القرآني: المثاني وهندسة المعنى",
+      "en": ""
+    },
+    "description": {
+      "ar": "طبعة منقّحة ومثرّاة من «نحو تدبرٍ واعٍ». دليل عملي يربط قراءة القرآن بالعمل، ويفرّق بين المثاني والسبع المثاني ونظام المثاني، ويقدّم أمثلة وتمارين لاختبار الاستنتاجات وفق منهج QCROS.",
+      "en": ""
+    },
+    "metadata": {
+      "author": "ناصر ابن داوود",
+      "category": "quranic_studies",
+      "language_ar": "arabic",
+      "ai_accessible": true,
+      "structured_data": true,
+      "source_status": "author_supplied",
+      "pages_ar": null,
+      "topics_ar": [
+        "تدبر القرآن",
+        "نحو تدبر واع",
+        "المثاني",
+        "السبع المثاني",
+        "نظام المثاني",
+        "فقه اللسان القرآني",
+        "هندسة المعنى",
+        "QCROS"
+      ],
+      "topics_en": [],
+      "edition_notes": {
+        "ar": "طبعة محدثة من «نحو تدبرٍ واعٍ» · نوفمبر 2026"
+      }
+    },
+    "links": {
+      "ar": {
+        "text": "books/keys-to-quranic-contemplation/ar/141-keys-to-quranic-contemplation-ar.txt",
+        "cover": "books/keys-to-quranic-contemplation/ar/keys-to-quranic-contemplation-ar-cover.svg"
+      }
+    }
   }
 ];
  // --------------------------------------------------------------
@@ -10573,7 +10615,10 @@ const booksData = [
             const scope = document.getElementById('scopeFilter')?.value || 'all';
             const checkAll = scope === 'all';
             const searchText = scope === 'content_only' || (checkAll && !fastSearch);
-            const filteredBooks = booksData.filter(book => category === 'all' || book.metadata.category === category);
+            const filteredBooks = booksData.filter(book =>
+                (category === 'all' || book.metadata.category === category)
+                && (currentSearchLanguage === 'both' || book.links[currentSearchLanguage])
+            );
             const resultsDiv = document.getElementById('localResults');
             const progressDiv = document.getElementById('searchProgress');
 
@@ -10599,12 +10644,12 @@ const booksData = [
                 let inTitle = false, inDesc = false, inTopics = false, inEnTopics = false;
 
                 // البحث في العناوين والوصف والمواضيع (المحلي)
-                if (currentSearchLanguage === 'both' || currentSearchLanguage === 'ar') {
+                if (book.links.ar && (currentSearchLanguage === 'both' || currentSearchLanguage === 'ar')) {
                     if (checkAll || scope === 'title_only') inTitle = normalizeSearchText(book.titles.ar).includes(normalizedQuery);
                     if (checkAll) inDesc = normalizeSearchText(book.description.ar).includes(normalizedQuery);
                     if (checkAll || scope === 'topics_only') inTopics = book.metadata.topics_ar.some(t => normalizeSearchText(t).includes(normalizedQuery));
                 }
-                if (currentSearchLanguage === 'both' || currentSearchLanguage === 'en') {
+                if (book.links.en && (currentSearchLanguage === 'both' || currentSearchLanguage === 'en')) {
                     if (checkAll || scope === 'title_only') inTitle = inTitle || normalizeSearchText(book.titles.en).includes(normalizedQuery);
                     if (checkAll) inDesc = inDesc || normalizeSearchText(book.description.en).includes(normalizedQuery);
                     if (checkAll || scope === 'topics_only') inEnTopics = book.metadata.topics_en.some(t => normalizeSearchText(t).includes(normalizedQuery));
@@ -10613,12 +10658,12 @@ const booksData = [
                 let textMatches = [];
                 if (searchText) {
                     // تحميل النص الكامل إذا كان مطلوباً
-                    if (currentSearchLanguage === 'both' || currentSearchLanguage === 'ar') {
+                    if (book.links.ar && (currentSearchLanguage === 'both' || currentSearchLanguage === 'ar')) {
                         const content = await loadBookContent(book.id + '_ar', book.links.ar.text);
                         if (content) textMatches.push(...searchInText(content, query, 3).map(m => ({...m, language: 'العربية'})));
                         else { failedTexts++; failedTextLinks.push({url:book.links.ar.text,label:book.titles.ar+' — العربية'}); }
                     }
-                    if (currentSearchLanguage === 'both' || currentSearchLanguage === 'en') {
+                    if (book.links.en && (currentSearchLanguage === 'both' || currentSearchLanguage === 'en')) {
                         const content = await loadBookContent(book.id + '_en', book.links.en.text);
                         if (content) textMatches.push(...searchInText(content, query, 3).map(m => ({...m, language: 'English'})));
                         else { failedTexts++; failedTextLinks.push({url:book.links.en.text,label:book.titles.en+' — English'}); }
@@ -10668,7 +10713,7 @@ const booksData = [
                 </h3>
                 ${searchResults.map(r => {
                     const book = r.book;
-                    const lang = currentDisplayLanguage;
+                    const lang = book.links[currentDisplayLanguage] ? currentDisplayLanguage : 'ar';
                     return `
                         <div class="book-card">
                             <h4 class="book-title">
@@ -10708,8 +10753,8 @@ const booksData = [
                                 </div>
                             ` : '<p>التطابق في بيانات الكتاب فقط؛ لا توجد مقتطفات نصية متاحة لهذه النتيجة.</p>'}
                             <div style="margin-top:1rem; display:flex; gap:10px; flex-wrap:wrap;">
-                                <a href="books/${book.id}/ar/" target="_blank" class="book-link">📚 عرض الكتاب (العربية)</a>
-                                <a href="books/${book.id}/en/" target="_blank" class="book-link" style="background:#e74c3c;">📘 عرض الكتاب (English)</a>
+                                ${book.links.ar ? `<a href="books/${book.id}/ar/" target="_blank" class="book-link">📚 عرض الكتاب (العربية)</a>` : ''}
+                                ${book.links.en ? `<a href="books/${book.id}/en/" target="_blank" class="book-link" style="background:#e74c3c;">📘 عرض الكتاب (English)</a>` : ''}
                             </div>
                         </div>
                     `;
@@ -10721,9 +10766,10 @@ const booksData = [
             const container = document.getElementById('allBooksList');
             const lang = currentDisplayLanguage;
             if (!container) return;
+            const availableBooks = booksData.filter(book => book.links[lang]).slice().reverse();
             container.innerHTML = `
-                <h3 style="margin-bottom:1.5rem;">جميع الكتب (${booksData.length}) - العرض: ${lang === 'ar' ? 'العربية' : 'الإنجليزية'}</h3>
-                ${booksData.map(book => `
+                <h3 style="margin-bottom:1.5rem;">جميع الكتب (${availableBooks.length}) - العرض: ${lang === 'ar' ? 'العربية' : 'الإنجليزية'}</h3>
+                ${availableBooks.map(book => `
                     <div class="book-card">
                         <h4 class="book-title">${lang === 'ar' ? book.titles.ar : book.titles.en}</h4>
                         <p class="book-description">${lang === 'ar' ? book.description.ar : book.description.en}</p>
@@ -10735,8 +10781,8 @@ const booksData = [
                             ${(lang === 'ar' ? book.metadata.topics_ar : book.metadata.topics_en).slice(0, 8).map(t => `<span class="topic-tag">${t}</span>`).join('')}
                         </div>
                         <div style="display:flex; gap:10px; margin-top:1rem;">
-                            <a href="books/${book.id}/ar/" class="book-link">📚 عرض الكتاب (العربية)</a>
-                            <a href="books/${book.id}/en/" class="book-link" style="background:#e74c3c;">📘 عرض الكتاب (English)</a>
+                            ${book.links.ar ? `<a href="books/${book.id}/ar/" class="book-link">📚 عرض الكتاب (العربية)</a>` : ''}
+                            ${book.links.en ? `<a href="books/${book.id}/en/" class="book-link" style="background:#e74c3c;">📘 عرض الكتاب (English)</a>` : ''}
                         </div>
                     </div>
                 `).join('')}

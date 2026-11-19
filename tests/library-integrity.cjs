@@ -3,14 +3,14 @@ process.chdir(path.resolve(__dirname,'..'));
 const books=JSON.parse(fs.readFileSync('ai-index.json','utf8')).books;
 const base='https://nasserhabitat.github.io/nasser-books-v2/';
 let pages=0;
-for(const book of books)for(const lang of ['ar','en']){
+for(const book of books)for(const lang of ['ar','en'].filter(l=>book[l])){
  const txt=book[lang].txt_direct.replace(/^.*\/books\//,'books/');
  assert.ok(fs.statSync(txt).size>0,txt);
  const file=path.posix.dirname(txt)+'/index.html';
  const html=fs.readFileSync(file,'utf8');
  const canonical=base+file.replace(/index\.html$/,'');
  assert.ok(html.includes(`rel="canonical" href="${canonical}"`),file);
- for(const l of ['ar','en'])assert.ok(html.includes(`hreflang="${l}"`),file);
+ for(const l of ['ar','en'].filter(l=>book[l]))assert.ok(html.includes(`hreflang="${l}"`),file);
  const schemas=[...html.matchAll(/<script\b[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)].map(m=>JSON.parse(m[1]));
  assert.ok(schemas.length,file);
  assert.ok(html.includes('https://creativecommons.org/licenses/by-sa/4.0/'),file);

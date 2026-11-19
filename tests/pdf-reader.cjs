@@ -3,7 +3,7 @@ const root=path.resolve(__dirname,'..'),read=p=>fs.readFileSync(path.join(root,p
 const data=JSON.parse(read('assets/pdf-reader-catalog.json'));
 const cat=JSON.parse(read('ai-index.json')).books;
 const uploads=JSON.parse(read('scripts/new-pdf-drive-uploads.json')).files;
-assert.equal(data.editions.length,cat.length*2);assert.equal(uploads.length,86);
+assert.equal(data.editions.length,cat.reduce((count,b)=>count+['ar','en'].filter(l=>b[l]).length,0));assert.equal(uploads.length,86);
 assert(uploads.every(f=>f.verified&&f.public&&f.mime_type==='application/pdf'));
 assert.equal(data.summary.ready,data.editions.filter(e=>e.status==='ready').length);
 assert.equal(data.summary.pending,data.editions.filter(e=>e.status==='pending').length);

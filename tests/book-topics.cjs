@@ -2,7 +2,7 @@ const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/st
 const catalog=JSON.parse(fs.readFileSync('ai-index.json','utf8')).books;
 const html=fs.readFileSync('search.html','utf8');
 const embedded=JSON.parse(html.match(/const booksData = (\[[\s\S]*?\n\]);/)[1]);
-for(const b of catalog)for(const l of ['ar','en']){
+for(const b of catalog)for(const l of ['ar','en'].filter(l=>b[l])){
  assert.equal(b.metadata.category,'quranic_studies');
  assert.equal(embedded.find(e=>e.id===b.id).metadata.category,b.metadata.category);
  const terms=b.metadata['topics_'+l];assert(Array.isArray(terms)&&terms.length>0,b.id+l);

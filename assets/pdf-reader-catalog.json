@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-12",
+  "updated_at": "2026-11-19",
   "summary": {
     "ready": 276,
-    "pending": 4
+    "pending": 5
   },
   "editions": [
     {
@@ -2242,6 +2242,14 @@
       "book_id": "The_measure_of_stewardship_in_surah_sad",
       "language": "en",
       "title": "The Disputants’ Account and the Measure of Stewardship in Surah Sad — The Concept of al-Naʿjah: From the Ewe to Productive Land and the Incubator of Ideas and Interpretations",
+      "status": "pending",
+      "drive_id": null
+    },
+    {
+      "number": 141,
+      "book_id": "keys-to-quranic-contemplation",
+      "language": "ar",
+      "title": "مفاتيح التدبّر القرآني: المثاني وهندسة المعنى",
       "status": "pending",
       "drive_id": null
     }

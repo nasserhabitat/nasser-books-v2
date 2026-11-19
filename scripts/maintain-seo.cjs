@@ -23,7 +23,7 @@ function update(file,url,book,lang,alternates) {
  let head=match[1];
  head=head.replace(/<link\b[^>]*>/gi,tag=> /\brel\s*=\s*["']canonical["']/i.test(tag)||/\bhreflang\s*=/i.test(tag)?'':tag);
  let extra=`\n    <link rel="canonical" href="${esc(url)}">\n`;
- if(alternates) for(const l of ['ar','en']) extra+=`    <link rel="alternate" hreflang="${l}" href="${esc(alternates[l])}">\n`;
+ if(alternates) for(const l of Object.keys(alternates)) extra+=`    <link rel="alternate" hreflang="${l}" href="${esc(alternates[l])}">\n`;
  head=head.replace(/<meta\b[^>]*>/gi,tag=> /\bproperty\s*=\s*["']og:(url|image)["']/i.test(tag)?migrate(tag):tag);
  head=head.replace(/<meta\b[^>]*property\s*=\s*["']og:url["'][^>]*>/gi,'');
  extra+=`    <meta property="og:url" content="${esc(url)}">\n`;
@@ -70,9 +70,10 @@ function update(file,url,book,lang,alternates) {
  changes.set(file,next);
 }
 for(const book of catalog) {
- const folders=Object.fromEntries(['ar','en'].map(lang=>[lang,path.posix.dirname(book[lang].txt_direct.replace(/^.*\/books\//,'books/'))+'/']));
- const urls=Object.fromEntries(['ar','en'].map(lang=>[lang,base+folders[lang]]));
- for(const lang of ['ar','en']) {
+ const languages=['ar','en'].filter(lang=>book[lang]);
+ const folders=Object.fromEntries(languages.map(lang=>[lang,path.posix.dirname(book[lang].txt_direct.replace(/^.*\/books\//,'books/'))+'/']));
+ const urls=Object.fromEntries(languages.map(lang=>[lang,base+folders[lang]]));
+ for(const lang of languages) {
   if(!exists(folders[lang]+'index.html')||(book[lang].cover&&!exists(book[lang].cover.replace(/^.*\/books\//,'books/')))) throw Error('Missing page/cover: '+book.id+lang);
   update(folders[lang]+'index.html',urls[lang],book,lang,urls);bookUrls.push(urls[lang]);
  }
@@ -86,7 +87,7 @@ changes.set('sitemap.xml',xml([...mainUrls,...bookUrls]));
 changes.set('sitemap-v2.xml',xml([...mainUrls,...bookUrls]));
 changes.set('sitemap-books.xml',xml(bookUrls));
 changes.set('sitemap-bing.xml',xml([...mainUrls,...bookUrls]));
-let robots=migrate(read('robots.txt')).replace(/^Sitemap: https:\/\/a520098.*\r?\n/gm,'').replace(/^Disallow: \/books\/\*\/cover-\*\.png\r?\n/gm,'').replace(/^# المحتوى:.*$/gm, `# المحتوى: ${catalog.length} كتابًا (${catalog.length*2} نسخة باللغتين العربية والإنجليزية)`).replace(/^Comment:/gm,'#');
+let robots=migrate(read('robots.txt')).replace(/^Sitemap: https:\/\/a520098.*\r?\n/gm,'').replace(/^Disallow: \/books\/\*\/cover-\*\.png\r?\n/gm,'').replace(/^# المحتوى:.*$/gm, `# المحتوى: ${catalog.length} كتابًا (${catalog.reduce((count,book)=>count+Number(Boolean(book.ar))+Number(Boolean(book.en)),0)} نسخة باللغتين العربية والإنجليزية)`).replace(/^Comment:/gm,'#');
 if(!robots.includes('sitemap-v2.xml')) robots=robots.replace('Sitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap.xml','Sitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap.xml\nSitemap: https://nasserhabitat.github.io/nasser-books-v2/sitemap-v2.xml');
 changes.set('robots.txt',robots);
 if(process.argv.includes('--write')) for(const [file,text] of changes) fs.writeFileSync(path.join(root,file),text);
