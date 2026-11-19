@@ -24,6 +24,9 @@
 .edition-cover{max-width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 4px 22px #172a4930}
 .edition-pill{display:inline-block;border:1px solid #d1ad69;padding:.35em .75em;border-radius:.65rem;background:#fff4db;color:#593a05}
 .edition-reading{white-space:pre-wrap;overflow-wrap:anywhere;max-height:70vh;overflow:auto;background:#fbfcfd;border:1px solid #e0e5ec;border-radius:10px;padding:1rem;line-height:1.9}
+.edition-reading figure{margin:1rem 0;white-space:normal}
+.edition-reading figure img{display:block;width:100%;height:auto;border:1px solid #dfe5ec;border-radius:8px}
+.edition-reading figcaption{font-size:.9em;margin-block-start:.5rem}
 .edition-actions{display:flex;gap:.75rem;flex-wrap:wrap;margin-block:1rem}
 .edition-actions a{padding:.55rem .85rem;border:1px solid currentColor;border-radius:.55rem}
 .bp-hero{display:grid;grid-template-columns:minmax(160px,320px) minmax(0,1fr);align-items:center;gap:clamp(1rem,4vw,2.5rem);border-radius:12px}
@@ -53,7 +56,7 @@
 </section>
 <section class="bp-section" id="read">
 <h2>النص الكامل</h2>
-<p>هذه نسخة نصية قابلة للبحث. ترد جداول الملاحق في آخر النص.</p>
+<p>تعرض القراءة داخل الموقع المخططات الأربعة في مواضعها. ترد جداول الملاحق في آخر النسخة النصية.</p>
 <details id="edition-reader"><summary>افتح النص للقراءة</summary><p id="edition-status" role="status" aria-live="polite"></p><div id="edition-content" class="edition-reading" dir="rtl" tabindex="0" hidden aria-label="نص الكتاب"></div></details>
 <noscript><p><a href="141-keys-to-quranic-contemplation-ar.txt">افتح النص الكامل مباشرة</a>.</p></noscript>
 </section>
@@ -65,6 +68,55 @@
 const reader = document.getElementById('edition-reader');
 const statusText = document.getElementById('edition-status');
 const contentText = document.getElementById('edition-content');
+const figures = [
+ {
+  "src": "revelation-stages.png",
+  "alt": "مراحل الوحي الثلاث في القراءة المقترحة",
+  "width": 1700,
+  "height": 780
+ },
+ {
+  "src": "mathani-letter-pairs.png",
+  "alt": "التفكيك الثنائي للجذور وفق نظام المثاني",
+  "width": 1700,
+  "height": 780
+ },
+ {
+  "src": "reading-methods.png",
+  "alt": "المثلث المنهجي للتدبر والتفسير والتأويل",
+  "width": 1700,
+  "height": 780
+ },
+ {
+  "src": "guidance-and-procedure.png",
+  "alt": "العلاقة بين التوجيه القرآني والإجراء البشري",
+  "width": 1700,
+  "height": 780
+ }
+];
+function renderBook(manuscript) {
+ const fragment = document.createDocumentFragment();
+ let offset = 0;
+ for (const match of manuscript.matchAll(/^شكل ([1-4])\. [^\n]+/gm)) {
+  fragment.append(document.createTextNode(manuscript.slice(offset, match.index)));
+  const figure = document.createElement('figure');
+  const picture = document.createElement('img');
+  const caption = document.createElement('figcaption');
+  const artwork = figures[Number(match[1]) - 1];
+  picture.src = artwork.src;
+  picture.alt = artwork.alt;
+  picture.width = artwork.width;
+  picture.height = artwork.height;
+  picture.loading = 'lazy';
+  picture.decoding = 'async';
+  caption.textContent = match[0];
+  figure.append(picture, caption);
+  fragment.append(figure);
+  offset = match.index + match[0].length;
+ }
+ fragment.append(document.createTextNode(manuscript.slice(offset)));
+ return fragment;
+}
 let loading = false;
 reader.addEventListener('toggle', async () => {
  if (!reader.open || !contentText.hidden || loading) return;
@@ -73,7 +125,7 @@ reader.addEventListener('toggle', async () => {
  try {
   const response = await fetch('141-keys-to-quranic-contemplation-ar.txt');
   if (!response.ok) throw new Error('Text not available');
-  contentText.textContent = await response.text();
+  contentText.replaceChildren(renderBook(await response.text()));
   contentText.hidden = false;
   statusText.textContent = '';
  } catch {
