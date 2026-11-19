@@ -28,7 +28,7 @@ vm.runInContext(script, context);
     vm.runInContext('bookContentCache.clear()',context);
     failing = true;
     await context.performLocalSearch();
-    const editions = JSON.parse(fs.readFileSync(path.join(root, 'ai-index.json'), 'utf8')).books.length * 2;
+    const editions = JSON.parse(fs.readFileSync(path.join(root, 'ai-index.json'), 'utf8')).books.reduce((count,book)=>count+['ar','en'].filter(lang=>book[lang]).length,0);
     assert.ok(elements.localResults.innerHTML.includes(`تعذّر تحميل ${editions}`));
     failing = false;
     await context.performLocalSearch();

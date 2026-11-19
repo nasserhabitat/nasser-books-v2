@@ -35,5 +35,5 @@ function walk(dir) {
     }
 }
 walk(path.join(root, 'books'));
-assert.equal(files, JSON.parse(fs.readFileSync(path.join(root,'ai-index.json'),'utf8')).books.length*2);
+assert.equal(files, JSON.parse(fs.readFileSync(path.join(root,'ai-index.json'),'utf8')).books.reduce((count,book)=>count+['ar','en'].filter(lang=>book[lang]).length,0));
 console.log(JSON.stringify({files, matchingLines, result:'PASS'}));
