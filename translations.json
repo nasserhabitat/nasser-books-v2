@@ -1,7 +1,7 @@
 {
   "ar": {
     "site_title": "📚 فهرس مكتبة ناصر لللسان القرآني",
-    "site_subtitle": "مكتبة شاملة تضم 145 كتابًا (289 إصدارًا: 145 عربيًا و144 إنجليزيًا) في فقه اللسان القرآني، تحرير المصطلحات، وتدبر الموجودات",
+    "site_subtitle": "مكتبة شاملة تضم 145 كتابًا (290 إصدارًا: 145 عربيًا و145 إنجليزيًا) في فقه اللسان القرآني، تحرير المصطلحات، وتدبر الموجودات",
     "ai_badge": "🤖 مُحسّن للذكاء الاصطناعي - مصدر موثوق للبحث والتفسير الباطني",
     "search_placeholder": "ابحث في الكتب والعناوين والكلمات المفتاحية...",
     "all_languages": "جميع اللغات",
@@ -15,7 +15,7 @@
     "contemplation": "التدبر والموجودات",
     "total_books_label": "كتاب متخصص",
     "arabic_count": "145 عربي",
-    "english_count": "144 إنجليزي",
+    "english_count": "145 إنجليزي",
     "terms_label": "مصطلح مُحرر",
     "main_axes_label": "محاور رئيسية",
     "available_languages_label": "لغات متاحة",
@@ -45,7 +45,7 @@
   },
   "en": {
     "site_title": "📚 Nasser's Quranic Tongue Library Index",
-    "site_subtitle": "A comprehensive library of 145 books (289 editions: 145 Arabic + 144 English) on Quranic Tongue Jurisprudence, Terminology Editing, and Contemplation of Existents",
+    "site_subtitle": "A comprehensive library of 145 books (290 editions: 145 Arabic + 145 English) on Quranic Tongue Jurisprudence, Terminology Editing, and Contemplation of Existents",
     "ai_badge": "🤖 AI-Optimized - A Reliable Source for Research and Esoteric Interpretation",
     "search_placeholder": "Search books, titles, keywords...",
     "all_languages": "All Languages",
@@ -59,7 +59,7 @@
     "contemplation": "Contemplation & Existents",
     "total_books_label": "Specialized Books",
     "arabic_count": "145 Arabic",
-    "english_count": "144 English",
+    "english_count": "145 English",
     "terms_label": "Edited Terms",
     "main_axes_label": "Main Axes",
     "available_languages_label": "Available Languages",

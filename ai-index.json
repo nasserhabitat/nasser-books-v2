@@ -5,8 +5,8 @@
     "ai_compatible": true,
     "last_updated": "2026-11-20",
     "total_books_arabic": 145,
-    "total_books_english": 144,
-    "total_books": 289,
+    "total_books_english": 145,
+    "total_books": 290,
     "languages": [
       "ar",
       "en"
@@ -10477,11 +10477,11 @@
       "book_number": 141,
       "titles": {
         "ar": "مفاتيح التدبّر القرآني: المثاني وهندسة المعنى",
-        "en": ""
+        "en": "Keys to Quranic Contemplation: Al-Mathani and the Engineering of Meaning"
       },
       "description": {
         "ar": "طبعة منقّحة ومثرّاة من «نحو تدبرٍ واعٍ». دليل عملي يربط قراءة القرآن بالعمل، ويفرّق بين المثاني والسبع المثاني ونظام المثاني، ويقدّم أمثلة وتمارين لاختبار الاستنتاجات وفق منهج QCROS. ويخصّص الفصل التاسع لأولي الألباب والاستماع الواعي واتباع أحسن القول.",
-        "en": ""
+        "en": "A revised and expanded edition of “Towards Conscious Contemplation.” A practical guide connecting Qur’anic reading with action, distinguishing al-Mathānī, the Seven Mathānī, and the Mathānī system, and providing examples and exercises to test conclusions using the QCROS methodology, with a dedicated ninth chapter on Ulū al-Albāb, conscious listening, and following the best of speech."
       },
       "metadata": {
         "author": "ناصر ابن داوود",
@@ -10504,17 +10504,39 @@
           "اتباع أحسن القول",
           "التذكر والاستجابة"
         ],
-        "topics_en": [],
+        "topics_en": [
+          "Contemplating the Qur'an",
+          "Towards Conscious Contemplation",
+          "Al-Mathani",
+          "The Seven Mathani",
+          "Mathani system",
+          "Quranic linguistic jurisprudence",
+          "Engineering of meaning",
+          "QCROS",
+          "Ulu al-Albab",
+          "Following the best of speech",
+          "Remembrance and response"
+        ],
         "edition_notes": {
-          "ar": "طبعة محدثة من «نحو تدبرٍ واعٍ» · نوفمبر 2026"
-        }
+          "ar": "طبعة محدثة من «نحو تدبرٍ واعٍ» · نوفمبر 2026",
+          "en": "Condensed English Edition · Updated from Towards Conscious Contemplation · November 2026"
+        },
+        "language_en": "english",
+        "pages_en": null
       },
       "ar": {
         "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/keys-to-quranic-contemplation/ar/141-keys-to-quranic-contemplation-ar.txt",
-        "cover": "books/keys-to-quranic-contemplation/ar/keys-to-quranic-contemplation-ar-cover.svg",
-        "pdf_external": ""
+        "cover": "books/keys-to-quranic-contemplation/ar/keys-to-quranic-contemplation-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1yVZuD_oMjo7aaPJzPEnA17QXcusvlaQf",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=11rlokeKozumAWqN0KQEs6GTE9M6WM2K_"
       },
-      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/keys-to-quranic-contemplation/ar/keys-to-quranic-contemplation-ar-cover.svg"
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/keys-to-quranic-contemplation/ar/keys-to-quranic-contemplation-ar-cover.png",
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/keys-to-quranic-contemplation/en/141-keys-to-quranic-contemplation-en.txt",
+        "cover": "books/keys-to-quranic-contemplation/en/keys-to-quranic-contemplation-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1zzyEqHUlAL1uglJgXlB8Syg7pRek55-7",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1j442LhahPhnMRXWyaPB3cB1CERLRlY_f"
+      }
     },
     {
       "id": "Deconstructing_the_quranic_texts_and_islamic_heritage",

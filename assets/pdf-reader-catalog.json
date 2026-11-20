@@ -1,8 +1,8 @@
 {
   "updated_at": "2026-11-20",
   "summary": {
-    "ready": 284,
-    "pending": 5
+    "ready": 286,
+    "pending": 4
   },
   "editions": [
     {
@@ -2250,8 +2250,16 @@
       "book_id": "keys-to-quranic-contemplation",
       "language": "ar",
       "title": "مفاتيح التدبّر القرآني: المثاني وهندسة المعنى",
-      "status": "pending",
-      "drive_id": null
+      "status": "ready",
+      "drive_id": "11rlokeKozumAWqN0KQEs6GTE9M6WM2K_"
+    },
+    {
+      "number": 141,
+      "book_id": "keys-to-quranic-contemplation",
+      "language": "en",
+      "title": "Keys to Quranic Contemplation: Al-Mathani and the Engineering of Meaning",
+      "status": "ready",
+      "drive_id": "1j442LhahPhnMRXWyaPB3cB1CERLRlY_f"
     },
     {
       "number": 142,

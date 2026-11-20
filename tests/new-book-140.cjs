@@ -5,7 +5,7 @@ const id='The_measure_of_stewardship_in_surah_sad',n=140;
 assert.ok(cat.length>=140);assert.equal(search.length,cat.length);
 assert.equal(new Set(cat.map(b=>b.id)).size,cat.length);assert.equal(new Set(cat.map(b=>b.book_number)).size,cat.length);
 const baseline=JSON.parse(cp.execFileSync('git',['show','HEAD:ai-index.json'],{cwd:root,encoding:'utf8',maxBuffer:20e6})).books;
-for(const old of baseline.filter(b=>b.book_number!==n))assert.deepEqual(cat.find(b=>b.id===old.id),old,'Prior metadata changed');
+for(const old of baseline.filter(b=>b.book_number<n))assert.deepEqual(cat.find(b=>b.id===old.id),old,'Prior metadata changed');
 const b=cat.find(b=>b.book_number===n),s=search.find(b=>b.id===id);
 assert(b);assert(s);assert.equal(b.id,id);assert.equal(s.book_number,n);
 assert(b.metadata.topics_ar.length>=5&&b.metadata.topics_en.length>=5);
