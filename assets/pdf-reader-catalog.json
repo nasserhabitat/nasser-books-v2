@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-19",
+  "updated_at": "2026-11-20",
   "summary": {
-    "ready": 276,
+    "ready": 284,
     "pending": 5
   },
   "editions": [
@@ -2252,6 +2252,70 @@
       "title": "مفاتيح التدبّر القرآني: المثاني وهندسة المعنى",
       "status": "pending",
       "drive_id": null
+    },
+    {
+      "number": 142,
+      "book_id": "Deconstructing_the_quranic_texts_and_islamic_heritage",
+      "language": "ar",
+      "title": "تفكيك النصوص القرآنية والتراث الإسلامي: من فوضى التقطيع الحرفي ووصاية الموروث إلى هندسة الوعي وبروتوكول التحقيق (QCROS)",
+      "status": "ready",
+      "drive_id": "179Oq3FFVu14XfboVopyA_7YxHw4Xnux2"
+    },
+    {
+      "number": 142,
+      "book_id": "Deconstructing_the_quranic_texts_and_islamic_heritage",
+      "language": "en",
+      "title": "Deconstructing the Qur’anic Texts and Islamic Heritage: From the Chaos of Literal Fragmentation and the Custody of Tradition to the Architecture of Consciousness and the Investigation Protocol (QCROS)",
+      "status": "ready",
+      "drive_id": "1hibhLoWqnKEJE_n56g6s9P1lre2AIsEs"
+    },
+    {
+      "number": 143,
+      "book_id": "The_Architecture_of_Precision_and_the_Infallibility_of_Revelation",
+      "language": "ar",
+      "title": "رحلة البيان والتفصيل في آيات الأحكام: من وهم النسخ والإبطال إلى هندسة الإحكام في فقه اللسان القرآني",
+      "status": "ready",
+      "drive_id": "1nlXqs2IxGkHs4qMycNdyUh9nClAGByM5"
+    },
+    {
+      "number": 143,
+      "book_id": "The_Architecture_of_Precision_and_the_Infallibility_of_Revelation",
+      "language": "en",
+      "title": "The Architecture of Precision and the Infallibility of Revelation: From the Illusion of Abrogation (Naskh) to the Journey of Elucidation and Detail in Qur’anic Linguistic Jurisprudence",
+      "status": "ready",
+      "drive_id": "1MARA4gbWnzqZ97JrSO6jjxD1I4qCVYdV"
+    },
+    {
+      "number": 144,
+      "book_id": "Architecture_of_Revelation",
+      "language": "ar",
+      "title": "عمارة الوحي وهندسة الوعي: الفروق التشغيلية بين (الكتاب، القرآن، الذكر، الفرقان) وأسرار الإعجاز التأليفي في بناء المصحف",
+      "status": "ready",
+      "drive_id": "1C24EI90_897AHo-q10UbFldTBJ4KdHaj"
+    },
+    {
+      "number": 144,
+      "book_id": "Architecture_of_Revelation",
+      "language": "en",
+      "title": "The Architecture of Revelation and the Formation of Consciousness: Functional Distinctions among Kitāb, Qurʾān, Dhikr, and Furqān",
+      "status": "ready",
+      "drive_id": "1j8Ct21vHVpaScWJEu3xvL1qG5BBujctg"
+    },
+    {
+      "number": 145,
+      "book_id": "Architecture_of_Quranic_Awareness",
+      "language": "ar",
+      "title": "هندسة الوعي القرآني: الدلالات الوظيفية والتشغيلية في لسان الوحي",
+      "status": "ready",
+      "drive_id": "1hN_CyJnnmpcg7-qPcr83a3Xmv8tVLp8f"
+    },
+    {
+      "number": 145,
+      "book_id": "Architecture_of_Quranic_Awareness",
+      "language": "en",
+      "title": "The Architecture of Qur’anic Awareness: Functional and Operational Meanings in the Language of Revelation",
+      "status": "ready",
+      "drive_id": "1_FhoETjG7Ekv3V-M3Ruvqa5HalVP3GK3"
     }
   ]
 }

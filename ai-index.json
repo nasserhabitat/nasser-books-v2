@@ -3,10 +3,10 @@
     "name": "مكتبة ناصر ابن داوود",
     "version": "2.0",
     "ai_compatible": true,
-    "last_updated": "2026-11-19",
-    "total_books_arabic": 141,
-    "total_books_english": 140,
-    "total_books": 281,
+    "last_updated": "2026-11-20",
+    "total_books_arabic": 145,
+    "total_books_english": 144,
+    "total_books": 289,
     "languages": [
       "ar",
       "en"
@@ -34,7 +34,7 @@
       ]
     }
   },
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "books": [
     {
       "id": "conscious-contemplation",
@@ -10515,6 +10515,266 @@
         "pdf_external": ""
       },
       "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/keys-to-quranic-contemplation/ar/keys-to-quranic-contemplation-ar-cover.svg"
+    },
+    {
+      "id": "Deconstructing_the_quranic_texts_and_islamic_heritage",
+      "book_number": 142,
+      "titles": {
+        "ar": "تفكيك النصوص القرآنية والتراث الإسلامي: من فوضى التقطيع الحرفي ووصاية الموروث إلى هندسة الوعي وبروتوكول التحقيق (QCROS)",
+        "en": "Deconstructing the Qur’anic Texts and Islamic Heritage: From the Chaos of Literal Fragmentation and the Custody of Tradition to the Architecture of Consciousness and the Investigation Protocol (QCROS)"
+      },
+      "description": {
+        "ar": "دراسة تأصيلية في فقه اللسان القرآني وهندسة الوحي تعالج ثنائية وصاية الموروث وفوضى التقطيع المعزول عن السياق، وتقدم البديل البنيوي واللساني عبر بروتوكول التحقيق الإبستمولوجي (QCROS)، وحجية المخطوط الأصلي والرسم العثماني، ونظام المثاني (MATHANI-NET)، مع دراسة تطبيقية في سورة الطور وتصميم نموذج مدارس العلم.",
+        "en": "A foundational study in Qur’anic linguistic jurisprudence addressing both traditional tutelage and context-isolated fragmentation. It establishes an alternative structural framework governed by the QCROS epistemological protocol, original ʿUthmānic manuscript orthography (Rasm), and the Mathānī network (MATHANI-NET), with an applied study of Sūrat al-Ṭūr and the Schools of Knowledge model."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "تفكيك النصوص القرآنية",
+          "التراث الإسلامي",
+          "فقه اللسان القرآني",
+          "هندسة الوعي",
+          "QCROS",
+          "المثاني",
+          "MATHANI-NET",
+          "الرسم العثماني",
+          "المخطوطات القرآنية الأصلية",
+          "سورة الطور",
+          "الكتاب المسطور والكتاب المنشور",
+          "مدارس العلم",
+          "التدبر"
+        ],
+        "topics_en": [
+          "Deconstructing Quranic texts",
+          "Islamic heritage",
+          "Quranic linguistic jurisprudence",
+          "Consciousness engineering",
+          "QCROS",
+          "Mathani",
+          "MATHANI-NET",
+          "Uthmanic Rasm",
+          "Original Quranic manuscripts",
+          "Surat al-Tur",
+          "Inscribed Book and Unfolded Cosmos",
+          "Schools of Knowledge",
+          "Contemplation"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي. النص القابل للبحث مستخرج من ملف Word؛ راجع الأصل للجداول والمخطوطات البصرية والتنسيق.",
+          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source. Search text extracted from Word; consult the original for tables, visual blueprints, and formatting."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Deconstructing_the_quranic_texts_and_islamic_heritage/ar/142-Deconstructing_the_quranic_texts_and_islamic_heritage-ar.txt",
+        "cover": "books/Deconstructing_the_quranic_texts_and_islamic_heritage/ar/Deconstructing_the_quranic_texts_and_islamic_heritage-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1rQ9-IBXH6ZqOzbRp21jfEqRDaUSJJwRo",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=179Oq3FFVu14XfboVopyA_7YxHw4Xnux2"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Deconstructing_the_quranic_texts_and_islamic_heritage/en/142-Deconstructing_the_quranic_texts_and_islamic_heritage-en.txt",
+        "cover": "books/Deconstructing_the_quranic_texts_and_islamic_heritage/en/Deconstructing_the_quranic_texts_and_islamic_heritage-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1QUNqIFnIXtQfP8AE9wDBXFsUIswf3JBD",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1hibhLoWqnKEJE_n56g6s9P1lre2AIsEs"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Deconstructing_the_quranic_texts_and_islamic_heritage/ar/Deconstructing_the_quranic_texts_and_islamic_heritage-ar-cover.png"
+    },
+    {
+      "id": "The_Architecture_of_Precision_and_the_Infallibility_of_Revelation",
+      "book_number": 143,
+      "titles": {
+        "ar": "رحلة البيان والتفصيل في آيات الأحكام: من وهم النسخ والإبطال إلى هندسة الإحكام في فقه اللسان القرآني",
+        "en": "The Architecture of Precision and the Infallibility of Revelation: From the Illusion of Abrogation (Naskh) to the Journey of Elucidation and Detail in Qur’anic Linguistic Jurisprudence"
+      },
+      "description": {
+        "ar": "دراسة تأصيلية وتطبيقية في تفكيك دعوى النسخ الإبطالي والإجماع التراثي ومحاكمتها بميزان السياق والاختبارات العكسية وفق منهجية (QCROS)؛ تحرر جذر (ن-س-خ) والآيات الثلاث العمدة، وتفند نسخ القرآن بالرواية، وتثبت إحكام الآيات الخمس الكبرى وقائمة السيوطي (22 آية) ودوران الحكم مع مناطه.",
+        "en": "A foundational and applied study deconstructing the traditional doctrine of nullifying abrogation (Naskh) and consensus claims through contextual analysis and Reverse Stress Testing (QCROS). It establishes the intra-Qur’anic meaning of N-S-Kh as transcription and elucidation, refutes abrogation by solitary reports, and demonstrates the permanent validity (Iḥkām) of the five disputed verses and al-Suyūṭī’s twenty-two verses."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "هندسة الإحكام",
+          "الناسخ والمنسوخ",
+          "البيان والتفصيل",
+          "آيات الأحكام",
+          "الحياء المعرفي",
+          "الترتيل الموضعي",
+          "دوران الحكم مع المناط",
+          "فقه اللسان القرآني",
+          "اختبارات المقاومة العكسية",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Architecture of Precision",
+          "Infallibility of Revelation",
+          "Abrogation (Naskh)",
+          "Ihkam and Tafsil",
+          "Epistemic Humility",
+          "Topical Arrangement",
+          "Operative Legal Cause (Manat)",
+          "Quranic linguistic jurisprudence",
+          "Reverse Stress Testing",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي. النص القابل للبحث مستخرج من ملف Word؛ راجع الأصل للجداول والمخططات البصرية والتنسيق.",
+          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source. Search text extracted from Word; consult the original for tables, structural diagrams, and formatting."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/The_Architecture_of_Precision_and_the_Infallibility_of_Revelation/ar/143-The_Architecture_of_Precision_and_the_Infallibility_of_Revelation-ar.txt",
+        "cover": "books/The_Architecture_of_Precision_and_the_Infallibility_of_Revelation/ar/The_Architecture_of_Precision_and_the_Infallibility_of_Revelation-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1MWwxOuxFIyknmN5hrvG3cxwYzxhh8od9",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1nlXqs2IxGkHs4qMycNdyUh9nClAGByM5"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/The_Architecture_of_Precision_and_the_Infallibility_of_Revelation/en/143-The_Architecture_of_Precision_and_the_Infallibility_of_Revelation-en.txt",
+        "cover": "books/The_Architecture_of_Precision_and_the_Infallibility_of_Revelation/en/The_Architecture_of_Precision_and_the_Infallibility_of_Revelation-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1jBatqurkyilvuIjPpX9dG5CSVbHN_q5x",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1MARA4gbWnzqZ97JrSO6jjxD1I4qCVYdV"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/The_Architecture_of_Precision_and_the_Infallibility_of_Revelation/ar/The_Architecture_of_Precision_and_the_Infallibility_of_Revelation-ar-cover.png"
+    },
+    {
+      "id": "Architecture_of_Revelation",
+      "book_number": 144,
+      "titles": {
+        "ar": "عمارة الوحي وهندسة الوعي: الفروق التشغيلية بين (الكتاب، القرآن، الذكر، الفرقان) وأسرار الإعجاز التأليفي في بناء المصحف",
+        "en": "The Architecture of Revelation and the Formation of Consciousness: Functional Distinctions among Kitāb, Qurʾān, Dhikr, and Furqān"
+      },
+      "description": {
+        "ar": "دراسة تأصيلية شاملة في ضوء فقه اللسان القرآني ونظام المثاني (MATHANI-NET) وبروتوكول (QCROS)؛ تبيّن الإعجاز التأليفي في الماكرو المعماري للمصحف، وتنقض أطروحة حصر القرآن في عشر سور مع استيعاب البناء الدائري لسورة الشورى، وتفكك الدورة التشغيلية لأقطاب الوحي الأربعة (الكتاب، القرآن، الذكر، الفرقان) ومسألة السبع المثاني.",
+        "en": "A comprehensive study in Qur’anic linguistic jurisprudence, MATHANI-NET, and QCROS examining the compositional architecture of the Muṣḥaf, critiquing the ten-sūrah restriction while integrating the circular structure of Sūrat al-Shūrā, and analyzing the operational cycle of the four principal terms of revelation (Kitāb, Qurʾān, Dhikr, and Furqān) and the Seven Mathānī."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "عمارة الوحي",
+          "هندسة الوعي",
+          "الإعجاز التأليفي",
+          "الكتاب والقرآن والذكر والفرقان",
+          "السبع المثاني",
+          "سورة الشورى",
+          "فقه اللسان القرآني",
+          "MATHANI-NET",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Architecture of Revelation",
+          "Formation of Consciousness",
+          "Compositional Inimitability",
+          "Kitab Quran Dhikr Furqan",
+          "Seven Mathani",
+          "Surat al-Shura",
+          "Quranic linguistic jurisprudence",
+          "MATHANI-NET",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي. النص القابل للبحث مستخرج من ملف Word؛ راجع الأصل للجداول والمخطوطات البصرية والتنسيق.",
+          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source. Search text extracted from Word; consult the original for tables, diagrams, and formatting."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Architecture_of_Revelation/ar/144-Architecture_of_Revelation-ar.txt",
+        "cover": "books/Architecture_of_Revelation/ar/Architecture_of_Revelation-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1IygKeZ8oQjfugu5HoDt1a6JMp7QdCUaU",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1C24EI90_897AHo-q10UbFldTBJ4KdHaj"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Architecture_of_Revelation/en/144-Architecture_of_Revelation-en.txt",
+        "cover": "books/Architecture_of_Revelation/en/Architecture_of_Revelation-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1CihzSQSHjWglL0vmzgkRR1apP_biPNa9",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1j8Ct21vHVpaScWJEu3xvL1qG5BBujctg"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Architecture_of_Revelation/ar/Architecture_of_Revelation-ar-cover.png"
+    },
+    {
+      "id": "Architecture_of_Quranic_Awareness",
+      "book_number": 145,
+      "titles": {
+        "ar": "هندسة الوعي القرآني: الدلالات الوظيفية والتشغيلية في لسان الوحي",
+        "en": "The Architecture of Qur’anic Awareness: Functional and Operational Meanings in the Language of Revelation"
+      },
+      "description": {
+        "ar": "قراءة بنيوية تشغيلية تنقل التعامل مع القرآن من التفسير الساكن إلى هندسة النظم وفق ضابط «النواة الصلبة والامتداد الوظيفي» وبروتوكول (QCROS)؛ تستكشف تضاريس الكون الأنفسي (القلب، البصر، الفلك، السماء، الأرض)، وشبكة التغذية المعرفية، والعائلة المعرفية، وهندسة الإنتاج (الولد، البنون، الأبناء)، وديناميكية ترميم الوعي والتكافل المعرفي في سورة النور.",
+        "en": "A structural and operational reading that moves from static exegesis to systems engineering governed by the Core-and-Functional-Extension principle and QCROS. It explores the inner cognitive landscape, intellectual nourishment, family and kinship terms, generative continuity (walad, banūn, abnāʾ), and the ethics of privacy, awareness, and shared resources in Sūrat al-Nūr."
+      },
+      "metadata": {
+        "author": "ناصر ابن داوود",
+        "category": "quranic_studies",
+        "language_ar": "arabic",
+        "language_en": "english",
+        "ai_accessible": true,
+        "structured_data": true,
+        "source_status": "author_supplied",
+        "pages_ar": null,
+        "pages_en": null,
+        "topics_ar": [
+          "هندسة الوعي القرآني",
+          "الدلالات الوظيفية والتشغيلية",
+          "النواة الصلبة والامتداد الوظيفي",
+          "الكون الأنفسي",
+          "القلب السليم",
+          "العائلة المعرفية",
+          "سورة النور",
+          "التكافل المعرفي",
+          "فقه اللسان القرآني",
+          "QCROS"
+        ],
+        "topics_en": [
+          "Architecture of Quranic Awareness",
+          "Functional and operational meanings",
+          "Core and functional extension",
+          "Inner cognitive landscape",
+          "Qalb (Heart)",
+          "Kinship and intellectual lineage",
+          "Surat al-Nur",
+          "Shared cognitive resources",
+          "Quranic linguistic jurisprudence",
+          "QCROS"
+        ],
+        "edition_notes": {
+          "ar": "النسخة الإنجليزية تكييف مفاهيمي مختصر؛ يبقى النص العربي المرجع الأساسي. النص القابل للبحث مستخرج من ملف Word؛ راجع الأصل للجداول والمعجم التشغيلي والتنسيق.",
+          "en": "Condensed conceptual adaptation; the Arabic work remains the primary source. Search text extracted from Word; consult the original for tables, glossary, and formatting."
+        }
+      },
+      "ar": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Architecture_of_Quranic_Awareness/ar/145-Architecture_of_Quranic_Awareness-ar.txt",
+        "cover": "books/Architecture_of_Quranic_Awareness/ar/Architecture_of_Quranic_Awareness-ar-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1Lru4iYsqrQJJMwBIrqgUgrvwLPdcS-w1",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1hN_CyJnnmpcg7-qPcr83a3Xmv8tVLp8f"
+      },
+      "en": {
+        "txt_direct": "https://nasserhabitat.github.io/nasser-books-v2/books/Architecture_of_Quranic_Awareness/en/145-Architecture_of_Quranic_Awareness-en.txt",
+        "cover": "books/Architecture_of_Quranic_Awareness/en/Architecture_of_Quranic_Awareness-en-cover.png",
+        "docx": "https://drive.google.com/uc?export=download&id=1dd5k4QD-Qo2LlVtgu2avG7pKDaUsapcS",
+        "pdf_external": "https://drive.google.com/uc?export=download&id=1_FhoETjG7Ekv3V-M3Ruvqa5HalVP3GK3"
+      },
+      "cover_image": "https://nasserhabitat.github.io/nasser-books-v2/books/Architecture_of_Quranic_Awareness/ar/Architecture_of_Quranic_Awareness-ar-cover.png"
     }
   ]
 }
